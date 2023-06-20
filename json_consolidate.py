@@ -26,6 +26,7 @@ path = '/Users/aaronzaks/Desktop/IEEE Velocity Research/Slack Export'
 
 # creating an empty list
 list_of_msgs = []
+date_dict = dict()
 author_dict = dict()
 
 # open every file in that folder
@@ -35,20 +36,22 @@ for root, dirs, files in os.walk(path, topdown=True):
     for name in files:
         with open(os.path.join(root, name), 'r') as f:
             data = json.load(f)
+        
+        # converting the NAME OF THE FILE into an iso format. 
+        #                       remove ".json"            isoformat is legible by javascript as well for later d3 stuff
+        m_time = datetime.strptime(name[:-5], '%Y-%m-%d').isoformat()
 
-        # clean up data, then append to list
+        # count the number of messages per day as we go
+        n = 0
         for msg in data:
 
             # removing channel joins - irrelevant. maybe we should keep them? 
             if 'subtype' in msg and msg['subtype'] == "channel_join":
                 continue
 
+            n += 1
             m_id = msg['ts']
             m_text = msg['text']
-
-            # converting the NAME OF THE FILE into an iso format. 
-            #                       remove ".json"            isoformat is legible by javascript as well for later d3 stuff
-            m_time = datetime.strptime(name[:-5], '%Y-%m-%d').isoformat()
             m_author_id = msg['user']
             message = Message(m_id, m_text, m_time, m_author_id)
             list_of_msgs.append(message)
@@ -58,8 +61,11 @@ for root, dirs, files in os.walk(path, topdown=True):
             # overwrite existing k,v pairs instead of check if it's already in
             if 'user_profile' in msg:
                 author_dict[m_author_id] = msg['user_profile']['real_name']
+        
+        date_dict[m_time] = n
+
 
     #for name in dirs:
     #    print(os.path.join(root, name))
 
-print(list_of_msgs[0])
+print(date_dict)
