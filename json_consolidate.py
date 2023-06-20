@@ -68,4 +68,8 @@ for root, dirs, files in os.walk(path, topdown=True):
     #for name in dirs:
     #    print(os.path.join(root, name))
 
-print(date_dict)
+date_json = json.dumps(date_dict, indent=4)
+ 
+# Writing to sample.json
+with open("date_dict.json", "w") as outfile:
+    outfile.write(date_json)

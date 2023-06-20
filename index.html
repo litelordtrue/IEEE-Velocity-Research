@@ -2,11 +2,19 @@
 <html lang="en" dir="ltr">
 
 <head>
-
+    <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 
 <body>
-    <p> welcome </p>
+    <script type = "text/javascript">
+        var date_dict_promise = d3.json("/date_dict.json")
+
+        date_dict_promise.then(function(data){
+            console.log(data);
+        }, function(){
+            console.log("failure!");
+        })
+    </script>
 </body>
 
 </html>
