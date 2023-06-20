@@ -1,0 +1,1294 @@
+[
+    {
+        "client_msg_id": "f55f5d26-987e-4cf9-b9d3-8fd990297e4b",
+        "type": "message",
+        "text": "Thanks! How do I update the feed URL? Also, is the styling in my screenshot above correct? It’s pretty different than the screenshots.",
+        "user": "U1CREGN04",
+        "ts": "1631704994.015600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EiXI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! How do I update the feed URL? Also, is the styling in my screenshot above correct? It’s pretty different than the screenshots."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "a23354a7-d9ed-4bba-a501-3c489d0ee911",
+        "type": "message",
+        "text": "<@U1CREGN04> so the current styling, there will be two types of announcements:-\n1. Featured : This is the one in blue, with a sticky feature.\n2. Non-featured: The one in you screen this will be white.   ",
+        "user": "U4PT7ES0M",
+        "ts": "1631712640.015900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mJN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1CREGN04"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so the current styling, there will be two types of announcements:-\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Featured : This is the one in blue, with a sticky feature."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Non-featured: The one in you screen this will be white.   "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "type": "message",
+        "text": "<@U4PT7ES0M> But in the mockups, the announcements open in their own little dropdown. What I’m seeing is that they’re appearing in the Settings Tray",
+        "files": [
+            {
+                "id": "F02EJ25SU3V",
+                "created": 1631712785,
+                "timestamp": 1631712785,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U1CREGN04",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 111208,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02EJ25SU3V\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02EJ25SU3V\/download\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EJ25SU3V-23323e2c12\/image_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EJ25SU3V-23323e2c12\/image_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EJ25SU3V-23323e2c12\/image_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 292,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EJ25SU3V-23323e2c12\/image_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 389,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EJ25SU3V-23323e2c12\/image_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EJ25SU3V-23323e2c12\/image_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 583,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EJ25SU3V-23323e2c12\/image_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 987,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EJ25SU3V-23323e2c12\/image_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 778,
+                "thumb_960_h": 960,
+                "original_w": 816,
+                "original_h": 1007,
+                "thumb_tiny": "AwAwACazuuf+eKf990hkuBy0caj1L1axVe9RmhAVSTu7U0rsGN86X0h\/7+U5HlZh8sZGeSr5xVDyZf8Ank35VasI3TzNyFc4xkVbikr3JTJ3MmfkUEe5pMz\/APPNfzqXGR3o2+5rMofTWpR0oNADcewp3Y0gz6\/pSnoaAGjoc0uR70g6GimA+k70tIaQBn3FB6GgYoPQ0AIvejApjKzLhSAc9xmmeTL\/AH0\/74ppCP\/Z",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U1CREGN04\/F02EJ25SU3V\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F02EJ25SU3V-7337994412",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U1CREGN04",
+        "display_as_bot": false,
+        "ts": "1631712788.016500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V6px",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " But in the mockups, the announcements open in their own little dropdown. What I’m seeing is that they’re appearing in the Settings Tray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "8f56680c-edac-488f-8221-6ca4c6a11b72",
+        "type": "message",
+        "text": "Are they supposed to be in the settings tray?",
+        "user": "U1CREGN04",
+        "ts": "1631712800.016900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mkK82",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are they supposed to be in the settings tray?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "733eaad4-e204-4553-bd63-5968c666513f",
+        "type": "message",
+        "text": "ahh, currently this one is using Dialog... I am sorry I don't know the actually cause of this change.... <@U2T8M7PA4> <@U06NAEYSF> ^^",
+        "user": "U4PT7ES0M",
+        "ts": "1631712976.017100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/PW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahh, currently this one is using Dialog... I am sorry I don't know the actually cause of this change.... "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "a10f4300-d98b-4ab3-b725-7c34c3bb77a7",
+        "type": "message",
+        "text": "1. Please take the latest pull... \n2. go to the announce.service,yml there you can change the url... \n3. Since the announcement is tempstored with a time you might forcefully delete it from the db run this drush php `\\Drupal::service('keyvalue.expirable')-&gt;get('announce')-&gt;delete('announcements');`  \n",
+        "user": "U4PT7ES0M",
+        "ts": "1631713700.017300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Db",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Please take the latest pull... "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "go to the announce.service,yml there you can change the url... "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Since the announcement is tempstored with a time you might forcefully delete it from the db run this drush php "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "\\Drupal::service('keyvalue.expirable')->get('announce')->delete('announcements');",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "  "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "89571f2b-d706-4318-9f35-0577b13f5b2d",
+        "type": "message",
+        "text": "<@U1CREGN04> steps to change the url ^^ you can also run the corn instead of step3",
+        "user": "U4PT7ES0M",
+        "ts": "1631713771.017500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gmzb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1CREGN04"
+                            },
+                            {
+                                "type": "text",
+                                "text": " steps to change the url ^^ you can also run the corn instead of step3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "82c29ba0-6949-4d81-adfa-b8aa81b83eff",
+        "type": "message",
+        "text": "Thanks! Let me know about the dialog\/settings tray issue. IMO it doesn’t look as good as the mocks when its in that",
+        "user": "U1CREGN04",
+        "ts": "1631713988.018800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KBGxb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! Let me know about the dialog\/settings tray issue. IMO it doesn’t look as good as the mocks when its in that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "5fc28296-079e-4f88-968a-8bf28bfc9281",
+        "type": "message",
+        "text": "Let me know if you want an issue",
+        "user": "U1CREGN04",
+        "ts": "1631714010.019000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hT=Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me know if you want an issue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "type": "message",
+        "text": "hey <@U06NAEYSF> started with the port of D7 this is the first look. I've made the announcement route as an admin route inorder display it in the toolbar and overlay does the rest. Obviously this look different from  D8 because D7 does not have a dialog model in its core so *do you want to make one* or *will this suffice??*\nPS: Apart from the this the backend stuffs are same\nCC: <@U2T8M7PA4>",
+        "files": [
+            {
+                "id": "F02EWP8MPDX",
+                "created": 1631713920,
+                "timestamp": 1631713920,
+                "name": "Screenshot 2021-09-15 at 6.56.57 PM.png",
+                "title": "Screenshot 2021-09-15 at 6.56.57 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U4PT7ES0M",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 255864,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02EWP8MPDX\/screenshot_2021-09-15_at_6.56.57_pm.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02EWP8MPDX\/download\/screenshot_2021-09-15_at_6.56.57_pm.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 147,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 196,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 295,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 327,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 393,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_1024.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 419,
+                "original_w": 2850,
+                "original_h": 1166,
+                "thumb_tiny": "AwATADBtvaedEHLKvOMbak\/s70kX\/vipLORFtwGdQcngmrImix\/rE\/76oApDTmByJVz\/ALlKdOZusqn\/AIBV3zov+eif99Cjzov+eif99CgCj\/Zh\/wCeif8AfFRXFmbePfuVucY2Vp+dF\/z0T\/voVWv5EaABXUncOhoAyd7etG9vWm0UAO3t60b29abRQA7e3rRvb1ptFAH\/2Q==",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U4PT7ES0M\/F02EWP8MPDX\/screenshot_2021-09-15_at_6.56.57_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F02EWP8MPDX-ec670a8523",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U4PT7ES0M",
+        "display_as_bot": false,
+        "ts": "1631714371.022900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nOD\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " started with the port of D7 this is the first look. I've made the announcement route as an admin route inorder display it in the toolbar and overlay does the rest. Obviously this look different from  D8 because D7 does not have a dialog model in its core so "
+                            },
+                            {
+                                "type": "text",
+                                "text": "do you want to make one",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "text",
+                                "text": "will this suffice??",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPS: Apart from the this the backend stuffs are same\nCC: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U4PT7ES0M",
+            "ts": "1631715121.000000"
+        },
+        "thread_ts": "1631714371.022900",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1636041181.029600",
+        "reply_users": [
+            "U06NAEYSF",
+            "U7G1P7P6Z",
+            "U2T8M7PA4"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1631724908.024800"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1631724911.025000"
+            },
+            {
+                "user": "U7G1P7P6Z",
+                "ts": "1631725122.025800"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1631727000.026000"
+            },
+            {
+                "user": "U7G1P7P6Z",
+                "ts": "1635976045.028600"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1635977352.028900"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1636001217.029100"
+            },
+            {
+                "user": "U7G1P7P6Z",
+                "ts": "1636015332.029400"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1636041181.029600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b400dea9-fc0e-404e-a0b6-910596d161b1",
+        "type": "message",
+        "text": "There was a previous review that requested it use the existing settings tray pattern instead of a new pattern.",
+        "user": "U06NAEYSF",
+        "ts": "1631714828.023200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "doDUr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There was a previous review that requested it use the existing settings tray pattern instead of a new pattern."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "b0e5c5cf-b0bf-4fee-a069-228426c11879",
+        "type": "message",
+        "text": "<@U2T8M7PA4> or <@U4PT7ES0M> could you update the issue with several screenshots of what it *currently* looks like? We should avoid more confusion compared to the original mock.",
+        "user": "U06NAEYSF",
+        "ts": "1631714881.023400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wTXD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " could you update the issue with several screenshots of what it "
+                            },
+                            {
+                                "type": "text",
+                                "text": "currently",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " looks like? We should avoid more confusion compared to the original mock."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "0d4e7eb5-95fc-4317-851d-6d88fc040925",
+        "type": "message",
+        "text": "<@U06NAEYSF> currently there are three screen shots of the current design... Maybe we should update the issue queue stating why we went for the dialog method :smile:",
+        "user": "U4PT7ES0M",
+        "ts": "1631715050.023600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/q3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " currently there are three screen shots of the current design... Maybe we should update the issue queue stating why we went for the dialog method "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "a1826de9-cf1d-4d49-a63b-d4a6898b4025",
+        "type": "message",
+        "text": "Oh I'm just scatterbrained and behind the times.",
+        "user": "U06NAEYSF",
+        "ts": "1631717817.023900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3iv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh I'm just scatterbrained and behind the times."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "2702563a-e604-4750-87da-7612fb84526c",
+        "type": "message",
+        "text": "But yes - we should probably provide an explanation. <@U1CV1TM1D> -I think it might have been in discussion with you when part of the choice to try and reuse the existing pattern was made? (Or it was back in a #UX meeting) - if it was you though, please chime in",
+        "user": "U06NAEYSF",
+        "ts": "1631717865.024100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lb6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But yes - we should probably provide an explanation. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1CV1TM1D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " -I think it might have been in discussion with you when part of the choice to try and reuse the existing pattern was made? (Or it was back in a #UX meeting) - if it was you though, please chime in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U06NAEYSF",
+            "ts": "1631717873.000000"
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "aa4492af-c923-47f2-a4b0-ae8689658f0c",
+        "type": "message",
+        "text": "I probably suggested this. The first version I saw use some custom JS and not the dialog library. So guess we don’t need to use the Off-canvas(this isn’t *settings tray* exactly) dialog but I do think we should use dialog system.\n\nSo I am not sure if you will able to use `\\Drupal\\Core\\Render\\MainContent\\DialogRenderer` directly or if you will have to extend it like the test `\\Drupal\\dialog_renderer_test\\Render\\MainContent\\WideModalRenderer` does",
+        "user": "U1CV1TM1D",
+        "ts": "1631720645.024400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FIT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I probably suggested this. The first version I saw use some custom JS and not the dialog library. So guess we don’t need to use the Off-canvas(this isn’t "
+                            },
+                            {
+                                "type": "text",
+                                "text": "settings tray",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " exactly) dialog but I do think we should use dialog system.\n\nSo I am not sure if you will able to use "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\\Drupal\\Core\\Render\\MainContent\\DialogRenderer",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " directly or if you will have to extend it like the test "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\\Drupal\\dialog_renderer_test\\Render\\MainContent\\WideModalRenderer",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " does"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "4e54ccbc1b86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-17\/170945309158_4e54ccbc1b868de21a51_72.jpg",
+            "first_name": "Ted",
+            "real_name": "Ted Bowman",
+            "display_name": "tedbow",
+            "team": "T06GX3JTS",
+            "name": "tedbow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "699e8097-117b-41be-ba06-810494a96b77",
+        "type": "message",
+        "text": "The thing Off-canvas does that you probably don’t want is the resizing of the page",
+        "user": "U1CV1TM1D",
+        "ts": "1631720686.024600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NvtY4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The thing Off-canvas does that you probably don’t want is the resizing of the page"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "4e54ccbc1b86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-17\/170945309158_4e54ccbc1b868de21a51_72.jpg",
+            "first_name": "Ted",
+            "real_name": "Ted Bowman",
+            "display_name": "tedbow",
+            "team": "T06GX3JTS",
+            "name": "tedbow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "459592db-ca01-4c60-a9f9-e321444c1373",
+        "type": "message",
+        "text": "Let's get the opinion of <@U7G1P7P6Z> who will ultimately be deciding if it can go into D7",
+        "user": "U06NAEYSF",
+        "ts": "1631724908.024800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lBmT0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's get the opinion of "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U7G1P7P6Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " who will ultimately be deciding if it can go into D7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631714371.022900",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "292032a2-5fe6-464e-927c-ed68ed30d6d3",
+        "type": "message",
+        "text": "^^",
+        "user": "U06NAEYSF",
+        "ts": "1631724911.025000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xXQhR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631714371.022900",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1631724913.025300",
+        "user": "U7G1P7P6Z",
+        "text": "<@U7G1P7P6Z> has joined the channel",
+        "inviter": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "799f95dc-a1f6-48d5-a91b-f68f2a58b0ef",
+        "type": "message",
+        "text": "More discussion happening here: <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14219711>",
+        "user": "U06NAEYSF",
+        "ts": "1631724932.025500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6K08w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "More discussion happening here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14219711"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Project messaging channel in core",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14219711",
+                "text": "Problem\/Motivation Per the core idea issue: [#2940739] The vast majority of Drupal users do not have accounts on <http:\/\/Drupal.org|Drupal.org>, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association. The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core.",
+                "fallback": "Drupal.org: Project messaging channel in core",
+                "ts": 1617212298,
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14219711",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14219711"
+            }
+        ],
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "61d0a0da-1d28-41f3-a5cd-74513091422f",
+        "type": "message",
+        "text": "thanks - will add this to the list :slightly_smiling_face: keen to get it in soon in general",
+        "user": "U7G1P7P6Z",
+        "ts": "1631725122.025800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TBE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks - will add this to the list "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " keen to get it in soon in general"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "4aad7a9e94b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-24\/369562018290_4aad7a9e94b138fd3982_72.jpg",
+            "first_name": "Drew",
+            "real_name": "Drew Webber",
+            "display_name": "mcdruid",
+            "team": "T06GX3JTS",
+            "name": "drew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631714371.022900",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "f887903f-060a-4e9a-8ce7-4a4497c5f0db",
+        "type": "message",
+        "text": "For the moment - the modal window looks okay to me, but if <@U7G1P7P6Z> thinks we should create a dialog model for D7 just for this - we'll follow his lead :slightly_smiling_face: (thanks <@U7G1P7P6Z>)",
+        "user": "U06NAEYSF",
+        "ts": "1631727000.026000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XG4QB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the moment - the modal window looks okay to me, but if "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U7G1P7P6Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thinks we should create a dialog model for D7 just for this - we'll follow his lead "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U7G1P7P6Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631714371.022900",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1631769189.026300",
+        "user": "U02EJBNEUQM",
+        "text": "<@U02EJBNEUQM> has joined the channel"
+    }
+]

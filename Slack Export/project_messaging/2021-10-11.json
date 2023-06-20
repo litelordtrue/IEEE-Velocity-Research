@@ -1,0 +1,151 @@
+[
+    {
+        "client_msg_id": "a0bb2f09-c0fd-4eff-ba2c-42a8217b4230",
+        "type": "message",
+        "text": "We could do a proof of concept contrib module, which Gin could already use for example :wink::stuck_out_tongue:",
+        "user": "U3A2ZDSE4",
+        "ts": "1633970154.098600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xZy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We could do a proof of concept contrib module, which Gin could already use for example "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "21bb1232f6d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-04\/3478212195923_21bb1232f6d77af3d07a_72.png",
+            "first_name": "Sascha",
+            "real_name": "Sascha Eggenberger",
+            "display_name": "saschaeggi",
+            "team": "T06GX3JTS",
+            "name": "saschaeggi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6XHB78BV",
+                    "U21M96DQU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0626c1a-cd18-45e3-947a-48a59e7664f0",
+        "type": "message",
+        "text": "++",
+        "user": "U47JYK2DT",
+        "ts": "1633970481.098800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j59+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "++"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT"
+    },
+    {
+        "client_msg_id": "31910e5e-1867-4d2e-91b3-9694665ac9ba",
+        "type": "message",
+        "text": "That sounds like good idea",
+        "user": "U6XHB78BV",
+        "ts": "1633972447.099100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "igp=c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That sounds like good idea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT",
+        "reactions": [
+            {
+                "name": "i_love_you_hand_sign",
+                "users": [
+                    "U3A2ZDSE4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

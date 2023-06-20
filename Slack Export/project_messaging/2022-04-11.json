@@ -1,0 +1,139 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649664514.028029",
+        "user": "UTYRBK5EE",
+        "text": "<@UTYRBK5EE> has joined the channel"
+    },
+    {
+        "client_msg_id": "685e9158-f791-4df3-90c3-821a920dfd6a",
+        "type": "message",
+        "text": "<@U06NAEYSF> <https:\/\/www.drupal.org\/project\/announce\/issues\/3071997> review this one too ??",
+        "user": "U4PT7ES0M",
+        "ts": "1649675781.287439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=GNx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071997"
+                            },
+                            {
+                                "type": "text",
+                                "text": " review this one too ??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4PT7ES0M",
+            "ts": "1649679853.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071997",
+                "ts": 1564678565,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071997",
+                "fallback": "Drupal.org: Backport to D7",
+                "text": "There is incredible value to the project in being able to reach out to the million plus sites still on Drupal 7",
+                "title": "Backport to D7",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071997",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1649359541.561339",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "2b67b516-c31a-4474-bc9b-3c1f5aee4a4b",
+        "type": "message",
+        "text": "Also regarding the MR please use <https:\/\/www.drupal.org\/project\/announce\/issues\/3238706> this script to raise one. It’s much easier.",
+        "user": "U4PT7ES0M",
+        "ts": "1649675941.250339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1PI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also regarding the MR please use "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3238706"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this script to raise one. It’s much easier."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3238706",
+                "ts": 1632382405,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3238706",
+                "fallback": "Drupal.org: [Do not merge] Shell script of automated patch",
+                "text": "The idea of this issue is to cook up a shell that would cook up a shell script which would make us easier for us to raise PR.",
+                "title": "[Do not merge] Shell script of automated patch",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3238706",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1649359541.561339",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

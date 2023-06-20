@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "aea9d5a5-be9f-4028-ae57-6705878950ae",
+        "type": "message",
+        "text": "<@U06NAEYSF> \"Snapshots\" are currently broken, and getting fixed by Gitpod.\n\nIn meantime people can use this link -\n<https:\/\/gitpod.io\/#DP_PROJECT_NAME=drupal,DP_ISSUE_FORK=drupal-3206643,DP_ISSUE_BRANCH=,DP_PROJECT_TYPE=project_core,DP_MODULE_VERSION=9.3.x,DP_CORE_VERSION=9.3.x,DP_PATCH_FILE=https%3A%2F%2Fwww.drupal.org%2Ffiles%2Fissues%2F2021-10-29%2F3206643-68.patch,DP_INSTALL_PROFILE=standard\/https:\/\/github.com\/shaal\/drupalpod>",
+        "user": "U47JYK2DT",
+        "ts": "1635865913.024400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kvItQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \"Snapshots\" are currently broken, and getting fixed by Gitpod.\n\nIn meantime people can use this link -\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gitpod.io\/#DP_PROJECT_NAME=drupal,DP_ISSUE_FORK=drupal-3206643,DP_ISSUE_BRANCH=,DP_PROJECT_TYPE=project_core,DP_MODULE_VERSION=9.3.x,DP_CORE_VERSION=9.3.x,DP_PATCH_FILE=https%3A%2F%2Fwww.drupal.org%2Ffiles%2Fissues%2F2021-10-29%2F3206643-68.patch,DP_INSTALL_PROFILE=standard\/https:\/\/github.com\/shaal\/drupalpod"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635751519.021900",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "4e059b8b-47f1-46cb-aca4-be19df412ce9",
+        "type": "message",
+        "text": "The difference is, that without a snapshot, users will have to login, go to \"Extend\", and enable the Announcements Feed module to see it.",
+        "user": "U47JYK2DT",
+        "ts": "1635866085.024600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xKB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The difference is, that without a snapshot, users will have to login, go to \"Extend\", and enable the Announcements Feed module to see it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U47JYK2DT",
+            "ts": "1635866095.000000"
+        },
+        "thread_ts": "1635751519.021900",
+        "parent_user_id": "U2T8M7PA4",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U2T8M7PA4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

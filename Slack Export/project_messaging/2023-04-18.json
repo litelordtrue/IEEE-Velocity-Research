@@ -1,0 +1,1132 @@
+[
+    {
+        "client_msg_id": "e763ae75-7ee1-499e-acff-bd6629278333",
+        "type": "message",
+        "text": "Thanks for all your feedback today <@U374BLPJR> - I addressed all but one of your comments.\n\nThe only one left is this one: <https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889#note_168062>\n&gt; I feel that we shouldn’t really be returning arrays of arrays as API any more. Each announcement should be a value object.\nI’ll work on it later on today.",
+        "user": "U6K08UK96",
+        "ts": "1681814780.425789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YcG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for all your feedback today "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U374BLPJR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I addressed all but one of your comments.\n\nThe only one left is this one: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889#note_168062"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel that we shouldn’t really be returning arrays of arrays as API any more. Each announcement should be a value object."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nI’ll work on it later on today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889#note_168062",
+                "service_icon": "https:\/\/git.drupalcode.org\/assets\/apple-touch-icon-b049d4bc0dd9626f31db825d61880737befc7835982586d015bded10b4435460.png",
+                "thumb_url": "https:\/\/git.drupalcode.org\/assets\/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg",
+                "thumb_width": 1024,
+                "thumb_height": 1024,
+                "id": 1,
+                "original_url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889#note_168062",
+                "fallback": "GitLab: #3206643: Project messaging channel in core (!2889) · Merge requests · project \/ drupal · GitLab",
+                "text": "Closes #3206643",
+                "title": "#3206643: Project messaging channel in core (!2889) · Merge requests · project \/ drupal · GitLab",
+                "title_link": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889#note_168062",
+                "service_name": "GitLab",
+                "fields": [
+                    {
+                        "value": "Benji Fisher",
+                        "title": "Author",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1681814780.425789",
+        "reply_count": 15,
+        "reply_users_count": 2,
+        "latest_reply": "1681887707.771249",
+        "reply_users": [
+            "U374BLPJR",
+            "U6K08UK96"
+        ],
+        "replies": [
+            {
+                "user": "U374BLPJR",
+                "ts": "1681814836.162059"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1681814885.507989"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1681814915.136639"
+            },
+            {
+                "user": "U374BLPJR",
+                "ts": "1681815214.248359"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1681815354.582149"
+            },
+            {
+                "user": "U374BLPJR",
+                "ts": "1681815378.605829"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1681815567.543099"
+            },
+            {
+                "user": "U374BLPJR",
+                "ts": "1681815644.638379"
+            },
+            {
+                "user": "U374BLPJR",
+                "ts": "1681815668.105309"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1681815736.613949"
+            },
+            {
+                "user": "U374BLPJR",
+                "ts": "1681815769.208589"
+            },
+            {
+                "user": "U374BLPJR",
+                "ts": "1681816753.929429"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1681818741.061829"
+            },
+            {
+                "user": "U374BLPJR",
+                "ts": "1681857162.641659"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1681887707.771249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1681814816.963129",
+        "user": "U374BLPJR",
+        "text": "<@U374BLPJR> has joined the channel"
+    },
+    {
+        "client_msg_id": "3883c730-edc6-44cf-86cb-442331b894c5",
+        "type": "message",
+        "text": "Yeah that’s the one that will take a bit of time.",
+        "user": "U374BLPJR",
+        "ts": "1681814836.162059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u\/jz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah that’s the one that will take a bit of time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "gc65b25d3eec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5c65b25d3eec429c4044a5dcc44c2711.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Pott",
+            "display_name": "alexpott",
+            "team": "T06GX3JTS",
+            "name": "alexpott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681814780.425789",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "c3f3e785-b8c3-46b1-821b-98d52c201a62",
+        "type": "message",
+        "text": "No worries, it’s a good refactoring :slightly_smiling_face:",
+        "user": "U6K08UK96",
+        "ts": "1681814885.507989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xqA3u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No worries, it’s a good refactoring "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681814780.425789",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "76ad663e-4019-47b8-9a8a-9b8b8127942d",
+        "type": "message",
+        "text": "mostly pinging you in case you want to review all the others, but feel free to wait as well until this one is done. whatever works best for you.",
+        "user": "U6K08UK96",
+        "ts": "1681814915.136639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0v2rI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mostly pinging you in case you want to review all the others, but feel free to wait as well until this one is done. whatever works best for you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681814780.425789",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "ff67b3c4-0565-4e1e-8819-269a5b5dc97c",
+        "type": "message",
+        "text": "I’ll post a comment on the issue once I have refactored the above but wanted to give an update in the channel.\nThere are currently ~60 unresolved threads in the MR, but only 1 or 2 actually unresolved. All the others have been addressed.\n\n<@U1ASJU340> and <@U1CREGN04> - if you could go through yours and either resolve or make a comment that’d be great. <@U374BLPJR> is doing the same with the new ones. Thanks all!!",
+        "user": "U6K08UK96",
+        "ts": "1681815165.225729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SRAZ+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll post a comment on the issue once I have refactored the above but wanted to give an update in the channel.\nThere are currently ~60 unresolved threads in the MR, but only 1 or 2 actually unresolved. All the others have been addressed.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ASJU340"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1CREGN04"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - if you could go through yours and either resolve or make a comment that’d be great. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U374BLPJR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is doing the same with the new ones. Thanks all!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681815165.225729",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1681902476.992059",
+        "reply_users": [
+            "U6K08UK96"
+        ],
+        "replies": [
+            {
+                "user": "U6K08UK96",
+                "ts": "1681902476.992059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e35b40f5-33d0-4102-b826-cd2b85d9ca5e",
+        "type": "message",
+        "text": "<@U6K08UK96> You need to rebuild the CSS... a double bracket will be removed.",
+        "user": "U374BLPJR",
+        "ts": "1681815214.248359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e0gJe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You need to rebuild the CSS... a double bracket will be removed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "gc65b25d3eec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5c65b25d3eec429c4044a5dcc44c2711.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Pott",
+            "display_name": "alexpott",
+            "team": "T06GX3JTS",
+            "name": "alexpott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681814780.425789",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "B8C24DE4-C950-4268-9F0F-DB001F30D344",
+        "type": "message",
+        "text": "I think i did. Let me double check",
+        "user": "U6K08UK96",
+        "ts": "1681815354.582149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RYW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think i did"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Let me double check"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681814780.425789",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "a8dba903-949c-49c0-a15c-9d7a3403c680",
+        "type": "message",
+        "text": "The double bracket is still in the .css",
+        "user": "U374BLPJR",
+        "ts": "1681815378.605829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5T3=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The double bracket is still in the .css"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "gc65b25d3eec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5c65b25d3eec429c4044a5dcc44c2711.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Pott",
+            "display_name": "alexpott",
+            "team": "T06GX3JTS",
+            "name": "alexpott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681814780.425789",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "1532d8c7-2fbc-41e8-b0dd-aa86c10c08dc",
+        "type": "message",
+        "text": "just recompiled everything and no changes. and I can’t see the double bracket.\nit’s the first change that shows in here <https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889\/diffs?commit_id=28f3340cef6bf49d9585d0a817a3a2ccbae16e01>",
+        "user": "U6K08UK96",
+        "ts": "1681815567.543099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U5b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just recompiled everything and no changes. and I can’t see the double bracket.\nit’s the first change that shows in here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889\/diffs?commit_id=28f3340cef6bf49d9585d0a817a3a2ccbae16e01"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681814780.425789",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "b074f94f-235c-4daf-9d16-4819210f764f",
+        "type": "message",
+        "text": "Well in core\/themes\/stable9\/css\/announcements_feed\/announcements_feed.dialog.css we still have the unnecessary double bracket.",
+        "user": "U374BLPJR",
+        "ts": "1681815644.638379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I\/j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well in core\/themes\/stable9\/css\/announcements_feed\/announcements_feed.dialog.css we still have the unnecessary double bracket."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "gc65b25d3eec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5c65b25d3eec429c4044a5dcc44c2711.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Pott",
+            "display_name": "alexpott",
+            "team": "T06GX3JTS",
+            "name": "alexpott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681814780.425789",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "ae051c8d-0b5c-4e89-a8e6-966fdff5473c",
+        "type": "message",
+        "text": "```#drupal-off-canvas-wrapper .no_alerts {\n  margin-block-start: var(--off-canvas-padding));\n}```\n",
+        "user": "U374BLPJR",
+        "ts": "1681815668.105309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AYMoV",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#drupal-off-canvas-wrapper .no_alerts {\n  margin-block-start: var(--off-canvas-padding));\n}"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "gc65b25d3eec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5c65b25d3eec429c4044a5dcc44c2711.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Pott",
+            "display_name": "alexpott",
+            "team": "T06GX3JTS",
+            "name": "alexpott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681814780.425789",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "4f3e41ef-1193-4c88-9a80-f044e058de97",
+        "type": "message",
+        "text": "fixed. I keep forgetting about those `stable9` files.",
+        "user": "U6K08UK96",
+        "ts": "1681815736.613949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "etn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fixed. I keep forgetting about those "
+                            },
+                            {
+                                "type": "text",
+                                "text": "stable9",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " files."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681814780.425789",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "b4eb55e7-1813-4a2e-a4e9-3c733033d055",
+        "type": "message",
+        "text": "That would seem easily done.",
+        "user": "U374BLPJR",
+        "ts": "1681815769.208589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pI0wz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That would seem easily done."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "gc65b25d3eec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5c65b25d3eec429c4044a5dcc44c2711.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Pott",
+            "display_name": "alexpott",
+            "team": "T06GX3JTS",
+            "name": "alexpott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681814780.425789",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "d335e746-f280-46c1-bb22-bddfd0dfaae0",
+        "type": "message",
+        "text": "<@U6K08UK96> I resolved as many of the threads as could do without thinking too much. Hopefully for the rest the people that opened them can click on the resolve button.",
+        "user": "U374BLPJR",
+        "ts": "1681816753.929429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bHri",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I resolved as many of the threads as could do without thinking too much. Hopefully for the rest the people that opened them can click on the resolve button."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "gc65b25d3eec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5c65b25d3eec429c4044a5dcc44c2711.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Pott",
+            "display_name": "alexpott",
+            "team": "T06GX3JTS",
+            "name": "alexpott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681814780.425789",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "8D883642-F5EE-4571-9653-1946CAB266F8",
+        "type": "message",
+        "text": "Thanks so much. Really appreciate the feedback, the suggestions and the prompt replies. ",
+        "user": "U6K08UK96",
+        "ts": "1681818741.061829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8fL=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so much."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Really appreciate the feedback, the suggestions and the prompt replies"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681814780.425789",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "439a2b37-8981-4619-b609-6df13e04213d",
+        "type": "message",
+        "text": "running into this: <https:\/\/drupal.slack.com\/archives\/C1BMUQ9U6\/p1681827955286929>",
+        "user": "U6K08UK96",
+        "ts": "1681827970.316449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6vJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "running into this: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drupal.slack.com\/archives\/C1BMUQ9U6\/p1681827955286929"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/drupal.slack.com\/archives\/C1BMUQ9U6\/p1681827955286929",
+                "ts": "1681827955.286929",
+                "author_id": "U6K08UK96",
+                "channel_id": "C1BMUQ9U6",
+                "channel_team": "T06GX3JTS",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T06GX3JTS",
+                        "channel": "C1BMUQ9U6",
+                        "ts": "1681827955.286929",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "8X4",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "I’m getting\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_preformatted",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "  41     #lazy_builder callback class 'Drupal\\announcements_feed\\LazyBuilders'  \n         at key '0' does not implement                                          \n         Drupal\\Core\\Security\\TrustedCallbackInterface.                         \n         💡 Change record: "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.drupal.org\/node\/2966725"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": ".  "
+                                                }
+                                            ],
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "on this test run: "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.drupal.org\/pift-ci-job\/2646296"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": ", which references "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.drupal.org\/node\/2966725"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nI’m using the "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "new",
+                                                    "style": {
+                                                        "italic": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " way to do trusted callbacks, as per CR "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.drupal.org\/node\/3349470"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " and "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U374BLPJR"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " suggestion.\n\nWhen I debug locally, there is no problem, the code runs well and the value is what’s expected.\n\nCould this be a "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "phpstan",
+                                                    "style": {
+                                                        "code": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " issue? and, is there a way to bypass that check so the rest of the tests can run?\n\/cc "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U4L5T8D1S"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/drupal.slack.com\/archives\/C1BMUQ9U6\/p1681827955286929",
+                "fallback": "[April 18th, 2023 7:25 AM] fran.garcia: I’m getting\n```  41     #lazy_builder callback class 'Drupal\\announcements_feed\\LazyBuilders'  \n         at key '0' does not implement                                          \n         Drupal\\Core\\Security\\TrustedCallbackInterface.                         \n         💡 Change record: <https:\/\/www.drupal.org\/node\/2966725>.  ```\non this test run: <https:\/\/www.drupal.org\/pift-ci-job\/2646296>, which references <https:\/\/www.drupal.org\/node\/2966725>\n\nI’m using the _new_ way to do trusted callbacks, as per CR <https:\/\/www.drupal.org\/node\/3349470> and <@U374BLPJR> suggestion.\n\nWhen I debug locally, there is no problem, the code runs well and the value is what’s expected.\n\nCould this be a `phpstan` issue? and, is there a way to bypass that check so the rest of the tests can run?\n\/cc <@U4L5T8D1S>",
+                "text": "I’m getting\n```  41     #lazy_builder callback class 'Drupal\\announcements_feed\\LazyBuilders'  \n         at key '0' does not implement                                          \n         Drupal\\Core\\Security\\TrustedCallbackInterface.                         \n         💡 Change record: <https:\/\/www.drupal.org\/node\/2966725>.  ```\non this test run: <https:\/\/www.drupal.org\/pift-ci-job\/2646296>, which references <https:\/\/www.drupal.org\/node\/2966725>\n\nI’m using the _new_ way to do trusted callbacks, as per CR <https:\/\/www.drupal.org\/node\/3349470> and <@U374BLPJR> suggestion.\n\nWhen I debug locally, there is no problem, the code runs well and the value is what’s expected.\n\nCould this be a `phpstan` issue? and, is there a way to bypass that check so the rest of the tests can run?\n\/cc <@U4L5T8D1S>",
+                "author_name": "Fran Garcia-Linares",
+                "author_link": "https:\/\/drupal.slack.com\/team\/U6K08UK96",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_48.jpg",
+                "author_subname": "Fran Garcia-Linares",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ],
+        "thread_ts": "1681827970.316449",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1681828424.020409",
+        "reply_users": [
+            "U6K08UK96"
+        ],
+        "replies": [
+            {
+                "user": "U6K08UK96",
+                "ts": "1681828424.020409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e2644c1c-b670-4a17-ae03-6294f6e81f96",
+        "type": "message",
+        "text": "created issue here <https:\/\/github.com\/mglaman\/phpstan-drupal\/issues\/527> and will revert our changes.",
+        "user": "U6K08UK96",
+        "ts": "1681828424.020409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZbjuF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "created issue here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/mglaman\/phpstan-drupal\/issues\/527"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and will revert our changes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "ts": 1681828389,
+                "color": "36a64f",
+                "bot_id": "B0270UM2KAQ",
+                "app_unfurl_url": "https:\/\/github.com\/mglaman\/phpstan-drupal\/issues\/527",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "#527 Add support for TrustedCallback attribute",
+                "text": "<https:\/\/www.drupal.org\/node\/3274867|https:\/\/www.drupal.org\/node\/3274867> added the possibility of using the `TrustedCallback` on a method instead of having the whole class `...implements TrustedCallbackInterface`.\n\nIf new code uses this method `phpstan` checks fail like this:\n\n```\n41     #lazy_builder callback class 'Drupal\\announcements_feed\\LazyBuilders'  \n         at key '0' does not implement                                          \n         Drupal\\Core\\Security\\TrustedCallbackInterface.                         \n         💡 Change record: <https:\/\/www.drupal.org\/node\/2966725>.\n```\n\n(can be seen here <https:\/\/www.drupal.org\/pift-ci-job\/2646296|https:\/\/www.drupal.org\/pift-ci-job\/2646296>)\n\nWhen debugging locally, Drupal code is happy with the new attributes.\n\nThe affected file is mostly <https:\/\/github.com\/mglaman\/phpstan-drupal\/blob\/main\/src\/Rules\/Drupal\/RenderCallbackRule.php|https:\/\/github.com\/mglaman\/phpstan-drupal\/blob\/main\/src\/Rules\/Drupal\/RenderCallbackRule.php>",
+                "title": "#527 Add support for TrustedCallback attribute",
+                "title_link": "https:\/\/github.com\/mglaman\/phpstan-drupal\/issues\/527",
+                "footer": "<https:\/\/github.com\/mglaman\/phpstan-drupal|mglaman\/phpstan-drupal>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "thread_ts": "1681827970.316449",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "dea4373f-ea23-4ade-b8e9-0c0cfe341b0f",
+        "type": "message",
+        "text": "<@U6K08UK96> fyi I push a couple of commits to tidy up some nits in tests.",
+        "user": "U374BLPJR",
+        "ts": "1681857162.641659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "erH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " fyi I push a couple of commits to tidy up some nits in tests."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "gc65b25d3eec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5c65b25d3eec429c4044a5dcc44c2711.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Pott",
+            "display_name": "alexpott",
+            "team": "T06GX3JTS",
+            "name": "alexpott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681814780.425789",
+        "parent_user_id": "U6K08UK96"
+    }
+]

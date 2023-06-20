@@ -1,0 +1,298 @@
+[
+    {
+        "client_msg_id": "ad89a429-95d6-40b3-8667-69e5cfa8b885",
+        "type": "message",
+        "text": "I’ve created an issue on the ideas queue, needs to be filled with more infos, please feel free to jump in \/cc <@U6XHB78BV> <https:\/\/www.drupal.org\/project\/ideas\/issues\/3244581>",
+        "user": "U3A2ZDSE4",
+        "ts": "1634634088.108600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3wSs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve created an issue on the ideas queue, needs to be filled with more infos, please feel free to jump in \/cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6XHB78BV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/ideas\/issues\/3244581"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "21bb1232f6d7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-04\/3478212195923_21bb1232f6d77af3d07a_72.png",
+            "first_name": "Sascha",
+            "real_name": "Sascha Eggenberger",
+            "display_name": "saschaeggi",
+            "team": "T06GX3JTS",
+            "name": "saschaeggi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Modern Dashboard with Role presets",
+                "title_link": "https:\/\/www.drupal.org\/project\/ideas\/issues\/3244581",
+                "text": "Problem\/Motivation I've outlined that after conducting several interviews and doing some user research with Content Editors that a big portion of these users would like to have a dashboard to get a quick glimpse of what's going on their sites. I've showcased my idea of a modern dashboard in my DrupalCon Europe's Talk «Gin Admin Theme: The Past, The Present &amp; The Future». See the slides here: Slides on Notist Here is a concept screenshot: While we had a dashboard in Drupal in the Past, this might be a new approach of a more user centric one instead of a one fits all approach.",
+                "fallback": "Drupal.org: Modern Dashboard with Role presets",
+                "ts": 1634633984,
+                "from_url": "https:\/\/www.drupal.org\/project\/ideas\/issues\/3244581",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/ideas\/issues\/3244581"
+            }
+        ],
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT"
+    },
+    {
+        "client_msg_id": "62aeca2e-ee29-4606-8432-9bef525066ed",
+        "type": "message",
+        "text": "Thanks <@U3A2ZDSE4> I'll add to t hat, I haven't had a chance to get round to this yet so thanks for creating the issue",
+        "user": "U6XHB78BV",
+        "ts": "1634642261.108900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sHA\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U3A2ZDSE4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'll add to t hat, I haven't had a chance to get round to this yet so thanks for creating the issue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U3A2ZDSE4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b012127b-6d60-4773-b14e-fbcc6c7ef67e",
+        "type": "message",
+        "text": "Quick update for the progress:\n• Fixed the backend changes related to URL validation, added test cases and merged.\n• Closed the PR based approach for main issue. Created a new patch using shell script (Approach similar to CKEditor 5 module)\n    ◦ New patch is failing for 2 test cases. We’ve created issues for that and will be working towards it.\n• Started refactoring the module CSS, so that we can move generic styles to seven and claro theme.",
+        "user": "U2T8M7PA4",
+        "ts": "1634661534.110900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "En3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quick update for the progress:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Fixed the backend changes related to URL validation, added test cases and merged."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Closed the PR based approach for main issue. Created a new patch using shell script (Approach similar to CKEditor 5 module)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "New patch is failing for 2 test cases. We’ve created issues for that and will be working towards it."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Started refactoring the module CSS, so that we can move generic styles to seven and claro theme."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2T8M7PA4",
+            "ts": "1634661870.000000"
+        },
+        "thread_ts": "1634661534.110900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1634662736.111100",
+        "reply_users": [
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1634662736.111100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0a1d5161-22ed-4637-97c7-6a411585831f",
+        "type": "message",
+        "text": "Thank you very much <@U2T8M7PA4> - please keep me posted on anything I can do to support!",
+        "user": "U06NAEYSF",
+        "ts": "1634662736.111100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QUZX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you very much "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - please keep me posted on anything I can do to support!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634661534.110900",
+        "parent_user_id": "U2T8M7PA4",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U2T8M7PA4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

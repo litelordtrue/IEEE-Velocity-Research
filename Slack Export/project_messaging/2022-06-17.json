@@ -1,0 +1,150 @@
+[
+    {
+        "client_msg_id": "909b9a76-75a1-4618-a17d-6a36a35ca8db",
+        "type": "message",
+        "text": "oh! hmm that failed after I reviewed it :facepalm:",
+        "user": "UKDHF4BU7",
+        "ts": "1655470200.323729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u67L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh! hmm that failed after I reviewed it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "facepalm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "3950492f6a39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-16\/3702127091280_3950492f6a39f392d037_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Miranda",
+            "display_name": "Matias Miranda",
+            "team": "T06GX3JTS",
+            "name": "matias.miranda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ac0e21ac-b0d5-4b41-ac7e-4b21fb5e5165",
+        "type": "message",
+        "text": "sorry for the bad timing\/confusion I’ll review it again and verify locally again later today.",
+        "user": "UKDHF4BU7",
+        "ts": "1655470251.421279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mp3\/4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry for the bad timing\/confusion I’ll review it again and verify locally again later today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "3950492f6a39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-16\/3702127091280_3950492f6a39f392d037_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Miranda",
+            "display_name": "Matias Miranda",
+            "team": "T06GX3JTS",
+            "name": "matias.miranda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1655470251.421279",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1655486518.471819",
+        "reply_users": [
+            "U4KAE8Q91"
+        ],
+        "replies": [
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1655486518.471819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "86e3d034-a091-4839-9488-5f37cf92bd74",
+        "type": "message",
+        "text": "<@UKDHF4BU7>, thank you!  When posting a review, can you provide some details of review - that would be super helpful.  Thanks, Irina",
+        "user": "U4KAE8Q91",
+        "ts": "1655486518.471819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c0dIY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKDHF4BU7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", thank you!  When posting a review, can you provide some details of review - that would be super helpful.  Thanks, Irina"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1655470251.421279",
+        "parent_user_id": "UKDHF4BU7",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "UKDHF4BU7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

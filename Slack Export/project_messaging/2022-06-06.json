@@ -1,0 +1,157 @@
+[
+    {
+        "client_msg_id": "9107082b-1476-4815-9740-6f1615e0eb57",
+        "type": "message",
+        "text": "<@U4PT7ES0M> Is the latest patch on:\n<https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643>\nGood for reviewers to use?\n\nOR do we need to use the script from: <https:\/\/www.drupal.org\/project\/announce\/issues\/3238706>\nTo generate a new patch or merge request?\n\n\nI'd like to recruit reviewers so we can get this to RTBC this week.",
+        "user": "U06NAEYSF",
+        "ts": "1654527765.175289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xiJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Is the latest patch on:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nGood for reviewers to use?\n\nOR do we need to use the script from: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3238706"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTo generate a new patch or merge request?\n\n\nI'd like to recruit reviewers so we can get this to RTBC this week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654527765.175289",
+        "reply_count": 11,
+        "reply_users_count": 3,
+        "latest_reply": "1654708101.993839",
+        "reply_users": [
+            "U4PT7ES0M",
+            "U06NAEYSF",
+            "U4KAE8Q91"
+        ],
+        "replies": [
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1654577709.429759"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1654617282.602099"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1654622595.532799"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1654622620.191139"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1654632314.622059"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1654661452.772869"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1654663110.039429"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1654664871.027539"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1654668310.382439"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1654680344.758359"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1654708101.993839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d79756fb-156b-432b-b096-72d094ac30be",
+        "type": "message",
+        "text": "We need to use the script the generate a new patch",
+        "user": "U4PT7ES0M",
+        "ts": "1654577709.429759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3iBb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We need to use the script the generate a new patch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654527765.175289",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

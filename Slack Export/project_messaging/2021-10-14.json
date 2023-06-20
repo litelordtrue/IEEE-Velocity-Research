@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "6fadfe4e-f89f-43c6-920b-ec8206ab65ec",
+        "type": "message",
+        "text": "Our target should be to have everything back to RTBC early next week (expecting at least one more rounds of needs work) and then try to hit true RTBC no later than Wednesday the 20th - so we can get in the queue for actual release manager sign off.",
+        "user": "U06NAEYSF",
+        "ts": "1634222180.102900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r4M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our target should be to have everything back to RTBC early next week (expecting at least one more rounds of needs work) and then try to hit true RTBC no later than Wednesday the 20th - so we can get in the queue for actual release manager sign off."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634056676.100700",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "49dce94b-1718-4aac-a3f3-b9deb6591d37",
+        "type": "message",
+        "text": "I'm probably going to need to write the release notes draft for the issue, and we'll need to have the first post ready to go.",
+        "user": "U06NAEYSF",
+        "ts": "1634222212.103100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fANjp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm probably going to need to write the release notes draft for the issue, and we'll need to have the first post ready to go."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U06NAEYSF",
+            "ts": "1634222223.000000"
+        },
+        "thread_ts": "1634056676.100700",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

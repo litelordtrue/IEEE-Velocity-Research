@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "b8afa976-abd9-406c-858e-512682c081cd",
+        "type": "message",
+        "text": "I think we need to address <https:\/\/www.drupal.org\/project\/announce\/issues\/3249532> in D7 as well",
+        "user": "U4PT7ES0M",
+        "ts": "1649915269.143599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UXXL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we need to address "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in D7 as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532",
+                "ts": 1637005533,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532",
+                "fallback": "Drupal.org: Display only the top 10 announcements by version (featured then recent) with a see more link",
+                "text": "Problem\/Motivation The module currently displays all the announcements from <http:\/\/drupal.org|drupal.org> only filtered to the version of Drupal used. Is the idea that the announcement feed itself will have controls \/ limits as to what it contains and thus limit what is displayed on the site? If so, we should include that somehow in the documentation as well. Noticed while working on [#3249521]. If the feed keeps growing, then we may need a Drupal site-side solution to limit the items. What happens when there are 15 or 25 items in the feed? Should items older than the site even be shown?",
+                "title": "Display only the top 10 announcements by version (featured then recent) with a see more link",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1649359541.561339",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

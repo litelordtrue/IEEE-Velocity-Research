@@ -1,0 +1,195 @@
+[
+    {
+        "client_msg_id": "3d7334d7-a635-45e4-bad7-5b73b036f8a1",
+        "type": "message",
+        "text": "<@U4PT7ES0M> <@U1CREGN04> <@U1XQAL3RP> - I wanted to follow up on status of this issue as we are getting close to D10 release <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14752672> .   Does it require testing or more work?  Thank you so much for all the time that you put into this.",
+        "user": "U4KAE8Q91",
+        "ts": "1668708000.798599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tUm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1CREGN04"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1XQAL3RP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I wanted to follow up on status of this issue as we are getting close to D10 release "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14752672"
+                            },
+                            {
+                                "type": "text",
+                                "text": " .   Does it require testing or more work?  Thank you so much for all the time that you put into this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14752672",
+                "ts": 1617212298,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14752672",
+                "fallback": "Drupal.org: Project messaging channel in core (as experimental)",
+                "text": "Problem\/Motivation Per the core idea issue: [#2940739] The vast majority of Drupal users do not have accounts on <http:\/\/Drupal.org|Drupal.org>, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association. The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core.",
+                "title": "Project messaging channel in core (as experimental)",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14752672",
+                "service_name": "Drupal.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4bfa973-81ee-4750-babf-e6ef73f4827e",
+        "type": "message",
+        "text": "As of the latest comment, it requires a bit of changes on colors to pass accessibility requirements",
+        "user": "U1CREGN04",
+        "ts": "1668708082.265419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3koC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As of the latest comment, it requires a bit of changes on colors to pass accessibility requirements"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c534ebb2-1b21-40c1-9cf5-1538be5e3c2f",
+        "type": "message",
+        "text": "The MR looks like it needs to be brought up to date",
+        "user": "U1CREGN04",
+        "ts": "1668708121.019139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FTR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The MR looks like it needs to be brought up to date"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6d13fa91-2ebd-40a2-ac1d-ccd3866a5d77",
+        "type": "message",
+        "text": "I need to get in there and do some CSS work to make it look good. There's a number of things that can be done differently in D10 vs D9",
+        "user": "U1CREGN04",
+        "ts": "1668708304.341099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9QP5K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I need to get in there and do some CSS work to make it look good. There's a number of things that can be done differently in D10 vs D9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

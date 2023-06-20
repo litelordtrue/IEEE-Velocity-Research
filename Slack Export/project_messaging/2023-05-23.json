@@ -1,0 +1,222 @@
+[
+    {
+        "client_msg_id": "a78a6d56-2b41-4b81-bf71-9510c6602259",
+        "type": "message",
+        "text": ":thread: For D7 backport of project messaging - who needs to sign off?\n<https:\/\/www.drupal.org\/project\/drupal\/issues\/3357707#comment-15073923>",
+        "user": "U06NAEYSF",
+        "ts": "1684858227.364309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Dp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "thread",
+                                "unicode": "1f9f5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " For D7 backport of project messaging - who needs to sign off?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3357707#comment-15073923"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1684858227.364309",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1684863984.453579",
+        "reply_users": [
+            "U06NAEYSF",
+            "U03H4RUS1QS"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1684858295.661599"
+            },
+            {
+                "user": "U03H4RUS1QS",
+                "ts": "1684859865.576949"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1684863984.453579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d59956e6-c2b4-4f7d-b3a8-870ea8ea75c0",
+        "type": "message",
+        "text": "<@U03H4RUS1QS> and <@U7G1P7P6Z> -\n\nWe think this is in decent shape code wise (<@U6K08UK96> has been doing a lot of regular review).\n\nWe think it's at the point where it would get a variety of framework\/subsystem\/etc sign off if it were the modern Drupal version - but for D7 does that mean just you all or do we have some other folks to pull in?",
+        "user": "U06NAEYSF",
+        "ts": "1684858295.661599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JeT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03H4RUS1QS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U7G1P7P6Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " -\n\nWe think this is in decent shape code wise ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has been doing a lot of regular review).\n\nWe think it's at the point where it would get a variety of framework\/subsystem\/etc sign off if it were the modern Drupal version - but for D7 does that mean just you all or do we have some other folks to pull in?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1684858227.364309",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "5a054019-6043-4784-996a-db06116fcac4",
+        "type": "message",
+        "text": "Thanks. Added a comment to the issue with some names (hopefully the right ones).",
+        "user": "U03H4RUS1QS",
+        "ts": "1684859865.576949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dntf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks. Added a comment to the issue with some names (hopefully the right ones)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "7464bb2aaca6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-30\/3597045581362_7464bb2aaca60e56bd2c_72.jpg",
+            "first_name": "Juraj",
+            "real_name": "Juraj Nemec",
+            "display_name": "Juraj Nemec",
+            "team": "T06GX3JTS",
+            "name": "jnemec",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1684858227.364309",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "2181acac-48a7-4433-80a7-fa27e1b8e67a",
+        "type": "message",
+        "text": ":thankful:",
+        "user": "U06NAEYSF",
+        "ts": "1684863984.453579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Z+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "thankful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1684858227.364309",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

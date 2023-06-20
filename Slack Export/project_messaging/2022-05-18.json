@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "cd412e59-6e24-40e2-b7b6-3b48c417c830",
+        "type": "message",
+        "text": "I see more MR activity on that issue - is it just about ready?",
+        "user": "U06NAEYSF",
+        "ts": "1652892544.819279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GXzkK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I see more MR activity on that issue - is it just about ready?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1650541942.208209",
+        "parent_user_id": "U03951VJN48"
+    }
+]

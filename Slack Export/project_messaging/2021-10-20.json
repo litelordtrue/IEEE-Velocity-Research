@@ -1,0 +1,753 @@
+[
+    {
+        "client_msg_id": "36744cd8-aa7e-4bd5-b689-73f1bfddafb9",
+        "type": "message",
+        "text": "<@U01RG97SUNL> ^^",
+        "user": "U4PT7ES0M",
+        "ts": "1634732023.111400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0Iy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RG97SUNL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632930633.071600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "1a9d35b7-6c4d-4b06-bc5f-6a1dfea7b7cc",
+        "type": "message",
+        "text": "Quick update for today:\n• Fixed few more backend issues related to code quality check script.\n    ◦ Update shell script to generate new patch \n    ◦ Created stub documentation page for the hook_help.\n• CSS refactoring is in progress and we should be able to raise PR today lates evening IST or tomorrow itself.\n    ◦ Once this PR is ready, we can have another round of accessibility and theming related feedback.",
+        "user": "U2T8M7PA4",
+        "ts": "1634737836.114000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "10t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quick update for today:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Fixed few more backend issues related to code quality check script."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Update shell script to generate new patch "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Created stub documentation page for the hook_help."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "CSS refactoring is in progress and we should be able to raise PR today lates evening IST or tomorrow itself."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Once this PR is ready, we can have another round of accessibility and theming related feedback."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "reply_count": 50,
+        "reply_users_count": 7,
+        "latest_reply": "1635418244.020700",
+        "reply_users": [
+            "U06NAEYSF",
+            "U1ET7192M",
+            "U1AL60FHC",
+            "U6XHB78BV",
+            "U49HYCETX",
+            "U2T8M7PA4",
+            "U01RG97SUNL"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1634743911.114100"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1634752303.114500"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1634752462.114800"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1634752496.115000"
+            },
+            {
+                "user": "U1AL60FHC",
+                "ts": "1634753022.115400"
+            },
+            {
+                "user": "U1AL60FHC",
+                "ts": "1634753095.115600"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1634754636.115800"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635166287.003700"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635166386.003900"
+            },
+            {
+                "user": "U6XHB78BV",
+                "ts": "1635171340.005300"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1635175694.005700"
+            },
+            {
+                "user": "U6XHB78BV",
+                "ts": "1635175746.005900"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1635175788.006100"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635175793.006300"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1635175916.006600"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635175967.006800"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1635175975.007000"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1635176182.007200"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635176931.007400"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635177038.007700"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635177063.007900"
+            },
+            {
+                "user": "U49HYCETX",
+                "ts": "1635177779.008200"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635180788.009400"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635181392.009700"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635181613.009900"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1635195446.010300"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635196778.010500"
+            },
+            {
+                "user": "U49HYCETX",
+                "ts": "1635208141.010800"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635242057.013900"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635242157.014200"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1635252423.014400"
+            },
+            {
+                "user": "U01RG97SUNL",
+                "ts": "1635317319.014700"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635320839.015000"
+            },
+            {
+                "user": "U01RG97SUNL",
+                "ts": "1635321503.015200"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635321651.015500"
+            },
+            {
+                "user": "U01RG97SUNL",
+                "ts": "1635321935.015700"
+            },
+            {
+                "user": "U01RG97SUNL",
+                "ts": "1635341005.015900"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635341196.016700"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635341343.016900"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635341406.017100"
+            },
+            {
+                "user": "U01RG97SUNL",
+                "ts": "1635342095.017300"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635344127.017600"
+            },
+            {
+                "user": "U01RG97SUNL",
+                "ts": "1635344681.017900"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1635351939.018300"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635364788.018500"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635364917.018700"
+            },
+            {
+                "user": "U01RG97SUNL",
+                "ts": "1635395498.019000"
+            },
+            {
+                "user": "U01RG97SUNL",
+                "ts": "1635398039.019200"
+            },
+            {
+                "user": "U01RG97SUNL",
+                "ts": "1635414505.019900"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635418244.020700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b2d32370-3f38-4b77-9b37-549e8dccf159",
+        "type": "message",
+        "text": "cc <@U6XHB78BV> and <@U1ET7192M> just a heads up that we'll certainly appreciate your input once that PR is ready. Want to give you some advance warning.\n\nWith the alpha deadline on Monday we are going to try and laser focus on making it deliverable - so we should also divide feedback into:\n• Required for release\n• Can be follow-up ",
+        "user": "U06NAEYSF",
+        "ts": "1634743911.114100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+W4i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6XHB78BV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ET7192M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just a heads up that we'll certainly appreciate your input once that PR is ready. Want to give you some advance warning.\n\nWith the alpha deadline on Monday we are going to try and laser focus on making it deliverable - so we should also divide feedback into:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Required for release"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Can be follow-up "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1ET7192M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0f94690-fe4a-4eff-8532-cf2626b8bff5",
+        "type": "message",
+        "text": "<@U06NAEYSF> do you mean it will need to be reviewed before Monday?",
+        "user": "U1ET7192M",
+        "ts": "1634752303.114500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "72L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you mean it will need to be reviewed before Monday?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "7c561e4c-6721-4d93-9160-70276c936a95",
+        "type": "message",
+        "text": "Ideally yes?\n\nI believe technically things can still be accepted for 9.3 during the alpha window, but my general understanding is the release managers prefer it if it can get to RTBC before the alpha window.",
+        "user": "U06NAEYSF",
+        "ts": "1634752462.114800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4wrwl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ideally yes?\n\nI believe technically things can still be accepted for 9.3 during the alpha window, but my general understanding is the release managers prefer it if it can get to RTBC before the alpha window."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1ET7192M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5523ae24-4802-4408-b624-92004f50713f",
+        "type": "message",
+        "text": "I may not be 100% correct there - perhaps <@U1AL60FHC> or <@U4B423ANR> can chime in on how much time is left on the clock for 9.3",
+        "user": "U06NAEYSF",
+        "ts": "1634752496.115000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7jRC\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I may not be 100% correct there - perhaps "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1AL60FHC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4B423ANR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can chime in on how much time is left on the clock for 9.3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1634752919.115300",
+        "user": "U1AL60FHC",
+        "text": "<@U1AL60FHC> has joined the channel"
+    },
+    {
+        "client_msg_id": "f850448e-ecbc-4e23-935b-ecd8c1a3c182",
+        "type": "message",
+        "text": "It can land during alpha but generally sooner the better for rtbc so there's time for committers to actually review it.",
+        "user": "U1AL60FHC",
+        "ts": "1634753022.115400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yZ=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It can land during alpha but generally sooner the better for rtbc so there's time for committers to actually review it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "5ad440e89a4a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-04\/178243938721_5ad440e89a4a1bac80c7_72.jpg",
+            "first_name": "Nathaniel",
+            "real_name": "Nathaniel Catchpole",
+            "display_name": "catch",
+            "team": "T06GX3JTS",
+            "name": "catch",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "f0af4e0c-011d-48c9-be0b-9ac5fd6f0c90",
+        "type": "message",
+        "text": "Beta isn't out of the question but once we hit thar we default to 9.4.x then discuss backport afterwards.",
+        "user": "U1AL60FHC",
+        "ts": "1634753095.115600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dQ2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Beta isn't out of the question but once we hit thar we default to 9.4.x then discuss backport afterwards."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "5ad440e89a4a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-04\/178243938721_5ad440e89a4a1bac80c7_72.jpg",
+            "first_name": "Nathaniel",
+            "real_name": "Nathaniel Catchpole",
+            "display_name": "catch",
+            "team": "T06GX3JTS",
+            "name": "catch",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "22ff30f4-172a-4629-93c6-a2eb9e17a314",
+        "type": "message",
+        "text": "Thanks for the clarification <@U1AL60FHC>.",
+        "user": "U06NAEYSF",
+        "ts": "1634754636.115800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nqY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the clarification "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1AL60FHC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    }
+]

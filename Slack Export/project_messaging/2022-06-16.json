@@ -1,0 +1,199 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655417885.521849",
+        "user": "UKDHF4BU7",
+        "text": "<@UKDHF4BU7> has joined the channel"
+    },
+    {
+        "client_msg_id": "c7c08cf5-5b94-4d67-ace9-e6b436341c1a",
+        "type": "message",
+        "text": "Looks good to me!",
+        "user": "UKDHF4BU7",
+        "ts": "1655417989.231079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gj5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks good to me!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "3950492f6a39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-16\/3702127091280_3950492f6a39f392d037_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Miranda",
+            "display_name": "Matias Miranda",
+            "team": "T06GX3JTS",
+            "name": "matias.miranda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1655135261.745959",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655424639.359569",
+        "user": "U01F5KVDT0U",
+        "text": "<@U01F5KVDT0U> has joined the channel"
+    },
+    {
+        "client_msg_id": "41e315bf-5fbc-475b-905e-78e58dcd65fd",
+        "type": "message",
+        "text": "<@U4PT7ES0M> , can you check if patch is correct one - <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14555671>",
+        "user": "U4KAE8Q91",
+        "ts": "1655432124.281039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tmGeE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , can you check if patch is correct one - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14555671"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14555671",
+                "ts": 1617212298,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14555671",
+                "fallback": "Drupal.org: Project messaging channel in core",
+                "text": "Problem\/Motivation Per the core idea issue: [#2940739] The vast majority of Drupal users do not have accounts on <http:\/\/Drupal.org|Drupal.org>, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association. The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core.",
+                "title": "Project messaging channel in core",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14555671",
+                "service_name": "Drupal.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14847e25-ec4d-4a1e-ba8b-a33f0c9c5fb2",
+        "type": "message",
+        "text": "<@UKDHF4BU7> Let us know if you were able to apply the patch, thnaks!",
+        "user": "U4KAE8Q91",
+        "ts": "1655432168.801589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eF0Og",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKDHF4BU7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Let us know if you were able to apply the patch, thnaks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3e7a5917-fd6e-4d9a-8b86-fd5646bf9d94",
+        "type": "message",
+        "text": "Yeah it got failed since 16th jun <https:\/\/www.drupal.org\/pift-ci-job\/2405684>",
+        "user": "U4PT7ES0M",
+        "ts": "1655447654.782029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Rpyo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah it got failed since 16th jun "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/pift-ci-job\/2405684"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

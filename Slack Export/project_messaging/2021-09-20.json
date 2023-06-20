@@ -1,0 +1,604 @@
+[
+    {
+        "client_msg_id": "884ff025-bbb6-4297-be87-27f4917a7e06",
+        "type": "message",
+        "text": "<@U21M96DQU>\nWe’ve removed jQuery from `announce` module.\n<https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/11\/|Here> is the PR. Can we please have a second eye from you?\nIssue: <https:\/\/www.drupal.org\/i\/3236294>",
+        "user": "U2T8M7PA4",
+        "ts": "1632140660.041100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SBF7O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U21M96DQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWe’ve removed jQuery from "
+                            },
+                            {
+                                "type": "text",
+                                "text": "announce",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " module.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/11\/",
+                                "text": "Here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is the PR. Can we please have a second eye from you?\nIssue: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/i\/3236294"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2T8M7PA4",
+            "ts": "1632140683.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "GitLab: Removed jquery from the module dependency. (!11) · Merge requests · project \/ announce",
+                "from_url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/11\/",
+                "service_name": "GitLab",
+                "service_icon": "https:\/\/git.drupalcode.org\/assets\/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png",
+                "title": "Removed jquery from the module dependency. (!11) · Merge requests · project \/ announce",
+                "title_link": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/11\/",
+                "thumb_url": "https:\/\/git.drupalcode.org\/assets\/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "text": "Closes #3236294",
+                "fields": [
+                    {
+                        "title": "Author",
+                        "value": "Lal_",
+                        "short": true
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/11\/"
+            },
+            {
+                "service_name": "Drupal.org",
+                "title": "Replace jQuery with vanilla JS.",
+                "title_link": "https:\/\/www.drupal.org\/i\/3236294",
+                "text": "Problem\/Motivation Based on the comment here. Its probably the best to replace jQuery with vanilla js.",
+                "fallback": "Drupal.org: Replace jQuery with vanilla JS.",
+                "ts": 1631879847,
+                "from_url": "https:\/\/www.drupal.org\/i\/3236294",
+                "id": 2,
+                "original_url": "https:\/\/www.drupal.org\/i\/3236294"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U21M96DQU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U21M96DQU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1632140663.041400",
+        "user": "U21M96DQU",
+        "text": "<@U21M96DQU> has joined the channel",
+        "inviter": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "a3c9e945-8317-4e6a-8d63-9b23433c7b59",
+        "type": "message",
+        "text": "I think that's what we had decided earlier in the process",
+        "user": "U06NAEYSF",
+        "ts": "1632147818.041800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hDq3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think that's what we had decided earlier in the process"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887805.032300",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "a0504d3f-b614-4b24-a5d6-c8f559fc7d4d",
+        "type": "message",
+        "text": "And does simplify the implementation in my opinion?",
+        "user": "U06NAEYSF",
+        "ts": "1632147827.042000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qnF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And does simplify the implementation in my opinion?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887805.032300",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "451dee89-078b-4515-94c8-3b9c61aba128",
+        "type": "message",
+        "text": "Yes, it does. I’ll talk to <@U4PT7ES0M> and will tokenise the URL.\nIt will disable the page.",
+        "user": "U2T8M7PA4",
+        "ts": "1632155909.042200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IIF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, it does. I’ll talk to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and will tokenise the URL.\nIt will disable the page."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887805.032300",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "d38756c1-9e22-4ddc-a3e4-ee147599dbcb",
+        "type": "message",
+        "text": "<@U06NAEYSF>, can we do a quick call tomorrow?\nI think we need some help around design direction. Once we have it, we can fix stylings along with a11y suggestions.",
+        "user": "U2T8M7PA4",
+        "ts": "1632155985.043600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zs6i0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", can we do a quick call tomorrow?\nI think we need some help around design direction. Once we have it, we can fix stylings along with a11y suggestions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c732bcac-70c6-4dda-9b90-a4096edaa417",
+        "type": "message",
+        "text": "<@U2T8M7PA4> Sure... I could do 7:30pm or 8:30pm India time tomorrow ?",
+        "user": "U06NAEYSF",
+        "ts": "1632156396.044100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=doi=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sure... I could do 7:30pm or 8:30pm India time tomorrow ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632156396.044100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1632190765.045700",
+        "reply_users": [
+            "U2T8M7PA4"
+        ],
+        "replies": [
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1632190765.045700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e1999683-2c37-416b-bf7e-573f1ae1bf0b",
+        "type": "message",
+        "text": "<@U2T8M7PA4> can you send me an invite",
+        "user": "U06NAEYSF",
+        "ts": "1632156406.044400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tYE2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you send me an invite"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "checkbox",
+                "users": [
+                    "U2T8M7PA4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d0e44d9-f67a-499c-8a0b-7e9ff565d668",
+        "type": "message",
+        "text": "Getting an opinion from <@U1ET7192M> or <@U49HYCETX> could also be helpful here.",
+        "user": "U06NAEYSF",
+        "ts": "1632161827.044600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HiHo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Getting an opinion from "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ET7192M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U49HYCETX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " could also be helpful here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887745.031800",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1632161834.044900",
+        "user": "U1ET7192M",
+        "text": "<@U1ET7192M> has joined the channel",
+        "inviter": "U06NAEYSF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1632161834.045100",
+        "user": "U49HYCETX",
+        "text": "<@U49HYCETX> has joined the channel",
+        "inviter": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "b6b61dbf-d80f-4ae7-9469-30f0ea767456",
+        "type": "message",
+        "text": "There's precedence for core using an `all:` reset in `off-canvas.reset.css` . It's probably good to test this directly in case my memory is failing me, but I think `unset` may be the better option as I believe `revert` is capable of overriding user-added stylesheets such as ones added for accessibility reasons.",
+        "user": "U49HYCETX",
+        "ts": "1632163420.045500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "irSnw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There's precedence for core using an "
+                            },
+                            {
+                                "type": "text",
+                                "text": "all:",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " reset in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "off-canvas.reset.css",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " . It's probably good to test this directly in case my memory is failing me, but I think "
+                            },
+                            {
+                                "type": "text",
+                                "text": "unset",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " may be the better option as I believe "
+                            },
+                            {
+                                "type": "text",
+                                "text": "revert",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is capable of overriding user-added stylesheets such as ones added for accessibility reasons."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "7866fac8eed3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-06\/5374927713702_7866fac8eed3af14628a_72.png",
+            "first_name": "Ben",
+            "real_name": "Ben Mullins",
+            "display_name": "bnjmnm",
+            "team": "T06GX3JTS",
+            "name": "benmullins",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887745.031800",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "aa278cbe-c6fc-421e-990e-9952c5a46da1",
+        "type": "message",
+        "text": "Sure, sent.",
+        "user": "U2T8M7PA4",
+        "ts": "1632190765.045700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7MVzI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure, sent."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632156396.044100",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

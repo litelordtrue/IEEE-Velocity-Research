@@ -1,0 +1,290 @@
+[
+    {
+        "client_msg_id": "db8a5474-7fc7-4be5-9e1a-c5c83eb98bce",
+        "type": "message",
+        "text": "<@U4PT7ES0M> hey",
+        "user": "U21M96DQU",
+        "ts": "1638349511.073100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1MRN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hey"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637756870.072200",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "210f1b48-2078-4816-bec1-62cb5a42650d",
+        "type": "message",
+        "text": "so esentially the dialog ajax integration wasn't made for a toogle like behavior that we need for the announcements",
+        "user": "U21M96DQU",
+        "ts": "1638349642.073300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qqh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so esentially the dialog ajax integration wasn't made for a toogle like behavior that we need for the announcements"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637756870.072200",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "7bd63375-e71e-4241-b6a4-a4877133104d",
+        "type": "message",
+        "text": "which means that opening the offcanvas will need to be done in a specific js file\/behavior. We can't rely on the default drupal behavior",
+        "user": "U21M96DQU",
+        "ts": "1638349706.073500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Zx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "which means that opening the offcanvas will need to be done in a specific js file\/behavior. We can't rely on the default drupal behavior"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637756870.072200",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "05bf0e67-67ae-4eac-b56d-14b091f6efae",
+        "type": "message",
+        "text": "ohh",
+        "user": "U4PT7ES0M",
+        "ts": "1638350022.073700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WbO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ohh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637756870.072200",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "6e1b1ff4-0922-4591-acd9-6819e57ad042",
+        "type": "message",
+        "text": "so both opening and toggling needs to be handled separately",
+        "user": "U4PT7ES0M",
+        "ts": "1638350070.073900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aKV\/9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so both opening and toggling needs to be handled separately"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637756870.072200",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "2df44ba3-288e-4c5b-b812-0168551bfdc5",
+        "type": "message",
+        "text": "<@U21M96DQU> could you also review this one as well... I've made the changes that you have suggested.",
+        "user": "U4PT7ES0M",
+        "ts": "1638350413.074100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OvkjV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U21M96DQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " could you also review this one as well... I've made the changes that you have suggested."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637735890.070000",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "aaec52d5-3e9a-4afb-a3c6-ac810edc8145",
+        "type": "message",
+        "text": "looks good to me, thx",
+        "user": "U21M96DQU",
+        "ts": "1638355071.074300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NwKb+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "looks good to me, thx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637735890.070000",
+        "parent_user_id": "U4PT7ES0M"
+    }
+]

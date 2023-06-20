@@ -1,0 +1,174 @@
+[
+    {
+        "client_msg_id": "94e7b85d-150c-4398-8c42-329e764b72e1",
+        "type": "message",
+        "text": "&gt; Need more to test scrolling\nthe limit is 10 (data is truncated) so the above screenshots are as good as it gets.",
+        "user": "U6K08UK96",
+        "ts": "1673859779.119569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KqaJU",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Need more to test scrolling"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the limit is 10 (data is truncated) so the above screenshots are as good as it gets."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375954.055689",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "469f9840-301e-4454-a2db-2a3897cbd568",
+        "type": "message",
+        "text": "&gt; A custom module could alter the service definition sounds like?\nyup, totally.\n\nor just add a `services.yml` to the project and add this\n```parameters:\n  announcements_feed.feed_url: <https:\/\/feed-domain\/feed-url.json>```",
+        "user": "U6K08UK96",
+        "ts": "1673859910.917679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lhR",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A custom module could alter the service definition sounds like?"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yup, totally.\n\nor just add a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "services.yml",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to the project and add this\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "parameters:\n  announcements_feed.feed_url: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/feed-domain\/feed-url.json"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375954.055689",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "1b5a1da3-f710-4b56-b9be-c625d22e3ede",
+        "type": "message",
+        "text": "This seems like a very nice hidden feature.",
+        "user": "U1AL60FHC",
+        "ts": "1673868282.456499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r=nH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This seems like a very nice hidden feature."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "5ad440e89a4a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-04\/178243938721_5ad440e89a4a1bac80c7_72.jpg",
+            "first_name": "Nathaniel",
+            "real_name": "Nathaniel Catchpole",
+            "display_name": "catch",
+            "team": "T06GX3JTS",
+            "name": "catch",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375954.055689",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1A7P6GTZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

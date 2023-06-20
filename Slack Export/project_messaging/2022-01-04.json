@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "23003e8c-f410-47b8-bb38-647c3fba7ca8",
+        "type": "message",
+        "text": "<@U4PT7ES0M> I think this really depends on how much the feed will be used, whether it becomes a problem, so we should define how often would posts be included in the feed for example to estimate whether this becomes a problem",
+        "user": "U1A7P6GTZ",
+        "ts": "1641286325.086700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eo0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think this really depends on how much the feed will be used, whether it becomes a problem, so we should define how often would posts be included in the feed for example to estimate whether this becomes a problem"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1640850739.085700",
+        "parent_user_id": "U4PT7ES0M"
+    }
+]

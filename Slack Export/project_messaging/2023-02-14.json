@@ -1,0 +1,443 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1676396599.864139",
+        "user": "UCV2S889L",
+        "text": "<@UCV2S889L> has joined the channel"
+    },
+    {
+        "client_msg_id": "65808949-e495-4027-af99-45abc48e9afb",
+        "type": "message",
+        "text": ":wave: Trying to test <https:\/\/www.drupal.org\/project\/drupal\/issues\/3334907|an issue> between `drupal\/announce` and `olivero` in drupal 10, but composer won’t require it because it’s not compatible with D10. Any chance someone could update it to have d10 compatibility?",
+        "user": "UCV2S889L",
+        "ts": "1676396728.512279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xXS3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Trying to test "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3334907",
+                                "text": "an issue"
+                            },
+                            {
+                                "type": "text",
+                                "text": " between "
+                            },
+                            {
+                                "type": "text",
+                                "text": "drupal\/announce",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "olivero",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in drupal 10, but composer won’t require it because it’s not compatible with D10. Any chance someone could update it to have d10 compatibility?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "514c73143373",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2070193597249_514c731433738148c99c_72.jpg",
+            "first_name": "Andy",
+            "real_name": "Andy Blum",
+            "display_name": "andy-blum",
+            "team": "T06GX3JTS",
+            "name": "andy.blum.01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3334907",
+                "ts": 1674140860,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3334907",
+                "fallback": "Drupal.org: Mobile menu button is not positioned correctly when side canvas is open",
+                "text": "Problem\/Motivation Steps to reproduce Using this DrupalPod link (from #project_messaging) <https:\/\/gitpod.io\/#snapshot\/8fa9958b-1fa2-450e-85cf-d3b4fa4c06cc> I logged in as admin\/admin, and clicked on \"announcements\" on top. I noticed the menu X is placed between the page and the vertical menu. Andy wrote on slack that he can mimic this issue on <http:\/\/lb.cm\/olivero10|lb.cm\/olivero10> in the console Drupal.displace.offsets.right = 300; Proposed resolution Remaining tasks User interface changes API changes Data model changes Release notes snippet",
+                "title": "Mobile menu button is not positioned correctly when side canvas is open",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3334907",
+                "service_name": "Drupal.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6abb8366-dd53-4e68-a7f3-77643b2c1d84",
+        "type": "message",
+        "text": "what is exactly not D10 compatible? the `announcements_feed` module? that should be. it’s been tested against and developed against D10 as far as I know",
+        "user": "U6K08UK96",
+        "ts": "1676397062.352229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ql2m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what is exactly not D10 compatible? the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "announcements_feed",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " module? that should be. it’s been tested against and developed against D10 as far as I know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c2f35783-b456-4a87-b448-c8cd95dd9c4d",
+        "type": "message",
+        "text": "could it be because you were not using the latest snapshot? it’s <https:\/\/gitpod.io\/#snapshot\/9cec6744-19e4-481f-866b-eac6e48ab05e> and it can be found here <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#test> (better than the channel).",
+        "user": "U6K08UK96",
+        "ts": "1676397159.833819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+bim",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "could it be because you were not using the latest snapshot? it’s "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gitpod.io\/#snapshot\/9cec6744-19e4-481f-866b-eac6e48ab05e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and it can be found here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#test"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (better than the channel)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d2d98d4c-de46-4e2f-9f2d-9d9651e4d0f2",
+        "type": "message",
+        "text": "ah, I was trying `composer require drupal\/announce`",
+        "user": "UCV2S889L",
+        "ts": "1676397480.072639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rNm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah, I was trying "
+                            },
+                            {
+                                "type": "text",
+                                "text": "composer require drupal\/announce",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "514c73143373",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2070193597249_514c731433738148c99c_72.jpg",
+            "first_name": "Andy",
+            "real_name": "Andy Blum",
+            "display_name": "andy-blum",
+            "team": "T06GX3JTS",
+            "name": "andy.blum.01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "020c3e3e-d80a-41e9-8dad-5e382703e6d2",
+        "type": "message",
+        "text": "the whole `announcements_feed` core module is contained in the MR here <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643>. I don’t think we are working anymore in the `announce` one.",
+        "user": "U6K08UK96",
+        "ts": "1676398271.899239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gmae",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the whole "
+                            },
+                            {
+                                "type": "text",
+                                "text": "announcements_feed",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " core module is contained in the MR here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I don’t think we are working anymore in the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "announce",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " one."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f807194f-c1b8-4a96-b139-16f921cdfd0a",
+        "type": "message",
+        "text": "here is the MR <https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889\/diffs>",
+        "user": "U6K08UK96",
+        "ts": "1676398303.865509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xiV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "here is the MR "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889\/diffs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889\/diffs",
+                "thumb_url": "https:\/\/git.drupalcode.org\/assets\/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg",
+                "thumb_width": 1024,
+                "thumb_height": 1024,
+                "service_icon": "https:\/\/git.drupalcode.org\/assets\/apple-touch-icon-b049d4bc0dd9626f31db825d61880737befc7835982586d015bded10b4435460.png",
+                "id": 1,
+                "original_url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889\/diffs",
+                "fallback": "GitLab: #3206643: Project messaging channel in core (!2889) · Merge requests · project \/ drupal · GitLab",
+                "text": "Closes #3206643",
+                "title": "#3206643: Project messaging channel in core (!2889) · Merge requests · project \/ drupal · GitLab",
+                "title_link": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889\/diffs",
+                "service_name": "GitLab",
+                "fields": [
+                    {
+                        "value": "Benji Fisher",
+                        "title": "Author",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d54748b9-62b6-49b8-8c8a-8e7c7319c6d3",
+        "type": "message",
+        "text": "Yep - applying that as `…\/2889.patch` worked perfectly. Thanks!",
+        "user": "UCV2S889L",
+        "ts": "1676398803.529879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4JgEv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep - applying that as "
+                            },
+                            {
+                                "type": "text",
+                                "text": "…\/2889.patch",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " worked perfectly. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "514c73143373",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2070193597249_514c731433738148c99c_72.jpg",
+            "first_name": "Andy",
+            "real_name": "Andy Blum",
+            "display_name": "andy-blum",
+            "team": "T06GX3JTS",
+            "name": "andy.blum.01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U4KAE8Q91",
+                    "U1A7P6GTZ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

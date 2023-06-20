@@ -1,0 +1,125 @@
+[
+    {
+        "client_msg_id": "7d93fbea-cc39-4538-ac06-43d4be930ab9",
+        "type": "message",
+        "text": "I've incorporated the feedback - let me know if it looks good: <https:\/\/www.drupal.org\/project\/governance\/issues\/3345037#comment-14947556>",
+        "user": "U06NAEYSF",
+        "ts": "1678749494.114659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fMt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've incorporated the feedback - let me know if it looks good: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/governance\/issues\/3345037#comment-14947556"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/governance\/issues\/3345037#comment-14947556",
+                "ts": 1677613544,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/governance\/issues\/3345037#comment-14947556",
+                "fallback": "Drupal.org: Draft second project announcements \"the community behind the code\"",
+                "text": "Problem\/Motivation Per request from: [#3206643] We want to have at least 3 initial posts in the announcements feed before it is committed as experimental. This issue is for the second post. Current thinking is: \"The Community Behind the Code\" or \"Come for the Code Stay for the Community\" - an introductory post to provide basic end-user education about the open source community behind the project. Draft of 2nd post Remaining tasks Draft Ask a core maintainer to review Post to d.o Update the json feed",
+                "title": "Draft second project announcements \"the community behind the code\"",
+                "title_link": "https:\/\/www.drupal.org\/project\/governance\/issues\/3345037#comment-14947556",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1678219448.663129",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "19d3c185-df9e-4546-8b88-1ddd4ee2631a",
+        "type": "message",
+        "text": "While we're at it - hopefully this is a much easier one to approve: <https:\/\/www.drupal.org\/project\/governance\/issues\/3345573>",
+        "user": "U06NAEYSF",
+        "ts": "1678749515.792239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qjF1b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "While we're at it - hopefully this is a much easier one to approve: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/governance\/issues\/3345573"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/governance\/issues\/3345573",
+                "ts": 1677781793,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/governance\/issues\/3345573",
+                "fallback": "Drupal.org: Cross-post and backdate the Drupal 10.0.0 announcement to the project announcements feed.",
+                "text": "Problem\/Motivation Suggestion per @catch is that we should cross-post the last major version announcement blog to the announcements feed. That would be: <https:\/\/www.drupal.org\/blog\/drupal-10-0-0> To be on the safe side, will ask for a plus 1 from core. Remaining tasks Need RTBC from core Will cross-post Will adjust date Will update the feed",
+                "title": "Cross-post and backdate the Drupal 10.0.0 announcement to the project announcements feed.",
+                "title_link": "https:\/\/www.drupal.org\/project\/governance\/issues\/3345573",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1678219448.663129",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

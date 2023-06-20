@@ -1,0 +1,460 @@
+[
+    {
+        "client_msg_id": "432f12e9-7256-497c-ad98-615a93ac05e1",
+        "type": "message",
+        "text": "One question on the announcement list…. we will show all the featured upto 10 and if there are slots available we will show the standard messages. Something like `standard_message = 10 - no of featured messages`",
+        "user": "U4PT7ES0M",
+        "ts": "1649250609.895389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5UcB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One question on the announcement list…. we will show all the featured upto 10 and if there are slots available we will show the standard messages. Something like "
+                            },
+                            {
+                                "type": "text",
+                                "text": "standard_message = 10 - no of featured messages",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649225194.440399",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649256049.421809",
+        "user": "U03951VJN48",
+        "text": "<@U03951VJN48> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649257404.426389",
+        "user": "U4KAE8Q91",
+        "text": "<@U4KAE8Q91> has joined the channel"
+    },
+    {
+        "client_msg_id": "c13d2481-2beb-4003-8d21-2e56643b1253",
+        "type": "message",
+        "text": "<@U3U1SD32R> <@U06NAEYSF> can we add more data into <https:\/\/www.drupal.org\/section-blog\/3223030\/feed> so testing can be done with the real data?",
+        "user": "U4KAE8Q91",
+        "ts": "1649257619.459519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vT4w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U3U1SD32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can we add more data into "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/section-blog\/3223030\/feed"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so testing can be done with the real data?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649225194.440399",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "00bef93d-f798-431a-8255-db8d96f6cb26",
+        "type": "message",
+        "text": "I expect the automated testing for announce to use test fixtures, and not make any http requests. A <http:\/\/Drupal.org|Drupal.org> dev site can be used to make more test fixtures as-needed.",
+        "user": "U3U1SD32R",
+        "ts": "1649257976.869959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lYap",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I expect the automated testing for announce to use test fixtures, and not make any http requests. A "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Drupal.org",
+                                "text": "Drupal.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " dev site can be used to make more test fixtures as-needed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649225194.440399",
+        "parent_user_id": "U4PT7ES0M",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1715c056-f4e2-44f1-8072-c9c8285e7a3a",
+        "type": "message",
+        "text": "<https:\/\/www.drupal.org\/section-blog\/3223030\/feed> _is not_ the actual feed used. See the source code of the module \/ merge request for what’s used.",
+        "user": "U3U1SD32R",
+        "ts": "1649258037.342319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kwPw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/section-blog\/3223030\/feed"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "is not",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " the actual feed used. See the source code of the module \/ merge request for what’s used."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649225194.440399",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "06dab52f-6816-4613-b558-60eb008261bd",
+        "type": "message",
+        "text": "I can come up with some posts on a dev site to be turned into fixtures.",
+        "user": "U06NAEYSF",
+        "ts": "1649260381.879359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Pll",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can come up with some posts on a dev site to be turned into fixtures."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649225194.440399",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "5b575873-0470-4826-a309-d4cf4772d065",
+        "type": "message",
+        "text": "<@U4PT7ES0M> - Yes, I think that is th eright logic for which messages we need to show.\nAnd yes I think this still needs a patch.",
+        "user": "U06NAEYSF",
+        "ts": "1649261222.162049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "taA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Yes, I think that is th eright logic for which messages we need to show.\nAnd yes I think this still needs a patch."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649225194.440399",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "b816e489-34c7-4df7-af88-026d7bf07daf",
+        "type": "message",
+        "text": "&gt; 10 messages displayed = Filtered feed by version matches[Featured messages + 10-featuredmessages(standardmessages)] ",
+        "user": "U06NAEYSF",
+        "ts": "1649261258.750709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UBHs",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10 messages displayed = Filtered feed by version matches[Featured messages + 10-featuredmessages(standardmessages)] "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649225194.440399",
+        "parent_user_id": "U4PT7ES0M",
+        "reactions": [
+            {
+                "name": "plus_one",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b6976b9-ac68-4d08-b26b-0f989bfff2b5",
+        "type": "message",
+        "text": "Thank you <@U4PT7ES0M>",
+        "user": "U06NAEYSF",
+        "ts": "1649261278.012499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4iKB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649225239.973179",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "4e1dda6e-f560-45f2-8a55-7cf4b75818e4",
+        "type": "message",
+        "text": "Perfect.",
+        "user": "U06NAEYSF",
+        "ts": "1649263439.915509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gGg\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1643320164.002500",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

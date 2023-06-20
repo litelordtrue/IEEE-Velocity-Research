@@ -1,0 +1,367 @@
+[
+    {
+        "client_msg_id": "3c11bcdd-c932-4fa2-ae83-91df5f8b6a4b",
+        "type": "message",
+        "text": "Updates for today:\n• We are good with the BE changes\n• Theming refactoring is merged in module’s code now..\n• Claro and Seven refactoring related patch has been added <https:\/\/www.drupal.org\/project\/announce\/issues\/3245363|here> \n• I will upload the final patch in some time.",
+        "user": "U2T8M7PA4",
+        "ts": "1634918546.002400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QsAG9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Updates for today:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We are good with the BE changes"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Theming refactoring is merged in module’s code now.."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Claro and Seven refactoring related patch has been added "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3245363",
+                                        "text": "here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I will upload the final patch in some time."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Placeholder ticket to store the claro and seven theme patch",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3245363",
+                "text": "Problem\/Motivation Steps to reproduce Proposed resolution Remaining tasks User interface changes API changes Data model changes",
+                "fallback": "Drupal.org: Placeholder ticket to store the claro and seven theme patch",
+                "ts": 1634915829,
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3245363",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3245363"
+            }
+        ],
+        "thread_ts": "1634918546.002400",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1634918927.003400",
+        "reply_users": [
+            "U06NAEYSF",
+            "U2T8M7PA4"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1634918829.002600"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1634918858.002800"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1634918909.003000"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1634918923.003200"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1634918927.003400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ce4b2a98-0087-43d2-a0e8-3e6914f92bb8",
+        "type": "message",
+        "text": "Thank you, <@U2T8M7PA4>! Should people start reviewing the claro and seven related patch yet, or wait for the \"final patch\" you are working on?",
+        "user": "U06NAEYSF",
+        "ts": "1634918829.002600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hAd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Should people start reviewing the claro and seven related patch yet, or wait for the \"final patch\" you are working on?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634918546.002400",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "c04b448a-f336-408b-9e66-8be9a6d82c19",
+        "type": "message",
+        "text": "Should we maybe ask <@U47JYK2DT> to help us spin up a drupalpod environment with all of the latest changes to make reviews easier?",
+        "user": "U06NAEYSF",
+        "ts": "1634918858.002800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2HQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should we maybe ask "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U47JYK2DT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to help us spin up a drupalpod environment with all of the latest changes to make reviews easier?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634918546.002400",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "314c9453-4fc9-4767-974c-80534228fe6d",
+        "type": "message",
+        "text": "Let’s wait for the final patch.\nFinal patch will have everything including changes related to claro and seven.",
+        "user": "U2T8M7PA4",
+        "ts": "1634918909.003000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "23d4a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let’s wait for the final patch.\nFinal patch will have everything including changes related to claro and seven."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634918546.002400",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "080cb979-97b2-485c-9409-6c08cf29494f",
+        "type": "message",
+        "text": "Okay perfect :thankful:",
+        "user": "U06NAEYSF",
+        "ts": "1634918923.003200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zUDD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay perfect "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thankful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634918546.002400",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "f4824d0f-7695-44fa-a455-1ce84836e968",
+        "type": "message",
+        "text": "I am waiting for few things from the team. Will keep you posted.",
+        "user": "U2T8M7PA4",
+        "ts": "1634918927.003400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8M2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am waiting for few things from the team. Will keep you posted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634918546.002400",
+        "parent_user_id": "U2T8M7PA4",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06NAEYSF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

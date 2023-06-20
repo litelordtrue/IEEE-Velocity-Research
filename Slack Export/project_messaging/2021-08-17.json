@@ -1,0 +1,328 @@
+[
+    {
+        "type": "message",
+        "text": "<@U06NAEYSF> I think there has been some confusion here.\nSo we have a new URL defined in routing yml which takes us to “\/announcement” url.\n\nSomething like in attached screenshot. Do we need dedicated page like this?",
+        "files": [
+            {
+                "id": "F02BTLASSAV",
+                "created": 1629205988,
+                "timestamp": 1629205988,
+                "name": "Community_Announcements___Drush_Site-Install.png",
+                "title": "Community_Announcements___Drush_Site-Install.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U2T8M7PA4",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 170010,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02BTLASSAV\/community_announcements___drush_site-install.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02BTLASSAV\/download\/community_announcements___drush_site-install.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02BTLASSAV-996720c9bf\/community_announcements___drush_site-install_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02BTLASSAV-996720c9bf\/community_announcements___drush_site-install_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02BTLASSAV-996720c9bf\/community_announcements___drush_site-install_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 313,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02BTLASSAV-996720c9bf\/community_announcements___drush_site-install_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 418,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02BTLASSAV-996720c9bf\/community_announcements___drush_site-install_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02BTLASSAV-996720c9bf\/community_announcements___drush_site-install_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 627,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02BTLASSAV-996720c9bf\/community_announcements___drush_site-install_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 696,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02BTLASSAV-996720c9bf\/community_announcements___drush_site-install_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 836,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02BTLASSAV-996720c9bf\/community_announcements___drush_site-install_1024.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 891,
+                "original_w": 1450,
+                "original_h": 1262,
+                "thumb_tiny": "AwApADBhs27XEf50n2Jv+fiKmlRnijbV8hnzjjZH\/nvFR9hP\/PxFSYX+7+tGF\/u\/rRyj5xRY8jM8WPrThZ4\/5eI\/++qjIHYYoxijkFzmn9mg\/u\/rSfZ4P7o\/OpGALcgUbR0wtTdl2RGLeHJ+X9aX7ND\/AHf1qTaP7q0oyBwBRdhZEX2WH+5+po+yw\/3P1NS8+g\/Ojn0H50XYWREZoSc+cn5ilE8I\/wCWyf8AfVYlFIZufaIf+eqf99UfaIf+eqf99Vh0UAbn2iH\/AJ6p\/wB9UfaIf+eqf99Vh0UAf\/\/Z",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U2T8M7PA4\/F02BTLASSAV\/community_announcements___drush_site-install.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F02BTLASSAV-fb06800868",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U2T8M7PA4",
+        "display_as_bot": false,
+        "ts": "1629206021.016900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uHW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think there has been some confusion here.\nSo we have a new URL defined in routing yml which takes us to “\/announcement” url.\n\nSomething like in attached screenshot. Do we need dedicated page like this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629120534.006200",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "02b7b12c-0fbd-499b-b208-c67d9fe721d7",
+        "type": "message",
+        "text": "<https:\/\/www.figma.com\/proto\/Ws4Gk0ImaripDb4NAlTvCBtZ\/Community-Alerts---Desktop--v2?node-id=41%3A4075&amp;viewport=-19%2C551%2C0.11556927114725113&amp;scaling=min-zoom|https:\/\/www.figma.com\/proto\/Ws4Gk0ImaripDb4NAlTvCBtZ\/Community-Alerts---Desktop--v2[…]4075&amp;viewport=-19%2C551%2C0.11556927114725113&amp;scaling=min-zoom>\nIn 10th design, there is a feature to mark each notification as `Mark as read`\/`Mark as unread`.\n\nI didn’t found implementation related to that.",
+        "user": "U2T8M7PA4",
+        "ts": "1629206667.017300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/XtuF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.figma.com\/proto\/Ws4Gk0ImaripDb4NAlTvCBtZ\/Community-Alerts---Desktop--v2?node-id=41%3A4075&viewport=-19%2C551%2C0.11556927114725113&scaling=min-zoom",
+                                "text": "https:\/\/www.figma.com\/proto\/Ws4Gk0ImaripDb4NAlTvCBtZ\/Community-Alerts---Desktop--v2[…]4075&viewport=-19%2C551%2C0.11556927114725113&scaling=min-zoom"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIn 10th design, there is a feature to mark each notification as "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Mark as read",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Mark as unread",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nI didn’t found implementation related to that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Figma",
+                "title": "Community Alerts - Desktop- v2",
+                "title_link": "https:\/\/www.figma.com\/proto\/Ws4Gk0ImaripDb4NAlTvCBtZ\/Community-Alerts---Desktop--v2?node-id=41%3A4075&viewport=-19%2C551%2C0.11556927114725113&scaling=min-zoom",
+                "text": "Created with Figma",
+                "fallback": "Figma: Community Alerts - Desktop- v2",
+                "thumb_url": "https:\/\/www.figma.com\/file\/Ws4Gk0ImaripDb4NAlTvCBtZ\/thumbnail?ver=thumbnails\/2c8645fc-b50b-40dd-8936-94460e6602de",
+                "image_url": "https:\/\/www.figma.com\/file\/Ws4Gk0ImaripDb4NAlTvCBtZ\/thumbnail?ver=thumbnails\/2c8645fc-b50b-40dd-8936-94460e6602de",
+                "image_width": 798,
+                "image_height": 51,
+                "from_url": "https:\/\/www.figma.com\/proto\/Ws4Gk0ImaripDb4NAlTvCBtZ\/Community-Alerts---Desktop--v2?node-id=41%3A4075&viewport=-19%2C551%2C0.11556927114725113&scaling=min-zoom",
+                "thumb_width": 798,
+                "thumb_height": 51,
+                "image_bytes": 9035,
+                "service_icon": "https:\/\/static.figma.com\/app\/icon\/1\/touch-76.png",
+                "id": 1,
+                "original_url": "https:\/\/www.figma.com\/proto\/Ws4Gk0ImaripDb4NAlTvCBtZ\/Community-Alerts---Desktop--v2?node-id=41%3A4075&amp;viewport=-19%2C551%2C0.11556927114725113&amp;scaling=min-zoom"
+            }
+        ],
+        "thread_ts": "1629120554.006800",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "b27d56d2-cc92-444b-93d7-b3adeeb5262b",
+        "type": "message",
+        "text": "<@U6KM25QT0> or <@U1CV1TM1D> do you remember if we actually got this implemented or just talked about?",
+        "user": "U06NAEYSF",
+        "ts": "1629213296.017700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wGM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6KM25QT0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1CV1TM1D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you remember if we actually got this implemented or just talked about?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120554.006800",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1629213309.018000",
+        "user": "U6KM25QT0",
+        "text": "<@U6KM25QT0> has joined the channel",
+        "inviter": "U06NAEYSF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1629213309.018200",
+        "user": "U1CV1TM1D",
+        "text": "<@U1CV1TM1D> has joined the channel",
+        "inviter": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "9fe89df8-a5d9-4298-a962-fa94ae4fe19e",
+        "type": "message",
+        "text": "We decided: no.  Instead we will go straight from the announcement teasers to the original post on <http:\/\/drupal.org|drupal.org>",
+        "user": "U06NAEYSF",
+        "ts": "1629213392.018300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8GE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We decided: no.  Instead we will go straight from the announcement teasers to the original post on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/drupal.org",
+                                "text": "drupal.org"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120534.006200",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "7b2a0ad6-d573-4aa2-addb-c5914e43466e",
+        "type": "message",
+        "text": "Sounds good!",
+        "user": "U06NAEYSF",
+        "ts": "1629213450.018500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bK8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120543.006500",
+        "parent_user_id": "U2T8M7PA4"
+    }
+]

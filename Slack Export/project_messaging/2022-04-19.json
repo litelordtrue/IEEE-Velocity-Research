@@ -1,0 +1,149 @@
+[
+    {
+        "type": "message",
+        "text": "<@U4PT7ES0M> attached is json file for testing - let me know if this unblocks you from moving forward.  Let me know if you want to have this attached to <http:\/\/drupal.org|drupal.org> issue.",
+        "files": [
+            {
+                "id": "F03BV9C9LH4",
+                "created": 1650384877,
+                "timestamp": 1650384877,
+                "name": "announcements-this-is-only-a-test.json",
+                "title": "announcements-this-is-only-a-test.json",
+                "mimetype": "text\/plain",
+                "filetype": "javascript",
+                "pretty_type": "JavaScript",
+                "user": "U4KAE8Q91",
+                "user_team": "T06GX3JTS",
+                "editable": true,
+                "size": 6780,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F03BV9C9LH4\/announcements-this-is-only-a-test.json?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F03BV9C9LH4\/download\/announcements-this-is-only-a-test.json?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U4KAE8Q91\/F03BV9C9LH4\/announcements-this-is-only-a-test.json",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F03BV9C9LH4-cc05580b95",
+                "edit_link": "https:\/\/drupal.slack.com\/files\/U4KAE8Q91\/F03BV9C9LH4\/announcements-this-is-only-a-test.json\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U4KAE8Q91",
+        "display_as_bot": false,
+        "ts": "1650384945.914839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jTil",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " attached is json file for testing - let me know if this unblocks you from moving forward.  Let me know if you want to have this attached to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/drupal.org",
+                                "text": "drupal.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " issue."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "69c7426f-f013-4ea8-8c1c-ec0b5b925e9d",
+        "thread_ts": "1650384945.914839",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1650555640.345369",
+        "reply_users": [
+            "U4PT7ES0M",
+            "U4KAE8Q91"
+        ],
+        "replies": [
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1650435939.945059"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1650468029.627369"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1650525501.790909"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1650555640.345369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b5573f76-c62a-4818-a841-98c770e57030",
+        "type": "message",
+        "text": "<@U4KAE8Q91> as I mentioned we already have few mocks in handy. But yeah this helps :smile:",
+        "user": "U4PT7ES0M",
+        "ts": "1650435939.945059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uh9K5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4KAE8Q91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as I mentioned we already have few mocks in handy. But yeah this helps "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1650384945.914839",
+        "parent_user_id": "U4KAE8Q91"
+    }
+]

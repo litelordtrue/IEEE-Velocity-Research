@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "938a8bfc-d479-44f4-b27b-dd59eedc0ebf",
+        "type": "message",
+        "text": "yay! I love seeing this moving forward!! :tada:",
+        "user": "U1ET7192M",
+        "ts": "1634579264.108100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ooXJ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yay! I love seeing this moving forward!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1634621842.108400",
+        "user": "U01RG97SUNL",
+        "text": "<@U01RG97SUNL> has joined the channel",
+        "inviter": "U2T8M7PA4"
+    }
+]

@@ -1,0 +1,563 @@
+[
+    {
+        "client_msg_id": "5a8b73c2-27f7-491e-a980-451f83213027",
+        "type": "message",
+        "text": "Hi <@U06NAEYSF>\nI would like to share the quick update here:\n:one: PR feedback on FunctionalJavascript test:\n<@U4PT7ES0M> has worked on it and <https:\/\/www.drupal.org\/project\/announce\/issues\/3198730|PR> is updated. I think we can ask someone to review this.",
+        "user": "U2T8M7PA4",
+        "ts": "1629899084.007300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kkIpF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI would like to share the quick update here:\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "one",
+                                "unicode": "0031-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " PR feedback on FunctionalJavascript test:\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has worked on it and "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3198730",
+                                "text": "PR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is updated. I think we can ask someone to review this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2T8M7PA4",
+            "ts": "1629899127.000000"
+        },
+        "thread_ts": "1629899084.007300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1629899264.009400",
+        "reply_users": [
+            "U2T8M7PA4",
+            "U1CV1TM1D"
+        ],
+        "replies": [
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1629899236.009200"
+            },
+            {
+                "user": "U1CV1TM1D",
+                "ts": "1629899264.009400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "16abbdc1-992d-48f0-9498-3300dd919dc0",
+        "type": "message",
+        "text": ":two: Need some help in deciding approach to handle notification read\/unread feature.\nI think we had some discussion <https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1629120554006800|here>, but I am not sure it is implemented currently.",
+        "user": "U2T8M7PA4",
+        "ts": "1629899132.008400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UsC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "two",
+                                "unicode": "0032-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Need some help in deciding approach to handle notification read\/unread feature.\nI think we had some discussion "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1629120554006800",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", but I am not sure it is implemented currently."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629899132.008400",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1629903303.011000",
+        "reply_users": [
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629902840.010500"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629903259.010700"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629903303.011000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0ab6943a-7775-47e3-a832-872c77be8a45",
+        "type": "message",
+        "text": ":three: PR reviews:\n<@U4PT7ES0M> has also worked on one more <https:\/\/www.drupal.org\/project\/announce\/issues\/3228518|PR> about cron implementation. I think we can get it reviewed by someone.\n<@U6KM25QT0>, I really appreciate your insights here.\n\nOverall, what I feel is we should open a PR for Drupal core merge and we can start getting early feedback from committer team.\nI’m hoping to do it around 30th August.",
+        "user": "U2T8M7PA4",
+        "ts": "1629899139.008700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EnNh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "three",
+                                "unicode": "0033-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " PR reviews:\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has also worked on one more "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3228518",
+                                "text": "PR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " about cron implementation. I think we can get it reviewed by someone.\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6KM25QT0"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I really appreciate your insights here.\n\nOverall, what I feel is we should open a PR for Drupal core merge and we can start getting early feedback from committer team.\nI’m hoping to do it around 30th August."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "192556b9-db83-42ce-a1d9-2865c440a5d5",
+        "type": "message",
+        "text": "<@U1CV1TM1D>, if time permits, can you please review this.",
+        "user": "U2T8M7PA4",
+        "ts": "1629899236.009200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6t2Fs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1CV1TM1D"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", if time permits, can you please review this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629899084.007300",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "e4c574bb-b154-43bd-bc29-47c9e9c02ddb",
+        "type": "message",
+        "text": "yep will try to review today.\nthanks for working on this!",
+        "user": "U1CV1TM1D",
+        "ts": "1629899264.009400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PKU\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep will try to review today.\nthanks for working on this!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "4e54ccbc1b86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-17\/170945309158_4e54ccbc1b868de21a51_72.jpg",
+            "first_name": "Ted",
+            "real_name": "Ted Bowman",
+            "display_name": "tedbow",
+            "team": "T06GX3JTS",
+            "name": "tedbow",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629899084.007300",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "a36a0987-017d-4c38-bee8-afe656566933",
+        "type": "message",
+        "text": "+1 to getting the core MR open soon - to get that early feedback as quick as we can.",
+        "user": "U06NAEYSF",
+        "ts": "1629902715.010000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uAabq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 to getting the core MR open soon - to get that early feedback as quick as we can."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1983e169-4757-43ed-9420-ffc65a27c653",
+        "type": "message",
+        "text": "<@U2T8M7PA4> you could use this existing issue to open that MR: <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643>",
+        "user": "U06NAEYSF",
+        "ts": "1629902785.010300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XLHvP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you could use this existing issue to open that MR: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Project messaging channel in core",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643",
+                "text": "Problem\/Motivation Per the core idea issue: [#2940739] The vast majority of Drupal users do not have accounts on <http:\/\/Drupal.org|Drupal.org>, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association. The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core.",
+                "fallback": "Drupal.org: Project messaging channel in core",
+                "ts": 1617212298,
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3ff0358-e401-4c41-8293-50de5c2e8ade",
+        "type": "message",
+        "text": "I think that we wanted to store read\/unread status on the user object - I remember Ted giving some specific feedback on that front -- trying to find if there is an issue there.",
+        "user": "U06NAEYSF",
+        "ts": "1629902840.010500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uxkt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think that we wanted to store read\/unread status on the user object - I remember Ted giving some specific feedback on that front -- trying to find if there is an issue there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629899132.008400",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "2b48bae0-cb32-487f-8761-c1273ba8a49e",
+        "type": "message",
+        "text": "Unfortunately - I don't think we documented our final decision: <https:\/\/www.drupal.org\/project\/announce\/issues\/3071980>",
+        "user": "U06NAEYSF",
+        "ts": "1629903259.010700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TZOmt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unfortunately - I don't think we documented our final decision: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071980"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "'Alerts' menu item and unread message notification",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071980",
+                "text": "There are a number of options for handling the 'unread message' icon in the feed of announcements, in increasing order of complexity these are: A - Have no read\/unread icon at all B - Manage read\/unread status globally for all messages- regardless of what user actually views the message C - Manage read\/unread status globally for all messages on a per browser basis with local storage D - Manage read\/unread status globally for all messages on a per user basis E - Manage read\/unread status individually per message- regardless of what user actually views the message F - Manage read\/unread status",
+                "fallback": "Drupal.org: 'Alerts' menu item and unread message notification",
+                "ts": 1564676512,
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071980",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071980"
+            }
+        ],
+        "thread_ts": "1629899132.008400",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "4e8361dc-8532-4165-949a-21b53702e094",
+        "type": "message",
+        "text": "<@U1CV1TM1D> ^^ If you remember a specific recommendation let's update that issue.",
+        "user": "U06NAEYSF",
+        "ts": "1629903303.011000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DxB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1CV1TM1D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^ If you remember a specific recommendation let's update that issue."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629899132.008400",
+        "parent_user_id": "U2T8M7PA4"
+    }
+]

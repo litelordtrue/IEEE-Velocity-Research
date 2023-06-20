@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "87dad9ae-8eeb-47d3-8fda-3738228ce729",
+        "type": "message",
+        "text": "I'm really sorry I've not had a chance to look at this yet. Been a crazy few days :slightly_smiling_face:",
+        "user": "U7G1P7P6Z",
+        "ts": "1639663261.084500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U7PK+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm really sorry I've not had a chance to look at this yet. Been a crazy few days "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "4aad7a9e94b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-24\/369562018290_4aad7a9e94b138fd3982_72.jpg",
+            "first_name": "Drew",
+            "real_name": "Drew Webber",
+            "display_name": "mcdruid",
+            "team": "T06GX3JTS",
+            "name": "drew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638967530.077400",
+        "parent_user_id": "U2T8M7PA4"
+    }
+]

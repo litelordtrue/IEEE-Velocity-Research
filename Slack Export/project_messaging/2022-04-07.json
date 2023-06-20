@@ -1,0 +1,440 @@
+[
+    {
+        "client_msg_id": "c7af8b58-04ef-4255-84be-fc2c6729c30b",
+        "type": "message",
+        "text": "<@U4KAE8Q91> follow this thread for the fix <https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1631669703014500>",
+        "user": "U4PT7ES0M",
+        "ts": "1649328556.987449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uf8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4KAE8Q91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " follow this thread for the fix "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1631669703014500"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4PT7ES0M",
+            "ts": "1649328592.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1631669703014500",
+                "ts": "1631669703.014500",
+                "author_id": "U1CREGN04",
+                "channel_team": "T06GX3JTS",
+                "channel_id": "C02AFHAUNET",
+                "channel_name": "project_messaging",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T06GX3JTS",
+                        "channel": "C02AFHAUNET",
+                        "ts": "1631669703.014500",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "Ay9iB",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Hey everyone! I pulled in the MR diff, and enabled the "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "announce",
+                                                    "style": {
+                                                        "code": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " module, but my styling looks different than the screenshots or Figma. Am I doing something wrong, or does the styling just need a bit of TLC?"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F02ECTHML6R",
+                        "created": 1631669698,
+                        "timestamp": 1631669698,
+                        "name": "image.png",
+                        "title": "image.png",
+                        "mimetype": "image\/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "U1CREGN04",
+                        "user_team": "T06GX3JTS",
+                        "editable": false,
+                        "size": 44343,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02ECTHML6R\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02ECTHML6R\/download\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02ECTHML6R-973a8c6a5b\/image_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02ECTHML6R-973a8c6a5b\/image_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02ECTHML6R-973a8c6a5b\/image_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 261,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02ECTHML6R-973a8c6a5b\/image_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 349,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02ECTHML6R-973a8c6a5b\/image_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02ECTHML6R-973a8c6a5b\/image_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 523,
+                        "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02ECTHML6R-973a8c6a5b\/image_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 581,
+                        "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02ECTHML6R-973a8c6a5b\/image_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "thumb_960_w": 960,
+                        "thumb_960_h": 697,
+                        "original_w": 1005,
+                        "original_h": 730,
+                        "thumb_tiny": "AwAiADC19ih\/2\/8Avs0fYof9v\/vs1ZwPSjAoArfYof8Ab\/77NJ9ji9H\/AO+zVk8Ams\/+0H\/uL+ZoAsCzix\/F\/wB9ml+yRD5huyOfvmq\/9oSf3FoW+dmClF5OKANCiijOaAEb7p+lYlbbfdP0rEoAKdH\/AKxfqKbTo\/8AWL9RQBtUUUUAI33T9KxK22+6fpWJQAU6P\/WL9RTadH\/rF+ooA\/\/Z",
+                        "permalink": "https:\/\/drupal.slack.com\/files\/U1CREGN04\/F02ECTHML6R\/image.png",
+                        "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F02ECTHML6R-bd3ff65de7",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1631669703014500",
+                "fallback": "[September 14th, 2021 6:35 PM] mherchel: Hey everyone! I pulled in the MR diff, and enabled the `announce` module, but my styling looks different than the screenshots or Figma. Am I doing something wrong, or does the styling just need a bit of TLC?",
+                "text": "Hey everyone! I pulled in the MR diff, and enabled the `announce` module, but my styling looks different than the screenshots or Figma. Am I doing something wrong, or does the styling just need a bit of TLC?",
+                "author_name": "Mike Herchel",
+                "author_link": "https:\/\/drupal.slack.com\/team\/U1CREGN04",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_48.jpg",
+                "author_subname": "Mike Herchel",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in #project_messaging"
+            }
+        ],
+        "thread_ts": "1649225194.440399",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "8afb6b27-962e-4563-ae00-75ec783b582f",
+        "type": "message",
+        "text": "<@U4PT7ES0M>, I tested this patch using DrupalPod and it works as expected.  I will work with <@U06NAEYSF> and <@U3U1SD32R> to figure out how to test filtering by version and report back on the issue when we have data for testing, hopefully tomorrow or Monday.",
+        "user": "U4KAE8Q91",
+        "ts": "1649344725.929159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F5p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I tested this patch using DrupalPod and it works as expected.  I will work with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U3U1SD32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to figure out how to test filtering by version and report back on the issue when we have data for testing, hopefully tomorrow or Monday."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4PT7ES0M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50f1fce9-ef15-4f98-97b1-b76eb7455fa2",
+        "type": "message",
+        "text": "Updated the remaining tasks section on: <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#summary-remaining-tasks>",
+        "user": "U06NAEYSF",
+        "ts": "1649359455.652469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kLfN9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Updated the remaining tasks section on: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#summary-remaining-tasks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#summary-remaining-tasks",
+                "ts": 1617212298,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#summary-remaining-tasks",
+                "fallback": "Drupal.org: Project messaging channel in core",
+                "text": "Problem\/Motivation Per the core idea issue: [#2940739] The vast majority of Drupal users do not have accounts on <http:\/\/Drupal.org|Drupal.org>, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association. The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core.",
+                "title": "Project messaging channel in core",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#summary-remaining-tasks",
+                "service_name": "Drupal.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf74f3d7-9f39-4944-a671-d2ebedd3d4b6",
+        "type": "message",
+        "text": "• Documentation and governance issues are now closed\n• Last open issue is: <https:\/\/www.drupal.org\/project\/announce\/issues\/3249532> \n• We are building out sample content on a dev site for testing the feed\n• We should decide what the 'first post' should be\n• After that, need to confirm consistency of the language throughout the module 'announcements vs. announce' just a double check\n• Then the MR should be opened and we should be back to getting core reviews! \n• The D7 version should be reviewed as well: <https:\/\/www.drupal.org\/project\/announce\/issues\/3071997>",
+        "user": "U06NAEYSF",
+        "ts": "1649359541.561339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uxlF7",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Documentation and governance issues are now closed"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Last open issue is: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We are building out sample content on a dev site for testing the feed"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We should decide what the 'first post' should be"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "After that, need to confirm consistency of the language throughout the module 'announcements vs. announce' just a double check"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Then the MR should be opened and we should be back to getting core reviews! "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The D7 version should be reviewed as well: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071997"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U06NAEYSF",
+            "ts": "1649782357.000000"
+        },
+        "thread_ts": "1649359541.561339",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1649953228.602329",
+        "reply_users": [
+            "U4PT7ES0M",
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1649675781.287439"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1649675941.250339"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1649782342.535759"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1649915269.143599"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1649953228.602329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

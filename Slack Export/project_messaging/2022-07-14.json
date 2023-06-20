@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "63f54536-21e3-4a88-9829-c9d1c6f68810",
+        "type": "message",
+        "text": "It looks like the version of the issue was updated by xjm to 10.1.x-dev -- so hopefully that means we can keep using the same issue.",
+        "user": "U06NAEYSF",
+        "ts": "1657816785.118229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hzeg1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It looks like the version of the issue was updated by xjm to 10.1.x-dev -- so hopefully that means we can keep using the same issue."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1657776606.136569",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "cdcf7e75-af8c-4dfe-94d2-e0e25fd0748e",
+        "type": "message",
+        "text": "Would you be able to do a re-roll for us? And\/or let us know the steps you're using to do the re-roll process? (I think you ahve a script you use? Might be helpful if more of us could learn your process for this issue)",
+        "user": "U06NAEYSF",
+        "ts": "1657816810.967089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l\/3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you be able to do a re-roll for us? And\/or let us know the steps you're using to do the re-roll process? (I think you ahve a script you use? Might be helpful if more of us could learn your process for this issue)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1657776606.136569",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "b86e1c78-a927-49c3-b214-9891974be4c0",
+        "type": "message",
+        "text": "<@U1CREGN04>",
+        "user": "U4KAE8Q91",
+        "ts": "1657817233.353289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BaqS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1CREGN04"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1657776606.136569",
+        "parent_user_id": "U4PT7ES0M"
+    }
+]

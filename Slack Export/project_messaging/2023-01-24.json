@@ -1,0 +1,374 @@
+[
+    {
+        "client_msg_id": "712e28ef-0bf1-4d92-888b-d47d1197e30f",
+        "type": "message",
+        "text": "<@U6K08UK96>, <@U4B423ANR>, <@U1CREGN04>, I wanted to check in see what is needed now to commit this to core :slightly_smiling_face:. thank you in advance!",
+        "user": "U4KAE8Q91",
+        "ts": "1674609699.202039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7NC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4B423ANR"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1CREGN04"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I wanted to check in see what is needed now to commit this to core "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". thank you in advance!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "reply_count": 45,
+        "reply_users_count": 6,
+        "latest_reply": "1675365929.475729",
+        "reply_users": [
+            "U06NAEYSF",
+            "U4B423ANR",
+            "U6K08UK96",
+            "U4KAE8Q91",
+            "U3U1SD32R",
+            "U7G1P7P6Z"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1674611617.967819"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1674611629.834569"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674676054.294799"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674676086.027549"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674676092.669009"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674676122.751299"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674676130.639399"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674676150.790019"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674676240.003899"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674676287.531249"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674676311.761119"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674676335.929579"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674676388.236289"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674676407.735969"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674677360.277499"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1674678617.931929"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674678671.278129"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1674678674.274759"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1674678724.868039"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674678754.734079"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674678817.914309"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1674678987.664979"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674679084.340939"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1674679202.497239"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1674679272.463469"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1674679408.762069"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1674679554.085569"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1674679593.065479"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1674680064.459669"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1674680225.593769"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1674682321.034819"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1674682333.448319"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1674684569.820529"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674754188.100519"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674754403.266129"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1674754472.998999"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1674754493.962399"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674754660.996859"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1674754717.984029"
+            },
+            {
+                "user": "U7G1P7P6Z",
+                "ts": "1675072054.133939"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1675365192.138729"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1675365790.438379"
+            },
+            {
+                "user": "U4B423ANR",
+                "ts": "1675365863.887329"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1675365871.732989"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1675365929.475729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "62a6d66a-258b-4b42-a953-81496f6b6292",
+        "type": "message",
+        "text": "I *think* the answer is we need to get people for each of the needs_whatever_review tags to check out the drupalpod demo and sign off\/remove the tag.",
+        "user": "U06NAEYSF",
+        "ts": "1674611617.967819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+a5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "think ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "the answer is we need to get people for each of the needs_whatever_review tags to check out the drupalpod demo and sign off\/remove the tag."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "457a14d0-fb2d-486d-b463-b628e56f7325",
+        "type": "message",
+        "text": "I also have to respond to Gábor's feedback on the first post.",
+        "user": "U06NAEYSF",
+        "ts": "1674611629.834569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5iKS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also have to respond to Gábor's feedback on the first post."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

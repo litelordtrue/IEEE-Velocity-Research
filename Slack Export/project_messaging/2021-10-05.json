@@ -1,0 +1,479 @@
+[
+    {
+        "client_msg_id": "f6d905aa-8401-4790-884a-d681dea09423",
+        "type": "message",
+        "text": "There is also a suggestion to remove `_target=blank`  from the template (check out the last para of this <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14219226|comment>). Let's also deal that along with this <https:\/\/www.drupal.org\/project\/announce\/issues\/3236293#comment-14246135|issue>. Thoughts ?? <@U06NAEYSF> <@U2T8M7PA4>",
+        "user": "U4PT7ES0M",
+        "ts": "1633441630.085700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=gaK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is also a suggestion to remove "
+                            },
+                            {
+                                "type": "text",
+                                "text": "_target=blank",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  from the template (check out the last para of this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14219226",
+                                "text": "comment"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). Let's also deal that along with this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236293#comment-14246135",
+                                "text": "issue"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Thoughts ?? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633441630.085700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1633442489.087500",
+        "reply_users": [
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1633442489.087500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7cd4c437-1faa-4b8d-85b5-5113bb57a9c6",
+        "type": "message",
+        "text": "Hey <@U21M96DQU> can I get some inputs on this issue <https:\/\/www.drupal.org\/project\/announce\/issues\/3236293>",
+        "user": "U4PT7ES0M",
+        "ts": "1633441855.086500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YS6N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U21M96DQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can I get some inputs on this issue "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236293"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633441855.086500",
+        "reply_count": 11,
+        "reply_users_count": 4,
+        "latest_reply": "1633531366.089300",
+        "reply_users": [
+            "U21M96DQU",
+            "U3U1SD32R",
+            "U06NAEYSF",
+            "U4PT7ES0M"
+        ],
+        "replies": [
+            {
+                "user": "U21M96DQU",
+                "ts": "1633441951.086800"
+            },
+            {
+                "user": "U21M96DQU",
+                "ts": "1633442179.087000"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1633442343.087200"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1633442425.087400"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1633446317.087700"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1633529424.088000"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1633529599.088300"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1633530500.088500"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1633530749.088800"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1633531151.089000"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1633531366.089300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fae7e10b-6e16-4d26-a97a-71f38159116d",
+        "type": "message",
+        "text": "looking",
+        "user": "U21M96DQU",
+        "ts": "1633441951.086800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ms=J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "looking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633441855.086500",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "e23a31f1-8bf0-4e46-8aa2-914d2b2ba7e2",
+        "type": "message",
+        "text": "<@U06NAEYSF> <@U3U1SD32R> have you seen the list of trusted domains for the announce module? are the two the only ones that should be allowed? no fallback domain in case we \"facebook\" ourselves out of the network somehow?",
+        "user": "U21M96DQU",
+        "ts": "1633442179.087000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yC5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U3U1SD32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have you seen the list of trusted domains for the announce module? are the two the only ones that should be allowed? no fallback domain in case we \"facebook\" ourselves out of the network somehow?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633441855.086500",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "5291c255-fc2c-4de6-8679-5452a35b5310",
+        "type": "message",
+        "text": "I’m more concerned about future-proofing. We can’t rely on everyone to upgrade their Drupal sites in a timely manner, so this list is effectively permanent.",
+        "user": "U3U1SD32R",
+        "ts": "1633442343.087200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iq+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m more concerned about future-proofing. We can’t rely on everyone to upgrade their Drupal sites in a timely manner, so this list is effectively permanent."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633441855.086500",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "25346ca4-4099-46c6-b417-a744f307fec8",
+        "type": "message",
+        "text": "Saw your suggested edit about *.<http:\/\/drupal.org|drupal.org> in there drumm - I think that's good",
+        "user": "U06NAEYSF",
+        "ts": "1633442425.087400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nNEhv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Saw your suggested edit about *."
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/drupal.org",
+                                "text": "drupal.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in there drumm - I think that's good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633441855.086500",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "df5413a9-6d11-4ddb-9356-0689c56136b8",
+        "type": "message",
+        "text": "I agree with removing it. Users who need screen readers (vision impaired or for other reasons) - are often messed up when a target=blank link takes them away from the site they are trying to navigate",
+        "user": "U06NAEYSF",
+        "ts": "1633442489.087500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vMQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with removing it. Users who need screen readers (vision impaired or for other reasons) - are often messed up when a target=blank link takes them away from the site they are trying to navigate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633441630.085700",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "e23d0bf9-71e3-486b-9828-7005f091474d",
+        "type": "message",
+        "text": "Thanks guys :smile:",
+        "user": "U4PT7ES0M",
+        "ts": "1633446317.087700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lmx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks guys "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633441855.086500",
+        "parent_user_id": "U4PT7ES0M",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U06NAEYSF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

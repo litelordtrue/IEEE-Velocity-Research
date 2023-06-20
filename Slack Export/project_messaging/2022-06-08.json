@@ -1,0 +1,121 @@
+[
+    {
+        "client_msg_id": "9864c9f3-1b34-415d-bdad-e9ae04598201",
+        "type": "message",
+        "text": "Added the latest patch <http:\/\/drupal.org\/project\/drupal\/issues\/3206643#comment-14555671|drupal.org\/project\/drupal\/issues\/3206643#comment-14555671>",
+        "user": "U4PT7ES0M",
+        "ts": "1654680344.758359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mkP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Added the latest patch "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/drupal.org\/project\/drupal\/issues\/3206643#comment-14555671",
+                                "text": "drupal.org\/project\/drupal\/issues\/3206643#comment-14555671"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4PT7ES0M",
+            "ts": "1654680371.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643",
+                "ts": 1617212298,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643",
+                "fallback": "Drupal.org: Project messaging channel in core",
+                "text": "Problem\/Motivation Per the core idea issue: [#2940739] The vast majority of Drupal users do not have accounts on <http:\/\/Drupal.org|Drupal.org>, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association. The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core.",
+                "title": "Project messaging channel in core",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1654527765.175289",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "4fea5c6a-db79-40b3-bc72-737936500385",
+        "type": "message",
+        "text": "Thank you! <@U4KAE8Q91> I think we need some core contributors to do the review, since it needs to be someone who didn't do the work who reviews and sets to RTBC.",
+        "user": "U06NAEYSF",
+        "ts": "1654708101.993839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9a0B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4KAE8Q91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think we need some core contributors to do the review, since it needs to be someone who didn't do the work who reviews and sets to RTBC."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654527765.175289",
+        "parent_user_id": "U06NAEYSF",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

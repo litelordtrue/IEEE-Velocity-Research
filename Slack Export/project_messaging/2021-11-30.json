@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "5d267057-a07d-4243-9293-1abb747eb7ce",
+        "type": "message",
+        "text": "hey <@U21M96DQU> if you are free.. Could you shed some light on this ? :slightly_smiling_face:",
+        "user": "U4PT7ES0M",
+        "ts": "1638339340.072900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OI8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U21M96DQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you are free.. Could you shed some light on this ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637756870.072200",
+        "parent_user_id": "U4PT7ES0M"
+    }
+]

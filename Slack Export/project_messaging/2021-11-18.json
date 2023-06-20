@@ -1,0 +1,1444 @@
+[
+    {
+        "client_msg_id": "adcfe1c9-4f26-42e4-b80b-e66e38305dfe",
+        "type": "message",
+        "text": "Merged this one.",
+        "user": "U2T8M7PA4",
+        "ts": "1637222530.057000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tB9Wo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merged this one."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637125732.054000",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "bb51e136-471e-44f7-9757-08cab3f4906b",
+        "type": "message",
+        "text": "Thank you :thumbsup:",
+        "user": "U06HDFAP5",
+        "ts": "1637224235.057200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G=Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637125732.054000",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "1a7984dc-ae58-4e0d-8613-1be3692c603c",
+        "type": "message",
+        "text": "<@U2T8M7PA4> what do you think about <https:\/\/www.drupal.org\/project\/announce\/issues\/3249521>? :slightly_smiling_face:",
+        "user": "U1A7P6GTZ",
+        "ts": "1637224576.057400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TvA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what do you think about "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249521"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249521",
+                "service_name": "Drupal.org",
+                "title": "Various documentation fixes",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249521",
+                "text": "Problem\/Motivation The module description is incorrect and the help could use some improvement. The core module should not link to documentation on a contributed project, this needs some kind of solution, possibly in the core patch script. Steps to reproduce Proposed resolution Remaining tasks User interface changes API changes Data model changes",
+                "ts": 1637004127,
+                "fallback": "Drupal.org: Various documentation fixes",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249521"
+            }
+        ],
+        "thread_ts": "1637125732.054000",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "bc38e145-017b-42d4-a009-f8e57da46198",
+        "type": "message",
+        "text": "<@U2T8M7PA4> noticed you gave me maintainer access to the announce module, do you want me to merge some of the patches we've been working on?",
+        "user": "U21M96DQU",
+        "ts": "1637228443.058300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kv38",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " noticed you gave me maintainer access to the announce module, do you want me to merge some of the patches we've been working on?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637228443.058300",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1637231458.061800",
+        "reply_users": [
+            "U2T8M7PA4",
+            "U21M96DQU"
+        ],
+        "replies": [
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1637228464.058600"
+            },
+            {
+                "user": "U21M96DQU",
+                "ts": "1637228483.058800"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1637228504.059000"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1637228718.059300"
+            },
+            {
+                "user": "U21M96DQU",
+                "ts": "1637228962.059500"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1637231444.061600"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1637231458.061800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "88596e0b-8ed1-48f8-99b5-17ec2f79a636",
+        "type": "message",
+        "text": "on it",
+        "user": "U2T8M7PA4",
+        "ts": "1637228447.058400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wGjsL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637125732.054000",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "11a44fa3-d3ab-4802-a8cd-be8e481d49b5",
+        "type": "message",
+        "text": "Yes please. Feel free to merge those.",
+        "user": "U2T8M7PA4",
+        "ts": "1637228464.058600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E3k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes please. Feel free to merge those."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637228443.058300",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "d324c5f8-8121-4b3e-b84a-ed964ed4d8fb",
+        "type": "message",
+        "text": "ok i'll ping you here before merging something just in case :slightly_smiling_face:",
+        "user": "U21M96DQU",
+        "ts": "1637228483.058800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PK1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok i'll ping you here before merging something just in case "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637228443.058300",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "8188093d-9c33-4867-b400-be94132b544c",
+        "type": "message",
+        "text": "I was about to add Lauriii and Gábor as well",
+        "user": "U2T8M7PA4",
+        "ts": "1637228504.059000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8aC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was about to add Lauriii and Gábor as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637228443.058300",
+        "parent_user_id": "U21M96DQU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U21M96DQU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ba1840a-5490-4c54-99e9-73d2c18aa57a",
+        "type": "message",
+        "text": "Done.",
+        "user": "U2T8M7PA4",
+        "ts": "1637228718.059300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AzPZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637228443.058300",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "3d4dbbe5-6ca5-41fa-83f6-c707a17bed97",
+        "type": "message",
+        "text": "thanks, fair warning we only have this week allocated to work on this. Next week will be very quiet on our side as we shift to other priorities :slightly_smiling_face:",
+        "user": "U21M96DQU",
+        "ts": "1637228962.059500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dJytD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks, fair warning we only have this week allocated to work on this. Next week will be very quiet on our side as we shift to other priorities "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637228443.058300",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "ccb06c05-8d9b-468e-936f-3bdc5ceb55d5",
+        "type": "message",
+        "text": "Thank you :bow:\nMerged!!",
+        "user": "U2T8M7PA4",
+        "ts": "1637230096.059700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Nc1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMerged!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637125732.054000",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "544c6f42-30ea-4220-97b4-1d957b41857e",
+        "type": "message",
+        "text": "<@U21M96DQU> moved document to the core guides <https:\/\/www.drupal.org\/docs\/core-modules-and-themes\/core-modules\/announcements-feed#comment-14295694> but it will be under review. I<https:\/\/www.drupal.org\/project\/announce\/issues\/3250083>",
+        "user": "U4PT7ES0M",
+        "ts": "1637230822.061100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UhfTH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U21M96DQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " moved document to the core guides "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/docs\/core-modules-and-themes\/core-modules\/announcements-feed#comment-14295694"
+                            },
+                            {
+                                "type": "text",
+                                "text": " but it will be under review. I"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3250083"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/docs\/core-modules-and-themes\/core-modules\/announcements-feed#comment-14295694",
+                "service_name": "Drupal.org",
+                "title": "Announcements Feed",
+                "title_link": "https:\/\/www.drupal.org\/docs\/core-modules-and-themes\/core-modules\/announcements-feed#comment-14295694",
+                "text": "Provides an interface as part of the administrator toolbar for viewing announcements from the Drupal project. The list of announcements is provided from <http:\/\/drupal.org|drupal.org> and may provide information about upcoming releases, new feature highlights, events like DrupalCon, and promote support of the project via Association membership or other programs. It was originally developed as the Announce contributed module. There are no settings in the module, the <http:\/\/drupal.org|drupal.org> source feed location is built-in. Users may configure which user roles have access to the announcement list in the toolbar.",
+                "ts": 1634729485,
+                "fallback": "Drupal.org: Announcements Feed",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/docs\/core-modules-and-themes\/core-modules\/announcements-feed#comment-14295694"
+            },
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3250083",
+                "service_name": "Drupal.org",
+                "title": "Remove the link to contrib module doc in help text",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3250083",
+                "text": "Problem\/Motivation As a core module the help should not link to a contrib module documentation on d.o Proposed resolution Create a doc page in the core handbook, or find a way to not have to use a link at all. Remaining tasks Find the right solution",
+                "ts": 1637229172,
+                "fallback": "Drupal.org: Remove the link to contrib module doc in help text",
+                "id": 2,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3250083"
+            }
+        ],
+        "thread_ts": "1637230822.061100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1637230918.061400",
+        "reply_users": [
+            "U4PT7ES0M"
+        ],
+        "replies": [
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1637230918.061400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U21M96DQU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d03621a-977b-4b3c-876b-1bbebca4a7e8",
+        "type": "message",
+        "text": "We need to have the help doc link... otherwise the core patch will fail.",
+        "user": "U4PT7ES0M",
+        "ts": "1637230918.061400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "taN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We need to have the help doc link... otherwise the core patch will fail."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637230822.061100",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "42779334-f7b6-43a2-a23a-93fc9f7bcd80",
+        "type": "message",
+        "text": "No worries, still you folks have helped us a lot.",
+        "user": "U2T8M7PA4",
+        "ts": "1637231444.061600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mxr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No worries, still you folks have helped us a lot."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637228443.058300",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "f2da5e75-0742-4a91-9736-e02f8f35e324",
+        "type": "message",
+        "text": "I owe you a treat in next in-person Drupalcon",
+        "user": "U2T8M7PA4",
+        "ts": "1637231458.061800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jg1DL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I owe you a treat in next in-person Drupalcon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637228443.058300",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "c37871b1-e408-4d9b-bd98-4ef1a3214bd7",
+        "type": "message",
+        "text": "Hi <@U1A7P6GTZ>\nCan you please specify if we need more spacing around the error message?\n<https:\/\/www.drupal.org\/project\/announce\/issues\/3249641#comment-14294880>",
+        "user": "U01RG97SUNL",
+        "ts": "1637240097.062600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TIpp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1A7P6GTZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCan you please specify if we need more spacing around the error message?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249641#comment-14294880"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "30ea3944a55b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-17\/1853140223767_30ea3944a55b2489726a_72.jpg",
+            "first_name": "Akshay",
+            "real_name": "Akshay Adhav",
+            "display_name": "Akshay",
+            "team": "T06GX3JTS",
+            "name": "akshay.adhav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637240097.062600",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1637258592.063900",
+        "reply_users": [
+            "U1A7P6GTZ",
+            "U01RG97SUNL"
+        ],
+        "replies": [
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1637240182.062700"
+            },
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1637240218.063100"
+            },
+            {
+                "user": "U01RG97SUNL",
+                "ts": "1637240342.063300"
+            },
+            {
+                "user": "U01RG97SUNL",
+                "ts": "1637240365.063700"
+            },
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1637258592.063900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "66907b4b-e836-4f5b-8e9a-547ed9e68aaf",
+        "type": "message",
+        "text": "I meant this <https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1637143126055900?thread_ts=1637081229.049900&amp;cid=C02AFHAUNET|https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1637143126055900?thread_ts=1637081229.049900&amp;cid=C02AFHAUNET>",
+        "user": "U1A7P6GTZ",
+        "ts": "1637240182.062700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4wE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I meant this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1637143126055900?thread_ts=1637081229.049900&cid=C02AFHAUNET",
+                                "text": "https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1637143126055900?thread_ts=1637081229.049900&cid=C02AFHAUNET"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1637143126055900?thread_ts=1637081229.049900&amp;cid=C02AFHAUNET",
+                "fallback": "[November 17th, 2021 1:58 AM] lal: <@U21M96DQU> No results is already handled by the current template",
+                "ts": "1637143126.055900",
+                "author_id": "U4PT7ES0M",
+                "author_subname": "Abhishek Lal",
+                "channel_team": "T06GX3JTS",
+                "channel_id": "C02AFHAUNET",
+                "channel_name": "project_messaging",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "<@U21M96DQU> No results is already handled by the current template",
+                "message_blocks": [
+                    {
+                        "team": "T06GX3JTS",
+                        "channel": "C02AFHAUNET",
+                        "ts": "1637143126.055900",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "6q6",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U21M96DQU"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " No results is already handled by the current template"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "author_name": "Abhishek Lal",
+                "author_link": "https:\/\/drupal.slack.com\/team\/U4PT7ES0M",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "F02MN1NK675",
+                        "created": 1637143108,
+                        "timestamp": 1637143108,
+                        "name": "Screenshot 2021-11-16 at 11.16.40 PM.png",
+                        "title": "Screenshot 2021-11-16 at 11.16.40 PM.png",
+                        "mimetype": "image\/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "U4PT7ES0M",
+                        "user_team": "T06GX3JTS",
+                        "editable": false,
+                        "size": 21746,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02MN1NK675\/screenshot_2021-11-16_at_11.16.40_pm.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02MN1NK675\/download\/screenshot_2021-11-16_at_11.16.40_pm.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MN1NK675-c80fb9c76d\/screenshot_2021-11-16_at_11.16.40_pm_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MN1NK675-c80fb9c76d\/screenshot_2021-11-16_at_11.16.40_pm_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MN1NK675-c80fb9c76d\/screenshot_2021-11-16_at_11.16.40_pm_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 268,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MN1NK675-c80fb9c76d\/screenshot_2021-11-16_at_11.16.40_pm_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 357,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MN1NK675-c80fb9c76d\/screenshot_2021-11-16_at_11.16.40_pm_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                        "original_w": 645,
+                        "original_h": 480,
+                        "thumb_tiny": "AwAjADCoNuPmB\/Cl\/d+jfpTgSKNx\/wAigBvyejUfu\/Rv0p240bj\/AJFADDt\/hz+NNqSigAooooAKKKKACiiigAooooAKKKKACiiigD\/\/2Q==",
+                        "permalink": "https:\/\/drupal.slack.com\/files\/U4PT7ES0M\/F02MN1NK675\/screenshot_2021-11-16_at_11.16.40_pm.png",
+                        "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F02MN1NK675-347db1f329",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1637143126055900?thread_ts=1637081229.049900&amp;cid=C02AFHAUNET",
+                "footer": "From a thread in #project_messaging"
+            }
+        ],
+        "thread_ts": "1637240097.062600",
+        "parent_user_id": "U01RG97SUNL"
+    },
+    {
+        "client_msg_id": "d12f917e-71c7-43f8-be96-0648dc424dde",
+        "type": "message",
+        "text": "If you look at the text there is no top margin. Some top margin would make this look much better.",
+        "user": "U1A7P6GTZ",
+        "ts": "1637240218.063100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tMxg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you look at the text there is no top margin. Some top margin would make this look much better."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637240097.062600",
+        "parent_user_id": "U01RG97SUNL"
+    },
+    {
+        "type": "message",
+        "text": "Ohh… I was checking this one.",
+        "files": [
+            {
+                "id": "F02MDJ1LB9D",
+                "created": 1637240323,
+                "timestamp": 1637240323,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RG97SUNL",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 119342,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02MDJ1LB9D\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02MDJ1LB9D\/download\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MDJ1LB9D-6f88c8371c\/image_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MDJ1LB9D-6f88c8371c\/image_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MDJ1LB9D-6f88c8371c\/image_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 208,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MDJ1LB9D-6f88c8371c\/image_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 278,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MDJ1LB9D-6f88c8371c\/image_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MDJ1LB9D-6f88c8371c\/image_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 417,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MDJ1LB9D-6f88c8371c\/image_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 463,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MDJ1LB9D-6f88c8371c\/image_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 556,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MDJ1LB9D-6f88c8371c\/image_1024.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 593,
+                "original_w": 1970,
+                "original_h": 1140,
+                "thumb_tiny": "AwAbADBn7j\/n2H\/fRo\/cf8+w\/wC+jVsWiE8OfypfsS\/3z+VX7pPvFP8Acf8APsP++jQfs4H\/AB7D\/vo1c+xL\/fP5VHNaiOFnDE456UtA1K4aJelr+poLxE82v47jUn26T+6v60jXrshUqvIx3qSjSwBS03JoyaAHVDd\/8esn0qTJqG6J+zP9KAMuiiigD\/\/Z",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U01RG97SUNL\/F02MDJ1LB9D\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F02MDJ1LB9D-e866137be9",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01RG97SUNL",
+        "display_as_bot": false,
+        "ts": "1637240342.063300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+abUf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ohh… I was checking this one."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "54f9fca1-824e-42e5-9043-59ec77ec10ac",
+        "thread_ts": "1637240097.062600",
+        "parent_user_id": "U01RG97SUNL"
+    },
+    {
+        "client_msg_id": "c9e48e40-308e-4978-81e2-77c849706af8",
+        "type": "message",
+        "text": "Thanks for clarifying",
+        "user": "U01RG97SUNL",
+        "ts": "1637240365.063700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yLjF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for clarifying"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "30ea3944a55b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-17\/1853140223767_30ea3944a55b2489726a_72.jpg",
+            "first_name": "Akshay",
+            "real_name": "Akshay Adhav",
+            "display_name": "Akshay",
+            "team": "T06GX3JTS",
+            "name": "akshay.adhav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637240097.062600",
+        "parent_user_id": "U01RG97SUNL"
+    },
+    {
+        "client_msg_id": "cd80f8dc-9b7d-42a6-9b37-a39e341b37da",
+        "type": "message",
+        "text": "That one is fine :)",
+        "user": "U1A7P6GTZ",
+        "ts": "1637258592.063900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ehn+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That one is fine :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637240097.062600",
+        "parent_user_id": "U01RG97SUNL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RG97SUNL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb4cfa6f-0d46-43a3-bdc9-fd62dbb162e6",
+        "type": "message",
+        "text": "<@U06HDFAP5> <@U1A7P6GTZ> <@U2T8M7PA4> should we do a quick huddle to sort out where we want to end up at the end of the day for this project?",
+        "user": "U21M96DQU",
+        "ts": "1637308510.064700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y\/Y2I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06HDFAP5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1A7P6GTZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " should we do a quick huddle to sort out where we want to end up at the end of the day for this project?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637308510.064700",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1637327085.067600",
+        "reply_users": [
+            "U06HDFAP5",
+            "U2T8M7PA4",
+            "U21M96DQU",
+            "U1A7P6GTZ"
+        ],
+        "replies": [
+            {
+                "user": "U06HDFAP5",
+                "ts": "1637308546.064900"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1637308590.065200"
+            },
+            {
+                "user": "U21M96DQU",
+                "ts": "1637308701.065700"
+            },
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1637324291.067000"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1637324490.067200"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1637324514.067400"
+            },
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1637327085.067600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U06HDFAP5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3852dc2-573a-41ed-884c-c5743424ae8c",
+        "type": "message",
+        "text": "something like that would be helpful",
+        "user": "U06HDFAP5",
+        "ts": "1637308546.064900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ThL\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "something like that would be helpful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637308510.064700",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "be6a023c-f28b-4ef3-b28f-cecc2bd4ad1a",
+        "type": "message",
+        "text": "I need to wrap up few things, might not be able to make it",
+        "user": "U2T8M7PA4",
+        "ts": "1637308590.065200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fxPz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I need to wrap up few things, might not be able to make it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637308510.064700",
+        "parent_user_id": "U21M96DQU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U21M96DQU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e16c717-4b2d-4960-ad0f-573eba56e82d",
+        "type": "message",
+        "text": "all right, i'm on it if anyone wants to chat",
+        "user": "U21M96DQU",
+        "ts": "1637308701.065700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4PN8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "all right, i'm on it if anyone wants to chat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637308510.064700",
+        "parent_user_id": "U21M96DQU"
+    }
+]

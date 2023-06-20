@@ -1,0 +1,539 @@
+[
+    {
+        "client_msg_id": "d149d355-3830-425e-ac98-7975324806a3",
+        "type": "message",
+        "text": "<@U1XQAL3RP> <@U4PT7ES0M> <@U06HDFAP5> do you have any insights on how we can force module to parse json after source has been changed manually?  Thanks!!",
+        "user": "U4KAE8Q91",
+        "ts": "1669829606.146339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+ZqZf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1XQAL3RP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06HDFAP5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you have any insights on how we can force module to parse json after source has been changed manually?  Thanks!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669763753.925329",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1669829833.104399",
+        "user": "U1XQAL3RP",
+        "text": "<@U1XQAL3RP> has joined the channel",
+        "inviter": "U4KAE8Q91"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "What is correct syntax to avoid cURL error 3  - should I use single quotes or double quotes?\n\n`parameters:`\n  `announcements_feed.feed_url: '<https:\/\/8080-shaal-drupalpod-7mfp9cqqqz0.ws-us77.gitpod.io\/core\/modules\/announcements_feed\/tests\/announce_feed\/announcements-test.json>'` ",
+        "user": "U4KAE8Q91",
+        "ts": "1669834533.903999",
+        "thread_ts": "1669763753.925329",
+        "root": {
+            "client_msg_id": "2865a0fb-09a2-4bd3-b284-606403d2577a",
+            "type": "message",
+            "text": "<@U4PT7ES0M>,  <@U3U1SD32R> We need help with the instructions to change the feed source parameter to one of the other feed sources in the \/tests\/ directory of the module, and then adjust whatever cache, cron, or drush command is needed to have it parse from the new feed. This is so we can switch between test feeds on a DrupalPod account to show core reviews the feed in different states. We want to document these steps here     <https:\/\/www.drupal.org\/docs\/core-modules-and-themes\/core-modules\/announcements-feed\/announcements-feed-development-and-testing>\nthank you in advance!!",
+            "user": "U4KAE8Q91",
+            "ts": "1669763753.925329",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "=2sHZ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U4PT7ES0M"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ",  "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U3U1SD32R"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " We need help with the instructions to change the feed source parameter to one of the other feed sources in the \/tests\/ directory of the module, and then adjust whatever cache, cron, or drush command is needed to have it parse from the new feed. This is so we can switch between test feeds on a DrupalPod account to show core reviews the feed in different states. We want to document these steps here     "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/www.drupal.org\/docs\/core-modules-and-themes\/core-modules\/announcements-feed\/announcements-feed-development-and-testing"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nthank you in advance!!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T06GX3JTS",
+            "thread_ts": "1669763753.925329",
+            "reply_count": 5,
+            "reply_users_count": 2,
+            "latest_reply": "1669836376.636659",
+            "reply_users": [
+                "U06NAEYSF",
+                "U4KAE8Q91"
+            ],
+            "replies": [
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1669764114.428309"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1669829606.146339"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1669834533.903999"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1669836271.548209"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1669836376.636659"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dv9JU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What is correct syntax to avoid cURL error 3  - should I use single quotes or double quotes?\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "parameters:",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  announcements_feed.feed_url: '",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/8080-shaal-drupalpod-7mfp9cqqqz0.ws-us77.gitpod.io\/core\/modules\/announcements_feed\/tests\/announce_feed\/announcements-test.json",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "' ",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "aafca5e3-2905-4b1b-abb4-c046a0ddde3a"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "If I look at the source file from the MR before we tried changing it, it has no quotes at all: <https:\/\/git.drupalcode.org\/issue\/drupal-3206643\/-\/blob\/3206643-10.1\/core\/modules\/announcements_feed\/announcements_feed.services.yml>",
+        "user": "U06NAEYSF",
+        "ts": "1669836271.548209",
+        "thread_ts": "1669763753.925329",
+        "root": {
+            "client_msg_id": "2865a0fb-09a2-4bd3-b284-606403d2577a",
+            "type": "message",
+            "text": "<@U4PT7ES0M>,  <@U3U1SD32R> We need help with the instructions to change the feed source parameter to one of the other feed sources in the \/tests\/ directory of the module, and then adjust whatever cache, cron, or drush command is needed to have it parse from the new feed. This is so we can switch between test feeds on a DrupalPod account to show core reviews the feed in different states. We want to document these steps here     <https:\/\/www.drupal.org\/docs\/core-modules-and-themes\/core-modules\/announcements-feed\/announcements-feed-development-and-testing>\nthank you in advance!!",
+            "user": "U4KAE8Q91",
+            "ts": "1669763753.925329",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "=2sHZ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U4PT7ES0M"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ",  "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U3U1SD32R"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " We need help with the instructions to change the feed source parameter to one of the other feed sources in the \/tests\/ directory of the module, and then adjust whatever cache, cron, or drush command is needed to have it parse from the new feed. This is so we can switch between test feeds on a DrupalPod account to show core reviews the feed in different states. We want to document these steps here     "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/www.drupal.org\/docs\/core-modules-and-themes\/core-modules\/announcements-feed\/announcements-feed-development-and-testing"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nthank you in advance!!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T06GX3JTS",
+            "thread_ts": "1669763753.925329",
+            "reply_count": 5,
+            "reply_users_count": 2,
+            "latest_reply": "1669836376.636659",
+            "reply_users": [
+                "U06NAEYSF",
+                "U4KAE8Q91"
+            ],
+            "replies": [
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1669764114.428309"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1669829606.146339"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1669834533.903999"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1669836271.548209"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1669836376.636659"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wZl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If I look at the source file from the MR before we tried changing it, it has no quotes at all: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/issue\/drupal-3206643\/-\/blob\/3206643-10.1\/core\/modules\/announcements_feed\/announcements_feed.services.yml"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "attachments": [
+            {
+                "from_url": "https:\/\/git.drupalcode.org\/issue\/drupal-3206643\/-\/blob\/3206643-10.1\/core\/modules\/announcements_feed\/announcements_feed.services.yml",
+                "thumb_url": "https:\/\/git.drupalcode.org\/assets\/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg",
+                "thumb_width": 1024,
+                "thumb_height": 1024,
+                "service_icon": "https:\/\/git.drupalcode.org\/assets\/apple-touch-icon-b049d4bc0dd9626f31db825d61880737befc7835982586d015bded10b4435460.png",
+                "id": 1,
+                "original_url": "https:\/\/git.drupalcode.org\/issue\/drupal-3206643\/-\/blob\/3206643-10.1\/core\/modules\/announcements_feed\/announcements_feed.services.yml",
+                "fallback": "GitLab: core\/modules\/announcements_feed\/announcements_feed.services.yml · 3206643-10.1 · Issue forks \/ drupal-3206643 · GitLab",
+                "text": "For collaboration on <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643>",
+                "title": "core\/modules\/announcements_feed\/announcements_feed.services.yml · 3206643-10.1 · Issue forks \/ drupal-3206643 · GitLab",
+                "title_link": "https:\/\/git.drupalcode.org\/issue\/drupal-3206643\/-\/blob\/3206643-10.1\/core\/modules\/announcements_feed\/announcements_feed.services.yml",
+                "service_name": "GitLab"
+            }
+        ],
+        "client_msg_id": "0c91bcad-7c86-40c7-b2fd-3b975d04de39",
+        "reactions": [
+            {
+                "name": "yes",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e1c3b10-60c1-47a2-9ad9-57ca392cbb53",
+        "type": "message",
+        "text": "I am googling cURL error 3 and it seems to be related to quotes.  So I am trying various options :slightly_smiling_face:",
+        "user": "U4KAE8Q91",
+        "ts": "1669836376.636659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L7Zg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am googling cURL error 3 and it seems to be related to quotes.  So I am trying various options "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669763753.925329",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "c6f4def5-b9aa-4312-80d6-41413af08e1c",
+        "type": "message",
+        "text": "<@U4PT7ES0M> <@U1CREGN04> <@U04CS93RH1C> - do we need to rebase code here <https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889> ? I building DrupalPod from this page <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643> and I am not sure if code will merge after all bugs are fixed here.",
+        "user": "U4KAE8Q91",
+        "ts": "1669836822.615349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JCvac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1CREGN04"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04CS93RH1C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - do we need to rebase code here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ? I building DrupalPod from this page "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I am not sure if code will merge after all bugs are fixed here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669836822.615349",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1673026814.925019",
+        "reply_users": [
+            "U04CS93RH1C",
+            "U4KAE8Q91"
+        ],
+        "replies": [
+            {
+                "user": "U04CS93RH1C",
+                "ts": "1669849777.362059"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1673026814.925019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c1a6abef-ae2f-4900-83cd-6ca0c57e5055",
+        "type": "message",
+        "text": "I am not entirely sure if that's the right way to do. :smile:\nBut i mistakenly rebased yesterday on the url which you shared, they gave the rebase option so i don't think there any harm in using it :grimacing: i could be wrong too :upside_down_face:",
+        "user": "U04CS93RH1C",
+        "ts": "1669849777.362059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ArN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am not entirely sure if that's the right way to do. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBut i mistakenly rebased yesterday on the url which you shared, they gave the rebase option so i don't think there any harm in using it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing",
+                                "unicode": "1f62c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i could be wrong too "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "upside_down_face",
+                                "unicode": "1f643"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "e0d5fa4fcad5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-11-29\/4434310005158_e0d5fa4fcad5c8684713_72.jpg",
+            "first_name": "Alphons",
+            "real_name": "Alphons Jaimon",
+            "display_name": "Alphons Jaimon",
+            "team": "T06GX3JTS",
+            "name": "alphons.jaimon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669836822.615349",
+        "parent_user_id": "U4KAE8Q91"
+    }
+]

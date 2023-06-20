@@ -1,0 +1,1110 @@
+[
+    {
+        "client_msg_id": "ae85b589-b998-4e14-85c8-7bdcdbd679b8",
+        "type": "message",
+        "text": "Hi <@U06NAEYSF>\nWe’ve created 4 tasks in module’s issue queue based on the feedback from the reviewer team.\nI need some inputs from you regarding those.\n\n:one: <https:\/\/www.drupal.org\/project\/announce\/issues\/3236291>",
+        "user": "U2T8M7PA4",
+        "ts": "1631887482.028500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "maJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWe’ve created 4 tasks in module’s issue queue based on the feedback from the reviewer team.\nI need some inputs from you regarding those.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "one",
+                                "unicode": "0031-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236291"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Module Rename",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236291",
+                "text": "As andrewmacpherson suggested in the MR. It would be great if we could rename the module coz its library may be confused with the Drupal.announce. Current suggestion is to rename from announce to announcement.",
+                "fallback": "Drupal.org: Module Rename",
+                "ts": 1631879073,
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236291",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236291"
+            }
+        ],
+        "thread_ts": "1631887482.028500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1631899087.037600",
+        "reply_users": [
+            "U2T8M7PA4",
+            "U3U1SD32R",
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1631887504.028700"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1631888593.035800"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1631899087.037600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "78d24422-52da-4e44-916a-214e35b4a124",
+        "type": "message",
+        "text": "Do we need approval from committer team for module’s name?",
+        "user": "U2T8M7PA4",
+        "ts": "1631887504.028700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FywT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do we need approval from committer team for module’s name?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887482.028500",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "8e51103e-11e6-4883-933f-59921b342664",
+        "type": "message",
+        "text": ":two: <@U4PT7ES0M> has summarised all the a11y issues here. <https:\/\/www.drupal.org\/project\/announce\/issues\/3236288>\nI think we will be working on those. We might need some design or front-end help to review color contrast etc.\nCan we reach someone from the team?",
+        "user": "U2T8M7PA4",
+        "ts": "1631887616.030000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ScHnd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "two",
+                                "unicode": "0032-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has summarised all the a11y issues here. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236288"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI think we will be working on those. We might need some design or front-end help to review color contrast etc.\nCan we reach someone from the team?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Accessibilty issues",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236288",
+                "text": "Problem\/Motivation Module made its MR with core branch and came back with few comments: In terms of the color contrast among the content especially in the case of the non-featured content read\/unread color contrast ratio. There are also issues in terms of the icons ie the bell-icon with the red dot is not compatible with the theme. The style is not consistent between the different themes, on Claro and Olivero there is differences in spacing, alignment, and even the style of the close button The dots with represent the new announcement are kind of confusing.",
+                "fallback": "Drupal.org: Accessibilty issues",
+                "ts": 1631878670,
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236288",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236288"
+            }
+        ],
+        "thread_ts": "1631887616.030000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1631898942.036800",
+        "reply_users": [
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1631898942.036800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "aa821e59-67dd-4ce5-8a15-5371c88ca32b",
+        "type": "message",
+        "text": ":three: <https:\/\/www.drupal.org\/project\/announce\/issues\/3236294>\nWe need to work on it as we are done with a11y issues.",
+        "user": "U2T8M7PA4",
+        "ts": "1631887656.030600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PrgH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "three",
+                                "unicode": "0033-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236294"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWe need to work on it as we are done with a11y issues."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Replace jQuery with vanilla JS.",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236294",
+                "text": "Problem\/Motivation Based on the comment here. Its probably the best to replace jQuery with vanilla js.",
+                "fallback": "Drupal.org: Replace jQuery with vanilla JS.",
+                "ts": 1631879847,
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236294",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236294"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "checkbox",
+                "users": [
+                    "U06NAEYSF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dad4c449-3885-47a0-8860-3e5383310674",
+        "type": "message",
+        "text": ":four: <https:\/\/www.drupal.org\/project\/announce\/issues\/3236293|This> is something <@U21M96DQU> suggested while review. We’ll take care of it.",
+        "user": "U2T8M7PA4",
+        "ts": "1631887700.031200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NCOMx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "four",
+                                "unicode": "0034-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236293",
+                                "text": "This"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is something "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U21M96DQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " suggested while review. We’ll take care of it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Add a check to confirm a particular link is generated from a Drupal\/DA controlled domain.",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236293",
+                "text": "As @node_ mention in the MR. It would be great a have a small check that would check if a particular link coming from the API is Drupal\/DA based or not. Proposed resolution Create a checker function to check if a link is drupal based or not.",
+                "fallback": "Drupal.org: Add a check to confirm a particular link is generated from a Drupal\/DA controlled domain.",
+                "ts": 1631879520,
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236293",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236293"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "checkbox",
+                "users": [
+                    "U06NAEYSF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca809d63-43be-49bd-9991-1d144c7912e0",
+        "type": "message",
+        "text": "There are a few things where we need some help in styling etc. for few feedback items:\n\n```The style is not consistent between the different theme, on claro and olivero there are difference in spacing, alignement, and even the style of the close button```",
+        "user": "U2T8M7PA4",
+        "ts": "1631887745.031800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bsuXR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are a few things where we need some help in styling etc. for few feedback items:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The style is not consistent between the different theme, on claro and olivero there are difference in spacing, alignement, and even the style of the close button"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887745.031800",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1640873403.086400",
+        "reply_users": [
+            "U2T8M7PA4",
+            "U06NAEYSF",
+            "U1CREGN04",
+            "U49HYCETX"
+        ],
+        "replies": [
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1631887758.031900"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1631897640.036400"
+            },
+            {
+                "user": "U1CREGN04",
+                "ts": "1631900208.037800"
+            },
+            {
+                "user": "U1CREGN04",
+                "ts": "1631900237.038100"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632161827.044600"
+            },
+            {
+                "user": "U49HYCETX",
+                "ts": "1632163420.045500"
+            },
+            {
+                "user": "U1CREGN04",
+                "ts": "1640873361.086100"
+            },
+            {
+                "user": "U1CREGN04",
+                "ts": "1640873403.086400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1bfccdb3-bab0-404b-bfe0-bc4a6dd8bd3c",
+        "type": "message",
+        "text": "Any design help is appreciated.",
+        "user": "U2T8M7PA4",
+        "ts": "1631887758.031900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5I=Ag",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any design help is appreciated."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887745.031800",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "966c7f80-33e2-49da-90ca-f1384a00cbff",
+        "type": "message",
+        "text": "```For the \/announcement page, it should probably be rendered in the admin theme and not the frontend theme no? The announcement toolbar button should probably also be hidden when on that page. There are style missing for the focused close button when viewed as a page```",
+        "user": "U2T8M7PA4",
+        "ts": "1631887805.032300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f\/U",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the \/announcement page, it should probably be rendered in the admin theme and not the frontend theme no? The announcement toolbar button should probably also be hidden when on that page. There are style missing for the focused close button when viewed as a page"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887805.032300",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1632155909.042200",
+        "reply_users": [
+            "U2T8M7PA4",
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1631887881.032400"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1631897578.036200"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1632114382.038400"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632147818.041800"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632147827.042000"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1632155909.042200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f8a97495-aea8-4b05-9ca5-6e8fbe23cb25",
+        "type": "message",
+        "text": "Do we need to consider this as a part of this release?\nWe might need some design help about how we display items on detailed page.\n\nIMP, simple list in &lt;ul&gt;&lt;li&gt; format is also fine.\n\nI think some inputs here will help us a lot.",
+        "user": "U2T8M7PA4",
+        "ts": "1631887881.032400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "unB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do we need to consider this as a part of this release?\nWe might need some design help about how we display items on detailed page.\n\nIMP, simple list in <ul><li> format is also fine.\n\nI think some inputs here will help us a lot."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887805.032300",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "96eed4b2-4f7d-4de0-9f52-2328ab5e16ac",
+        "type": "message",
+        "text": "```There is a cache by user but if I dismiss a featured announcement it just comes back on the next page reload. I would expect the announcement to not be shown or be shown as a non-featured item. Or maybe it's a feature that it's very visible all the time```",
+        "user": "U2T8M7PA4",
+        "ts": "1631888005.032800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cil8",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is a cache by user but if I dismiss a featured announcement it just comes back on the next page reload. I would expect the announcement to not be shown or be shown as a non-featured item. Or maybe it's a feature that it's very visible all the time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631888005.032800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1631897516.036000",
+        "reply_users": [
+            "U2T8M7PA4",
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1631888043.032900"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1631897516.036000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "342afc32-f0fa-4079-8236-5bbd5bff381e",
+        "type": "message",
+        "text": "I think we kept it that way only. Featured announcement persists on page reload.\n\nDo you suggest to modify this?",
+        "user": "U2T8M7PA4",
+        "ts": "1631888043.032900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u7p\/f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we kept it that way only. Featured announcement persists on page reload.\n\nDo you suggest to modify this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631888005.032800",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "3AE4A6DB-2677-4B01-B791-B424B475F0C5",
+        "type": "message",
+        "text": "Not sure on approval, but not colliding with any names already used in contrib is ideal. If there is a collision, we will have to evaluate if it can be worked around. This is for composer to work properly.",
+        "user": "U3U1SD32R",
+        "ts": "1631888593.035800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iV8ds",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure on approval, but not colliding with any names already used in contrib is ideal. If there is a collision, we will have to evaluate if it can be worked around. This is for composer to work properly."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887482.028500",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "b99e1b9c-3f1a-48a1-92e5-3ef0b1df3a4a",
+        "type": "message",
+        "text": "Sticky should just sort to top, it should still be dismissable in terms of 'read\/unread' state like the other announcements",
+        "user": "U06NAEYSF",
+        "ts": "1631897516.036000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ycN3n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sticky should just sort to top, it should still be dismissable in terms of 'read\/unread' state like the other announcements"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631888005.032800",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "aff215c3-d929-426e-aec8-f79e9248ffb4",
+        "type": "message",
+        "text": "Are we including a dedicated announcement page separate from the actual popover view? I'm slightly confused on this one.",
+        "user": "U06NAEYSF",
+        "ts": "1631897578.036200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3wjBi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are we including a dedicated announcement page separate from the actual popover view? I'm slightly confused on this one."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887805.032300",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "b4db19f7-8d83-4413-8021-3545071f9cbb",
+        "type": "message",
+        "text": "<@U1CREGN04> - would you be able to offer some suggestions on the right path fowrard for this?",
+        "user": "U06NAEYSF",
+        "ts": "1631897640.036400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/V0p2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1CREGN04"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - would you be able to offer some suggestions on the right path fowrard for this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887745.031800",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "7240b4e7-0a08-4ef9-99f4-235439768369",
+        "type": "message",
+        "text": "<@U47JYK2DT> and <@U02CY2VDH0F> offered to help work on these sorts of reviews. Tagging them in.",
+        "user": "U06NAEYSF",
+        "ts": "1631898942.036800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cdn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U47JYK2DT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02CY2VDH0F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " offered to help work on these sorts of reviews. Tagging them in."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887616.030000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1631898951.037100",
+        "user": "U47JYK2DT",
+        "text": "<@U47JYK2DT> has joined the channel",
+        "inviter": "U06NAEYSF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1631898951.037300",
+        "user": "U02CY2VDH0F",
+        "text": "<@U02CY2VDH0F> has joined the channel",
+        "inviter": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "ceda0f5a-10a9-46bb-9892-30036e9daed0",
+        "type": "message",
+        "text": "Going to suggest project_announcements as it conveys the message and has no collissions",
+        "user": "U06NAEYSF",
+        "ts": "1631899087.037600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "grhT8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Going to suggest project_announcements as it conveys the message and has no collissions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887482.028500",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "6c2987ef-4618-4250-b270-0cccf9e6322d",
+        "type": "message",
+        "text": "it might be a good idea to do an `all: revert` on this (note this won’t work for IE11, but thats’ probably OK if it doesn’t look perfect there), and then style against that.",
+        "user": "U1CREGN04",
+        "ts": "1631900208.037800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xfrf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it might be a good idea to do an "
+                            },
+                            {
+                                "type": "text",
+                                "text": "all: revert",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " on this (note this won’t work for IE11, but thats’ probably OK if it doesn’t look perfect there), and then style against that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1CREGN04",
+            "ts": "1631900234.000000"
+        },
+        "thread_ts": "1631887745.031800",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "e150449a-bd00-47e1-a68b-ef7b6af491bc",
+        "type": "message",
+        "text": "<https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/CSS\/revert>",
+        "user": "U1CREGN04",
+        "ts": "1631900237.038100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WHAwD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/CSS\/revert"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "revert - CSS: Cascading Style Sheets | MDN",
+                "title_link": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/CSS\/revert",
+                "text": "The revert CSS keyword reverts the cascaded value of the property from its current value to the value the property would have had if no changes had been made by the current style origin to the current element. Thus, it resets the property to its inherited value if it inherits from its parent or to the default value established by the user agent's stylesheet (or by user styles, if any exist). It can be applied to any CSS property, including the CSS shorthand all.",
+                "fallback": "revert - CSS: Cascading Style Sheets | MDN",
+                "image_url": "https:\/\/developer.mozilla.org\/mdn-social-share.0ca9dbda.png",
+                "from_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/CSS\/revert",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 12123,
+                "service_icon": "https:\/\/developer.mozilla.org\/apple-touch-icon.0ea0fa02.png",
+                "service_name": "developer.mozilla.org",
+                "id": 1,
+                "original_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/CSS\/revert"
+            }
+        ],
+        "thread_ts": "1631887745.031800",
+        "parent_user_id": "U2T8M7PA4"
+    }
+]

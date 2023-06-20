@@ -1,0 +1,1691 @@
+[
+    {
+        "client_msg_id": "4f13027f-0cda-4531-8b88-fdf3036b9216",
+        "type": "message",
+        "text": "Hi <@U06NAEYSF>\nWe’ve reviewed module in last two days and came across few things that needs your inputs.\nFeel free to respond in threads.",
+        "user": "U2T8M7PA4",
+        "ts": "1629120507.005600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z5D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWe’ve reviewed module in last two days and came across few things that needs your inputs.\nFeel free to respond in threads."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c9b2734e-b808-4e59-9b0a-3eef51b86408",
+        "type": "message",
+        "text": ":one: *Design discussion:*\n- What type of styling we should adopt.\nCurrent style is as per the “Claro” theme. So should we theme it according to Claro or Seven?",
+        "user": "U2T8M7PA4",
+        "ts": "1629120518.005900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UUeX5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "one",
+                                "unicode": "0031-fe0f-20e3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Design discussion:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- What type of styling we should adopt.\nCurrent style is as per the “Claro” theme. So should we theme it according to Claro or Seven?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120518.005900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1629143605.015500",
+        "reply_users": [
+            "U06NAEYSF",
+            "U3U1SD32R"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629125472.012300"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1629143605.015500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0f08f5d0-9a36-4ef7-b539-05081191d406",
+        "type": "message",
+        "text": ":two: *Dedicated “\/announcement” url:*\n- Currently there is dedicated url for announcement as well.\nDo we need to keep a dedicated page for announcements?\n- We might need to theme the individual page then.",
+        "user": "U2T8M7PA4",
+        "ts": "1629120534.006200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7rV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "two",
+                                "unicode": "0032-fe0f-20e3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Dedicated “\/announcement” url:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Currently there is dedicated url for announcement as well.\nDo we need to keep a dedicated page for announcements?\n- We might need to theme the individual page then."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120534.006200",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1629213392.018300",
+        "reply_users": [
+            "U06NAEYSF",
+            "U3U1SD32R",
+            "U2T8M7PA4"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629125399.011900"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629125412.012100"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1629143675.015700"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1629174991.016500"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1629206021.016900"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629213392.018300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d56dc688-daa3-4cf1-a6f7-d6e6910f9c12",
+        "type": "message",
+        "text": ":three: *Proposal to use cron based approach:*\nLeverage hook_cron to periodically refresh the data.\nCurrently it is happening when we click on\n“Announcement” icon. Upon clicking, first we are checking in temp storage and send API request if temp storage is empty.\n\nDo we need some sort of cron features like `update` module which periodically sends requests and updates the data in background?",
+        "user": "U2T8M7PA4",
+        "ts": "1629120543.006500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n9Y5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "three",
+                                "unicode": "0033-fe0f-20e3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Proposal to use cron based approach:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLeverage hook_cron to periodically refresh the data.\nCurrently it is happening when we click on\n“Announcement” icon. Upon clicking, first we are checking in temp storage and send API request if temp storage is empty.\n\nDo we need some sort of cron features like "
+                            },
+                            {
+                                "type": "text",
+                                "text": "update",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " module which periodically sends requests and updates the data in background?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2T8M7PA4",
+            "ts": "1629121162.000000"
+        },
+        "thread_ts": "1629120543.006500",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1629213450.018500",
+        "reply_users": [
+            "U06NAEYSF",
+            "U3U1SD32R",
+            "U2T8M7PA4"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629125523.012600"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629125544.012800"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629125637.013000"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629125653.013200"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1629144199.016300"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1629175225.016700"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629213450.018500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4ef05c63-0108-4e4d-a650-b30b7d7c9137",
+        "type": "message",
+        "text": ":four: *Notification Read\/un-read feature:*\nDesign has the feature for marking message as read\/un-read.\nDo we need to consider in scope for this iteration?",
+        "user": "U2T8M7PA4",
+        "ts": "1629120554.006800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8IVb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "four",
+                                "unicode": "0034-fe0f-20e3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Notification Read\/un-read feature:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDesign has the feature for marking message as read\/un-read.\nDo we need to consider in scope for this iteration?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120554.006800",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1629213296.017700",
+        "reply_users": [
+            "U06NAEYSF",
+            "U2T8M7PA4"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629125683.013400"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629125690.013600"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629125709.013800"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1629206667.017300"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629213296.017700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d7b7229a-83a8-404e-87b6-2f18441f142f",
+        "type": "message",
+        "text": ":five: API Endpoints:\nDoes API endpoints have filter facility to request with version arguments etc?\nFor ex:\nIf we want to fetch notifications related to Drupal 7, we can send requests like <https:\/\/api.drupal.org\/announcements.json?version=7> etc?\nThat way we can have lesser response data to process on module’s end.\n\nWe can also reduce response size by adding timestamp.\ni.e. if we want to fetch all the notifications published after last read notification. We can send last read timestamp and fetch specific notifications only.",
+        "user": "U2T8M7PA4",
+        "ts": "1629120816.010400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lGkn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "five",
+                                "unicode": "0035-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " API Endpoints:\nDoes API endpoints have filter facility to request with version arguments etc?\nFor ex:\nIf we want to fetch notifications related to Drupal 7, we can send requests like "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/api.drupal.org\/announcements.json?version=7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " etc?\nThat way we can have lesser response data to process on module’s end.\n\nWe can also reduce response size by adding timestamp.\ni.e. if we want to fetch all the notifications published after last read notification. We can send last read timestamp and fetch specific notifications only."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120816.010400",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1629874182.000700",
+        "reply_users": [
+            "U06NAEYSF",
+            "U3U1SD32R",
+            "U2T8M7PA4"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629125748.014000"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629125777.014200"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629125786.014400"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1629142782.015300"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1629143866.015900"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1629872441.000100"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1629873275.000500"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1629874182.000700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7ddbd2b4-34dc-4db0-b0eb-0eedaf647f42",
+        "type": "message",
+        "text": ":six: API response data freshness:\nCurrently data is stored in tempstore for 4 hours (14400 seconds).\nIs it fine or we want more real time data?",
+        "user": "U2T8M7PA4",
+        "ts": "1629120933.011300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xgio=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "six",
+                                "unicode": "0036-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " API response data freshness:\nCurrently data is stored in tempstore for 4 hours (14400 seconds).\nIs it fine or we want more real time data?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120933.011300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1629144014.016100",
+        "reply_users": [
+            "U06NAEYSF",
+            "U3U1SD32R"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1629125821.014600"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1629144014.016100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "911135f4-c6e8-4da4-b533-eba7ede8ef2e",
+        "type": "message",
+        "text": "<@U4PT7ES0M> <@U6V3XQXMF> ^^",
+        "user": "U2T8M7PA4",
+        "ts": "1629120951.011700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0N5X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6V3XQXMF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "30874ee6-6d37-40c7-b6bf-b6ba1b3498d0",
+        "type": "message",
+        "text": "We had a conversation about this a while back and decide, let's not render the full page articles directly in the Drupal UI - let's just render the teasers and let people click out to d.o for the full message.",
+        "user": "U06NAEYSF",
+        "ts": "1629125399.011900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "za87",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We had a conversation about this a while back and decide, let's not render the full page articles directly in the Drupal UI - let's just render the teasers and let people click out to d.o for the full message."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120534.006200",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "cd3cfbef-b1d5-49ae-9bfe-8fb5b51db886",
+        "type": "message",
+        "text": "So we can take out any pieces that were intended for having dedicated pages.",
+        "user": "U06NAEYSF",
+        "ts": "1629125412.012100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wpB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So we can take out any pieces that were intended for having dedicated pages."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120534.006200",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "b685c095-a7b8-483e-a6ac-a20df570d1c4",
+        "type": "message",
+        "text": "I think submitting with Claro theming is *correct* as the target because Claro will be the new default.\n\nI think we should see what it looks like if a user renders it using the Seven theme and do our best to make sure it is still functional (doesn't have to be pretty)",
+        "user": "U06NAEYSF",
+        "ts": "1629125472.012300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y=eQ8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think submitting with Claro theming is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "correct",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " as the target because Claro will be the new default.\n\nI think we should see what it looks like if a user renders it using the Seven theme and do our best to make sure it is still functional (doesn't have to be pretty)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U06NAEYSF",
+            "ts": "1629125484.000000"
+        },
+        "thread_ts": "1629120518.005900",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "dbc9f523-9c98-4293-8df2-b2da6c8377a1",
+        "type": "message",
+        "text": "We absolutely should have something for this.\n\nI *thought* there was something in the codebase for this already maybe?",
+        "user": "U06NAEYSF",
+        "ts": "1629125523.012600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LbTGJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We absolutely should have something for this.\n\nI "
+                            },
+                            {
+                                "type": "text",
+                                "text": "thought",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " there was something in the codebase for this already maybe?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120543.006500",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "e3a1f1aa-c5e8-4155-bc2e-601676a9bc9d",
+        "type": "message",
+        "text": "Or maybe it was a sort of callback that occurs not when the announcement icon is *clicked* but just when the announcement icon is *loaded* ?",
+        "user": "U06NAEYSF",
+        "ts": "1629125544.012800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F4DY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or maybe it was a sort of callback that occurs not when the announcement icon is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "clicked",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " but just when the announcement icon is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "loaded",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120543.006500",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "5f5cff18-7735-4f0f-87b5-b789dacae3a7",
+        "type": "message",
+        "text": "Not sure - and maybe that code didn't actually get written - but I'd look more closely to see if we already did something like that and if not, either add a cron that defaults to checking every 3 or 6 hours maybe (doesn't need to be heavy - there will almost never be more than 1 announcement a day) - or find someway to trigger it by 'first visit to the admin page in a session' so it happens 'just in time' for the user, but isn't constant polling for updates.",
+        "user": "U06NAEYSF",
+        "ts": "1629125637.013000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N64V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure - and maybe that code didn't actually get written - but I'd look more closely to see if we already did something like that and if not, either add a cron that defaults to checking every 3 or 6 hours maybe (doesn't need to be heavy - there will almost never be more than 1 announcement a day) - or find someway to trigger it by 'first visit to the admin page in a session' so it happens 'just in time' for the user, but isn't constant polling for updates."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120543.006500",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "438bbf1e-5ff1-4320-baa4-ceb8efe76e9f",
+        "type": "message",
+        "text": "<@U1CV1TM1D> ^^ Do you remember if we had a solution specced for this already?",
+        "user": "U06NAEYSF",
+        "ts": "1629125653.013200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j\/sc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1CV1TM1D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^ Do you remember if we had a solution specced for this already?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120543.006500",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "a611eeb4-e9f3-4b4b-a82f-1b08cff0a58d",
+        "type": "message",
+        "text": "I think there's already code for it.. so if there is - yes, that should be in scope.",
+        "user": "U06NAEYSF",
+        "ts": "1629125683.013400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0wz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think there's already code for it.. so if there is - yes, that should be in scope."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120554.006800",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "b72830bc-2603-40fb-8627-8aefe649df19",
+        "type": "message",
+        "text": "If no code for that has been started let's discuss it.",
+        "user": "U06NAEYSF",
+        "ts": "1629125690.013600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hfKK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If no code for that has been started let's discuss it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120554.006800",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "7cca2a66-ca67-4ce9-a6a7-082c75db702d",
+        "type": "message",
+        "text": "(The code was supposed to be a user context object which remembers read state by user)",
+        "user": "U06NAEYSF",
+        "ts": "1629125709.013800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nZi7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(The code was supposed to be a user context object which remembers read state by user)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120554.006800",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "81efc138-8c09-4df4-a572-d881c6a70a72",
+        "type": "message",
+        "text": "We haven't built that functionality into <http:\/\/Drupal.org|Drupal.org> - but that might be a good idea - would need <@U3U1SD32R> to think through how he wants that to work.",
+        "user": "U06NAEYSF",
+        "ts": "1629125748.014000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c8D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We haven't built that functionality into "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Drupal.org",
+                                "text": "Drupal.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - but that might be a good idea - would need "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U3U1SD32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to think through how he wants that to work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120816.010400",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "bf76bd2f-beee-4337-b564-12a7bbdaa5df",
+        "type": "message",
+        "text": "Our original thought was version as another field, and re-using core's existing semver parsing function to figure the version",
+        "user": "U06NAEYSF",
+        "ts": "1629125777.014200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EzqZc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our original thought was version as another field, and re-using core's existing semver parsing function to figure the version"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120816.010400",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "fff30020-619c-49b4-8d03-234c6436e87a",
+        "type": "message",
+        "text": "But open to other approaches.",
+        "user": "U06NAEYSF",
+        "ts": "1629125786.014400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MuFER",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But open to other approaches."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120816.010400",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "eec424d4-70f2-48ac-85e6-8678c75211b8",
+        "type": "message",
+        "text": "I think this is *probably* fine because these announcements are never *urgent* data...",
+        "user": "U06NAEYSF",
+        "ts": "1629125821.014600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DTH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think this is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "probably",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " fine because these announcements are never "
+                            },
+                            {
+                                "type": "text",
+                                "text": "urgent",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " data..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120933.011300",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "d9b71fdc-277b-488b-87ae-5718dd3c4420",
+        "type": "message",
+        "text": "<@UJHK24PT3> If you happen to know answers to some of these questions it would be a great help if you could chime in as well ^^",
+        "user": "U06NAEYSF",
+        "ts": "1629125843.015200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hPsl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJHK24PT3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " If you happen to know answers to some of these questions it would be a great help if you could chime in as well ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "36d5cee6-aea0-4e19-9d0a-b0f3d12144e5",
+        "type": "message",
+        "text": "I’d prefer serving everything with the version metadata as another field. That might be a bit more data, but is more-readily cacheable. And a `?version=7` parameter makes less sense nowadays, with semver, things can affect an arbitrary range of versions, so we would end up with `?version=7.80` or `?version=9.2.4` and we have to do every comparison server-side anyway.",
+        "user": "U3U1SD32R",
+        "ts": "1629142782.015300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YNVy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’d prefer serving everything with the version metadata as another field. That might be a bit more data, but is more-readily cacheable. And a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "?version=7",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " parameter makes less sense nowadays, with semver, things can affect an arbitrary range of versions, so we would end up with "
+                            },
+                            {
+                                "type": "text",
+                                "text": "?version=7.80",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "text",
+                                "text": "?version=9.2.4",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and we have to do every comparison server-side anyway."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120816.010400",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "ac14fc5c-3075-474a-b9ce-453b609ff007",
+        "type": "message",
+        "text": "And needs to be functional with anything someone sets as their admin theme.",
+        "user": "U3U1SD32R",
+        "ts": "1629143605.015500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "We=JI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And needs to be functional with anything someone sets as their admin theme."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120518.005900",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "23f50b33-f0aa-49ab-bda7-ff62d8f9f02b",
+        "type": "message",
+        "text": "The feed should have exactly what we want to provide then, we do the truncation server-side, and no client-side trimming.",
+        "user": "U3U1SD32R",
+        "ts": "1629143675.015700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Xqz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The feed should have exactly what we want to provide then, we do the truncation server-side, and no client-side trimming."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120534.006200",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "24ad3af1-1949-400b-89d1-a7b7b340052f",
+        "type": "message",
+        "text": "In some cases, I expect we might change the announcement after it is published for corrections\/clarifications, so we’ll want it fetching all announcements, regardless of publish date.",
+        "user": "U3U1SD32R",
+        "ts": "1629143866.015900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/4I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In some cases, I expect we might change the announcement after it is published for corrections\/clarifications, so we’ll want it fetching all announcements, regardless of publish date."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120816.010400",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "0f8602f7-c859-4ae6-a219-78ab5062bf72",
+        "type": "message",
+        "text": "Maybe less real-time. If there’s some issue contacting <http:\/\/Drupal.org|Drupal.org> for more than 4 hours, having them cached for maybe 24h makes sense to me. And refresh maybe 1 - 4 times a day via cron, assuming cron is set up.",
+        "user": "U3U1SD32R",
+        "ts": "1629144014.016100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O=mm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe less real-time. If there’s some issue contacting "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Drupal.org",
+                                "text": "Drupal.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for more than 4 hours, having them cached for maybe 24h makes sense to me. And refresh maybe 1 - 4 times a day via cron, assuming cron is set up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120933.011300",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "bf1c103d-152e-4c12-9c33-47e9185b1652",
+        "type": "message",
+        "text": "I suppose we can’t control when people run cron, but it would be nice to have requests come at arbitrary times. Our CDN can\/does absorb a flood of requests at the top of the hour, but it would be nice to have requests be made more-evenly. And yes, I’d expect this to work like update module - fetching on cron with some UI fallback since many sites don’t have cron set up.",
+        "user": "U3U1SD32R",
+        "ts": "1629144199.016300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k5l2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I suppose we can’t control when people run cron, but it would be nice to have requests come at arbitrary times. Our CDN can\/does absorb a flood of requests at the top of the hour, but it would be nice to have requests be made more-evenly. And yes, I’d expect this to work like update module - fetching on cron with some UI fallback since many sites don’t have cron set up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120543.006500",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "bc6fcab1-762e-47ff-b6f3-a0a1322e7b84",
+        "type": "message",
+        "text": "Basically, when we hit the “\/announcement” url, same content is visible without theming.\nShould we keep it that way with minimal theming etc?",
+        "user": "U2T8M7PA4",
+        "ts": "1629174991.016500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1oa\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Basically, when we hit the “\/announcement” url, same content is visible without theming.\nShould we keep it that way with minimal theming etc?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120534.006200",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "5454917e-13ba-4004-89b1-48c3bc32aa45",
+        "type": "message",
+        "text": "cool, so I think we can do the hybrid approach.\nWe can send the request on clicking the notification icon and fetch the latest data.\nIf the data is in `temp store` we can fetch it from there.\n\nAlso periodically refresh the `temp data` via cron every 4 hours or so.",
+        "user": "U2T8M7PA4",
+        "ts": "1629175225.016700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9ign",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool, so I think we can do the hybrid approach.\nWe can send the request on clicking the notification icon and fetch the latest data.\nIf the data is in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "temp store",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " we can fetch it from there.\n\nAlso periodically refresh the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "temp data",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " via cron every 4 hours or so."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629120543.006500",
+        "parent_user_id": "U2T8M7PA4"
+    }
+]

@@ -1,0 +1,1311 @@
+[
+    {
+        "client_msg_id": "33e0456d-754c-4df5-95a4-5318e30fea1d",
+        "type": "message",
+        "text": "<@U06NAEYSF> - as we discussed yesterday, here is a link to a drupalpod instance that reads from the json test fixture: <https:\/\/8080-shaal-drupalpod-q7og5ndfjdo.ws-eu83.gitpod.io\/admin\/announcements_feed>\n\nI updated the issue description with it and made a comment in the issue too.",
+        "user": "U6K08UK96",
+        "ts": "1674035301.363239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YpRhj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - as we discussed yesterday, here is a link to a drupalpod instance that reads from the json test fixture: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/8080-shaal-drupalpod-q7og5ndfjdo.ws-eu83.gitpod.io\/admin\/announcements_feed"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI updated the issue description with it and made a comment in the issue too."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "reply_count": 21,
+        "reply_users_count": 4,
+        "latest_reply": "1674070513.662629",
+        "reply_users": [
+            "U6K08UK96",
+            "U06NAEYSF",
+            "U4KAE8Q91",
+            "U47JYK2DT"
+        ],
+        "replies": [
+            {
+                "user": "U6K08UK96",
+                "ts": "1674035564.658209"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1674057313.343909"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1674063737.960519"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1674063770.030049"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1674063845.500639"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1674063876.902179"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1674064095.629939"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674064246.367789"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1674064265.892419"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674068719.233279"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674068759.149009"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674068764.591989"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674068853.423019"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674068911.702009"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674069005.562389"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674069313.899099"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674069324.139769"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674069342.620029"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674069599.693399"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674070407.108909"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674070513.662629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "feeb0149-9e49-4a63-9509-4a25317717a7",
+        "type": "message",
+        "text": "the pod will be deleted after 14 days of inactivity on it",
+        "user": "U6K08UK96",
+        "ts": "1674035564.658209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r2iy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the pod will be deleted after 14 days of inactivity on it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "83e97f61-5937-40f3-a2da-0e8e7e3c774a",
+        "type": "message",
+        "text": "Thank you! Will do what I can to pull in the appropriate reviewers.",
+        "user": "U06NAEYSF",
+        "ts": "1674057313.343909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Q9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you! Will do what I can to pull in the appropriate reviewers."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            },
+            {
+                "name": "thankful",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "deb8debe-5634-4d50-929c-2d118e6559b7",
+        "type": "message",
+        "text": "<@U4B423ANR> <@U1CREGN04> , I believe that drupalPod is ready for testing and hopefully for release sometime soon :slightly_smiling_face:",
+        "user": "U4KAE8Q91",
+        "ts": "1674063737.960519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T8xE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4B423ANR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1CREGN04"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , I believe that drupalPod is ready for testing and hopefully for release sometime soon "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "52cad425-f24f-4632-946e-d8311cca9f93",
+        "type": "message",
+        "text": "<@U6K08UK96>, you can \"pin\" DrupalPod and it will not be deleted until you delete it",
+        "user": "U4KAE8Q91",
+        "ts": "1674063770.030049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BhZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", you can \"pin\" DrupalPod and it will not be deleted until you delete it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "0d375e85-c959-40ec-a772-166a40e75cc6",
+        "type": "message",
+        "text": "<@U6K08UK96> - I'm getting a 404 on the pod link",
+        "user": "U06NAEYSF",
+        "ts": "1674063845.500639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bNSI9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I'm getting a 404 on the pod link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "9f46e106-6a0c-41c0-8265-6511a0b3daa9",
+        "type": "message",
+        "text": "<@U06NAEYSF> - instance need to be running for non-owner to access it",
+        "user": "U4KAE8Q91",
+        "ts": "1674063876.902179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6bgij",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - instance need to be running for non-owner to access it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "667b5880-9d55-4a28-b844-f210eef7effe",
+        "type": "message",
+        "text": "I know there are two kinds of instance sharing links, maybe we need the other kind so folks can do this when Fran's not online (cc <@U47JYK2DT>)",
+        "user": "U06NAEYSF",
+        "ts": "1674064095.629939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rorvW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know there are two kinds of instance sharing links, maybe we need the other kind so folks can do this when Fran's not online (cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U47JYK2DT"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "cf79a3aa-f174-4ce1-8764-07406fb7ac6f",
+        "type": "message",
+        "text": "<@U06NAEYSF> correct.\nThe URL above is the actual drupal website link (on port 8080), but it has to have the workspace running.\n\nWhen people create a snapshot `gp snapshot` in Gitpod's workspace terminal - they will get an exact copy of their environment (including any DB changes), that anyone can run and inspect.",
+        "user": "U47JYK2DT",
+        "ts": "1674064246.367789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PkLuG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " correct.\nThe URL above is the actual drupal website link (on port 8080), but it has to have the workspace running.\n\nWhen people create a snapshot "
+                            },
+                            {
+                                "type": "text",
+                                "text": "gp snapshot",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in Gitpod's workspace terminal - they will get an exact copy of their environment (including any DB changes), that anyone can run and inspect."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U4KAE8Q91",
+                    "U06NAEYSF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc3529b4-2aa0-4883-ac2f-215ea2619042",
+        "type": "message",
+        "text": "<@U6K08UK96>, you can share instance and you can create snapshot",
+        "user": "U4KAE8Q91",
+        "ts": "1674064265.892419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Za0L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", you can share instance and you can create snapshot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "43294E35-65F9-426E-9E54-45B3EAB3C1D1",
+        "type": "message",
+        "text": "I clicked on share the whole instance",
+        "user": "U6K08UK96",
+        "ts": "1674068719.233279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x8o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I clicked on share the whole instance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "6A620624-BAF2-4E47-BF3F-E3C5F73EF0EB",
+        "type": "message",
+        "text": "And tried in an incognito but didn’t think it’d need the other link",
+        "user": "U6K08UK96",
+        "ts": "1674068759.149009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lLfsG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And tried in an incognito but didn’t think"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it’d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " need the other link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "32E584EF-31DD-4085-BB4F-886047C1143D",
+        "type": "message",
+        "text": "One sec ",
+        "user": "U6K08UK96",
+        "ts": "1674068764.591989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zx+j0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One sec "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "6099d920-72fa-46a0-894b-fc991d53cb23",
+        "type": "message",
+        "text": "<https:\/\/shaal-drupalpod-q7og5ndfjdo.ws-eu82.gitpod.io\/> this one?",
+        "user": "U6K08UK96",
+        "ts": "1674068853.423019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U7W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/shaal-drupalpod-q7og5ndfjdo.ws-eu82.gitpod.io\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this one?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "type": "message",
+        "text": "this is how it was",
+        "files": [
+            {
+                "id": "F04KH8YQYRZ",
+                "created": 1674068906,
+                "timestamp": 1674068906,
+                "name": "Screenshot 2023-01-18 at 20.08.06.png",
+                "title": "Screenshot 2023-01-18 at 20.08.06.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U6K08UK96",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 77845,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F04KH8YQYRZ\/screenshot_2023-01-18_at_20.08.06.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F04KH8YQYRZ\/download\/screenshot_2023-01-18_at_20.08.06.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04KH8YQYRZ-7044ac8175\/screenshot_2023-01-18_at_20.08.06_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04KH8YQYRZ-7044ac8175\/screenshot_2023-01-18_at_20.08.06_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04KH8YQYRZ-7044ac8175\/screenshot_2023-01-18_at_20.08.06_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 141,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04KH8YQYRZ-7044ac8175\/screenshot_2023-01-18_at_20.08.06_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 188,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04KH8YQYRZ-7044ac8175\/screenshot_2023-01-18_at_20.08.06_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04KH8YQYRZ-7044ac8175\/screenshot_2023-01-18_at_20.08.06_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 282,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04KH8YQYRZ-7044ac8175\/screenshot_2023-01-18_at_20.08.06_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 313,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04KH8YQYRZ-7044ac8175\/screenshot_2023-01-18_at_20.08.06_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 376,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04KH8YQYRZ-7044ac8175\/screenshot_2023-01-18_at_20.08.06_1024.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 401,
+                "image_exif_rotation": 1,
+                "original_w": 1423,
+                "original_h": 557,
+                "thumb_tiny": "AwASADDROc9f0pecdf0paKAEGfX9KOfWlooAQ5pAqg5AA\/CnHpRQAUUUUAFFFFABRRRQB\/\/Z",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U6K08UK96\/F04KH8YQYRZ\/screenshot_2023-01-18_at_20.08.06.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F04KH8YQYRZ-fc3a66f050",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U6K08UK96",
+        "display_as_bot": false,
+        "ts": "1674068911.702009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SUp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is how it was"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4919e2b3-fe72-47b3-a4c5-3f66e3620134",
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "URL of gitpod instance: <https:\/\/gitpod.io\/#snapshot\/828d66df-5e7e-41bf-8a32-46e84e2a9f1f>\n\nI’ll update issue description when I have more time later tonight or tomorrow morning",
+        "user": "U6K08UK96",
+        "ts": "1674069005.562389",
+        "thread_ts": "1674035301.363239",
+        "root": {
+            "client_msg_id": "33e0456d-754c-4df5-95a4-5318e30fea1d",
+            "type": "message",
+            "text": "<@U06NAEYSF> - as we discussed yesterday, here is a link to a drupalpod instance that reads from the json test fixture: <https:\/\/8080-shaal-drupalpod-q7og5ndfjdo.ws-eu83.gitpod.io\/admin\/announcements_feed>\n\nI updated the issue description with it and made a comment in the issue too.",
+            "user": "U6K08UK96",
+            "ts": "1674035301.363239",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "YpRhj",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U06NAEYSF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " - as we discussed yesterday, here is a link to a drupalpod instance that reads from the json test fixture: "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/8080-shaal-drupalpod-q7og5ndfjdo.ws-eu83.gitpod.io\/admin\/announcements_feed"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nI updated the issue description with it and made a comment in the issue too."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T06GX3JTS",
+            "thread_ts": "1674035301.363239",
+            "reply_count": 21,
+            "reply_users_count": 4,
+            "latest_reply": "1674070513.662629",
+            "reply_users": [
+                "U6K08UK96",
+                "U06NAEYSF",
+                "U4KAE8Q91",
+                "U47JYK2DT"
+            ],
+            "replies": [
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1674035564.658209"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1674057313.343909"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1674063737.960519"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1674063770.030049"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1674063845.500639"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1674063876.902179"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1674064095.629939"
+                },
+                {
+                    "user": "U47JYK2DT",
+                    "ts": "1674064246.367789"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1674064265.892419"
+                },
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1674068719.233279"
+                },
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1674068759.149009"
+                },
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1674068764.591989"
+                },
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1674068853.423019"
+                },
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1674068911.702009"
+                },
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1674069005.562389"
+                },
+                {
+                    "user": "U47JYK2DT",
+                    "ts": "1674069313.899099"
+                },
+                {
+                    "user": "U47JYK2DT",
+                    "ts": "1674069324.139769"
+                },
+                {
+                    "user": "U47JYK2DT",
+                    "ts": "1674069342.620029"
+                },
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1674069599.693399"
+                },
+                {
+                    "user": "U47JYK2DT",
+                    "ts": "1674070407.108909"
+                },
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1674070513.662629"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OFF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "URL of gitpod instance: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gitpod.io\/#snapshot\/828d66df-5e7e-41bf-8a32-46e84e2a9f1f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI’ll update issue description when I have more time later tonight or tomorrow morning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5b786080-764c-43fa-8e90-c98d983db056",
+        "edited": {
+            "user": "U6K08UK96",
+            "ts": "1674069624.000000"
+        },
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U06NAEYSF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ab3a99c-1487-4b5e-b421-49f5e6859918",
+        "type": "message",
+        "text": "<@U6K08UK96> these are your private workspaces",
+        "user": "U47JYK2DT",
+        "ts": "1674069313.899099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fJDj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " these are your private workspaces"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "75b9f21a-5a4e-48d6-b24e-40eeb156567e",
+        "type": "message",
+        "text": "In that workspace, in terminal type `gp snapshot`",
+        "user": "U47JYK2DT",
+        "ts": "1674069324.139769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cawtG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In that workspace, in terminal type "
+                            },
+                            {
+                                "type": "text",
+                                "text": "gp snapshot",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "7d3d02d8-8085-47eb-bc09-abef5ce2208c",
+        "type": "message",
+        "text": "it will work for a few minutes, and then will give you a link you can share (that has the word snapshot in it)",
+        "user": "U47JYK2DT",
+        "ts": "1674069342.620029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gIXm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it will work for a few minutes, and then will give you a link you can share (that has the word snapshot in it)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e068fe07-7c9d-4ae5-9918-6cb0e440ca37",
+        "type": "message",
+        "text": "<https:\/\/gitpod.io\/#snapshot\/828d66df-5e7e-41bf-8a32-46e84e2a9f1f> this one?",
+        "user": "U6K08UK96",
+        "ts": "1674069599.693399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FVU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gitpod.io\/#snapshot\/828d66df-5e7e-41bf-8a32-46e84e2a9f1f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this one?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96",
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cdef532f-43bb-40c6-b14f-1624aa2a92ed",
+        "type": "message",
+        "text": "yes!",
+        "user": "U47JYK2DT",
+        "ts": "1674070407.108909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vTw\/+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "B3238883-A551-4570-B741-AB22720C31A4",
+        "type": "message",
+        "text": "Thanks for the guidance!",
+        "user": "U6K08UK96",
+        "ts": "1674070513.662629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ob2A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "the guidance!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674035301.363239",
+        "parent_user_id": "U6K08UK96"
+    }
+]

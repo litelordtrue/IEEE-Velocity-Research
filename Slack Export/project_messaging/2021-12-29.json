@@ -1,0 +1,111 @@
+[
+    {
+        "client_msg_id": "f814364f-9d07-4318-94fb-2ff278cdc696",
+        "type": "message",
+        "text": "hey <@U1A7P6GTZ> and <@U21M96DQU> thoughts on <https:\/\/www.drupal.org\/project\/announce\/issues\/3254339> this is kinda related to <https:\/\/www.drupal.org\/project\/announce\/issues\/3249661>",
+        "user": "U4PT7ES0M",
+        "ts": "1640850739.085700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "04cmH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1A7P6GTZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U21M96DQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thoughts on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3254339"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is kinda related to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249661"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4PT7ES0M",
+            "ts": "1640850748.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3254339",
+                "ts": 1639486340,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3254339",
+                "fallback": "Drupal.org: Current Semver logic might increase the size of the data in the cache in future.",
+                "text": "Problem\/Motivation Currently Announcements Feed tempstore store all the announcement irrespective of the version inside the DB. This means that in future if the content size gets bigger both computation and storage gonna be bigger. Proposed resolution Resorting back to the old logic is also not a good idea because of <https:\/\/www.drupal.org\/project\/announce\/issues\/3249661> . But I think drupal updates do re-trigger corn jobs if that so we already have one to deal with it.",
+                "title": "Current Semver logic might increase the size of the data in the cache in future.",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3254339",
+                "service_name": "Drupal.org"
+            },
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249661",
+                "ts": 1637062504,
+                "id": 2,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249661",
+                "fallback": "Drupal.org: Filtering for Drupal version is only done on newly loaded announcements",
+                "text": "Problem\/Motivation Announcements are stored in the tempstore with a max age. If there were no announcements in the tempstore, they are loaded from remote. Then the remote loaded ones are version filtered and are validated for <http:\/\/drupal.org|drupal.org> links. I believe Drupal version updates do not necessarily clear the tempstore, so Drupal may show incorrect announcements after a version update. Steps to reproduce Proposed resolution I don't think filtering for versions is expensive, so I think we should always do it. Remaining tasks User interface changes API changes Data model changes",
+                "title": "Filtering for Drupal version is only done on newly loaded announcements",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249661",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1640850739.085700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1641286325.086700",
+        "reply_users": [
+            "U1A7P6GTZ"
+        ],
+        "replies": [
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1641286325.086700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

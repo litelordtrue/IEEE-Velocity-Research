@@ -1,0 +1,395 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1628695294.000200",
+        "user": "U06NAEYSF",
+        "text": "<@U06NAEYSF> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1628695310.000500",
+        "user": "U6V3XQXMF",
+        "text": "<@U6V3XQXMF> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1628695311.000700",
+        "user": "U2T8M7PA4",
+        "text": "<@U2T8M7PA4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1628695350.001100",
+        "user": "U4PT7ES0M",
+        "text": "<@U4PT7ES0M> has joined the channel"
+    },
+    {
+        "client_msg_id": "3f41a96b-0ba5-4344-afdc-09323244b607",
+        "type": "message",
+        "text": "Inviting <@U3U1SD32R> from my team as well.",
+        "user": "U06NAEYSF",
+        "ts": "1628695355.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qVVz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Inviting "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U3U1SD32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " from my team as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1628695359.001500",
+        "user": "U3U1SD32R",
+        "text": "<@U3U1SD32R> has joined the channel",
+        "inviter": "U06NAEYSF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1628696166.001800",
+        "user": "UGCFBLKJR",
+        "text": "<@UGCFBLKJR> has joined the channel",
+        "inviter": "U06NAEYSF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1628696166.002000",
+        "user": "UJHK24PT3",
+        "text": "<@UJHK24PT3> has joined the channel",
+        "inviter": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "2d4049b4-41c1-46e5-9585-dd744bec8ee0",
+        "type": "message",
+        "text": "This channel is to collaborate on finishing the last mile of work on the Project Messaging in Core Initiative.\n\nThe DA has worked with many partners\n- Lullabot on initial designs\n - Zyxware on the contrib module prototype and initial implementation\n - And now QED42 to help finalize the module for inclusion in 9.3 - and backport to Drupal 7",
+        "user": "U06NAEYSF",
+        "ts": "1628696174.002200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8KzN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This channel is to collaborate on finishing the last mile of work on the Project Messaging in Core Initiative.\n\nThe DA has worked with many partners\n- Lullabot on initial designs\n - Zyxware on the contrib module prototype and initial implementation\n - And now QED42 to help finalize the module for inclusion in 9.3 - and backport to Drupal 7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4791abc8-4364-4b41-8c16-66d5344b28c6",
+        "type": "message",
+        "text": "I have added bookmarks to the top of this channel with links to:\n• the issue for inclusion in core\n• the contrib module\n• and the <http:\/\/drupal.org|drupal.org> issue for the <http:\/\/drupal.org|drupal.org> feed.",
+        "user": "U06NAEYSF",
+        "ts": "1628696342.003200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BYbG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have added bookmarks to the top of this channel with links to:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "the issue for inclusion in core"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "the contrib module"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "and the "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/drupal.org",
+                                        "text": "drupal.org"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " issue for the "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/drupal.org",
+                                        "text": "drupal.org"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " feed."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U06NAEYSF",
+            "ts": "1628696361.000000"
+        }
+    },
+    {
+        "client_msg_id": "7056da7f-e54c-4be5-8a62-c6f48fe09992",
+        "type": "message",
+        "text": "*Next steps* (taken from the core inclusion issue):\n• QED42 team to install locally and do code review\/discovery - find questions\n• Finalize the feed from <http:\/\/Drupal.org|Drupal.org>\n• Complete tests: <https:\/\/www.drupal.org\/project\/announce\/issues\/3198730|#3198730: Automated tests for Announce>\n• Standardize language to ‘announcements’ rather than ‘alerts’\n• Open the merge request on this issue\n• [[D7 Backport can start from here]]\n• Usability review\n• Accessibility review\n• Product manager review - Finalize policy for how the feed is to be used\n• Framework manager review\n• Release manager review - determine if we need to start as experimental, or can skip experimental since it is not a site-feature",
+        "user": "U06NAEYSF",
+        "ts": "1628696458.004300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QNIqY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Next steps",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (taken from the core inclusion issue):\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "QED42 team to install locally and do code review\/discovery - find questions"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Finalize the feed from "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/Drupal.org",
+                                        "text": "Drupal.org"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Complete tests: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3198730",
+                                        "text": "#3198730: Automated tests for Announce"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Standardize language to ‘announcements’ rather than ‘alerts’"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Open the merge request on this issue"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "[[D7 Backport can start from here]]"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Usability review"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Accessibility review"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Product manager review - Finalize policy for how the feed is to be used"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Framework manager review"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Release manager review - determine if we need to start as experimental, or can skip experimental since it is not a site-feature"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

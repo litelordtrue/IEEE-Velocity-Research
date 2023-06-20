@@ -1,0 +1,140 @@
+[
+    {
+        "client_msg_id": "ac1e8e80-bd8b-4c2b-9c88-d5bc0be72d5b",
+        "type": "message",
+        "text": "Could use review\/feedback\/suggestions on what's missing on the recent updates on these issues - Or RTBC -  if anyone has the time:\n• Governance: <https:\/\/www.drupal.org\/project\/governance\/issues\/3071994#comment-14382216> \n• <@U4PT7ES0M> Managing cache size as the feed grows: <https:\/\/www.drupal.org\/project\/announce\/issues\/3249532#comment-14331840>\n• <@U4PT7ES0M> Class might need to be removed for new items? Top of this comment: <https:\/\/www.drupal.org\/project\/announce\/issues\/3249644#comment-14334189>\n• Documenting difference between featured and standard announcements: <https:\/\/www.drupal.org\/project\/announce\/issues\/3249625> \n",
+        "user": "U06NAEYSF",
+        "ts": "1643320164.002500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NfYTt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Could use review\/feedback\/suggestions on what's missing on the recent updates on these issues - Or RTBC -  if anyone has the time:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Governance: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.drupal.org\/project\/governance\/issues\/3071994#comment-14382216"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U4PT7ES0M"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Managing cache size as the feed grows: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532#comment-14331840"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U4PT7ES0M"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Class might need to be removed for new items? Top of this comment: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249644#comment-14334189"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Documenting difference between featured and standard announcements: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249625"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1643320164.002500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649263439.915509",
+        "reply_users": [
+            "U4PT7ES0M",
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1649225261.777089"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1649263439.915509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

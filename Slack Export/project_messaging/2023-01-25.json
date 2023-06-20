@@ -1,0 +1,3218 @@
+[
+    {
+        "client_msg_id": "900edf39-6ceb-45d8-a819-4838a1fefab5",
+        "type": "message",
+        "text": "<@U47JYK2DT> and <@U6K08UK96> - I'm still having trouble figuring out how to make the DrupalPod preview stable so we have it easily accessible to our reviewers - any more tips for us?",
+        "user": "U06NAEYSF",
+        "ts": "1674668370.931509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fe3c4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U47JYK2DT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I'm still having trouble figuring out how to make the DrupalPod preview stable so we have it easily accessible to our reviewers - any more tips for us?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "reply_count": 33,
+        "reply_users_count": 3,
+        "latest_reply": "1674670278.367329",
+        "reply_users": [
+            "U47JYK2DT",
+            "U6K08UK96",
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674668422.607099"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674668583.588009"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674668611.628049"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674668655.552039"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674668683.974969"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674668695.933059"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674668765.942799"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674668783.626749"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674668840.518589"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674668857.831959"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674668858.468009"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674668879.699409"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674668900.016429"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1674668901.564249"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1674668908.187879"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674668935.672839"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1674669049.029499"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674669056.078149"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1674669058.916729"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674669152.362679"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674669186.793369"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674669260.569509"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674669304.176989"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674669315.206639"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674669419.040059"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674669446.294619"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674669510.035199"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674669571.637849"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1674669622.952739"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674669644.829599"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674669728.321979"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674669980.432009"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1674670278.367329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c39424ac-c483-41bd-94a8-b17bf13bcd66",
+        "type": "message",
+        "text": "I didn't know there is an issue. Do you have more details? (or is that a conversation I forgot about?)",
+        "user": "U47JYK2DT",
+        "ts": "1674668422.607099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xKMzo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I didn't know there is an issue. Do you have more details? (or is that a conversation I forgot about?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "9cb41317-a3ca-45cf-b784-e8355170b37d",
+        "type": "message",
+        "text": "did I update the links on the issue? :thinking_face:\nI know I did it on slack for sure. let me check",
+        "user": "U6K08UK96",
+        "ts": "1674668583.588009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "khRP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "did I update the links on the issue? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI know I did it on slack for sure. let me check"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "68f7d3fc-9374-4329-8dd6-66b3de18cda4",
+        "type": "message",
+        "text": "this is the right one <https:\/\/gitpod.io\/#snapshot\/828d66df-5e7e-41bf-8a32-46e84e2a9f1f>",
+        "user": "U6K08UK96",
+        "ts": "1674668611.628049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gf7J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is the right one "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gitpod.io\/#snapshot\/828d66df-5e7e-41bf-8a32-46e84e2a9f1f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "932174ee-aa1a-49fb-a60d-111c6db1fd32",
+        "type": "message",
+        "text": "Do we want to use a snapshot link - to let people see it?\n(is it more complex than enabling a module in Drupal?)",
+        "user": "U47JYK2DT",
+        "ts": "1674668655.552039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oG6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do we want to use a snapshot link - to let people see it?\n(is it more complex than enabling a module in Drupal?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "94760507-4edd-47d3-8647-3ee21d480203",
+        "type": "message",
+        "text": "I think so, because it needed to have some extra configuration that couldn’t be automated",
+        "user": "U6K08UK96",
+        "ts": "1674668683.974969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8gM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think so, because it needed to have some extra configuration that couldn’t be automated"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "66926098-36c4-43b8-8dcd-871f467f5ac7",
+        "type": "message",
+        "text": "like enabling modules, setting some dev settings, etc",
+        "user": "U6K08UK96",
+        "ts": "1674668695.933059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ejl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "like enabling modules, setting some dev settings, etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "b2439e97-7fef-4299-8b32-0ae302945013",
+        "type": "message",
+        "text": "for that snapshot to remain active, <@U6K08UK96> please go to <http:\/\/gitpod.io\/workspaces|gitpod.io\/workspaces> and make sure to PIN the workspace that the snapshot is based on.\n(otherwise workspace will be deleted as well as its snapshots)",
+        "user": "U47JYK2DT",
+        "ts": "1674668765.942799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8SrOa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for that snapshot to remain active, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please go to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/gitpod.io\/workspaces",
+                                "text": "gitpod.io\/workspaces"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and make sure to PIN the workspace that the snapshot is based on.\n(otherwise workspace will be deleted as well as its snapshots)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "5969cefc-1537-4fc1-b22a-2f7d1df2028a",
+        "type": "message",
+        "text": "yup, I already did that last week",
+        "user": "U6K08UK96",
+        "ts": "1674668783.626749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wU3S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yup, I already did that last week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "40c778bd-1733-464b-a6f4-cecf64b009ea",
+        "type": "message",
+        "text": ":tada:",
+        "user": "U47JYK2DT",
+        "ts": "1674668840.518589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iudx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04M7SGCB16",
+                "created": 1674668855,
+                "timestamp": 1674668855,
+                "name": "Screenshot 2023-01-25 at 18.47.21.png",
+                "title": "Screenshot 2023-01-25 at 18.47.21.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U6K08UK96",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 49028,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F04M7SGCB16\/screenshot_2023-01-25_at_18.47.21.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F04M7SGCB16\/download\/screenshot_2023-01-25_at_18.47.21.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04M7SGCB16-f8014b9b7a\/screenshot_2023-01-25_at_18.47.21_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04M7SGCB16-f8014b9b7a\/screenshot_2023-01-25_at_18.47.21_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04M7SGCB16-f8014b9b7a\/screenshot_2023-01-25_at_18.47.21_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 84,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04M7SGCB16-f8014b9b7a\/screenshot_2023-01-25_at_18.47.21_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 111,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04M7SGCB16-f8014b9b7a\/screenshot_2023-01-25_at_18.47.21_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04M7SGCB16-f8014b9b7a\/screenshot_2023-01-25_at_18.47.21_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 167,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04M7SGCB16-f8014b9b7a\/screenshot_2023-01-25_at_18.47.21_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 186,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04M7SGCB16-f8014b9b7a\/screenshot_2023-01-25_at_18.47.21_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 223,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04M7SGCB16-f8014b9b7a\/screenshot_2023-01-25_at_18.47.21_1024.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 238,
+                "original_w": 1332,
+                "original_h": 309,
+                "thumb_tiny": "AwALADDRIXPNLgYxS0UANwKXilooATAoGKWkHSgD\/9k=",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U6K08UK96\/F04M7SGCB16\/screenshot_2023-01-25_at_18.47.21.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F04M7SGCB16-b2e429f769",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U6K08UK96",
+        "display_as_bot": false,
+        "ts": "1674668857.831959",
+        "client_msg_id": "491aaf3b-f64b-441b-84df-de6468bc8077",
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "16aab4a6-dba3-4d76-aed2-85e1c3a7e8bf",
+        "type": "message",
+        "text": "<@U06NAEYSF> is using that link a good solution ?",
+        "user": "U47JYK2DT",
+        "ts": "1674668858.468009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GvAAy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is using that link a good solution ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "31c70b6f-fa08-4541-b87b-c699b890dd8b",
+        "type": "message",
+        "text": "<@U6K08UK96> uncheck that \"share\" option",
+        "user": "U47JYK2DT",
+        "ts": "1674668879.699409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i+7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " uncheck that \"share\" option"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc1e9096-2d7e-432c-b6fd-cf690d1b0a23",
+        "type": "message",
+        "text": "because that allows other people get into your workspace (and is not needed for snapshot to work)",
+        "user": "U47JYK2DT",
+        "ts": "1674668900.016429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v0jm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "because that allows other people get into your workspace (and is not needed for snapshot to work)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "d153a9d1-8495-4083-ab74-45147467accf",
+        "type": "message",
+        "text": "That link will work! I think I must have still had the old one in my notes.",
+        "user": "U06NAEYSF",
+        "ts": "1674668901.564249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zqG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That link will work! I think I must have still had the old one in my notes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "677de896-36c1-48dd-9cac-baf961792276",
+        "type": "message",
+        "text": "Is that up to date on our issue, <@U6K08UK96>?",
+        "user": "U06NAEYSF",
+        "ts": "1674668908.187879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gZk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is that up to date on our issue, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "b2fce6e6-1863-4d6a-be51-ca21b15c4d18",
+        "type": "message",
+        "text": "it is now. sorry, it totally slipped through the cracks. I updated the last comment and the issue description.",
+        "user": "U6K08UK96",
+        "ts": "1674668935.672839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4os",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it is now. sorry, it totally slipped through the cracks. I updated the last comment and the issue description."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6K08UK96",
+            "ts": "1674669014.000000"
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "77506875-1843-44c4-a692-aa1fcdbe2c88",
+        "type": "message",
+        "text": "Perfect! That's great.",
+        "user": "U06NAEYSF",
+        "ts": "1674669049.029499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zea",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect! That's great."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "845fc93d-c1a0-4d4c-b791-20db64b33ac0",
+        "type": "message",
+        "text": "_<@U47JYK2DT> - share option unchecked. thanks._",
+        "user": "U6K08UK96",
+        "ts": "1674669056.078149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bTW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U47JYK2DT",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " - share option unchecked. thanks.",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "1c4b1eef-c17d-4e63-b67f-71953f0083cf",
+        "type": "message",
+        "text": "I can proceed with finding the right needs_XXXX_review people now.",
+        "user": "U06NAEYSF",
+        "ts": "1674669058.916729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "epU\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can proceed with finding the right needs_XXXX_review people now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "e14df94f-5be5-4f31-bd23-cb886c39875d",
+        "type": "message",
+        "text": "How do we handle future updates of `project_messaging`?",
+        "user": "U47JYK2DT",
+        "ts": "1674669152.362679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U=yA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How do we handle future updates of "
+                            },
+                            {
+                                "type": "text",
+                                "text": "project_messaging",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "aa80ea2f-96f9-4a7e-9686-d2a8dfe4bef0",
+        "type": "message",
+        "text": "<@U47JYK2DT> - what URL could I use inside the pod that will always be reachable? I need it in a URL format",
+        "user": "U6K08UK96",
+        "ts": "1674669186.793369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OMWc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U47JYK2DT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - what URL could I use inside the pod that will always be reachable? I need it in a URL format"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "8e4c5b37-99ed-4492-a13e-888e239b2f90",
+        "type": "message",
+        "text": "<@U6K08UK96> I don't think I understand the question.\nWorkspace has to run first (that's what the snapshot link is doing)\nThen a preview of Drupal website will appear inside the 'vscode' interface.\nFrom there - people can open that link using the diagonal arrow on top-right, if they want to open it in a new tab",
+        "user": "U47JYK2DT",
+        "ts": "1674669260.569509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lfh\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I don't think I understand the question.\nWorkspace has to run first (that's what the snapshot link is doing)\nThen a preview of Drupal website will appear inside the 'vscode' interface.\nFrom there - people can open that link using the diagonal arrow on top-right, if they want to open it in a new tab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "e61a3c9f-fd69-481f-8264-1e9c2409d0c8",
+        "type": "message",
+        "text": "I want to set a link to an internal file. for example right now it’s <https:\/\/8080-brown-tiger-0akjxdcmggm.ws-eu84.gitpod.io\/core\/modules\/announcements_feed\/tests\/announce_feed\/community-feeds.json> and it works",
+        "user": "U6K08UK96",
+        "ts": "1674669304.176989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qL=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I want to set a link to an internal file. for example right now it’s "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/8080-brown-tiger-0akjxdcmggm.ws-eu84.gitpod.io\/core\/modules\/announcements_feed\/tests\/announce_feed\/community-feeds.json"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and it works"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "a5e46263-2cd3-4476-99d5-f9f9eebde5fc",
+        "type": "message",
+        "text": "but when a new URL is assigned, that link will no longer work",
+        "user": "U6K08UK96",
+        "ts": "1674669315.206639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2CI+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but when a new URL is assigned, that link will no longer work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "0b94c5b1-bd97-4423-b291-8242add1d84c",
+        "type": "message",
+        "text": "Can you use relative links ?",
+        "user": "U47JYK2DT",
+        "ts": "1674669419.040059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YTO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you use relative links ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U47JYK2DT",
+            "ts": "1674669432.000000"
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "df0b3604-e001-4ff4-957a-85ab555d56a3",
+        "type": "message",
+        "text": "it needs to be in URL format. like http…",
+        "user": "U6K08UK96",
+        "ts": "1674669446.294619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k==d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it needs to be in URL format. like http…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "169bc1bf-b294-44cc-9a8f-237c05bb4e8f",
+        "type": "message",
+        "text": "actually, the following is why I needed to click `share` as well before\n```Client error: `GET <https:\/\/8080-brown-tiger-0akjxdcmggm.ws-eu84.gitpod.io\/core\/modules\/announcements_feed\/tests\/announce_feed\/community-feeds.json>` resulted in a `401 Unauthorized` response```",
+        "user": "U6K08UK96",
+        "ts": "1674669510.035199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BtL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "actually, the following is why I needed to click "
+                            },
+                            {
+                                "type": "text",
+                                "text": "share",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " as well before\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Client error: `GET "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/8080-brown-tiger-0akjxdcmggm.ws-eu84.gitpod.io\/core\/modules\/announcements_feed\/tests\/announce_feed\/community-feeds.json"
+                            },
+                            {
+                                "type": "text",
+                                "text": "` resulted in a `401 Unauthorized` response"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "96fb1c25-43b1-48f9-a904-3b28b4e21530",
+        "type": "message",
+        "text": "but 8080 is a port, that should be set to \"public\" (now I don't remember if we set it to private or public by default)",
+        "user": "U47JYK2DT",
+        "ts": "1674669571.637849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iu9CF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but 8080 is a port, that should be set to \"public\" (now I don't remember if we set it to private or public by default)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "a5b9514b-4a25-46c8-ba60-56954174bbd0",
+        "type": "message",
+        "text": "I am not sure why\/how `share` helped with that error. Seems like 401 is something else (like when antonymous is trying to fetch a url that is only available for admin)",
+        "user": "U47JYK2DT",
+        "ts": "1674669622.952739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9F2X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am not sure why\/how "
+                            },
+                            {
+                                "type": "text",
+                                "text": "share",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " helped with that error. Seems like 401 is something else (like when antonymous is trying to fetch a url that is only available for admin)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "fc51fc84-7f3e-4e42-b97f-bbf37c18c9fe",
+        "type": "message",
+        "text": "and can that setting be part of the snapshot somehow?\n\nit wasn’t the `share` sorry, it was opening the port what made the difference.",
+        "user": "U6K08UK96",
+        "ts": "1674669644.829599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JvaF0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and can that setting be part of the snapshot somehow?\n\nit wasn’t the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "share",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " sorry, it was opening the port what made the difference."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "e679aaca-3d7f-4f0a-b4ee-5edeb969f316",
+        "type": "message",
+        "text": "so there are two challenges remaining:\n• either get an internal URL that can be accessed by the own instance\n• or somehow have the port 80 shared as part of the snapshot (and ideally get a predictable URL?)",
+        "user": "U6K08UK96",
+        "ts": "1674669728.321979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "47skk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so there are two challenges remaining:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "either get an internal URL that can be accessed by the own instance"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "or somehow have the port 80 shared as part of the snapshot (and ideally get a predictable URL?)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "7cc1ed05-1fab-4be7-ac5c-c06ecb6c7d32",
+        "type": "message",
+        "text": "no big deal if it’s not possible <@U47JYK2DT>. it’s the first time I’m using this snapshot feature and I’m not sure what’s possible and what’s not.\n--\nI’ve updated the testing instructions to add this step in any case <@U06NAEYSF>",
+        "user": "U6K08UK96",
+        "ts": "1674669980.432009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bff",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no big deal if it’s not possible "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U47JYK2DT"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". it’s the first time I’m using this snapshot feature and I’m not sure what’s possible and what’s not.\n--\nI’ve updated the testing instructions to add this step in any case "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "f5310a5e-6023-4fda-bce6-053e6b2939af",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U06NAEYSF",
+        "ts": "1674670278.367329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X3QQP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674668370.931509",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "49e1e1b9-0870-4d9b-a00f-500f6d49d7fc",
+        "type": "message",
+        "text": "<@U4KAE8Q91> There is lots of outstanding feedback on the issue",
+        "user": "U4B423ANR",
+        "ts": "1674676054.294799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8SO6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4KAE8Q91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " There is lots of outstanding feedback on the issue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "8429dcc4-aab4-4f34-bfc5-798bcfb2e5db",
+        "type": "message",
+        "text": "At least as of last week, multiple framework managers agreed that the feed should be converted to spec",
+        "user": "U4B423ANR",
+        "ts": "1674676086.027549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AiJ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "At least as of last week, multiple framework managers agreed that the feed should be converted to spec"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "05c71548-696c-4db4-ac67-1e2a8c871aed",
+        "type": "message",
+        "text": "The issue was also failing tests",
+        "user": "U4B423ANR",
+        "ts": "1674676092.669009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ETEkZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The issue was also failing tests"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "7a469845-9259-4918-872d-cd29efa54183",
+        "type": "message",
+        "text": "Etc.",
+        "user": "U4B423ANR",
+        "ts": "1674676122.751299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VL=4O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "0b9c7ff7-d720-4390-8634-508b10d2a8e4",
+        "type": "message",
+        "text": "There was need for design to change a color",
+        "user": "U4B423ANR",
+        "ts": "1674676130.639399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4RAS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There was need for design to change a color"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "23918616-8683-4935-b965-6bc3aa240537",
+        "type": "message",
+        "text": "Ask for release managers' feedback once all the outstanding feedback has been addressed :slightly_smiling_face:",
+        "user": "U4B423ANR",
+        "ts": "1674676150.790019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fXUV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ask for release managers' feedback once all the outstanding feedback has been addressed "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "b384d8f0-b424-4d8f-8d0f-b52230fc22b4",
+        "type": "message",
+        "text": "<@U4KAE8Q91> It's in a NW state.",
+        "user": "U4B423ANR",
+        "ts": "1674676240.003899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4nEk5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4KAE8Q91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " It's in a NW state."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "61ab376e-29d5-404c-9afc-68907948bf4b",
+        "type": "message",
+        "text": "Also my request to link specific comments with feedback in the IS was not addressed",
+        "user": "U4B423ANR",
+        "ts": "1674676287.531249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "os2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also my request to link specific comments with feedback in the IS was not addressed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "5778eed6-5641-4680-9ebe-dfa9d6e8fcce",
+        "type": "message",
+        "text": "There's nothing in the IS about converting it to `json_feed`, or whether or not that was done",
+        "user": "U4B423ANR",
+        "ts": "1674676311.761119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t25=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There's nothing in the IS about converting it to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "json_feed",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", or whether or not that was done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "38a0ccd4-f220-4c6e-99b5-96d28e3abc88",
+        "type": "message",
+        "text": "There's nothing about the color a11y issue, or whether or not that was fixed, or whether that's blocked on design feedback, or what",
+        "user": "U4B423ANR",
+        "ts": "1674676335.929579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ca0Jy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There's nothing about the color a11y issue, or whether or not that was fixed, or whether that's blocked on design feedback, or what"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "ed09fcb5-21c7-4846-abdb-af2d02a73f4b",
+        "type": "message",
+        "text": "Please address our feedback, or see that someone addresses it, and then we can talk more about next steps :slightly_smiling_face:",
+        "user": "U4B423ANR",
+        "ts": "1674676388.236289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tmnu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please address our feedback, or see that someone addresses it, and then we can talk more about next steps "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "a04fa612-7fe4-455f-ba8b-44c0b1929b92",
+        "type": "message",
+        "text": "Especially the part about the issue summary; that will save a lot of back-and-forth in Slack and between contributors",
+        "user": "U4B423ANR",
+        "ts": "1674676407.735969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OsN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Especially the part about the issue summary; that will save a lot of back-and-forth in Slack and between contributors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ee63e53-2f44-47ba-a800-95d2e4f65c34",
+        "type": "message",
+        "text": "Agree that any remaining tasks should be explicitly declared.\n\nSome of them were addressed and comments were made in the MR (like the color issue) to that effect. But in my case, having jumped just recently on this, I’m not sure about which comments\/suggestions bare which weight. If they go into the IS then it’s clear they need to be addressed.\n\nI addressed the feedback that was in the MR and actually fixed the tests. The last run came green as far as I can see.",
+        "user": "U6K08UK96",
+        "ts": "1674677360.277499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hdVx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agree that any remaining tasks should be explicitly declared.\n\nSome of them were addressed and comments were made in the MR (like the color issue) to that effect. But in my case, having jumped just recently on this, I’m not sure about which comments\/suggestions bare which weight. If they go into the IS then it’s clear they need to be addressed.\n\nI addressed the feedback that was in the MR and actually fixed the tests. The last run came green as far as I can see."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "9c2c4783-0c62-481f-b83c-0b489e14acf9",
+        "type": "message",
+        "text": "<@U4B423ANR>,  I updated issues summary, please let me know if I should open additional ticket(s) for any outstanding tasks.  <@U3U1SD32R> posted  explanation why we need custom feed format <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14859696>",
+        "user": "U4KAE8Q91",
+        "ts": "1674678617.931929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fvtxR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4B423ANR"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",  I updated issues summary, please let me know if I should open additional ticket(s) for any outstanding tasks.  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U3U1SD32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " posted  explanation why we need custom feed format "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14859696"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14859696",
+                "ts": 1617212298,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14859696",
+                "fallback": "Drupal.org: Project messaging channel in core (as experimental)",
+                "text": "Problem\/Motivation Per the core idea issue: [#2940739] The vast majority of Drupal users do not have accounts on <http:\/\/Drupal.org|Drupal.org>, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association. The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core.",
+                "title": "Project messaging channel in core (as experimental)",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14859696",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "69d86828-769d-40ba-bdf9-beda79e6051b",
+        "type": "message",
+        "text": "<@U4KAE8Q91> I read Neil's comment as \"this is why we chose it, but it's not a hard requirement\".",
+        "user": "U4B423ANR",
+        "ts": "1674678671.278129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KQ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4KAE8Q91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I read Neil's comment as \"this is why we chose it, but it's not a hard requirement\"."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "checkbox",
+                "users": [
+                    "U3U1SD32R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c16e4e08-df41-4c64-b5ac-de608dedc6ca",
+        "type": "message",
+        "text": "Red color in \"new\" has been replaced with Italic <https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889#note_143653>",
+        "user": "U4KAE8Q91",
+        "ts": "1674678674.274759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hhw2F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Red color in \"new\" has been replaced with Italic "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889#note_143653"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889#note_143653",
+                "thumb_url": "https:\/\/git.drupalcode.org\/assets\/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg",
+                "thumb_width": 1024,
+                "thumb_height": 1024,
+                "service_icon": "https:\/\/git.drupalcode.org\/assets\/apple-touch-icon-b049d4bc0dd9626f31db825d61880737befc7835982586d015bded10b4435460.png",
+                "id": 1,
+                "original_url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889#note_143653",
+                "fallback": "GitLab: #3206643: Project messaging channel in core (!2889) · Merge requests · project \/ drupal · GitLab",
+                "text": "Closes #3206643",
+                "title": "#3206643: Project messaging channel in core (!2889) · Merge requests · project \/ drupal · GitLab",
+                "title_link": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889#note_143653",
+                "service_name": "GitLab",
+                "fields": [
+                    {
+                        "value": "Benji Fisher",
+                        "title": "Author",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "3ea46d3a-5b35-48c1-a9a5-04063f2e8f17",
+        "type": "message",
+        "text": "I do not know what is \"a NW state.\", sorry about it, happy to follow your lead",
+        "user": "U4KAE8Q91",
+        "ts": "1674678724.868039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=wJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do not know what is \"a NW state.\", sorry about it, happy to follow your lead"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "fee42d09-4ceb-4d69-aa1d-50418db5d970",
+        "type": "message",
+        "text": "<@U4KAE8Q91> The issue is marked needs work for numerous changes. This means it is not ready for review, certainly not review by committers.",
+        "user": "U4B423ANR",
+        "ts": "1674678754.734079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ZU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4KAE8Q91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " The issue is marked needs work for numerous changes. This means it is not ready for review, certainly not review by committers."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "f68d3f3d-a42a-4976-b63f-4806e8bb809d",
+        "type": "message",
+        "text": "Please list the spec question among other things in the IS. To me, it sounds like it can be changed and we just need <@U3U1SD32R> and <@U1AL60FHC> and <@U1ASJU340> to agree it should be.",
+        "user": "U4B423ANR",
+        "ts": "1674678817.914309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eh3M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please list the spec question among other things in the IS. To me, it sounds like it can be changed and we just need "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U3U1SD32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1AL60FHC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ASJU340"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to agree it should be."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4B423ANR",
+            "ts": "1674678833.000000"
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "434909d5-f0ac-4f40-b209-5dde4eb646c3",
+        "type": "message",
+        "text": "I don’t have any final opinion on the format, other than it should be decided sooner rather than later. Not changing it is nice &amp; easy. Changing is okay too, jsonfeed looks like a fine format, we can do it if its a requirement. I’d appreciate an issue for drupalorg module if it is required to change.",
+        "user": "U3U1SD32R",
+        "ts": "1674678987.664979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yThob",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t have any final opinion on the format, other than it should be decided sooner rather than later. Not changing it is nice & easy. Changing is okay too, jsonfeed looks like a fine format, we can do it if its a requirement. I’d appreciate an issue for drupalorg module if it is required to change."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "90446580-92fd-4b9f-b07e-f3f7749561e4",
+        "type": "message",
+        "text": "<@U4KAE8Q91> Also to be clear, I do not have the availability to act as an initiative coordinator for this initiative. I just heard that the initiative was stalled and so have been trying to do what I can to help. However, I can't give more help if the help I give isn't implemented. :slightly_smiling_face:",
+        "user": "U4B423ANR",
+        "ts": "1674679084.340939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xCU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4KAE8Q91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Also to be clear, I do not have the availability to act as an initiative coordinator for this initiative. I just heard that the initiative was stalled and so have been trying to do what I can to help. However, I can't give more help if the help I give isn't implemented. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "ac6f7a8f-af58-41c7-a09f-80dd722b88dc",
+        "type": "message",
+        "text": "<@U4B423ANR>, totally, thank you so much for everything that you are doing.  I totally did not mean to put more load on your shoulders.  I was under impression that you wanted to be involved based on your comments in slack channel.  My apologies for confusion.",
+        "user": "U4KAE8Q91",
+        "ts": "1674679202.497239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bFRGC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4B423ANR"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", totally, thank you so much for everything that you are doing.  I totally did not mean to put more load on your shoulders.  I was under impression that you wanted to be involved based on your comments in slack channel.  My apologies for confusion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "a20efab9-874c-4e8d-99d8-1aeceabf1a0f",
+        "type": "message",
+        "text": "<@U3U1SD32R>, if we want to release this module in 2023 maybe current format is acceptable give the fact that this is custom feed anyway.",
+        "user": "U4KAE8Q91",
+        "ts": "1674679272.463469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wPVC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U3U1SD32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", if we want to release this module in 2023 maybe current format is acceptable give the fact that this is custom feed anyway."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "e9d521b1-d7ae-4145-85d7-490711be5686",
+        "type": "message",
+        "text": "Changing the format is not a big deal technically. If we need to do it, its straightforward. I need to know if its what we want to do. The format is basically set forever once its in core, so we don’t take shortcuts.",
+        "user": "U3U1SD32R",
+        "ts": "1674679408.762069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LNzFq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Changing the format is not a big deal technically. If we need to do it, its straightforward. I need to know if its what we want to do. The format is basically set forever once its in core, so we don’t take shortcuts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b77553c8-f179-44dc-9037-a996b6eb91fe",
+        "type": "message",
+        "text": "Personally, I’d say we just change it to jsonfeed, that should be easier for review. But someone needs to make that decision and open a drupalorg module issue so we can change it there and generate new test fixtures; and put in the work to get the parsing done.",
+        "user": "U3U1SD32R",
+        "ts": "1674679554.085569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fS0N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Personally, I’d say we just change it to jsonfeed, that should be easier for review. But someone needs to make that decision and open a drupalorg module issue so we can change it there and generate new test fixtures; and put in the work to get the parsing done."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "56a03804-0bfc-4774-be08-e3590a1b6687",
+        "type": "message",
+        "text": "<@U3U1SD32R>, here is the ticket <https:\/\/www.drupal.org\/project\/drupal\/issues\/3336528>. I am not sure what would be remaining tasks",
+        "user": "U4KAE8Q91",
+        "ts": "1674679593.065479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KuP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U3U1SD32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", here is the ticket "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3336528"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I am not sure what would be remaining tasks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4KAE8Q91",
+            "ts": "1674679904.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3336528",
+                "ts": 1674679854,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3336528",
+                "fallback": "Drupal.org: Make announcements json feed format consistent with https:\/\/www.jsonfeed.org\/version\/1.1\/.",
+                "text": "Problem\/Motivation Make <https:\/\/www.drupal.org\/announcements.json> complaint with JSON feed format <https:\/\/www.jsonfeed.org\/version\/1.1\/>. Steps to reproduce Proposed resolution Remaining tasks User interface changes API changes Data model changes Release notes snippet",
+                "title": "Make announcements json feed format consistent with https:\/\/www.jsonfeed.org\/version\/1.1\/.",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3336528",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "8dcb6c33-7bc9-45d5-98d3-1b04f610d176",
+        "type": "message",
+        "text": "_drupalorg module issue_",
+        "user": "U3U1SD32R",
+        "ts": "1674680064.459669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=oWh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "drupalorg module issue",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "9456456d-527f-4707-bc0f-55db3e6f3024",
+        "type": "message",
+        "text": "<https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3336530>",
+        "user": "U4KAE8Q91",
+        "ts": "1674680225.593769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KZ5V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3336530"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3336530",
+                "ts": 1674680218,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3336530",
+                "fallback": "Drupal.org: Make announcements json feed format consistent with https:\/\/www.jsonfeed.org\/version\/1.1\/.",
+                "text": "Problem\/Motivation Make <https:\/\/www.drupal.org\/announcements.json> complaint with JSON feed format <https:\/\/www.jsonfeed.org\/version\/1.1\/>. Steps to reproduce Proposed resolution Remaining tasks User interface changes API changes Data model changes",
+                "title": "Make announcements json feed format consistent with https:\/\/www.jsonfeed.org\/version\/1.1\/.",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3336530",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "71bcc43b-39f0-44a9-8041-bace3a8eb4eb",
+        "type": "message",
+        "text": "Great - we'll prioritize that.",
+        "user": "U06NAEYSF",
+        "ts": "1674682321.034819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CQv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great - we'll prioritize that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "8b0e7493-6fa4-40c9-8148-3a946024eb5d",
+        "type": "message",
+        "text": "And maybe you and I, Irina - can try and comb through the issue to find the outstanding items and summarize int he IS.",
+        "user": "U06NAEYSF",
+        "ts": "1674682333.448319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JqJmN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And maybe you and I, Irina - can try and comb through the issue to find the outstanding items and summarize int he IS."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U4B423ANR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53b16316-d749-4d5d-8f0c-b7ced1264381",
+        "type": "message",
+        "text": "Not in the IS yet, but started to summarize in a comment, when I'm sure it's right I'll move it up: <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14887616>",
+        "user": "U06NAEYSF",
+        "ts": "1674684569.820529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jMj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not in the IS yet, but started to summarize in a comment, when I'm sure it's right I'll move it up: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14887616"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14887616",
+                "ts": 1617212298,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14887616",
+                "fallback": "Drupal.org: Project messaging channel in core (as experimental)",
+                "text": "Problem\/Motivation Per the core idea issue: [#2940739] The vast majority of Drupal users do not have accounts on <http:\/\/Drupal.org|Drupal.org>, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association. The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core.",
+                "title": "Project messaging channel in core (as experimental)",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14887616",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    }
+]

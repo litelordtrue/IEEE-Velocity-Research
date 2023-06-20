@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "db2b8bcc-80d6-4174-9765-8ba0e5030fa1",
+        "type": "message",
+        "text": "left a big review :+1:",
+        "user": "U1ASJU340",
+        "ts": "1679446479.982309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "left a big review "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "38ee8c40793c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-29\/614544627089_38ee8c40793c53a9a9fa_72.jpg",
+            "first_name": "larowlan",
+            "real_name": "larowlan",
+            "display_name": "larowlan",
+            "team": "T06GX3JTS",
+            "name": "larowlan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678916347.185179",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

@@ -1,0 +1,307 @@
+[
+    {
+        "client_msg_id": "22da8404-fb1a-4776-888c-33eceac6b7be",
+        "type": "message",
+        "text": "yeah someone rerolled it <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14574934>",
+        "user": "U4PT7ES0M",
+        "ts": "1655797482.756719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cT=J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah someone rerolled it "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14574934"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14574934",
+                "ts": 1617212298,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14574934",
+                "fallback": "Drupal.org: Project messaging channel in core",
+                "text": "Problem\/Motivation Per the core idea issue: [#2940739] The vast majority of Drupal users do not have accounts on <http:\/\/Drupal.org|Drupal.org>, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association. The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core.",
+                "title": "Project messaging channel in core",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14574934",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1655797482.756719",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1655821368.270309",
+        "reply_users": [
+            "U4KAE8Q91",
+            "U4PT7ES0M"
+        ],
+        "replies": [
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1655821324.892199"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1655821368.270309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "dcc4128b-9a44-4edb-bb51-9ea05c1b9ca6",
+        "type": "message",
+        "text": "<@U4PT7ES0M> is the latest patch correct or not?",
+        "user": "U4KAE8Q91",
+        "ts": "1655821324.892199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0rqaB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is the latest patch correct or not?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1655797482.756719",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "001fabfd-e471-422b-a9fb-0705656185ce",
+        "type": "message",
+        "text": "I think the patch is correct but the interdiff given is wrong",
+        "user": "U4PT7ES0M",
+        "ts": "1655821368.270309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aAiq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think the patch is correct but the interdiff given is wrong"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1655797482.756719",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "1c714e85-2704-4562-aba7-41f5edb41736",
+        "type": "message",
+        "text": "I wanted to review this but I got the flu, I’ll review it as soon as I feel better",
+        "user": "UKDHF4BU7",
+        "ts": "1655827789.430149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n1K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wanted to review this but I got the flu, I’ll review it as soon as I feel better"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "3950492f6a39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-16\/3702127091280_3950492f6a39f392d037_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Miranda",
+            "display_name": "Matias Miranda",
+            "team": "T06GX3JTS",
+            "name": "matias.miranda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1655827789.430149",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1655828236.244519",
+        "reply_users": [
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1655828230.488649"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1655828236.244519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9b5ee4ec-f38a-4908-98b4-3cfde23b3d03",
+        "type": "message",
+        "text": "Thank you very much",
+        "user": "U06NAEYSF",
+        "ts": "1655828230.488649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yh2YU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you very much"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1655827789.430149",
+        "parent_user_id": "UKDHF4BU7"
+    },
+    {
+        "client_msg_id": "69f6b210-05e6-49bd-9125-7def054d77fe",
+        "type": "message",
+        "text": "Feel better soon!",
+        "user": "U06NAEYSF",
+        "ts": "1655828236.244519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xw7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Feel better soon!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1655827789.430149",
+        "parent_user_id": "UKDHF4BU7",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "UKDHF4BU7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

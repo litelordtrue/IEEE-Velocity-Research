@@ -1,0 +1,583 @@
+[
+    {
+        "client_msg_id": "2452a098-723b-408a-a1e8-6543afb82b8c",
+        "type": "message",
+        "text": "Hi <@U06NAEYSF>\nSharing quick updates here.\n:one: We’ve already started the D7 port of the module and actively working on it.",
+        "user": "U2T8M7PA4",
+        "ts": "1630503013.002000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0h6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSharing quick updates here.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "one",
+                                "unicode": "0031-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We’ve already started the D7 port of the module and actively working on it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2T8M7PA4",
+            "ts": "1630503030.000000"
+        },
+        "thread_ts": "1630503013.002000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1630505938.005300",
+        "reply_users": [
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1630505938.005300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a2f5c94e-6d01-4c37-a8f1-f84a11586e92",
+        "type": "message",
+        "text": ":two: PR feedback on FunctionalJavascript test:\n<@U4PT7ES0M> has worked on it and <https:\/\/www.drupal.org\/project\/announce\/issues\/3198730|PR> is updated. I think we can ask someone to review this.\n\nThere is another <https:\/\/www.drupal.org\/project\/announce\/issues\/3228518|PR> which <@U4PT7ES0M> worked on, that also needs inputs.\nCan you please add me or <@U6V3XQXMF> as maintainer so either of them can review and merge it.\n\nOnce all the opened PRs are merged, I’ll open up the MR against D9 core.",
+        "user": "U2T8M7PA4",
+        "ts": "1630503125.003600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Gkk5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "two",
+                                "unicode": "0032-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " PR feedback on FunctionalJavascript test:\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has worked on it and "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3198730",
+                                "text": "PR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is updated. I think we can ask someone to review this.\n\nThere is another "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3228518",
+                                "text": "PR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " which "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " worked on, that also needs inputs.\nCan you please add me or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6V3XQXMF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as maintainer so either of them can review and merge it.\n\nOnce all the opened PRs are merged, I’ll open up the MR against D9 core."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1630503125.003600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1630506130.005500",
+        "reply_users": [
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1630506130.005500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "25e17951-6ae7-4289-bc50-4717e262bd6d",
+        "type": "message",
+        "text": ":three: We need some decision about notification read\/unread feature.\nI think we had some discussion <https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1629120554006800|here>, however it is not implemented currently.\nI suggest, we can handle it via separate issue, if possible.",
+        "user": "U2T8M7PA4",
+        "ts": "1630503216.005000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "okgbZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "three",
+                                "unicode": "0033-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We need some decision about notification read\/unread feature.\nI think we had some discussion "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1629120554006800",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", however it is not implemented currently.\nI suggest, we can handle it via separate issue, if possible."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1630503216.005000",
+        "reply_count": 10,
+        "reply_users_count": 2,
+        "latest_reply": "1630607937.009200",
+        "reply_users": [
+            "U06NAEYSF",
+            "U4PT7ES0M"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1630506251.005700"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1630506315.006000"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1630506338.006200"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1630600601.007900"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1630603576.008100"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1630607729.008300"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1630607742.008500"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1630607898.008700"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1630607922.009000"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1630607937.009200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8903eb0d-faea-4e55-b315-4bca18535698",
+        "type": "message",
+        "text": "Wonderful - that's great news",
+        "user": "U06NAEYSF",
+        "ts": "1630505938.005300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v8W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wonderful - that's great news"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1630503013.002000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "a6e83f4b-bf76-4d00-8310-361e554fffca",
+        "type": "message",
+        "text": "Added you both as maintainers",
+        "user": "U06NAEYSF",
+        "ts": "1630506130.005500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NA6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Added you both as maintainers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1630503125.003600",
+        "parent_user_id": "U2T8M7PA4",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U6V3XQXMF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19d5bbac-dda3-44a7-b007-756730e78f2f",
+        "type": "message",
+        "text": "Let's start with this existing issue: <https:\/\/www.drupal.org\/project\/announce\/issues\/3071980>",
+        "user": "U06NAEYSF",
+        "ts": "1630506251.005700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lb84k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's start with this existing issue: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071980"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "'Alerts' menu item and unread message notification",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071980",
+                "text": "There are a number of options for handling the 'unread message' icon in the feed of announcements, in increasing order of complexity these are: A - Have no read\/unread icon at all B - Manage read\/unread status globally for all messages- regardless of what user actually views the message C - Manage read\/unread status globally for all messages on a per browser basis with local storage D - Manage read\/unread status globally for all messages on a per user basis E - Manage read\/unread status individually per message- regardless of what user actually views the message F - Manage read\/unread status",
+                "fallback": "Drupal.org: 'Alerts' menu item and unread message notification",
+                "ts": 1564676512,
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071980",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071980"
+            }
+        ],
+        "thread_ts": "1630503216.005000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "caa9e0bd-e12c-4912-9e88-9ddf8795e1dd",
+        "type": "message",
+        "text": "What do you all think about the current 'Proposed Resolution' on that issue?",
+        "user": "U06NAEYSF",
+        "ts": "1630506315.006000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Kl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What do you all think about the current 'Proposed Resolution' on that issue?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1630503216.005000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "9324018d-a56e-426a-8c50-63305dfc90a7",
+        "type": "message",
+        "text": "• Using the UserDataInterface system to store the state of read\/dismissed items from the feed.\n• Marked read as soon as the feed of teasers is viewed by the user.\n• When we fetch new contents from the feed, we should clear out old items that are no longer in the feed.",
+        "user": "U06NAEYSF",
+        "ts": "1630506338.006200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kj6x",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Using the UserDataInterface system to store the state of read\/dismissed items from the feed."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Marked read as soon as the feed of teasers is viewed by the user."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "When we fetch new contents from the feed, we should clear out old items that are no longer in the feed."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1630503216.005000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "16185b7f-b2ab-4656-898a-6cb5759372f1",
+        "type": "message",
+        "text": "No worries! I just want to make sure *we* are not the blocker. I hope you had good PTO time",
+        "user": "U06NAEYSF",
+        "ts": "1630506475.006400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JDxFe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No worries! I just want to make sure "
+                            },
+                            {
+                                "type": "text",
+                                "text": "we",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " are not the blocker. I hope you had good PTO time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1630453538.000900",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

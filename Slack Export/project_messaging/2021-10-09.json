@@ -1,0 +1,1157 @@
+[
+    {
+        "client_msg_id": "658d7eef-48f2-4400-acf8-a859e2aab8af",
+        "type": "message",
+        "text": "I was thinking that as well, with the current move to implement things like content editor role and other editor focused things; I think the time is right for Drupal to revisit the idea of a Dashboard.",
+        "user": "U6XHB78BV",
+        "ts": "1633801882.093400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H8zx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was thinking that as well, with the current move to implement things like content editor role and other editor focused things; I think the time is right for Drupal to revisit the idea of a Dashboard."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UESCBUPE2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcb16286-b9a2-4ec2-b081-5dcbfdb5caab",
+        "type": "message",
+        "text": "<@U1A7P6GTZ> <@U1AA5D42H>  <@U1ET7192M> ^^^",
+        "user": "U47JYK2DT",
+        "ts": "1633801942.093600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YG6K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1A7P6GTZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1AA5D42H"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ET7192M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6XHB78BV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1633801947.093900",
+        "user": "U1A7P6GTZ",
+        "text": "<@U1A7P6GTZ> has joined the channel",
+        "inviter": "U47JYK2DT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1633801948.094100",
+        "user": "U1AA5D42H",
+        "text": "<@U1AA5D42H> has joined the channel",
+        "inviter": "U47JYK2DT"
+    },
+    {
+        "client_msg_id": "ab2a91e0-0a55-46e8-a384-804f3d218634",
+        "type": "message",
+        "text": "To be clear, a Dashboard that's actually useful, not some fluffy nonsense that people just ignore, and has a lot of dependencies that no one wants to maintain.",
+        "user": "U6XHB78BV",
+        "ts": "1633802067.094500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MQ1v3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To be clear, a Dashboard that's actually useful, not some fluffy nonsense that people just ignore, and has a lot of dependencies that no one wants to maintain."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UESCBUPE2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cac67bac-7cdc-4cbc-b798-ebc89cce5dec",
+        "type": "message",
+        "text": "Could we have a persona-based Dashboards: Admin dashboard, Content Manager dashboard, Content Editor dashboard; These would be slightly different depending on the persona: admin dashboard would be surface important things from status report, whereas content editor dashboard would be a mini version of `admin\/content` (maybe this is how we finally do <https:\/\/www.drupal.org\/project\/drupal\/issues\/2377543>).",
+        "user": "U6XHB78BV",
+        "ts": "1633802604.094800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aaBv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Could we have a persona-based Dashboards: Admin dashboard, Content Manager dashboard, Content Editor dashboard; These would be slightly different depending on the persona: admin dashboard would be surface important things from status report, whereas content editor dashboard would be a mini version of "
+                            },
+                            {
+                                "type": "text",
+                                "text": "admin\/content",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (maybe this is how we finally do "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/2377543"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Add \"Add\" item to toolbar.",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/2377543",
+                "text": "Problem\/Motivation Adding content is a critical function in Drupal. While we have added a tools block and a default shortcut for this EVERY OTHER MAJOR CMS puts an add or create content link in the MAIN toolbar. This is marked critical because it is a critical usability problem in Drupal that a new user has to hunt around just to find where to do the most fundamental thing that a CMS does; create content.",
+                "fallback": "Drupal.org: Add \"Add\" item to toolbar.",
+                "ts": 1416331004,
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/2377543",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/2377543"
+            }
+        ],
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT"
+    },
+    {
+        "client_msg_id": "d3c6e456-1586-413d-a6b7-b6c92bc55a30",
+        "type": "message",
+        "text": "However, they could all contain common elements, such as the Messaging\/Announcements system that this very channel is focused on. Perhaps a two column layout, where the left column is persona based, and the right column is common across all personas.",
+        "user": "U6XHB78BV",
+        "ts": "1633802678.095100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VhaYf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "However, they could all contain common elements, such as the Messaging\/Announcements system that this very channel is focused on. Perhaps a two column layout, where the left column is persona based, and the right column is common across all personas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT"
+    },
+    {
+        "client_msg_id": "1350173c-b7cd-4388-a9ed-8c504976e0ca",
+        "type": "message",
+        "text": "Maybe it could be worked in with this issue <https:\/\/www.drupal.org\/project\/ideas\/issues\/3203618> which is essentially advocating for a persona based toolbar.",
+        "user": "U6XHB78BV",
+        "ts": "1633802712.095300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rELYO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe it could be worked in with this issue "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/ideas\/issues\/3203618"
+                            },
+                            {
+                                "type": "text",
+                                "text": " which is essentially advocating for a persona based toolbar."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "Drupal.org: New “content creation” menu proposal",
+                "from_url": "https:\/\/www.drupal.org\/project\/ideas\/issues\/3203618",
+                "service_name": "Drupal.org",
+                "title": "New “content creation” menu proposal",
+                "title_link": "https:\/\/www.drupal.org\/project\/ideas\/issues\/3203618",
+                "text": "Problem\/Motivation The top level admin sections result in a disjointed experience for people with primarily content creation\/management focused permissions. Access to items that for these users are similar tools is spread out across multiple admin sections. Proposed resolution We* propose to introduce a content editor menu that brings these creation\/management tasks together for easier access. A more elaborate analysis with rationale and mockups in this google doc How this might look: * Cristina Chumillas ckrina Sascha Eggenberger saschaeggi Lauri Eskola lauriii Roy Scholten yoroy",
+                "ts": 1615805192,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/ideas\/issues\/3203618"
+            }
+        ],
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT"
+    },
+    {
+        "client_msg_id": "78eed227-1dd6-4931-8389-40f64891532b",
+        "type": "message",
+        "text": "We should look up what the original dashboard supported.",
+        "user": "U1A7P6GTZ",
+        "ts": "1633802910.095600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A6K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We should look up what the original dashboard supported."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6XHB78BV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4332f145-177d-4bf7-af68-795adffe0661",
+        "type": "message",
+        "text": "Perhaps, a persona based dashboard, would make it easier for us to do <https:\/\/www.drupal.org\/project\/drupal\/issues\/2862859>",
+        "user": "U6XHB78BV",
+        "ts": "1633802922.095800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RD0Fv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perhaps, a persona based dashboard, would make it easier for us to do "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/2862859"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Create a top level, extendable, \"Content\" admin menu route that behaves like \"Structure\"",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/2862859",
+                "text": "Problem\/Motivation Now we have Drupal 8 and positively encourage developers to create multiple types of content entity, we need to stop assuming that all content is made from nodes. Even in core drupal, we have node content, comments, files, custom blocks, taxonomy terms and more. As of 8.4 we also have Media. Proposed resolution Change the menu admin\/content to use the same page layout as admin\/structure and then have the current node content view a sub page of that, the comments views another sub page, etc etc.",
+                "fallback": "Drupal.org: Create a top level, extendable, \"Content\" admin menu route that behaves like \"Structure\"",
+                "ts": 1490184847,
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/2862859",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/2862859"
+            }
+        ],
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT"
+    },
+    {
+        "client_msg_id": "0d51be32-26d8-45a6-b56b-d2f05d379a32",
+        "type": "message",
+        "text": "That said with layout builder this could possibly be mostly configuration now.",
+        "user": "U1A7P6GTZ",
+        "ts": "1633802933.096200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jo1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That said with layout builder this could possibly be mostly configuration now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U6XHB78BV",
+                    "U1AA5D42H",
+                    "UESCBUPE2"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U3A2ZDSE4",
+                    "U1AA5D42H",
+                    "U1ET7192M",
+                    "UESCBUPE2"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "537b07d6-3e84-40d0-bbc6-7da3d3d0db22",
+        "type": "message",
+        "text": "&gt; That said with layout builder this could possibly be mostly configuration now.\nDefinitely! We have way better tools in Core now to make this work in a sustainable way, compared to the D6\/7 days.",
+        "user": "U6XHB78BV",
+        "ts": "1633802981.096500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eJ8+E",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That said with layout builder this could possibly be mostly configuration now."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Definitely! We have way better tools in Core now to make this work in a sustainable way, compared to the D6\/7 days."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6XHB78BV",
+            "ts": "1633802994.000000"
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT"
+    },
+    {
+        "client_msg_id": "49aab614-5eee-40da-9825-7b54d5b099cd",
+        "type": "message",
+        "text": "Here is screenshots and docs about how it works in Drupal 7 to this day ;) <https:\/\/www.drupal.org\/docs\/7\/core\/modules\/dashboard\/working-with-the-dashboard|https:\/\/www.drupal.org\/docs\/7\/core\/modules\/dashboard\/working-with-the-dashboard>",
+        "user": "U1A7P6GTZ",
+        "ts": "1633803143.096800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9zn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is screenshots and docs about how it works in Drupal 7 to this day ;) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/docs\/7\/core\/modules\/dashboard\/working-with-the-dashboard",
+                                "text": "https:\/\/www.drupal.org\/docs\/7\/core\/modules\/dashboard\/working-with-the-dashboard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Working with the dashboard",
+                "title_link": "https:\/\/www.drupal.org\/docs\/7\/core\/modules\/dashboard\/working-with-the-dashboard",
+                "text": "The dashboard gives administrators a customizable overview of important site information. You can add and remove items from the dashboard, or you can disable the dashboard completely. Displaying the dashboard On the admin toolbar click Dashboard or navigate to <http:\/\/www.example.com\/admin\/dashboard> and you will see: Adding, removing, or rearranging items in the dashboard Click Customize Dashboard, and you will see a set of dashboard blocks that you can drag and drop into and out of your personalized dashboard.",
+                "fallback": "Drupal.org: Working with the dashboard",
+                "ts": 1260935745,
+                "from_url": "https:\/\/www.drupal.org\/docs\/7\/core\/modules\/dashboard\/working-with-the-dashboard",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/docs\/7\/core\/modules\/dashboard\/working-with-the-dashboard"
+            }
+        ],
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6XHB78BV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "836c0dc7-9230-4207-8255-4a910830102b",
+        "type": "message",
+        "text": "Would modules, such as `upgrade_status` be able to \"attach\" themselves to Dashboard?\nor perhaps modules will have various checkmarks for admins to choose \"add to dashboard\"?",
+        "user": "U47JYK2DT",
+        "ts": "1633806703.097200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+mt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would modules, such as "
+                            },
+                            {
+                                "type": "text",
+                                "text": "upgrade_status",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " be able to \"attach\" themselves to Dashboard?\nor perhaps modules will have various checkmarks for admins to choose \"add to dashboard\"?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U3A2ZDSE4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0931c9aa-3f50-4756-87cb-c51a25dff1a2",
+        "type": "message",
+        "text": "Well, if it uses Layout Builder, then in theory any block could be added to said dashboard",
+        "user": "U6XHB78BV",
+        "ts": "1633807974.097400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RyP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well, if it uses Layout Builder, then in theory any block could be added to said dashboard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT"
+    },
+    {
+        "client_msg_id": "5db2903a-c9a0-427e-a2b5-d8cd3fee8277",
+        "type": "message",
+        "text": "So in theory, yes all of the above would be possible",
+        "user": "U6XHB78BV",
+        "ts": "1633807990.097600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "adbLC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So in theory, yes all of the above would be possible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT"
+    },
+    {
+        "client_msg_id": "cda4675f-bf22-45ee-9788-db86c54df712",
+        "type": "message",
+        "text": "Coincidentally, D.o is gong to need this as well in D9 (assuming they are keeping the user dashboard feature)",
+        "user": "U6XHB78BV",
+        "ts": "1633808056.097800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KnE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coincidentally, D.o is gong to need this as well in D9 (assuming they are keeping the user dashboard feature)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT"
+    },
+    {
+        "client_msg_id": "8a9ac406-c13b-4e99-9b18-f2ec5cd0a354",
+        "type": "message",
+        "text": "Okay so here's a \"back-of-the-napkin\" model for doing this using existing core components:\n1. `dashboard` module, defines a content entity type called `dashboard` which supports bundles, and defines a `dashboard_variant` config entity type;\n2. There is a `default` `dashboard_variant` which is used as the \"default\", but admins can add new \"personas\" or \"variants\" by adding a new bundle, `default` cannot be deleted;\n3. Each `dashboard_variant` (or \"persona\") has Layout Builder overrides enabled by default and we alter the forms to make it not possible to disable overrides, but individual personas (`dashboard_variant` config entitles) can be disabled or deleted (which would be the equivalent of turning off layout overrides for `node` or any other entity type);\n4. The Standard Profile ships several \"personas\" to match the roles (e.g. Admin, Content Editor, etc), and we have some kind of way of matching a Dashboard to one or more roles (maybe just used the conditions system that Blocks use for visibility, but with only role based conditions, none of the page stuff);\n5. Lets say the user-facing path is `\/admin\/dashboard` , on `\/admin\/dashboard` the user is presented with whatever \"persona\" is applicable to them;\n6. Optionally the user can choose to customise their view of the Dashboard, they do this by triggering something (e.g. by clicking a \"Customise\" button), the first time they do this a new `dashbaord` entity is created, attached to that user, and the Layout from the applied \"persona\" is copied to that entity behind the scenes;\n7. `\/admin\/dashboard` now renders that user's `dashboard` instead of the \"persona\" dashboard;\n8. The user is then able to edit their own `dashboard` using the Layout Builder UI, maybe there's some kind of curated list of available blocks, because all the normal ones probably don't make sense;\n9. The user can also \"revert\" their dashboard back to the default, doing this would behind the scenes, just delete their `dashboard` entity, meaning for them `\/admin\/dashboard` automatically just falls back to displaying the appropriate \"persona\" (or `dashboard_variant`).\nThere, I just designed a fully featured Dashboard system, with persona and user-level customisations using entirely existent core components. Take that D7 Dashboard!",
+        "user": "U6XHB78BV",
+        "ts": "1633809300.098000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pfSy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay so here's a \"back-of-the-napkin\" model for doing this using existing core components:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "dashboard",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " module, defines a content entity type called "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "dashboard",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " which supports bundles, and defines a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "dashboard_variant",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " config entity type;"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "There is a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "default",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "dashboard_variant",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " which is used as the \"default\", but admins can add new \"personas\" or \"variants\" by adding a new bundle, "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "default",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " cannot be deleted;"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Each "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "dashboard_variant",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (or \"persona\") has Layout Builder overrides enabled by default and we alter the forms to make it not possible to disable overrides, but individual personas ("
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "dashboard_variant",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " config entitles) can be disabled or deleted (which would be the equivalent of turning off layout overrides for "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "node",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " or any other entity type);"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The Standard Profile ships several \"personas\" to match the roles (e.g. Admin, Content Editor, etc), and we have some kind of way of matching a Dashboard to one or more roles (maybe just used the conditions system that Blocks use for visibility, but with only role based conditions, none of the page stuff);"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lets say the user-facing path is "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "\/admin\/dashboard",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " , on "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "\/admin\/dashboard",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " the user is presented with whatever \"persona\" is applicable to them;"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Optionally the user can choose to customise their view of the Dashboard, they do this by triggering something (e.g. by clicking a \"Customise\" button), the first time they do this a new "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "dashbaord",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " entity is created, attached to that user, and the Layout from the applied \"persona\" is copied to that entity behind the scenes;"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\/admin\/dashboard",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " now renders that user's "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "dashboard",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " instead of the \"persona\" dashboard;"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The user is then able to edit their own "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "dashboard",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " using the Layout Builder UI, maybe there's some kind of curated list of available blocks, because all the normal ones probably don't make sense;"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The user can also \"revert\" their dashboard back to the default, doing this would behind the scenes, just delete their "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "dashboard",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " entity, meaning for them "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "\/admin\/dashboard",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " automatically just falls back to displaying the appropriate \"persona\" (or "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "dashboard_variant",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There, I just designed a fully featured Dashboard system, with persona and user-level customisations using entirely existent core components. Take that D7 Dashboard!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6XHB78BV",
+            "ts": "1633809440.000000"
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT"
+    }
+]

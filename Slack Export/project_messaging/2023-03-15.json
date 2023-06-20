@@ -1,0 +1,212 @@
+[
+    {
+        "client_msg_id": "35b3e376-9055-4d48-bbd3-e943640aa0cd",
+        "type": "message",
+        "text": "Ready for final product manager, framework manager, and release manager review: <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14968984>",
+        "user": "U06NAEYSF",
+        "ts": "1678916347.185179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QAq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ready for final product manager, framework manager, and release manager review: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14968984"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14968984",
+                "ts": 1617212298,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14968984",
+                "fallback": "Drupal.org: Project messaging channel in core (as experimental)",
+                "text": "Problem\/Motivation Per the core idea issue: [#2940739] The vast majority of Drupal users do not have accounts on <http:\/\/Drupal.org|Drupal.org>, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association. The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core.",
+                "title": "Project messaging channel in core (as experimental)",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14968984",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1678916347.185179",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1679507229.229749",
+        "reply_users": [
+            "U4KAE8Q91",
+            "U1ASJU340",
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1678919747.800599"
+            },
+            {
+                "user": "U1ASJU340",
+                "ts": "1678934370.345949"
+            },
+            {
+                "user": "U1ASJU340",
+                "ts": "1679446479.982309"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1679507217.712389"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1679507229.229749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4c545245-eae8-4d33-93bc-50149a2dfe96",
+        "type": "message",
+        "text": "<@U1AL60FHC> <@U1ASJU340> <@U7K4HMP6H>, I am super excited to see this project merged!!! Let's make it \"less than two years\" , the issue was opened in March 2021 :slightly_smiling_face:",
+        "user": "U4KAE8Q91",
+        "ts": "1678919747.800599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WSoR3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1AL60FHC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ASJU340"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U7K4HMP6H"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I am super excited to see this project merged!!! Let's make it \"less than two years\" , the issue was opened in March 2021 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678916347.185179",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1678934315.254719",
+        "user": "U1ASJU340",
+        "text": "<@U1ASJU340> has joined the channel"
+    },
+    {
+        "client_msg_id": "eafe7c08-6bf9-49e9-9599-0c4c0c96679e",
+        "type": "message",
+        "text": "I'll add this to my list, it will bump SDC down the list, but I think this is a strategic priority",
+        "user": "U1ASJU340",
+        "ts": "1678934370.345949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hT0\/k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll add this to my list, it will bump SDC down the list, but I think this is a strategic priority"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "38ee8c40793c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-29\/614544627089_38ee8c40793c53a9a9fa_72.jpg",
+            "first_name": "larowlan",
+            "real_name": "larowlan",
+            "display_name": "larowlan",
+            "team": "T06GX3JTS",
+            "name": "larowlan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678916347.185179",
+        "parent_user_id": "U06NAEYSF",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U4KAE8Q91",
+                    "U06NAEYSF"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

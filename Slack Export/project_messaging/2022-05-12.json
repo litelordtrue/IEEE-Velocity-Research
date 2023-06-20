@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "ead728b8-448b-4d3b-9a4f-88d580470640",
+        "type": "message",
+        "text": "<@U06NAEYSF> I will provide a final draft asap",
+        "user": "U02EJBNEUQM",
+        "ts": "1652372989.895369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FUek+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I will provide a final draft asap"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g15e47329334",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/15e47329334a3995a37fb24291e567df.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal B",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "abhishek.lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1650541942.208209",
+        "parent_user_id": "U03951VJN48",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

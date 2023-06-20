@@ -1,0 +1,1541 @@
+[
+    {
+        "client_msg_id": "06bdb02a-310f-47bc-8063-702bf951ae71",
+        "type": "message",
+        "text": "I’ve left some feedback, specially about Claro styles living in the generic CSS. I see this as a blocker, so I really hope my comment about it and the screenshot attached can help you move forward.",
+        "user": "U1ET7192M",
+        "ts": "1635166287.003700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l2b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve left some feedback, specially about Claro styles living in the generic CSS. I see this as a blocker, so I really hope my comment about it and the screenshot attached can help you move forward."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "c805c091-24fe-4619-a067-60c3607b35df",
+        "type": "message",
+        "text": "It’s basically the same feedback I gave on my previous comment about the CSS needing to be moved out of the generic module styles with more specific examples.",
+        "user": "U1ET7192M",
+        "ts": "1635166386.003900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ckn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s basically the same feedback I gave on my previous comment about the CSS needing to be moved out of the generic module styles with more specific examples."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "8761da01-00c4-4aec-8ae0-ffb7831a674b",
+        "type": "message",
+        "text": "<@U06NAEYSF>\nWe have uploaded a patch with latest CSS refactoring and a video recording.\nSomehow preview isn’t coming for video.\nWe can initiate the review from the community again.",
+        "user": "U2T8M7PA4",
+        "ts": "1635170118.005100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dk5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWe have uploaded a patch with latest CSS refactoring and a video recording.\nSomehow preview isn’t coming for video.\nWe can initiate the review from the community again."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2T8M7PA4",
+            "ts": "1635171338.000000"
+        },
+        "thread_ts": "1635170118.005100",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1635222447.012200",
+        "reply_users": [
+            "U06NAEYSF",
+            "U4PT7ES0M",
+            "U2T8M7PA4",
+            "U47JYK2DT"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1635175248.005500"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1635180223.008600"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1635221868.011100"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1635221933.011400"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1635222200.011600"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1635222267.011800"
+            },
+            {
+                "user": "U47JYK2DT",
+                "ts": "1635222285.012000"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1635222447.012200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "198d0b75-ca7d-4851-af5f-d112db608a86",
+        "type": "message",
+        "text": "Just to +1 what you said there <@U1ET7192M>",
+        "user": "U6XHB78BV",
+        "ts": "1635171340.005300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x6uj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just to +1 what you said there "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ET7192M"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "172117cd-b165-4f4d-b6fd-ded64d427775",
+        "type": "message",
+        "text": "Thank you - did you see the latest comments from ckrina about the CSS?",
+        "user": "U06NAEYSF",
+        "ts": "1635175248.005500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qJa=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you - did you see the latest comments from ckrina about the CSS?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635170118.005100",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "e0649338-aaf7-4778-bbf0-78f2a5a8ca5a",
+        "type": "message",
+        "text": "<@U6XHB78BV> It looked like you potentially disagreed with <@U1ET7192M> about the choice of megaphone vs. bell icon - any suggestion on how we should resolve that?\n\nShould we just try to chat through that idea, or do we need to get a third opinion maybe...?",
+        "user": "U06NAEYSF",
+        "ts": "1635175694.005700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "STEU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6XHB78BV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " It looked like you potentially disagreed with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ET7192M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " about the choice of megaphone vs. bell icon - any suggestion on how we should resolve that?\n\nShould we just try to chat through that idea, or do we need to get a third opinion maybe...?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "8dc269a5-c014-4b3b-861d-5e071888cb2b",
+        "type": "message",
+        "text": "No I think the megaphone makes sense as an icon, basically for the reasons <@U1ET7192M> already stated",
+        "user": "U6XHB78BV",
+        "ts": "1635175746.005900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dy7Ln",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No I think the megaphone makes sense as an icon, basically for the reasons "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ET7192M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " already stated"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "354a5738-f5eb-45bc-9773-94cd0be368b0",
+        "type": "message",
+        "text": "Gotcha - I see the second half of her comments in #57 and I think I concur. Okay :thankful:",
+        "user": "U06NAEYSF",
+        "ts": "1635175788.006100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aM3\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gotcha - I see the second half of her comments in #57 and I think I concur. Okay "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thankful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "9aa94fc5-6a61-43e8-8b3c-7db24cc0f456",
+        "type": "message",
+        "text": "It was <@U1DDBS893> who disagreed with the megaphone. Specially with the one I uploaded, with what I agree with him.",
+        "user": "U1ET7192M",
+        "ts": "1635175793.006300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XYlqK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It was "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1DDBS893"
+                            },
+                            {
+                                "type": "text",
+                                "text": " who disagreed with the megaphone. Specially with the one I uploaded, with what I agree with him."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1ET7192M",
+            "ts": "1635175840.000000"
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "5f5e4e9c-5311-4227-ba87-10b2fca56c79",
+        "type": "message",
+        "text": "Ah - gotcha..",
+        "user": "U06NAEYSF",
+        "ts": "1635175916.006600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J4HwF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah - gotcha.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "fa5741df-73af-4f54-9c80-4c694942829c",
+        "type": "message",
+        "text": "The megaphone example I uploaded wasn’t the best one, I chose it without investing too much time on it. My goal was more suggesting a direction, rather than exactly defining the design. :slightly_smiling_face:",
+        "user": "U1ET7192M",
+        "ts": "1635175967.006800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZFU5w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The megaphone example I uploaded wasn’t the best one, I chose it without investing too much time on it. My goal was more suggesting a direction, rather than exactly defining the design. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "5f9524e2-b9f3-4199-81f5-62c0a9276c54",
+        "type": "message",
+        "text": "Sure, sure.",
+        "user": "U06NAEYSF",
+        "ts": "1635175975.007000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VnRs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure, sure."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "1094a19b-ba9d-417d-bf81-63a42252838f",
+        "type": "message",
+        "text": "The latest patch is still in testing, but is this gif looking closer, from the style point of view?\n<https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14268456>",
+        "user": "U06NAEYSF",
+        "ts": "1635176182.007200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C2rh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The latest patch is still in testing, but is this gif looking closer, from the style point of view?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14268456"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "a32ab484-f0f1-4d2a-99e1-19eadb05575e",
+        "type": "message",
+        "text": "yes on Seven, but I’m still seeing buttons on Claro that don’t exist on<https:\/\/www.figma.com\/file\/OqWgzAluHtsOd5uwm1lubFeH\/Drupal-Design-system?node-id=656%3A491| the design system>",
+        "user": "U1ET7192M",
+        "ts": "1635176931.007400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bhWl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes on Seven, but I’m still seeing buttons on Claro that don’t exist on"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.figma.com\/file\/OqWgzAluHtsOd5uwm1lubFeH\/Drupal-Design-system?node-id=656%3A491",
+                                "text": " the design system"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Figma",
+                "title": "Drupal Design system",
+                "title_link": "https:\/\/www.figma.com\/file\/OqWgzAluHtsOd5uwm1lubFeH\/Drupal-Design-system?node-id=656%3A491",
+                "text": "Created with Figma",
+                "fallback": "Figma: Drupal Design system",
+                "thumb_url": "https:\/\/www.figma.com\/file\/OqWgzAluHtsOd5uwm1lubFeH\/thumbnail?ver=thumbnails\/OqWgzAluHtsOd5uwm1lubFeH\/default",
+                "image_url": "https:\/\/www.figma.com\/file\/OqWgzAluHtsOd5uwm1lubFeH\/thumbnail?ver=thumbnails\/OqWgzAluHtsOd5uwm1lubFeH\/default",
+                "image_width": 800,
+                "image_height": 461,
+                "from_url": "https:\/\/www.figma.com\/file\/OqWgzAluHtsOd5uwm1lubFeH\/Drupal-Design-system?node-id=656%3A491",
+                "thumb_width": 800,
+                "thumb_height": 461,
+                "image_bytes": 6901,
+                "service_icon": "https:\/\/static.figma.com\/app\/icon\/1\/touch-76.png",
+                "id": 1,
+                "original_url": "https:\/\/www.figma.com\/file\/OqWgzAluHtsOd5uwm1lubFeH\/Drupal-Design-system?node-id=656%3A491"
+            }
+        ],
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "f6e69372-6279-4fd5-b969-f41200418a70",
+        "type": "message",
+        "text": "I’m not sure if it’d be better to completely remove Claro styles and theme it in a follow-up or fix them here.",
+        "user": "U1ET7192M",
+        "ts": "1635177038.007700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YtgVK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m not sure if it’d be better to completely remove Claro styles and theme it in a follow-up or fix them here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "1c51267d-0535-4463-8137-abad2529a61d",
+        "type": "message",
+        "text": "<@U06HDFAP5> <@U49HYCETX> do you have any thoughts on this?",
+        "user": "U1ET7192M",
+        "ts": "1635177063.007900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cm4x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06HDFAP5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U49HYCETX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you have any thoughts on this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1ET7192M",
+            "ts": "1635177079.000000"
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "34e8b531-b9b5-4be5-8b18-867a7ff2151e",
+        "type": "message",
+        "text": "I wasn't able to identify what the specific Claro concerns were based on reading the thread and corresponding issue - if someone could fill in those blanks for me I'll see if I can help with the decision.",
+        "user": "U49HYCETX",
+        "ts": "1635177779.008200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lufYl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wasn't able to identify what the specific Claro concerns were based on reading the thread and corresponding issue - if someone could fill in those blanks for me I'll see if I can help with the decision."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "7866fac8eed3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-06\/5374927713702_7866fac8eed3af14628a_72.png",
+            "first_name": "Ben",
+            "real_name": "Ben Mullins",
+            "display_name": "bnjmnm",
+            "team": "T06GX3JTS",
+            "name": "benmullins",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "52f918a0-69e1-4a27-9c8d-30ca282425e7",
+        "type": "message",
+        "text": "```I've removed locally all the opinionated CSS in announcements_feed.dialog.css, like colors, and left only paddings\/margins and hidden undesired visual elements like the default title pencil icon.```\nthis the comment from ckrina, apparently this is the what the patch has now fixed... ie removing the all extra css and retaining only the padding and the margin stuffs.....\nalso the second part:\n```Claro's visual improvements can be added later as a follow-up, or at least they shouldn't appear when Seven is enabled right now.` ```\nis also done with the new patch. <https:\/\/www.drupal.org\/project\/announce\/issues\/3245363|here>",
+        "user": "U4PT7ES0M",
+        "ts": "1635180223.008600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NQIF8",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've removed locally all the opinionated CSS in announcements_feed.dialog.css, like colors, and left only paddings\/margins and hidden undesired visual elements like the default title pencil icon."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this the comment from ckrina, apparently this is the what the patch has now fixed... ie removing the all extra css and retaining only the padding and the margin stuffs.....\nalso the second part:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Claro's visual improvements can be added later as a follow-up, or at least they shouldn't appear when Seven is enabled right now.` "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is also done with the new patch. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3245363",
+                                "text": "here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4PT7ES0M",
+            "ts": "1635180352.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Placeholder ticket to store the claro and seven theme patch",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3245363",
+                "text": "Problem\/Motivation Steps to reproduce Proposed resolution Remaining tasks User interface changes API changes Data model changes",
+                "fallback": "Drupal.org: Placeholder ticket to store the claro and seven theme patch",
+                "ts": 1634915829,
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3245363",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3245363"
+            }
+        ],
+        "thread_ts": "1635170118.005100",
+        "parent_user_id": "U2T8M7PA4",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U06NAEYSF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U2T8M7PA4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd5646b4-431c-4ec5-b8fa-73ed79a7da3b",
+        "type": "message",
+        "text": "I’d say my main concern is the button styles. They’re using a white outlined version in top of a blue background. We don’t have anything using the accent color as a background (and I’m not sure we want it) with outlined buttons (which we’re not using yet) in a white variant (that we haven’t defined anywhere. <https:\/\/monosnap.com\/direct\/ZBwZa4tAIKlyWx38YMhIHH6mt7MuGe>",
+        "user": "U1ET7192M",
+        "ts": "1635180788.009400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5I=SU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’d say my main concern is the button styles. They’re using a white outlined version in top of a blue background. We don’t have anything using the accent color as a background (and I’m not sure we want it) with outlined buttons (which we’re not using yet) in a white variant (that we haven’t defined anywhere. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/monosnap.com\/direct\/ZBwZa4tAIKlyWx38YMhIHH6mt7MuGe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Monosnap screenshot tool",
+                "title": "Screenshot \"Captura de Pantalla 2021-10-25 a les 18.50.04.png\"",
+                "title_link": "https:\/\/monosnap.com\/direct\/ZBwZa4tAIKlyWx38YMhIHH6mt7MuGe",
+                "fallback": "Monosnap screenshot tool: Screenshot \"Captura de Pantalla 2021-10-25 a les 18.50.04.png\"",
+                "image_url": "https:\/\/image-preview.monosnap.com\/facebook\/generate_image_preview?id=ZBwZa4tAIKlyWx38YMhIHH6mt7MuGe",
+                "image_width": 117,
+                "image_height": 250,
+                "from_url": "https:\/\/monosnap.com\/direct\/ZBwZa4tAIKlyWx38YMhIHH6mt7MuGe",
+                "image_bytes": 86000,
+                "service_icon": "https:\/\/monosnap.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/monosnap.com\/direct\/ZBwZa4tAIKlyWx38YMhIHH6mt7MuGe"
+            }
+        ],
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "3ffe3676-3c09-46d2-ac67-e6feda1b4df7",
+        "type": "message",
+        "text": "On a design perspective I’d feel more confortable with the default off-canvas styles than with this non standard Claro styles.",
+        "user": "U1ET7192M",
+        "ts": "1635181392.009700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k+Th+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On a design perspective I’d feel more confortable with the default off-canvas styles than with this non standard Claro styles."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "2c30a3f9-2d6b-4b35-bef1-0baf6a16b4be",
+        "type": "message",
+        "text": "I’d expect this would need a round of design (someone making a proposal and approving it), which I’m afraid would block committing this until it’s done. That’s why maybe I’m wondering if it makes sense to commit it without specific styles and improve it in a followup.",
+        "user": "U1ET7192M",
+        "ts": "1635181613.009900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZNpx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’d expect this would need a round of design (someone making a proposal and approving it), which I’m afraid would block committing this until it’s done. That’s why maybe I’m wondering if it makes sense to commit it without specific styles and improve it in a followup."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "6d98dce2-9242-4c53-8edd-9d04daf24482",
+        "type": "message",
+        "text": "Okay! So we'll see what <@U06HDFAP5> and <@U49HYCETX> have to say about those button styles and any thing that would be *brand new* to Claro for this feature - and either a) try to replace them with an existing pattern or b) move the styles for Claro for the project messaging feature out of this issue and into a follow up.",
+        "user": "U06NAEYSF",
+        "ts": "1635195446.010300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9g3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay! So we'll see what "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06HDFAP5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U49HYCETX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have to say about those button styles and any thing that would be "
+                            },
+                            {
+                                "type": "text",
+                                "text": "brand new",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to Claro for this feature - and either a) try to replace them with an existing pattern or b) move the styles for Claro for the project messaging feature out of this issue and into a follow up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "6987962b-5c95-4956-9a6f-89513cf4e0fc",
+        "type": "message",
+        "text": "exactly :slightly_smiling_face:",
+        "user": "U1ET7192M",
+        "ts": "1635196778.010500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Q8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "exactly "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "0b69b4c4-0e0e-40f8-9867-0986b7f70fab",
+        "type": "message",
+        "text": "My take is it's reasonable to move the Claro part into a followup provided the current buttons don't introduce any accessibility issues, so check for stuff like:\n• The buttons have visually distinct hover and focus states\n• All of those states meet AA contrast requirements\n• They're keyboard navigable\nMy rationale for this: while it's not acceptable to introduce accessibility bugs, I'm fine adding a little bit of tech debt to an _experimenta_l theme as long as it's added to the roadmap to Claro being Stable There are plenty of other parts of Claro that are acutely unfinished and look less than perfect. I can appreciate those who might be reluctant to knowingly add tech debt, but I feel adding a little bit of manageable debt to an unfinished + experimental theme is a fine tradeoff for maintaining momentum on a great new feature with healthy community enthusiasm behind it.",
+        "user": "U49HYCETX",
+        "ts": "1635208141.010800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9BB+M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My take is it's reasonable to move the Claro part into a followup provided the current buttons don't introduce any accessibility issues, so check for stuff like:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The buttons have visually distinct hover and focus states"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "All of those states meet AA contrast requirements"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "They're keyboard navigable"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My rationale for this: while it's not acceptable to introduce accessibility bugs, I'm fine adding a little bit of tech debt to an "
+                            },
+                            {
+                                "type": "text",
+                                "text": "experimenta",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "l theme as long as it's added to the roadmap to Claro being Stable There are plenty of other parts of Claro that are acutely unfinished and look less than perfect. I can appreciate those who might be reluctant to knowingly add tech debt, but I feel adding a little bit of manageable debt to an unfinished + experimental theme is a fine tradeoff for maintaining momentum on a great new feature with healthy community enthusiasm behind it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "7866fac8eed3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-06\/5374927713702_7866fac8eed3af14628a_72.png",
+            "first_name": "Ben",
+            "real_name": "Ben Mullins",
+            "display_name": "bnjmnm",
+            "team": "T06GX3JTS",
+            "name": "benmullins",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1ET7192M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f00fdd1-7810-476c-a74d-92b84df1cc82",
+        "type": "message",
+        "text": "<@U47JYK2DT>  I created a new GitPod instance via DrupalPod, I am not sure I can I share the snapshot like you did.\nI am not able to get the link with uuid.",
+        "user": "U2T8M7PA4",
+        "ts": "1635221868.011100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3pDHJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U47JYK2DT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  I created a new GitPod instance via DrupalPod, I am not sure I can I share the snapshot like you did.\nI am not able to get the link with uuid."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2T8M7PA4",
+            "ts": "1635221878.000000"
+        },
+        "thread_ts": "1635170118.005100",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "2756db35-565a-4153-a2ff-ac7af5d80c99",
+        "type": "message",
+        "text": "I believe the Gitpod snapshot problem is being fixed (there's an issue because of the size of the workspace)",
+        "user": "U47JYK2DT",
+        "ts": "1635221933.011400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WtZz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe the Gitpod snapshot problem is being fixed (there's an issue because of the size of the workspace)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635170118.005100",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "e1accaf4-bea6-46e9-9297-6882abef47da",
+        "type": "message",
+        "text": "okay, I’ve just one instance altogether.\n<https:\/\/gitpod.io\/start\/#peach-sparrow-7qhu6rx7> can you access this one?",
+        "user": "U2T8M7PA4",
+        "ts": "1635222200.011600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FDKg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay, I’ve just one instance altogether.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gitpod.io\/start\/#peach-sparrow-7qhu6rx7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you access this one?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635170118.005100",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "fb5738cf-c76a-4ec2-926e-6bbcd3f51da3",
+        "type": "message",
+        "text": "checking",
+        "user": "U47JYK2DT",
+        "ts": "1635222267.011800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hPWr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "checking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635170118.005100",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "db4e3d47-91e5-4081-aeee-038c4b6325f5",
+        "type": "message",
+        "text": "Nope, that's probably YOUR workspace, I would not advise sharing it.",
+        "user": "U47JYK2DT",
+        "ts": "1635222285.012000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U3zn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nope, that's probably YOUR workspace, I would not advise sharing it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "234a412eee77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-16\/227194521921_234a412eee77e8ac285d_72.jpg",
+            "first_name": "Ofer",
+            "real_name": "Ofer Shaal",
+            "display_name": "shaal",
+            "team": "T06GX3JTS",
+            "name": "shaal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635170118.005100",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "e70d1531-f8b0-499f-a247-387cacdf20a4",
+        "type": "message",
+        "text": "Okay. I’ll delete it anyway",
+        "user": "U2T8M7PA4",
+        "ts": "1635222447.012200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0b82K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay. I’ll delete it anyway"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635170118.005100",
+        "parent_user_id": "U2T8M7PA4"
+    }
+]

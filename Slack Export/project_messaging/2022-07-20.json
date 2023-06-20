@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "46b0b6a7-65a1-4d65-becc-4d1f74d7359e",
+        "type": "message",
+        "text": "So the steps will be <https:\/\/www.drupal.org\/project\/announce\/issues\/3295900> we wait for this issue to merge-in and re run the script. Hopefully it would be enough for Drupal CI to pass",
+        "user": "U4PT7ES0M",
+        "ts": "1658318266.535519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T6G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So the steps will be "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3295900"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we wait for this issue to merge-in and re run the script. Hopefully it would be enough for Drupal CI to pass"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3295900",
+                "ts": 1657781491,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3295900",
+                "fallback": "Drupal.org: D10 readiness",
+                "text": "Problem\/Motivation Make the module D10 compatible Steps to reproduce Proposed resolution 1. check for the deprications in the module. 2. make necessary changes for d10 compatibility 3. Create a patch OR merge request for it. 4. review the code . Remaining tasks User interface changes API changes Data model changes",
+                "title": "D10 readiness",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3295900",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1657776606.136569",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "32277899-baa2-42f4-be39-c5de2e6d65c8",
+        "type": "message",
+        "text": "Thank you <@U4PT7ES0M>",
+        "user": "U06NAEYSF",
+        "ts": "1658336027.524119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+B=J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1657776606.136569",
+        "parent_user_id": "U4PT7ES0M"
+    }
+]

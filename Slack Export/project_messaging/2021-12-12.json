@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "7150160c-d9ed-49f9-805a-57d34015102c",
+        "type": "message",
+        "text": "here is the list <@U06NAEYSF> <@U2T8M7PA4> <https:\/\/www.drupal.org\/project\/announce\/issues\/3236288>",
+        "user": "U4PT7ES0M",
+        "ts": "1639377651.082900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "clvE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "here is the list "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236288"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4PT7ES0M",
+            "ts": "1639377667.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236288",
+                "ts": 1631878670,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236288",
+                "fallback": "Drupal.org: Accessibilty issues",
+                "text": "Problem\/Motivation Module made its MR with core branch and came back with few comments: In terms of the color contrast among the content especially in the case of the non-featured content read\/unread color contrast ratio. There are also issues in terms of the icons ie the bell-icon with the red dot is not compatible with the theme. The style is not consistent between the different themes, on Claro and Olivero there is differences in spacing, alignment, and even the style of the close button The dots with represent the new announcement are kind of confusing.",
+                "title": "Accessibilty issues",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236288",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1639065487.081200",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

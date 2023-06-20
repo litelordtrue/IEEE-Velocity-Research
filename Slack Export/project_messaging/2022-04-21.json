@@ -1,0 +1,289 @@
+[
+    {
+        "client_msg_id": "daad64d3-4cd6-4715-bf06-146446eebb4c",
+        "type": "message",
+        "text": "<@U4KAE8Q91> only issues that pending is <https:\/\/www.drupal.org\/project\/announce\/issues\/3249532> which is under process, <@U03951VJN48> is working on it.",
+        "user": "U4PT7ES0M",
+        "ts": "1650525501.790909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yq=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4KAE8Q91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " only issues that pending is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532"
+                            },
+                            {
+                                "type": "text",
+                                "text": " which is under process, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03951VJN48"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is working on it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532",
+                "ts": 1637005533,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532",
+                "fallback": "Drupal.org: Display only the top 10 announcements by version (featured then recent) with a see more link",
+                "text": "Problem\/Motivation The module currently displays all the announcements from <http:\/\/drupal.org|drupal.org> only filtered to the version of Drupal used. Is the idea that the announcement feed itself will have controls \/ limits as to what it contains and thus limit what is displayed on the site? If so, we should include that somehow in the documentation as well. Noticed while working on [#3249521]. If the feed keeps growing, then we may need a Drupal site-side solution to limit the items. What happens when there are 15 or 25 items in the feed? Should items older than the site even be shown?",
+                "title": "Display only the top 10 announcements by version (featured then recent) with a see more link",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1650384945.914839",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "24c90f2b-c532-4051-8dec-9a0a1733771c",
+        "type": "message",
+        "text": "hey, this issue is ready for review.\n<https:\/\/www.drupal.org\/project\/announce\/issues\/3249532>",
+        "user": "U03951VJN48",
+        "ts": "1650541942.208209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pW3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey, this issue is ready for review.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "3b5bad9ab8d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3272704242919_3b5bad9ab8d6128c6e76_72.jpg",
+            "first_name": "Libbna",
+            "real_name": "Libbna Mathew",
+            "display_name": "Libbna",
+            "team": "T06GX3JTS",
+            "name": "libbna.mathew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532",
+                "ts": 1637005533,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532",
+                "fallback": "Drupal.org: Display only the top 10 announcements by version (featured then recent) with a see more link",
+                "text": "Problem\/Motivation The module currently displays all the announcements from <http:\/\/drupal.org|drupal.org> only filtered to the version of Drupal used. Is the idea that the announcement feed itself will have controls \/ limits as to what it contains and thus limit what is displayed on the site? If so, we should include that somehow in the documentation as well. Noticed while working on [#3249521]. If the feed keeps growing, then we may need a Drupal site-side solution to limit the items. What happens when there are 15 or 25 items in the feed? Should items older than the site even be shown?",
+                "title": "Display only the top 10 announcements by version (featured then recent) with a see more link",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1650541942.208209",
+        "reply_count": 10,
+        "reply_users_count": 4,
+        "latest_reply": "1653049855.843499",
+        "reply_users": [
+            "U06NAEYSF",
+            "U02EJBNEUQM",
+            "U4KAE8Q91",
+            "U4PT7ES0M"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1650552789.741579"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1652286749.207279"
+            },
+            {
+                "user": "U02EJBNEUQM",
+                "ts": "1652372989.895369"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1652472686.442819"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1652892544.819279"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1652952750.346449"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1652972795.608399"
+            },
+            {
+                "user": "U02EJBNEUQM",
+                "ts": "1652972940.777429"
+            },
+            {
+                "user": "U02EJBNEUQM",
+                "ts": "1652973031.948529"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1653049855.843499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U4PT7ES0M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50049a5f-c7bb-4ac2-bd67-77c99995bfaa",
+        "type": "message",
+        "text": "Thank you!",
+        "user": "U06NAEYSF",
+        "ts": "1650552789.741579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uDXa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1650541942.208209",
+        "parent_user_id": "U03951VJN48"
+    },
+    {
+        "client_msg_id": "bc63947d-5514-4ec9-b2d7-3d93343ec4f9",
+        "type": "message",
+        "text": "Thank you, you are looking for code review here, right?",
+        "user": "U4KAE8Q91",
+        "ts": "1650555640.345369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S4Wp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you, you are looking for code review here, right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1650384945.914839",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "yes",
+                "users": [
+                    "U03951VJN48"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

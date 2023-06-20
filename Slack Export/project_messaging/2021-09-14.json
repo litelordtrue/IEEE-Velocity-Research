@@ -1,0 +1,450 @@
+[
+    {
+        "client_msg_id": "6af17134-8971-4db0-958e-35a6c0da3bbe",
+        "type": "message",
+        "text": "<@U06NAEYSF> Quick update for the messaging D9 release PR\nIssue has a PR now. <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643>\nTests are passing.\n\nI think we are good to initiate the review from the committer team.\ncc: <@U4PT7ES0M>",
+        "user": "U2T8M7PA4",
+        "ts": "1631616845.012500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dtaA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Quick update for the messaging D9 release PR\nIssue has a PR now. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTests are passing.\n\nI think we are good to initiate the review from the committer team.\ncc: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Project messaging channel in core",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643",
+                "text": "Problem\/Motivation Per the core idea issue: [#2940739] The vast majority of Drupal users do not have accounts on <http:\/\/Drupal.org|Drupal.org>, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association. The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core.",
+                "fallback": "Drupal.org: Project messaging channel in core",
+                "ts": 1617212298,
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4PT7ES0M",
+                    "U06NAEYSF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U06NAEYSF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1631669615.013300",
+        "user": "U1CREGN04",
+        "text": "<@U1CREGN04> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Hey everyone! I pulled in the MR diff, and enabled the `announce` module, but my styling looks different than the screenshots or Figma. Am I doing something wrong, or does the styling just need a bit of TLC?",
+        "files": [
+            {
+                "id": "F02ECTHML6R",
+                "created": 1631669698,
+                "timestamp": 1631669698,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U1CREGN04",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 44343,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02ECTHML6R\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02ECTHML6R\/download\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02ECTHML6R-973a8c6a5b\/image_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02ECTHML6R-973a8c6a5b\/image_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02ECTHML6R-973a8c6a5b\/image_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 261,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02ECTHML6R-973a8c6a5b\/image_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 349,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02ECTHML6R-973a8c6a5b\/image_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02ECTHML6R-973a8c6a5b\/image_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 523,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02ECTHML6R-973a8c6a5b\/image_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 581,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02ECTHML6R-973a8c6a5b\/image_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 697,
+                "original_w": 1005,
+                "original_h": 730,
+                "thumb_tiny": "AwAiADC19ih\/2\/8Avs0fYof9v\/vs1ZwPSjAoArfYof8Ab\/77NJ9ji9H\/AO+zVk8Ams\/+0H\/uL+ZoAsCzix\/F\/wB9ml+yRD5huyOfvmq\/9oSf3FoW+dmClF5OKANCiijOaAEb7p+lYlbbfdP0rEoAKdH\/AKxfqKbTo\/8AWL9RQBtUUUUAI33T9KxK22+6fpWJQAU6P\/WL9RTadH\/rF+ooA\/\/Z",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U1CREGN04\/F02ECTHML6R\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F02ECTHML6R-bd3ff65de7",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U1CREGN04",
+        "display_as_bot": false,
+        "ts": "1631669703.014500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ay9iB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone! I pulled in the MR diff, and enabled the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "announce",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " module, but my styling looks different than the screenshots or Figma. Am I doing something wrong, or does the styling just need a bit of TLC?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631669703.014500",
+        "reply_count": 21,
+        "reply_users_count": 6,
+        "latest_reply": "1649344725.929159",
+        "reply_users": [
+            "U2T8M7PA4",
+            "U4PT7ES0M",
+            "U1CREGN04",
+            "U06NAEYSF",
+            "U1CV1TM1D",
+            "U4KAE8Q91"
+        ],
+        "replies": [
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1631679037.014800"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1631679914.015000"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1631680080.015300"
+            },
+            {
+                "user": "U1CREGN04",
+                "ts": "1631704994.015600"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1631712640.015900"
+            },
+            {
+                "user": "U1CREGN04",
+                "ts": "1631712788.016500"
+            },
+            {
+                "user": "U1CREGN04",
+                "ts": "1631712800.016900"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1631712976.017100"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1631713700.017300"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1631713771.017500"
+            },
+            {
+                "user": "U1CREGN04",
+                "ts": "1631713988.018800"
+            },
+            {
+                "user": "U1CREGN04",
+                "ts": "1631714010.019000"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1631714828.023200"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1631714881.023400"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1631715050.023600"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1631717817.023900"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1631717865.024100"
+            },
+            {
+                "user": "U1CV1TM1D",
+                "ts": "1631720645.024400"
+            },
+            {
+                "user": "U1CV1TM1D",
+                "ts": "1631720686.024600"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1631724932.025500"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1649344725.929159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ac125f7b-cba6-4cff-a471-6b7d22eca87c",
+        "type": "message",
+        "text": "<@U4PT7ES0M>, can you please look into this one.",
+        "user": "U2T8M7PA4",
+        "ts": "1631679037.014800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yCd03",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", can you please look into this one."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "19bba8a2-f2a5-42b4-b400-fe8ec4e83df7",
+        "type": "message",
+        "text": "<@U1CREGN04> In the screenshot that I've posted used API which was created locally... This one here is using the endpoint from D.O (<https:\/\/www.drupal.org\/announcements.json>) which doesn't have any sticky, featured content... <https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3071988>",
+        "user": "U4PT7ES0M",
+        "ts": "1631679914.015000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "17B3i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1CREGN04"
+                            },
+                            {
+                                "type": "text",
+                                "text": " In the screenshot that I've posted used API which was created locally... This one here is using the endpoint from D.O ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/announcements.json"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") which doesn't have any sticky, featured content... "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3071988"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Consume one or more feeds from Drupal.org into one notification feed",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3071988",
+                "text": "The fundamental feature for an MVP messaging channel in core, is the ability to consume one or more JSON feeds of announcement content from <http:\/\/Drupal.org|Drupal.org>. We only need to support one feed for a first iteration of this design.",
+                "fallback": "Drupal.org: Consume one or more feeds from Drupal.org into one notification feed",
+                "ts": 1564677086,
+                "from_url": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3071988",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3071988"
+            }
+        ],
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "8a309405-e884-40e2-b3fe-138a5bb8481b",
+        "type": "message",
+        "text": "<@U1CREGN04> you can use <https:\/\/www.zyxware.com\/drupal-announce-dummy-data.json> this one, on the AnnounceFetcher class #62 ... Please run the cron after the updating the URL... inorder to delete the keyvalueexpirable",
+        "user": "U4PT7ES0M",
+        "ts": "1631680080.015300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U4Tn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1CREGN04"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you can use "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.zyxware.com\/drupal-announce-dummy-data.json"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this one, on the AnnounceFetcher class #62 ... Please run the cron after the updating the URL... inorder to delete the keyvalueexpirable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4PT7ES0M",
+            "ts": "1631680219.000000"
+        },
+        "thread_ts": "1631669703.014500",
+        "parent_user_id": "U1CREGN04"
+    }
+]

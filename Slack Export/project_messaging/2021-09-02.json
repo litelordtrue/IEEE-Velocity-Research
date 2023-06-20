@@ -1,0 +1,395 @@
+[
+    {
+        "client_msg_id": "1a13ac54-6689-443c-9207-d3457f302384",
+        "type": "message",
+        "text": "I’ve started work on <https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3071988> and should have <http:\/\/Drupal.org|Drupal.org> serving the API endpoint soon. I noticed one change that should be made to the client: <https:\/\/www.drupal.org\/project\/announce\/issues\/3231101>",
+        "user": "U3U1SD32R",
+        "ts": "1630598231.007700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a09y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve started work on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3071988"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and should have "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Drupal.org",
+                                "text": "Drupal.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " serving the API endpoint soon. I noticed one change that should be made to the client: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3231101"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Consume one or more feeds from Drupal.org into one notification feed",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3071988",
+                "text": "The fundamental feature for an MVP messaging channel in core, is the ability to consume one or more JSON feeds of announcement content from <http:\/\/Drupal.org|Drupal.org>. We only need to support one feed for a first iteration of this design.",
+                "fallback": "Drupal.org: Consume one or more feeds from Drupal.org into one notification feed",
+                "ts": 1564677086,
+                "from_url": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3071988",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3071988"
+            },
+            {
+                "service_name": "Drupal.org",
+                "title": "Use ISO 8601 instead of timestamp for updated data",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3231101",
+                "text": "The updated data from <http:\/\/Drupal.org|Drupal.org> will be an ISO 8601 date, like 2021-09-02T15:09:42+00:00 instead of a Unix timestamp. We are doing this since it more-closely follows JSON conventions.",
+                "fallback": "Drupal.org: Use ISO 8601 instead of timestamp for updated data",
+                "ts": 1630597707,
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3231101",
+                "id": 2,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3231101"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U2T8M7PA4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc8fade4-c7e7-49e7-8598-b67e02e8dd25",
+        "type": "message",
+        "text": "IMO this one does the job.... providing the classes to the elements  according to the data we get from the user_data table...",
+        "user": "U4PT7ES0M",
+        "ts": "1630600601.007900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AMwY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "IMO this one does the job.... providing the classes to the elements  according to the data we get from the user_data table..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1630503216.005000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "d692c52f-e11b-4c38-bb70-f2c65d5cea19",
+        "type": "message",
+        "text": "Let's do it then! Thank you Lal",
+        "user": "U06NAEYSF",
+        "ts": "1630603576.008100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GZzY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's do it then! Thank you Lal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1630503216.005000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "c34e23d2-0a12-4024-8513-6f73887407d4",
+        "type": "message",
+        "text": "<@U06NAEYSF> its already happening :smile:",
+        "user": "U4PT7ES0M",
+        "ts": "1630607729.008300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jFDj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " its already happening "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1630503216.005000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "b1b0ecaf-f4e8-4a19-9aa9-cbf49ae0ff40",
+        "type": "message",
+        "text": "Y'all are fast! Thank you!",
+        "user": "U06NAEYSF",
+        "ts": "1630607742.008500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VEc0T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y'all are fast! Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1630503216.005000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "dae38ac5-ffea-49fa-9654-ac1076a1b1b3",
+        "type": "message",
+        "text": "it happened before we took over, I think what <@U2T8M7PA4> is suggesting is there anything else that can happen... Like marking a particular message read\/unread just like what happens in the Gmail",
+        "user": "U4PT7ES0M",
+        "ts": "1630607898.008700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KZJk4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it happened before we took over, I think what "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is suggesting is there anything else that can happen... Like marking a particular message read\/unread just like what happens in the Gmail"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4PT7ES0M",
+            "ts": "1630607918.000000"
+        },
+        "thread_ts": "1630503216.005000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "4b6714f6-5618-41fe-aae1-73d7ef94eac8",
+        "type": "message",
+        "text": "Oh I see. No - I don't think we need to worry about the individual messages for now.",
+        "user": "U06NAEYSF",
+        "ts": "1630607922.009000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cv9yg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh I see. No - I don't think we need to worry about the individual messages for now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1630503216.005000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "23fa5356-0161-4a3d-a9a4-ba35ee0078fb",
+        "type": "message",
+        "text": "alright cool thanks !!",
+        "user": "U4PT7ES0M",
+        "ts": "1630607937.009200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QPQOg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alright cool thanks !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1630503216.005000",
+        "parent_user_id": "U2T8M7PA4"
+    }
+]

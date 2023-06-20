@@ -1,0 +1,1261 @@
+[
+    {
+        "client_msg_id": "49a3b8f8-3e93-401f-87f4-6c9ecfddb795",
+        "type": "message",
+        "text": "_Might just dump some useful info (at least for me) here in this thread so I have a way to easily get it back_",
+        "user": "U6K08UK96",
+        "ts": "1673601093.028259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eh+gT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Might just dump some useful info (at least for me) here in this thread so I have a way to easily get it back",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375762.385969",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "89241cdb-02e3-4057-a5f7-52245dc467fd",
+        "type": "message",
+        "text": "*Trigger the notifications as new*:\n`ddev drush php:eval \"\\Drupal::service('user.data')-&gt;delete('announcements_feed');drupal_flush_all_caches();\"`",
+        "user": "U6K08UK96",
+        "ts": "1673601140.271729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=igAc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trigger the notifications as new",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ddev drush php:eval \"\\Drupal::service('user.data')->delete('announcements_feed');drupal_flush_all_caches();\"",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6K08UK96",
+            "ts": "1673612491.000000"
+        },
+        "thread_ts": "1673375762.385969",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "007f8528-4f21-411c-87d7-b007d6681ff4",
+        "type": "message",
+        "text": "If you want to *test another feed URL*, for example the one on the tests, you need to override the feed_url:\n• Copy `sites\/example.settings.local.php` to `sites\/default\/settings.local.php`\n• Uncomment the last three lines of `sites\/default\/settings.php` to include the above file\n• Edit the `sites\/development.services.yml` and add `announcements_feed.feed_url: <https:\/\/drupal.ddev.site\/core\/modules\/announcements_feed\/tests\/announce_feed\/community-feeds.json>` to the `parameters` section (replace `<http:\/\/drupal.ddev.site|drupal.ddev.site>` with the URL of the testing environment)\n• `ddev drush php:eval \"\\Drupal::service('user.data')-&gt;delete('announcements_feed');\\Drupal::service('keyvalue.expirable')-&gt;get('announcements_feed')-&gt;deleteAll();drupal_flush_all_caches();\"`",
+        "user": "U6K08UK96",
+        "ts": "1673602240.059459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xPP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you want to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "test another feed URL",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", for example the one on the tests, you need to override the feed_url:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Copy "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "sites\/example.settings.local.php",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "sites\/default\/settings.local.php",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Uncomment the last three lines of "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "sites\/default\/settings.php",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to include the above file"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Edit the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "sites\/development.services.yml",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and add "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "announcements_feed.feed_url: ",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/drupal.ddev.site\/core\/modules\/announcements_feed\/tests\/announce_feed\/community-feeds.json",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "parameters",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " section (replace "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "drupal.ddev.site",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " with the URL of the testing environment)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ddev drush php:eval \"\\Drupal::service('user.data')->delete('announcements_feed');\\Drupal::service('keyvalue.expirable')->get('announcements_feed')->deleteAll();drupal_flush_all_caches();\"",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6K08UK96",
+            "ts": "1673612501.000000"
+        },
+        "thread_ts": "1673375762.385969",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "326c0550-4781-43a6-9800-1e0804d442f5",
+        "type": "message",
+        "text": "Code wise, why do we have the templates also on `core\/themes\/stable9` if they’re the same as the ones provided in `core\/modules\/announcements_feed\/templates`?\n<https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889\/diffs>",
+        "user": "U6K08UK96",
+        "ts": "1673610787.515379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sd5P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Code wise, why do we have the templates also on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "core\/themes\/stable9",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " if they’re the same as the ones provided in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "core\/modules\/announcements_feed\/templates",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889\/diffs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2a47f43f-bd34-4030-9520-6a9c9f01deaa",
+        "type": "message",
+        "text": "&gt; I will also ask in <#C01N7HQSSFN|drupalpod> channel what is correct way to reference files in Drupalpod instances\nyou just need to share the endpoint so it’s public temporary and drupal httpclient can read from it.",
+        "user": "U6K08UK96",
+        "ts": "1673612445.828779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=XX",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will also ask in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C01N7HQSSFN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel what is correct way to reference files in Drupalpod instances"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you just need to share the endpoint so it’s public temporary and drupal httpclient can read from it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375762.385969",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "1409e317-41d3-4b9f-91f2-f7b81b6e961c",
+        "type": "message",
+        "text": "I’ve committed all the changes in reply to feedback as well as some other clean-up that was needed. Commit: <https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889\/diffs?commit_id=ef2a816407b61068c6774a9d26bf29f592886430>",
+        "user": "U6K08UK96",
+        "ts": "1673612819.697779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z8D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve committed all the changes in reply to feedback as well as some other clean-up that was needed. Commit: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889\/diffs?commit_id=ef2a816407b61068c6774a9d26bf29f592886430"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375762.385969",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0fcdfa31-b951-4326-a2ca-123d98ec2c20",
+        "type": "message",
+        "text": "<https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1673602240059459?thread_ts=1673375762.385969&amp;cid=C02AFHAUNET>",
+        "user": "U6K08UK96",
+        "ts": "1673613217.963609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oEp4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1673602240059459?thread_ts=1673375762.385969&cid=C02AFHAUNET"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1673602240059459?thread_ts=1673375762.385969&amp;cid=C02AFHAUNET",
+                "ts": "1673602240.059459",
+                "author_id": "U6K08UK96",
+                "channel_id": "C02AFHAUNET",
+                "channel_team": "T06GX3JTS",
+                "channel_name": "project_messaging",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T06GX3JTS",
+                        "channel": "C02AFHAUNET",
+                        "ts": "1673602240.059459",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "xPP",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "If you want to "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "test another feed URL",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": ", for example the one on the tests, you need to override the feed_url:\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Copy "
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "sites\/example.settings.local.php",
+                                                            "style": {
+                                                                "code": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " to "
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "sites\/default\/settings.local.php",
+                                                            "style": {
+                                                                "code": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Uncomment the last three lines of "
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "sites\/default\/settings.php",
+                                                            "style": {
+                                                                "code": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " to include the above file"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Edit the "
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "sites\/development.services.yml",
+                                                            "style": {
+                                                                "code": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " and add "
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "announcements_feed.feed_url: ",
+                                                            "style": {
+                                                                "code": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "link",
+                                                            "url": "https:\/\/drupal.ddev.site\/core\/modules\/announcements_feed\/tests\/announce_feed\/community-feeds.json",
+                                                            "style": {
+                                                                "code": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " to the "
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "parameters",
+                                                            "style": {
+                                                                "code": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " section (replace "
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "drupal.ddev.site",
+                                                            "style": {
+                                                                "code": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " with the URL of the testing environment)"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ddev drush php:eval \"\\Drupal::service('user.data')->delete('announcements_feed');\\Drupal::service('keyvalue.expirable')->get('announcements_feed')->deleteAll();drupal_flush_all_caches();\"",
+                                                            "style": {
+                                                                "code": true
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1673602240059459?thread_ts=1673375762.385969&amp;cid=C02AFHAUNET",
+                "fallback": "[January 13th, 2023 1:30 AM] fran.garcia: If you want to *test another feed URL*, for example the one on the tests, you need to override the feed_url:\n• Copy `sites\/example.settings.local.php` to `sites\/default\/settings.local.php`\n• Uncomment the last three lines of `sites\/default\/settings.php` to include the above file\n• Edit the `sites\/development.services.yml` and add `announcements_feed.feed_url: <https:\/\/drupal.ddev.site\/core\/modules\/announcements_feed\/tests\/announce_feed\/community-feeds.json>` to the `parameters` section (replace `<http:\/\/drupal.ddev.site|drupal.ddev.site>` with the URL of the testing environment)\n• `ddev drush php:eval \"\\Drupal::service('user.data')-&gt;delete('announcements_feed');\\Drupal::service('keyvalue.expirable')-&gt;get('announcements_feed')-&gt;deleteAll();drupal_flush_all_caches();\"`",
+                "text": "If you want to *test another feed URL*, for example the one on the tests, you need to override the feed_url:\n• Copy `sites\/example.settings.local.php` to `sites\/default\/settings.local.php`\n• Uncomment the last three lines of `sites\/default\/settings.php` to include the above file\n• Edit the `sites\/development.services.yml` and add `announcements_feed.feed_url: <https:\/\/drupal.ddev.site\/core\/modules\/announcements_feed\/tests\/announce_feed\/community-feeds.json>` to the `parameters` section (replace `<http:\/\/drupal.ddev.site|drupal.ddev.site>` with the URL of the testing environment)\n• `ddev drush php:eval \"\\Drupal::service('user.data')-&gt;delete('announcements_feed');\\Drupal::service('keyvalue.expirable')-&gt;get('announcements_feed')-&gt;deleteAll();drupal_flush_all_caches();\"`",
+                "author_name": "Fran Garcia-Linares",
+                "author_link": "https:\/\/drupal.slack.com\/team\/U6K08UK96",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_48.jpg",
+                "author_subname": "Fran Garcia-Linares",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "From a thread in #project_messaging"
+            }
+        ],
+        "thread_ts": "1673375954.055689",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Not sure if it’s an intended side effect, but any organisation could have their own custom feed that, as long as it follows the format of <https:\/\/www.drupal.org\/announcements.json|this one>, could be set to their sites (or the sites they build).\n\nie: a government or university might want to create a feed and have all their sites read from that feed instead of the d.o one. It’d be a one line change in the services file to overwrite `announcements_feed.feed_url`.",
+        "user": "U6K08UK96",
+        "ts": "1673613308.277399",
+        "thread_ts": "1673375954.055689",
+        "root": {
+            "client_msg_id": "ce043713-27d3-4da8-a4b3-7c4283d6d412",
+            "type": "message",
+            "text": "<@U06NAEYSF>, we need to change source of the feed so we have more posts. I believe that we documented steps in asana ticket, but I do not remember it by heart :disappointed:",
+            "user": "U4KAE8Q91",
+            "ts": "1673375954.055689",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "aIUD",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U06NAEYSF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ", we need to change source of the feed so we have more posts. I believe that we documented steps in asana ticket, but I do not remember it by heart "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "disappointed",
+                                    "unicode": "1f61e"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T06GX3JTS",
+            "thread_ts": "1673375954.055689",
+            "reply_count": 31,
+            "reply_users_count": 6,
+            "latest_reply": "1673868282.456499",
+            "reply_users": [
+                "U06NAEYSF",
+                "U3U1SD32R",
+                "U4KAE8Q91",
+                "U1AL60FHC",
+                "U1A7P6GTZ",
+                "U6K08UK96"
+            ],
+            "replies": [
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1673375993.696479"
+                },
+                {
+                    "user": "U3U1SD32R",
+                    "ts": "1673376694.962979"
+                },
+                {
+                    "user": "U3U1SD32R",
+                    "ts": "1673377303.053139"
+                },
+                {
+                    "user": "U3U1SD32R",
+                    "ts": "1673377318.415559"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1673377341.410259"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1673377359.237109"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1673377401.821139"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1673377443.854969"
+                },
+                {
+                    "user": "U1AL60FHC",
+                    "ts": "1673378767.016369"
+                },
+                {
+                    "user": "U1A7P6GTZ",
+                    "ts": "1673379610.989799"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1673384542.249659"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1673384578.025219"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1673384585.641409"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1673402593.406409"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1673406078.156849"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1673552407.720979"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1673552422.403699"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1673552451.634689"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1673552474.010039"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1673552488.029519"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1673552529.453329"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1673552530.614689"
+                },
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1673613217.963609"
+                },
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1673613308.277399"
+                },
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1673613690.010359"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1673630304.507489"
+                },
+                {
+                    "user": "U1A7P6GTZ",
+                    "ts": "1673632218.891529"
+                },
+                {
+                    "user": "U1A7P6GTZ",
+                    "ts": "1673632232.466909"
+                },
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1673859779.119569"
+                },
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1673859910.917679"
+                },
+                {
+                    "user": "U1AL60FHC",
+                    "ts": "1673868282.456499"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u2KrD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure if it’s an intended side effect, but any organisation could have their own custom feed that, as long as it follows the format of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/announcements.json",
+                                "text": "this one"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", could be set to their sites (or the sites they build).\n\nie: a government or university might want to create a feed and have all their sites read from that feed instead of the d.o one. It’d be a one line change in the services file to overwrite "
+                            },
+                            {
+                                "type": "text",
+                                "text": "announcements_feed.feed_url",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "58912aa0-77b0-44e0-b652-22eba5dd35c8"
+    },
+    {
+        "type": "message",
+        "text": "a few more posts",
+        "files": [
+            {
+                "id": "F04JM3GHS9L",
+                "created": 1673613656,
+                "timestamp": 1673613656,
+                "name": "Screenshot 2023-01-13 at 13.40.24.png",
+                "title": "Screenshot 2023-01-13 at 13.40.24.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U6K08UK96",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 269722,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F04JM3GHS9L\/screenshot_2023-01-13_at_13.40.24.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F04JM3GHS9L\/download\/screenshot_2023-01-13_at_13.40.24.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04JM3GHS9L-a92cd45881\/screenshot_2023-01-13_at_13.40.24_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04JM3GHS9L-a92cd45881\/screenshot_2023-01-13_at_13.40.24_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04JM3GHS9L-a92cd45881\/screenshot_2023-01-13_at_13.40.24_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 317,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04JM3GHS9L-a92cd45881\/screenshot_2023-01-13_at_13.40.24_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 422,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04JM3GHS9L-a92cd45881\/screenshot_2023-01-13_at_13.40.24_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04JM3GHS9L-a92cd45881\/screenshot_2023-01-13_at_13.40.24_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 634,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04JM3GHS9L-a92cd45881\/screenshot_2023-01-13_at_13.40.24_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 909,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04JM3GHS9L-a92cd45881\/screenshot_2023-01-13_at_13.40.24_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 845,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04JM3GHS9L-a92cd45881\/screenshot_2023-01-13_at_13.40.24_1024.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_1024_w": 901,
+                "thumb_1024_h": 1024,
+                "original_w": 1078,
+                "original_h": 1225,
+                "thumb_tiny": "AwAwACq+RyfmI\/Cj\/gR\/KlP3qX5vagAAx1bNDAbTyOlLz6UjfdPHagDE28dvyp4HApD0HanDoKANU\/eNKMf3SKU\/e6fpSjNABx6mkONp57U6kb7p+lAGLzgc04dBTecCnDoKANY\/eNOWlwPSigApG+6fpS0jfdP0oAxOcdaeOgpnanj7ooA\/\/9k=",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U6K08UK96\/F04JM3GHS9L\/screenshot_2023-01-13_at_13.40.24.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F04JM3GHS9L-2f85d3a3cd",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U6K08UK96",
+        "display_as_bot": false,
+        "ts": "1673613690.010359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ITj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a few more posts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5d5aeaf7-3aef-40bb-b4f7-be418206337b",
+        "thread_ts": "1673375954.055689",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "c761691e-6fec-419e-9d5e-1e5e27c37efd",
+        "type": "message",
+        "text": "^^ could you also add the info dump as 'testing tips' in the issue summary?",
+        "user": "U06NAEYSF",
+        "ts": "1673630254.939109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uq3jZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^^ could you also add the info dump as 'testing tips' in the issue summary?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375762.385969",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "252ddc29-3638-4915-b233-c9143b0d4e87",
+        "type": "message",
+        "text": ":thankful:",
+        "user": "U06NAEYSF",
+        "ts": "1673630261.939939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L3aQj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "thankful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375762.385969",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "1dd7bef9-b314-4521-a1c2-4025b1cf002e",
+        "type": "message",
+        "text": "While it's isn't in scope to make this an API for multiple feeds yet, it was a suggestion for a 2.0 version, so we wanted to leave the door open.",
+        "user": "U06NAEYSF",
+        "ts": "1673630304.507489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zVE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "While it's isn't in scope to make this an API for multiple feeds yet, it was a suggestion for a 2.0 version, so we wanted to leave the door open."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U06NAEYSF",
+            "ts": "1673633284.000000"
+        },
+        "thread_ts": "1673375954.055689",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32CA0F31-1972-45A4-8CE9-B1DDCCD68E1F",
+        "type": "message",
+        "text": "Will do when I’m back in front of the computer ",
+        "user": "U6K08UK96",
+        "ts": "1673630394.297699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OPpS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will do when I’m back in front of the computer "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375762.385969",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "233034e5-504b-444e-975b-a03679e7f48a",
+        "type": "message",
+        "text": "A custom module could alter the service definition sounds like?",
+        "user": "U1A7P6GTZ",
+        "ts": "1673632218.891529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J4\/tc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A custom module could alter the service definition sounds like?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375954.055689",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "95758967-01c8-4476-980b-51b63b0d1b1c",
+        "type": "message",
+        "text": "While that is not an API, it is not too hard then :)",
+        "user": "U1A7P6GTZ",
+        "ts": "1673632232.466909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ygq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "While that is not an API, it is not too hard then :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375954.055689",
+        "parent_user_id": "U4KAE8Q91"
+    }
+]

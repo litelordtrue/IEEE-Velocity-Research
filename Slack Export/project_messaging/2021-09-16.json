@@ -1,0 +1,160 @@
+[
+    {
+        "client_msg_id": "f997ee06-8887-4194-9e5d-408d804de4ba",
+        "type": "message",
+        "text": "<@U2T8M7PA4> Feedback has come pretty thick and fast - do you need any assistance capturing and prioritizing these items?",
+        "user": "U06NAEYSF",
+        "ts": "1631808432.026900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aQvH0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Feedback has come pretty thick and fast - do you need any assistance capturing and prioritizing these items?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631808432.026900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1631808641.027200",
+        "reply_users": [
+            "U2T8M7PA4",
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1631808550.027000"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1631808641.027200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a1024932-ad8d-4db1-aa1b-64674253a0d7",
+        "type": "message",
+        "text": "Feedback is really useful.\nI was going through all the items.\nI will do a followup with <@U4PT7ES0M> and will prioritise things.\nI’ll keep you posted about the progress.",
+        "user": "U2T8M7PA4",
+        "ts": "1631808550.027000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/xK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Feedback is really useful.\nI was going through all the items.\nI will do a followup with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and will prioritise things.\nI’ll keep you posted about the progress."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631808432.026900",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "e576cd9a-3e73-4869-9bbe-fb1d61b0140f",
+        "type": "message",
+        "text": "Cheers - many thanks",
+        "user": "U06NAEYSF",
+        "ts": "1631808641.027200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t2b6Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cheers - many thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631808432.026900",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1631858973.027500",
+        "user": "UAD8SD9AQ",
+        "text": "<@UAD8SD9AQ> has joined the channel",
+        "inviter": "U4PT7ES0M"
+    }
+]

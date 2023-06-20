@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "706e339a-cf9e-421b-89cc-5966f5544c3e",
+        "type": "message",
+        "text": "thank you! will take a look",
+        "user": "U7G1P7P6Z",
+        "ts": "1636015332.029400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pIX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you! will take a look"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "4aad7a9e94b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-24\/369562018290_4aad7a9e94b138fd3982_72.jpg",
+            "first_name": "Drew",
+            "real_name": "Drew Webber",
+            "display_name": "mcdruid",
+            "team": "T06GX3JTS",
+            "name": "drew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631714371.022900",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "757ae00b-dfb6-42fe-a08e-83b7fdd72853",
+        "type": "message",
+        "text": "Oh - Diwali - of course. I know I'm late saying but please don't let us pull you away from an important holiday.",
+        "user": "U06NAEYSF",
+        "ts": "1636041181.029600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4IC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh - Diwali - of course. I know I'm late saying but please don't let us pull you away from an important holiday."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631714371.022900",
+        "parent_user_id": "U4PT7ES0M",
+        "reactions": [
+            {
+                "name": "diya_lamp",
+                "users": [
+                    "U7G1P7P6Z",
+                    "U2T8M7PA4"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

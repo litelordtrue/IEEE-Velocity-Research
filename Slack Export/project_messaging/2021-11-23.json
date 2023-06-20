@@ -1,0 +1,198 @@
+[
+    {
+        "client_msg_id": "725dfb9d-438e-4177-90c8-b8b9dede35f2",
+        "type": "message",
+        "text": "hey <@U21M96DQU> saw the comment here <https:\/\/www.drupal.org\/project\/announce\/issues\/3249641> so instead of rendering the DSM... You want me throw an exception which lead to WSOD ??",
+        "user": "U4PT7ES0M",
+        "ts": "1637735890.070000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H1DN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U21M96DQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " saw the comment here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249641"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so instead of rendering the DSM... You want me throw an exception which lead to WSOD ??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249641",
+                "service_name": "Drupal.org",
+                "title": "Show error in the UI in case fetching announcements fails",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249641",
+                "text": "Problem\/Motivation At the moment, if fetching announcements fails, the dialog is opened as empty. This is poor UX since the user could assume that there aren't any announcements. Providing easy to understand error messages is often listed as one of the most important UX considerations. Proposed resolution Show error message instead of the list in case fetching announcements fails. Remaining tasks User interface changes API changes Data model changes",
+                "ts": 1637058140,
+                "fallback": "Drupal.org: Show error in the UI in case fetching announcements fails",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249641"
+            }
+        ],
+        "thread_ts": "1637735890.070000",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1638355071.074300",
+        "reply_users": [
+            "U21M96DQU",
+            "U4PT7ES0M"
+        ],
+        "replies": [
+            {
+                "user": "U21M96DQU",
+                "ts": "1637740000.070200"
+            },
+            {
+                "user": "U21M96DQU",
+                "ts": "1637740272.070400"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1637741072.070600"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1637749141.070800"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1637756823.071100"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1638350413.074100"
+            },
+            {
+                "user": "U21M96DQU",
+                "ts": "1638355071.074300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "bd17ab3f-5ff8-4766-b0c1-c5aabc97f357",
+        "type": "message",
+        "text": "Not quite :slightly_smiling_face: what Gabor and I were saying is that you don't need the error array. Error handling should be done with try\/catch here. So catch the error in the announce fetcher, log a error in watchdog like you already did. But instead of using a special error array, rethrow the exception and catch it later to display the user friendly message ( instead of the if error)",
+        "user": "U21M96DQU",
+        "ts": "1637740000.070200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6k0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not quite "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what Gabor and I were saying is that you don't need the error array. Error handling should be done with try\/catch here. So catch the error in the announce fetcher, log a error in watchdog like you already did. But instead of using a special error array, rethrow the exception and catch it later to display the user friendly message ( instead of the if error)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637735890.070000",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "445f8595-c011-41b5-9471-6179f1bc30dd",
+        "type": "message",
+        "text": "Added a few comments on the merge request",
+        "user": "U21M96DQU",
+        "ts": "1637740272.070400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gMzC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Added a few comments on the merge request"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637735890.070000",
+        "parent_user_id": "U4PT7ES0M"
+    }
+]

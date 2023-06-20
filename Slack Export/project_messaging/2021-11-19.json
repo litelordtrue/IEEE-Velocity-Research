@@ -1,0 +1,231 @@
+[
+    {
+        "client_msg_id": "648e01b0-b508-4ab1-ab27-d6658f248a13",
+        "type": "message",
+        "text": "<@U06HDFAP5> <https:\/\/www.drupal.org\/project\/announce\/issues\/3248673>",
+        "user": "U21M96DQU",
+        "ts": "1637311120.066400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bMy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06HDFAP5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3248673"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3248673",
+                "service_name": "Drupal.org",
+                "title": "Toggle announcement dialog on clicking toolbar link",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3248673",
+                "text": "Problem\/Motivation When Announcement dialog is open on clicking the Announcements link multiple times in the toolbar does not do anything. Steps to reproduce 1. On 1st click of Announcements link dialog opens up. 2. On 2nd click of Announcements link nothing happens. Proposed resolution The off-canvas dialog should toggle on clicking Announcements link. Remaining tasks User interface changes API changes Data model changes",
+                "ts": 1636547184,
+                "fallback": "Drupal.org: Toggle announcement dialog on clicking toolbar link",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3248673"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30b6bfa0-46a6-4d4e-8da4-32a8a775844a",
+        "type": "message",
+        "text": "Hah I was up super late (meeting until 9:30 and still worked after that). I usually work rather varied hours.",
+        "user": "U1A7P6GTZ",
+        "ts": "1637324291.067000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zxaXG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hah I was up super late (meeting until 9:30 and still worked after that). I usually work rather varied hours."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637308510.064700",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "fa310508-dfd6-401b-b4c3-e39414508d71",
+        "type": "message",
+        "text": "We managed to close bunch of the issues we had worked on this week",
+        "user": "U06HDFAP5",
+        "ts": "1637324490.067200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/llj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We managed to close bunch of the issues we had worked on this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637308510.064700",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "52f37816-5d28-425e-ac5c-4ea1b2547398",
+        "type": "message",
+        "text": "I also posted comment on the main issue which will hopefully provide some next steps",
+        "user": "U06HDFAP5",
+        "ts": "1637324514.067400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yfZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also posted comment on the main issue which will hopefully provide some next steps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637308510.064700",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "98467794-08ad-41c3-af8a-06fec02bb189",
+        "type": "message",
+        "text": ":thumbsup: Let me know if there are specific next steps I should focus on :slightly_smiling_face:",
+        "user": "U1A7P6GTZ",
+        "ts": "1637327085.067600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iZ8XS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Let me know if there are specific next steps I should focus on "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637308510.064700",
+        "parent_user_id": "U21M96DQU"
+    }
+]

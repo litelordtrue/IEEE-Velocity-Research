@@ -1,0 +1,717 @@
+[
+    {
+        "client_msg_id": "759e4aa3-5146-4958-bb9d-ee0a52a8b42f",
+        "type": "message",
+        "text": "<@U1ET7192M> we have a little doubt in third feedback <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14278478|here>.\n```Also, on a UX\/behavior perspective about the Toolbar link: the rest of the items on the Toolbar, when they're clicked when the sub-menu is opened (like the Manage item), close the sub-menu. I would expect the same: if the Announce tray is opened when the user clicks on it, it should close the Settings Tray.```\nDoes it mean, when admin toolbar is opened and we click on `Announcements` link, it should close the expanded toolbar and open announcements off-canvas dialog?",
+        "user": "U2T8M7PA4",
+        "ts": "1635940078.026900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Res",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1ET7192M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we have a little doubt in third feedback "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14278478",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, on a UX\/behavior perspective about the Toolbar link: the rest of the items on the Toolbar, when they're clicked when the sub-menu is opened (like the Manage item), close the sub-menu. I would expect the same: if the Announce tray is opened when the user clicks on it, it should close the Settings Tray."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does it mean, when admin toolbar is opened and we click on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Announcements",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " link, it should close the expanded toolbar and open announcements off-canvas dialog?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Project messaging channel in core",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14278478",
+                "text": "Problem\/Motivation Per the core idea issue: [#2940739] The vast majority of Drupal users do not have accounts on <http:\/\/Drupal.org|Drupal.org>, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association. The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core.",
+                "fallback": "Drupal.org: Project messaging channel in core",
+                "ts": 1617212298,
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14278478",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14278478"
+            }
+        ],
+        "thread_ts": "1635940078.026900",
+        "reply_count": 6,
+        "reply_users_count": 1,
+        "latest_reply": "1635950039.028200",
+        "reply_users": [
+            "U1ET7192M"
+        ],
+        "replies": [
+            {
+                "user": "U1ET7192M",
+                "ts": "1635940147.027100"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635940188.027300"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635949823.027600"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635949905.027800"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635950015.028000"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1635950039.028200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3c807477-e86e-4579-ab70-352ab6740271",
+        "type": "message",
+        "text": "Yes. Just like the rest of the top links in the Toolbar. Check any other one: you’ll see they’re doing it already",
+        "user": "U1ET7192M",
+        "ts": "1635940147.027100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PVUZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes. Just like the rest of the top links in the Toolbar. Check any other one: you’ll see they’re doing it already"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635940078.026900",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "2e981095-7f0c-421d-a65e-171954c4b235",
+        "type": "message",
+        "text": "They both open and close the item.",
+        "user": "U1ET7192M",
+        "ts": "1635940188.027300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HOB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They both open and close the item."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635940078.026900",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "3d7710ce-a5d0-49f7-b302-433232146179",
+        "type": "message",
+        "text": "<@U2T8M7PA4> sorry I just re-read your comment. I didn’t meant for the “Announce” link should close the other submenus\/Administration menu. I was just referring to the Settings tray",
+        "user": "U1ET7192M",
+        "ts": "1635949823.027600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p\/HQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sorry I just re-read your comment. I didn’t meant for the “Announce” link should close the other submenus\/Administration menu. I was just referring to the Settings tray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635940078.026900",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "a0e71f2e-b91b-4698-b3e8-7f46b89f008a",
+        "type": "message",
+        "text": "I wouldn’t do anything with the Administration menu unless it’s the default behavior of the settings tray (which from memory I’d say it isn’t)",
+        "user": "U1ET7192M",
+        "ts": "1635949905.027800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pVVG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wouldn’t do anything with the Administration menu unless it’s the default behavior of the settings tray (which from memory I’d say it isn’t)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635940078.026900",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "ac808ed1-a9eb-45e2-b79a-7c7ed1d136b9",
+        "type": "message",
+        "text": "I would just expect that, if you click on the “Announcements” link and the Settings Tray with the Announcements content is opened, it should close it.",
+        "user": "U1ET7192M",
+        "ts": "1635950015.028000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Nl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would just expect that, if you click on the “Announcements” link and the Settings Tray with the Announcements content is opened, it should close it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635940078.026900",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "e6d2e254-e39e-4f58-8a13-9dd352255255",
+        "type": "message",
+        "text": "I wouldn’t expect it to change other things\/elements on the page.",
+        "user": "U1ET7192M",
+        "ts": "1635950039.028200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bbb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wouldn’t expect it to change other things\/elements on the page."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1ET7192M",
+            "ts": "1635954014.000000"
+        },
+        "thread_ts": "1635940078.026900",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "hey, sorry to resurrect a thread from ages ago... is there a separate issue for the D7 backport yet? If not, can we create one that we can start to use?",
+        "user": "U7G1P7P6Z",
+        "ts": "1635976045.028600",
+        "thread_ts": "1631714371.022900",
+        "root": {
+            "type": "message",
+            "text": "hey <@U06NAEYSF> started with the port of D7 this is the first look. I've made the announcement route as an admin route inorder display it in the toolbar and overlay does the rest. Obviously this look different from  D8 because D7 does not have a dialog model in its core so *do you want to make one* or *will this suffice??*\nPS: Apart from the this the backend stuffs are same\nCC: <@U2T8M7PA4>",
+            "files": [
+                {
+                    "id": "F02EWP8MPDX",
+                    "created": 1631713920,
+                    "timestamp": 1631713920,
+                    "name": "Screenshot 2021-09-15 at 6.56.57 PM.png",
+                    "title": "Screenshot 2021-09-15 at 6.56.57 PM.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U4PT7ES0M",
+                    "user_team": "T06GX3JTS",
+                    "editable": false,
+                    "size": 255864,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02EWP8MPDX\/screenshot_2021-09-15_at_6.56.57_pm.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02EWP8MPDX\/download\/screenshot_2021-09-15_at_6.56.57_pm.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 147,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 196,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 295,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 327,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                    "thumb_960_w": 960,
+                    "thumb_960_h": 393,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02EWP8MPDX-7bc01d7237\/screenshot_2021-09-15_at_6.56.57_pm_1024.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                    "thumb_1024_w": 1024,
+                    "thumb_1024_h": 419,
+                    "original_w": 2850,
+                    "original_h": 1166,
+                    "thumb_tiny": "AwATADBtvaedEHLKvOMbak\/s70kX\/vipLORFtwGdQcngmrImix\/rE\/76oApDTmByJVz\/ALlKdOZusqn\/AIBV3zov+eif99Cjzov+eif99CgCj\/Zh\/wCeif8AfFRXFmbePfuVucY2Vp+dF\/z0T\/voVWv5EaABXUncOhoAyd7etG9vWm0UAO3t60b29abRQA7e3rRvb1ptFAH\/2Q==",
+                    "permalink": "https:\/\/drupal.slack.com\/files\/U4PT7ES0M\/F02EWP8MPDX\/screenshot_2021-09-15_at_6.56.57_pm.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F02EWP8MPDX-ec670a8523",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": false,
+            "user": "U4PT7ES0M",
+            "display_as_bot": false,
+            "ts": "1631714371.022900",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "nOD\/",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "hey "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U06NAEYSF"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " started with the port of D7 this is the first look. I've made the announcement route as an admin route inorder display it in the toolbar and overlay does the rest. Obviously this look different from  D8 because D7 does not have a dialog model in its core so "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "do you want to make one",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " or "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "will this suffice??",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nPS: Apart from the this the backend stuffs are same\nCC: "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U2T8M7PA4"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "edited": {
+                "user": "U4PT7ES0M",
+                "ts": "1631715121.000000"
+            },
+            "thread_ts": "1631714371.022900",
+            "reply_count": 9,
+            "reply_users_count": 3,
+            "latest_reply": "1636041181.029600",
+            "reply_users": [
+                "U06NAEYSF",
+                "U7G1P7P6Z",
+                "U2T8M7PA4"
+            ],
+            "replies": [
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1631724908.024800"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1631724911.025000"
+                },
+                {
+                    "user": "U7G1P7P6Z",
+                    "ts": "1631725122.025800"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1631727000.026000"
+                },
+                {
+                    "user": "U7G1P7P6Z",
+                    "ts": "1635976045.028600"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1635977352.028900"
+                },
+                {
+                    "user": "U2T8M7PA4",
+                    "ts": "1636001217.029100"
+                },
+                {
+                    "user": "U7G1P7P6Z",
+                    "ts": "1636015332.029400"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1636041181.029600"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BEh4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey, sorry to resurrect a thread from ages ago... is there a separate issue for the D7 backport yet? If not, can we create one that we can start to use?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7492e1b4-48c5-40d0-b2d1-61ffe2c215a8"
+    },
+    {
+        "client_msg_id": "f8b1409b-8720-4393-ad59-06c19f016537",
+        "type": "message",
+        "text": "<@U2T8M7PA4> ^^ Question for you for tomorrow, I think",
+        "user": "U06NAEYSF",
+        "ts": "1635977352.028900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P8+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^ Question for you for tomorrow, I think"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631714371.022900",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "35f96af6-6791-44d3-ae8d-7e786996b8de",
+        "type": "message",
+        "text": "<@U7G1P7P6Z> For D7 development, we are following in this issue <https:\/\/www.drupal.org\/project\/announce\/issues\/3071997>\nWe already have a working PR here <https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/13>\n\nI did initial review yesterday itself and passed a feedback to <@U4PT7ES0M>\nHe is going to work on the feedback. He might not be around for a couple of days due to Diwali holidays.\nFeel free to review those and add suggestions.",
+        "user": "U2T8M7PA4",
+        "ts": "1636001217.029100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JLZD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U7G1P7P6Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " For D7 development, we are following in this issue "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071997"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWe already have a working PR here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/13"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI did initial review yesterday itself and passed a feedback to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHe is going to work on the feedback. He might not be around for a couple of days due to Diwali holidays.\nFeel free to review those and add suggestions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Backport to D7",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071997",
+                "text": "There is incredible value to the project in being able to reach out to the million plus sites still on Drupal 7",
+                "fallback": "Drupal.org: Backport to D7",
+                "ts": 1564678565,
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071997",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3071997"
+            },
+            {
+                "service_name": "GitLab",
+                "title": "Porting Drupal 7 (!13) · Merge requests · project \/ announce",
+                "title_link": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/13",
+                "text": "For more information about this repository, visit the project page at <https:\/\/www.drupal.org\/project\/announce>",
+                "fallback": "GitLab: Porting Drupal 7 (!13) · Merge requests · project \/ announce",
+                "thumb_url": "https:\/\/git.drupalcode.org\/assets\/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+                "fields": [
+                    {
+                        "title": "Author",
+                        "value": "Lal_",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/13",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "service_icon": "https:\/\/git.drupalcode.org\/assets\/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png",
+                "id": 2,
+                "original_url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/13"
+            }
+        ],
+        "thread_ts": "1631714371.022900",
+        "parent_user_id": "U4PT7ES0M"
+    }
+]

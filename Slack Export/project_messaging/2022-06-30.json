@@ -1,0 +1,830 @@
+[
+    {
+        "client_msg_id": "962479cc-c58d-4f0a-912f-9a29c01aba29",
+        "type": "message",
+        "text": ":wave: Hey everyone! Project messaging will be using settings tray, correct? If so, I'm doing a significant D10 only CSS refactor at <https:\/\/www.drupal.org\/project\/drupal\/issues\/3291797>. Is there a way I can test out the project messaging and see how it fits in with the new styles?",
+        "user": "U1CREGN04",
+        "ts": "1656591810.659529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+nrT1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hey everyone! Project messaging will be using settings tray, correct? If so, I'm doing a significant D10 only CSS refactor at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3291797"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Is there a way I can test out the project messaging and see how it fits in with the new styles?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3291797",
+                "ts": 1655843399,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3291797",
+                "fallback": "Drupal.org: Refactor Drupal 10 settings tray \/ off-canvas to use modern CSS",
+                "text": "Problem The current settings tray dialog CSS is fairly messy, with resets scattered around the codebase.",
+                "title": "Refactor Drupal 10 settings tray \/ off-canvas to use modern CSS",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3291797",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1656591810.659529",
+        "reply_count": 14,
+        "reply_users_count": 2,
+        "latest_reply": "1656609172.824849",
+        "reply_users": [
+            "U4KAE8Q91",
+            "U1CREGN04"
+        ],
+        "replies": [
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1656600473.889369"
+            },
+            {
+                "user": "U1CREGN04",
+                "ts": "1656608666.831169"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1656608699.953599"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1656608758.982679"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1656608765.347459"
+            },
+            {
+                "user": "U1CREGN04",
+                "ts": "1656608789.746699"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1656608809.636269"
+            },
+            {
+                "user": "U1CREGN04",
+                "ts": "1656608814.271379"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1656608855.695699"
+            },
+            {
+                "user": "U1CREGN04",
+                "ts": "1656608867.979399"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1656608929.214809"
+            },
+            {
+                "user": "U1CREGN04",
+                "ts": "1656608977.720419"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1656608980.969609"
+            },
+            {
+                "user": "U1CREGN04",
+                "ts": "1656609172.824849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U06NAEYSF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dead76bc-17bd-4d64-9d0b-1e7186078035",
+        "type": "message",
+        "text": "If we find somebody to do a review  <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14574934> we could finalize and commit this module, and then it would be available for D10 testing all the time :slightly_smiling_face:",
+        "user": "U4KAE8Q91",
+        "ts": "1656600473.889369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j61",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If we find somebody to do a review  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14574934"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we could finalize and commit this module, and then it would be available for D10 testing all the time "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1656591810.659529",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "74d3e66e-9ecb-4f2e-897b-0929183768f0",
+        "type": "message",
+        "text": "This is to move project messaging into core? Can you add testing instructions? Do we just download the patch, install the module and voila?",
+        "user": "U1CREGN04",
+        "ts": "1656608666.831169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sWs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is to move project messaging into core? Can you add testing instructions? Do we just download the patch, install the module and voila?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1656591810.659529",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "6ef91a06-9030-4321-b9f1-5a00035873ca",
+        "type": "message",
+        "text": "I believe so - this is pretty light project",
+        "user": "U4KAE8Q91",
+        "ts": "1656608699.953599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rIcW\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe so - this is pretty light project"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1656591810.659529",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "b2551d62-107c-47d9-8e82-e39446f90798",
+        "type": "message",
+        "text": "<@U4PT7ES0M>, <@U06NAEYSF> are there any special instructions? I believe that we download the patch, install the module, test and confirm that all works and code looks good :slightly_smiling_face:",
+        "user": "U4KAE8Q91",
+        "ts": "1656608758.982679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jA3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are there any special instructions? I believe that we download the patch, install the module, test and confirm that all works and code looks good "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1656591810.659529",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "1a0822d7-f427-4441-bb7f-46720f9e213c",
+        "type": "message",
+        "text": "<@U1CREGN04> thank you!",
+        "user": "U4KAE8Q91",
+        "ts": "1656608765.347459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TnQk\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1CREGN04"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1656591810.659529",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "type": "message",
+        "text": "not applying atm",
+        "files": [
+            {
+                "id": "F03NKU2NANL",
+                "created": 1656608788,
+                "timestamp": 1656608788,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U1CREGN04",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 32800,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F03NKU2NANL\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F03NKU2NANL\/download\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F03NKU2NANL-e10ea83ebc\/image_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F03NKU2NANL-e10ea83ebc\/image_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F03NKU2NANL-e10ea83ebc\/image_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 137,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F03NKU2NANL-e10ea83ebc\/image_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 183,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F03NKU2NANL-e10ea83ebc\/image_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "original_w": 715,
+                "original_h": 272,
+                "thumb_tiny": "AwASADDPyaQs3tUvkSY+5+oo8iTsg\/MUAQ4P+TRg1KYJT\/B+opPs0v8Ad\/UUARkAHrScetS\/Zpf7v6ij7NL\/AHf1FAD6KSigBaSiloASilooA\/\/Z",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U1CREGN04\/F03NKU2NANL\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F03NKU2NANL-16828a6084",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U1CREGN04",
+        "display_as_bot": false,
+        "ts": "1656608789.746699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qayr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not applying atm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "91dee1a4-6320-4e3d-84eb-bc5521b7fd63",
+        "thread_ts": "1656591810.659529",
+        "parent_user_id": "U1CREGN04",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "71bc2e1f-28a5-4378-9b21-b8324003952f",
+        "type": "message",
+        "text": "That is a good test already !!",
+        "user": "U4KAE8Q91",
+        "ts": "1656608809.636269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Oj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That is a good test already !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1656591810.659529",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "605fb56d-8739-4a60-a4c3-36a4df7b927c",
+        "type": "message",
+        "text": "haha",
+        "user": "U1CREGN04",
+        "ts": "1656608814.271379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rcT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1656591810.659529",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "46643a7f-adfb-4ed3-88f5-7991f4977fb0",
+        "type": "message",
+        "text": "This patch was rebuilt at least once - I can see that in the issue.  Let me see if there is MR :slightly_smiling_face:",
+        "user": "U4KAE8Q91",
+        "ts": "1656608855.695699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OF9Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This patch was rebuilt at least once - I can see that in the issue.  Let me see if there is MR "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1656591810.659529",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "aa116a66-ea0b-4fdc-9226-529a67a7e1ab",
+        "type": "message",
+        "text": "i'm gonna try to move it to D10 just to see what it looks like with the new styles",
+        "user": "U1CREGN04",
+        "ts": "1656608867.979399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CkDX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'm gonna try to move it to D10 just to see what it looks like with the new styles"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1656591810.659529",
+        "parent_user_id": "U1CREGN04",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7bf4811-8076-4c38-8370-8b6cc3d07ff0",
+        "type": "message",
+        "text": "If we find more issues earlier there is more time to fix them :slightly_smiling_face:",
+        "user": "U4KAE8Q91",
+        "ts": "1656608929.214809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MaBvB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If we find more issues earlier there is more time to fix them "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1656591810.659529",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "1df7c04d-8c1d-491b-b967-69957861fb1a",
+        "type": "message",
+        "text": "yeah. Thats my hope. The styling update is for D10 only (doing some stuff that IE11 doesn't support). Might be making changes to make settings tray styling a lot easier",
+        "user": "U1CREGN04",
+        "ts": "1656608977.720419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uBibr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah. Thats my hope. The styling update is for D10 only (doing some stuff that IE11 doesn't support). Might be making changes to make settings tray styling a lot easier"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1656591810.659529",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "client_msg_id": "c6d6b9f7-b05f-45e1-960c-0a006780564d",
+        "type": "message",
+        "text": "<@U4PT7ES0M>, can we get MR with most recent working patch - seems like all MR's on this issue are not mergable",
+        "user": "U4KAE8Q91",
+        "ts": "1656608980.969609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MQkM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", can we get MR with most recent working patch - seems like all MR's on this issue are not mergable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1656591810.659529",
+        "parent_user_id": "U1CREGN04"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03NKV4SB96",
+                "created": 1656609171,
+                "timestamp": 1656609171,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U1CREGN04",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 23546,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F03NKV4SB96\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F03NKV4SB96\/download\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F03NKV4SB96-1a4b0fb197\/image_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F03NKV4SB96-1a4b0fb197\/image_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F03NKV4SB96-1a4b0fb197\/image_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 306,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F03NKV4SB96-1a4b0fb197\/image_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 408,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F03NKV4SB96-1a4b0fb197\/image_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "original_w": 506,
+                "original_h": 595,
+                "thumb_tiny": "AwAwACiT+zI\/+eslMksbePG+d1z0zWjVHUQT5f40AQ\/ZrT\/n6P50ot7Qf8vP54qvg+q\/lRz6r+QoAtRw2wkUpPlgcgcc1cyazIR+\/TkfeFadAFH7fP8A7P5VNqB4iP1pDp7EczZ\/CjURgRD0zQBTyaSiigB8H+vT\/eFadZkH+vT\/AHhWnQBLk1S1L\/ln+NXec9RVLUv+Wf40AUaKKKAHwf69P94Vp1mQf69P94Vp0Af\/2Q==",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U1CREGN04\/F03NKV4SB96\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F03NKV4SB96-1097e00155",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U1CREGN04",
+        "display_as_bot": false,
+        "ts": "1656609172.824849",
+        "client_msg_id": "60a09ac5-80d2-4362-8a8c-c6b68667cbab",
+        "thread_ts": "1656591810.659529",
+        "parent_user_id": "U1CREGN04",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1656652015.560409",
+        "user": "U02JHLN3DV3",
+        "text": "<@U02JHLN3DV3> has joined the channel"
+    }
+]

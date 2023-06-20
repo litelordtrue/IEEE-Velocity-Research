@@ -1,0 +1,215 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1682429371.145919",
+        "user": "U054MKPKX54",
+        "text": "<@U054MKPKX54> has joined the channel"
+    },
+    {
+        "client_msg_id": "d8ac9e77-f49a-485d-b60f-3a72a7dd8b2f",
+        "type": "message",
+        "text": "<@U1AL60FHC> <@U1A7P6GTZ> - please see <@U374BLPJR> latest comment in the MR: <https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889#note_170131> and let us know if you are happy with the suggestion. As mentioned in the MR, changes are easy, so it’s just a matter of all of us being in the same page (cc <@U06NAEYSF>). Thanks in advance!",
+        "user": "U6K08UK96",
+        "ts": "1682438624.885459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=6Dy7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1AL60FHC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1A7P6GTZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - please see "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U374BLPJR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " latest comment in the MR: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889#note_170131"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and let us know if you are happy with the suggestion. As mentioned in the MR, changes are easy, so it’s just a matter of all of us being in the same page (cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). Thanks in advance!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682438624.885459",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1682444763.283619",
+        "reply_users": [
+            "U1AL60FHC",
+            "U1A7P6GTZ"
+        ],
+        "replies": [
+            {
+                "user": "U1AL60FHC",
+                "ts": "1682439502.286319"
+            },
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1682444763.283619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b88d065a-9600-477d-b497-27ee31106d9e",
+        "type": "message",
+        "text": "Makes sense to me, then a separate issue to add it back somehow.",
+        "user": "U1AL60FHC",
+        "ts": "1682439502.286319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2NCF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Makes sense to me, then a separate issue to add it back somehow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "5ad440e89a4a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-04\/178243938721_5ad440e89a4a1bac80c7_72.jpg",
+            "first_name": "Nathaniel",
+            "real_name": "Nathaniel Catchpole",
+            "display_name": "catch",
+            "team": "T06GX3JTS",
+            "name": "catch",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682438624.885459",
+        "parent_user_id": "U6K08UK96",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            },
+            {
+                "name": "thankful",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "409b1dda-89fc-4f46-9a20-1a20d11d6fa4",
+        "type": "message",
+        "text": "Yeah I think its fine to remove that, it was confusing to me too.",
+        "user": "U1A7P6GTZ",
+        "ts": "1682444763.283619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GeZm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah I think its fine to remove that, it was confusing to me too."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682438624.885459",
+        "parent_user_id": "U6K08UK96",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            },
+            {
+                "name": "thankful",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

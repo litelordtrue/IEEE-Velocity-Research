@@ -1,0 +1,1018 @@
+"Comment id","Comment Date","Comment Subject","Comment Body","username","uid","country","user_url","org","customer","volunteer","all_orgs","all_customers","Issue Status Updated Date"
+14047329,"2021-03-31 00:00:00","","<a href=\"/u/hestenet\" title=\"View user profile.\" data-uid=\"54034\" class=\"username\">hestenet</a> created an issue. See <a href=\"/node/3206643/revisions/12252768/view\">original summary</a>.","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14047333,"2021-03-31 00:00:00","",NULL,"hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14089326,"2021-03-31 00:00:00","","<a href=\"https://www.drupal.org/about/core/blog/drupal-920-alpha1-will-be-released-the-week-of-may-3rd\">Drupal 9.2.0-alpha1</a> will be released the week of May 3, 2021, which means new developments and disruptive changes should now be targeted for the 9.3.x-dev branch. For more information see the <a href=\"/core/release-cycle-overview#minor\">Drupal core minor version schedule</a> and the <a href=\"/core/d8-allowed-changes\">Allowed changes during the Drupal core release cycle</a>.","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14093926,"2021-05-06 00:00:00","","This could use the Aggregator module.","Darren Oh",30772,"US","https://www.drupal.org/u/darren-oh",NULL,NULL,1,NULL,NULL,"2023-05-23 00:00:00"
+14187841,"2021-08-11 00:00:00","",NULL,"hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14187846,"2021-08-11 00:00:00","",NULL,"hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14187863,"2021-08-11 00:00:00","",NULL,"hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14187865,"2021-08-11 00:00:00","",NULL,"hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14187867,"2021-08-11 00:00:00","",NULL,"hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14214375,"2021-09-10 00:00:00","","<a href=\"/u/mohit_aghera\" title=\"View user profile.\" data-uid=\"639098\" class=\"username\">mohit_aghera</a> made their first commit to this issue’s fork.","mohit_aghera",639098,"IN","https://www.drupal.org/u/mohit_aghera","QED42","Drupal Association",0,"QED42","Drupal Association","2023-05-23 00:00:00"
+14214605,"2021-09-10 00:00:00","","<a href=\"/u/mohit_aghera\">mohit_aghera</a> opened <a href=\"https://git.drupalcode.org/project/drupal/-/merge_requests/1180\">merge request !1180</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14214608,"2021-09-10 00:00:00","","Did initial push from the module's repository:
+Commit id: 176b3cb6cbe70799a208a63da0152f8d81796ee2","mohit_aghera",639098,"IN","https://www.drupal.org/u/mohit_aghera","QED42","Drupal Association",0,"QED42","Drupal Association","2023-05-23 00:00:00"
+14214612,"2021-09-10 00:00:00","",NULL,"mohit_aghera",639098,"IN","https://www.drupal.org/u/mohit_aghera","QED42","Drupal Association",0,"QED42","Drupal Association","2023-05-23 00:00:00"
+14214634,"2021-09-10 00:00:00","","Adding screenshots of the current module.","Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14214649,"2021-09-10 00:00:00","","<a href=\"/u/lal_\">Lal_</a> opened <a href=\"https://git.drupalcode.org/project/drupal/-/merge_requests/1181\">merge request !1181</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14214650,"2021-09-10 00:00:00","","<a href=\"/u/lal_\">Lal_</a> opened <a href=\"https://git.drupalcode.org/project/drupal/-/merge_requests/1182\">merge request !1182</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14214658,"2021-09-10 00:00:00","","<a href=\"/u/lal_\">Lal_</a> closed <a href=\"https://git.drupalcode.org/project/drupal/-/merge_requests/1181\">merge request !1181</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14214659,"2021-09-10 00:00:00","","<a href=\"/u/lal_\">Lal_</a> closed <a href=\"https://git.drupalcode.org/project/drupal/-/merge_requests/1182\">merge request !1182</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14218072,"2021-09-14 00:00:00","",NULL,"mohit_aghera",639098,"IN","https://www.drupal.org/u/mohit_aghera","QED42","Drupal Association",0,"QED42","Drupal Association","2023-05-23 00:00:00"
+14218073,"2021-09-14 00:00:00","",NULL,"mohit_aghera",639098,"IN","https://www.drupal.org/u/mohit_aghera","QED42","Drupal Association",0,"QED42","Drupal Association","2023-05-23 00:00:00"
+14218609,"2021-09-14 00:00:00","",NULL,"hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14218622,"2021-09-14 00:00:00","","In the red dot image, the bell has a background that is different from the actual toolbar background, is that a current screenshot? The non red-dot screenshots don't seem to have that.","Gábor Hojtsy",4166,"HU","https://www.drupal.org/u/gábor-hojtsy","Acquia",NULL,0,"Acquia",NULL,"2023-05-23 00:00:00"
+14218629,"2021-09-14 00:00:00","","1. Also looks like this feature is encapsulated in a module which would allow people to disable it. There I noticed this needs to be fixed in the info.yml:
+
+<code>description: Module for notify latest updates from drupal community</code>
+
+That should be more like:
+
+<code>description: Notifies site users about latest updates from the Drupal community</code>
+
+There may be more text to review, I only noticed this because I looked at how its enabled and whether it can be disabled.
+
+2. I also noticed that this feature is entirely opt-in (not added to either install profile as far as I see). Is that intentional for this step or as a final solution?
+
+3. Re \"determine if we need to start as experimental, or can skip experimental since it is not a site-feature\" from the issue summary, this is a site feature. Admin facing features are still site features? The question is how much would you expect the API to change, or if at all there is an API even.","Gábor Hojtsy",4166,"HU","https://www.drupal.org/u/gábor-hojtsy","Acquia",NULL,0,"Acquia",NULL,"2023-05-23 00:00:00"
+14218691,"2021-09-14 00:00:00","","@Gábor - thanks for the review and catching some key items
+
+<ol>
+  <li>Agree on the changes to description text - your suggestion looks good.</li>
+  <li>I also agree, we should likely enable this in at least the default site profile, probably all the shipping profiles. </li>
+  <li>I suppose that was meant to say 'since it's not a *site building* feature' does that affect whether it needs to be experimental or not. There is no api really at this point. It points to the Drupal.org feed, and there were notions about a '2.0' version having multiple, user configurable endpoints - but I think that's out of scope. </li>
+</ol>","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14218757,"2021-09-14 00:00:00","","For those interested in testing the Announce module on Drupal 9.3.x,
+I created a snapshot, using DrupalPod -
+
+<ul>
+  <li>Using issue fork - <code>3206643-project-messaging-channel</code></li>
+  <li>Latest commit #854ba58c</li>
+  <li>Installed Standard profile</li>
+  <li>Enabled Announce module</li>
+</ul>
+
+Username: admin
+Password: admin
+
+Click on the following link to open it -
+When you see Gitpod's login screen, choose \"Continue with Github\".
+https://gitpod.io/#snapshot/31d89281-104e-4394-85fb-acc624f5e0f0","shaal",60045,"US","https://www.drupal.org/u/shaal","Phase2",NULL,1,"Phase2",NULL,"2023-05-23 00:00:00"
+14218831,"2021-09-14 00:00:00","","Based on [#3052002], we should avoid using jQuery in new code we're adding to core, vanilla JavaScript is probably sufficient.
+
+Accessibility - 
+There is not enough color contrast in the content of announcements.
+
+The \"Announcement\" component that displays and hides a dialog, should let screen-readers know about visual change, more details here - https://adrianroselli.com/2020/05/disclosure-widgets.html","shaal",60045,"US","https://www.drupal.org/u/shaal","Phase2",NULL,1,"Phase2",NULL,"2023-05-23 00:00:00"
+14219226,"2021-09-15 00:00:00","I'm concerned about the","I'm concerned about the machine-name of the module: <code>announce</code>.
+
+<ul>
+  <li>In Composer, this is going to be known as <code>drupal/announce</code>.</li>
+  <li>In <code>*.info.yml</code> files, it will be known as <code>drupal:announce</code> in the dependencies section.</li>
+  <li>The new module introduces new libraries called <code>drupal.announce.dialog</code> and <code>drupal.announce.toolbar</code>.
+</ul>
+
+Meanwhile, there is already a library in core <code>drupal.announce</code>, which provides a Javascript API called <code>Drupal.announce</code>.  (It's a clumsy-yet-effective tool for when there isn't a better way to convey important changes to screen reader users.)
+
+I'm not sure if this is a <em>hard</em> namespace conflict which will break things. However I'm sure it amounts to a <em>soft</em> namespace conflict which conflates two separate core features. I expect this will lead to confusion and misunderstanding with respect to documentation/training materials, developer experience, site builder experience, and the Drupal blogosphere generally.
+
+So I'd propose that this module needs to be renamed before being added to core.  I don't think it's practical to rename the existing library because of backwards-compatibility commitments.
+
+<hr>
+
+Re. #26: Beware of conflating dialogs and disclosure widgets. These are not the same thing at all. You mention a dialog, but the linked article does not.
+
+Which behaviour is it: a control which invokes a dialog, or a disclosure widget? That's going to make a difference to how the change of content is conveyed.
+
+I share the concerns about the colour contrast. We'll need measurements, but I'm pretty sure these look poor.
+
+<hr>
+
+Only one of the messages has an associated \"learn more\" link. Why don't the others have this? I'm pretty sure I'd want to learn more about the security releases, say.
+
+<hr>
+
+Some accessibility stuff...
+
+The icons will need to be adaptable to forced-colors modes (previously a.k.a. Windows high-contrast mode). So far, we don't have any multi-colour icons in the toolbar. It's going to need a monochrome representation too.
+
+The screenshots have a lot of dots. What is a dot supposed to signify? It's too vague I think.
+
+The \"learn more\" link looks like a button, but it behaves as a link. It would be better if it looked like a link, namely underlined text rather than a 4-sided border.
+
+The \"learn more\" link has <code>_target=\"blank\"</code> which is a massive pain-in-the-accessible, especially since there is no warning that it will open a new window. It fails WCAG SC 3.2.5 Change On Request (level AAA). We really-really-really need to minimise the use of this attribute.  In this case, let's just remove it.
+
+I haven't done any other accessibility review yet, or even used the module, so this comment doesn't amount to sign-off.","andrewmacpherson",265648,"GB","https://www.drupal.org/u/andrewmacpherson",NULL,NULL,1,NULL,NULL,"2023-05-23 00:00:00"
+14219232,"2021-09-15 00:00:00","","The templates need documentation","andrewmacpherson",265648,"GB","https://www.drupal.org/u/andrewmacpherson",NULL,NULL,1,NULL,NULL,"2023-05-23 00:00:00"
+14219484,"2021-09-15 00:00:00","Re #27 Only one of the","Re #27 <em>Only one of the messages has an associated \"learn more\" link. Why don't the others have this? I'm pretty sure I'd want to learn more about the security releases, say.</em>The one with the sticky key as true will be acting as a featured announcement and that will have a learn more button. Whereas the other one (the one in white) instead of the learn button the title(link) will be clickable. ","Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14219711,"2021-09-15 00:00:00","","One big concern I have here is that this would introduce a whole new pattern in the form of the dialogue/widget/whatever-you-call-it that drops down from the \"Announcements\" toolbar button (I'm going to just call it \"new component\" in this post for simplicity).
+
+This new component introduces a new CSS and some JavaScript, this means additional user interface elements to maintain. Core already provides the off-canvas dialogue, and I think it would be better if that were to just be used here.
+
+The off-canvas dialogue could probably also use some love, but it does not make sense to introduce an entirely new component into Core, with its own separate CSS/JS, when what we already have a suitable component ready to be used.
+
+The existing off-canvas dialogue has already gone through accessibility compliance and is already well integrated with Core and contrib.  The idea that we should then introduce another, very similar component, with its own design, which requires its own separate long-term maintenance, makes me nervous.  We should be aiming for consistency in our Core UI, not divergence.
+
+Thanks,
+-Aaron
+
+","AaronMcHale",429621,"GB","https://www.drupal.org/u/aaronmchale","The University of Edinburgh",NULL,0,"The University of Edinburgh",NULL,"2023-05-23 00:00:00"
+14219778,"2021-09-15 00:00:00","","The module is using drupal off-canvas dialogue. See https://git.drupalcode.org/project/announce/-/blob/1.x/announce.module","vimaljoseph",817380,"IN","https://www.drupal.org/u/vimaljoseph","Zyxware Technologies","Drupal Association",0,"Zyxware Technologies","Drupal Association","2023-05-23 00:00:00"
+14219889,"2021-09-15 00:00:00","","<blockquote>I'm concerned about the machine-name of the module: announce.
+
+  * In Composer, this is going to be known as drupal/announce.
+  * In *.info.yml files, it will be known as drupal:announce in the
+    dependencies section.
+  * The new module introduces new libraries called drupal.announce.dialog and
+    drupal.announce.toolbar.
+
+Meanwhile, there is already a library in core drupal.announce, which provides
+a Javascript API called Drupal.announce.  (It's a clumsy-yet-effective tool
+for when there isn't a better way to convey important changes to screen
+reader users.)
+
+I'm not sure if this is a /hard/ namespace conflict which will break things.
+However I'm sure it amounts to a /soft/ namespace conflict which conflates
+two separate core features. I expect this will lead to confusion and
+misunderstanding with respect to documentation/training materials, developer
+experience, site builder experience, and the Drupal blogosphere generally.
+
+So I'd propose that this module needs to be renamed before being added to
+core.  I don't think it's practical to rename the existing library because of
+backwards-compatibility commitments.
+
+------------------------------------------------------------------------------</blockquote>
+
+Would 'announcements' be free of namespace collision? That seems like a small enough change and just as descriptive","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14219897,"2021-09-15 00:00:00","","<blockquote>The module is using drupal off-canvas dialogue. See https://git.drupalcode.org/project/announce/-/blob/1.x/announce.module</blockquote>
+
+Oh thanks, that's interesting, from the screenshots in the IS it didn't look like it.
+
+The question remains though about a lot of custom CSS. Was there a conscious decision taken not to use the default styling of the off-canvas dialogue? I'm still thinking about the fact that it's basically introducing a completely different visual style here which is unique to this particular implementation.","AaronMcHale",429621,"GB","https://www.drupal.org/u/aaronmchale","The University of Edinburgh",NULL,0,"The University of Edinburgh",NULL,"2023-05-23 00:00:00"
+14220746,"2021-09-16 00:00:00","","I opened an issue in the module queue, otherwise i think it'll be very hard to keep track of all the feedback [#3233439]. In short: JS needs some work, using dialogs API directly, not using jquery when it's not needed, using data attributes instead of classes.
+
+Some feedback not captured in the opened issue: 
+
+<ol>
+  <li>I would expect some validation on the link to make sure it's a Drupal/DA controlled domain that it points to. To make sure that if/when the feed itself is compromised we don't send people to a malicious URL.</li>
+  <li>The experience is a bit jarring, clicking several times on the announcement link makes the bar \"flash\" because it's making a new request instead of updating what's in there (or not doing anything), probably needs some discussion around what we expect to happen. I would go for several clicks = toggle the sidebar (without refreshing) to keep thing in line with the other buttons of the toolbar</li>
+  <li>The icon looks fuzzy to me, it's too small to have shading (or have several version based on display density). Just noticed it's a png, any reason why it's not a svg as well?</li>
+  <li>There is a cache by user but if I dismiss a featured announcement it just comes back on the next page reload. I would expect the announcement to not be shown or be shown as a non-featured item. Or maybe it's a feature that it's <em>very</em> visible all the time </li>
+  <li>The contrast ratio of the \"normal\" updates probably doesn't pass accessibility guidelines. It's hard to read for me at least</li>
+  <li>The style is not consistent between the different theme, on claro and olivero there are difference in spacing, alignement, and even the style of the close button</li>
+  <li>For the /announcement page, it should probably be rendered in the admin theme and not the frontend theme no? The announcement toolbar button should probably also be hidden when on that page. There are style missing for the focused close button when viewed as a page</li>
+  <li>Thinking about it we should probably remove the close button altogether from the focused announcement, it doesn't do anything, what is needed is a way to downgrade the focused announcement to a \"normal\" one after a while to avoid showing the same thing all the time if there aren't many announcements.</li>
+  <li>Focus style are missing for the \"Learn more\" button, can't see anything when it's keyboard focused</li>
+</ol>
+
+The contrib module is not in sync with this merge request, I'd advise to keep the two very close as I expect there will be a good number of comments and requests for updates. That's what being done for the CKeditor5 module, see [#3201824] and [#3231364]. The core merge request is generated by a script, i think it'd be  a good idea to follow a similar pattern here. Issues that touch on UX always tend to take a while to get in with many discussions, it's easier to manage and follow when each point has it's own issue. (Like the accessibility feedback could have it's own issue to discuss all accessibility related implications of this new UI, without interferring with folks whose main concern is JS or PHP or CSS :)
+
+But so far it's exciting to see this running on a site! 
+","nod_",598310,"FR","https://www.drupal.org/u/nod_","Acquia",NULL,0,"Acquia",NULL,"2023-05-23 00:00:00"
+14221002,"2021-09-16 00:00:00","For those willing to see it","For those willing to see it in action, here's an small gif showing the last code locally:
+
+<img src=\"/files/issues/2021-09-16/projects-message.gif\" alt=\"\" />
+
+
+On a UX perspective, I'm concerned about how to better communicate visually that those are external links. Specially if it's a forced <code>_target=\"blank\"</code> as @andrewmacpherson mentions. An option would be the <a href=\"https://ux.stackexchange.com/questions/107823/is-there-a-common-or-typical-icon-for-an-external-link-to-a-company-web-site\">standard external icon</a>.
+
+
+On a Design perspective, I think Design should be its own independent point in the remaining tasks list. ;)
+1. First, this doesn't follow neither the current <a href=\"https://www.figma.com/file/OqWgzAluHtsOd5uwm1lubFeH/Drupal-Design-system?node-id=553%3A0\">Design System Claro is implementing</a> nor Seven's. My guess is this implementation is based on Ana Barcelona's work a while ago and the designs have evolved since then. For example, there aren't outlined buttons anymore (like the one on the blue region).
+2. Another point is that links should be blue and underlined. Other visual elements should ideally be used to show that that's been \"read\" instead of lowering the color to gray, like block background color, icons, or just use a different elements instead of a basic link.
+<img src=\"/files/issues/2021-09-16/links.png\" alt=\"\" />
+3. The bell icon, could be simplified to play better with the rest of the icons. On the left, the current icon. On the right, an example of a simpler icon style (no the same color tough).
+<img src=\"/files/issues/2021-09-16/icon.png\" alt=\"\" />
+
+
+On a code perspective:
+1. I'd say that we shouldn't be using PNG for icons: it should be SVGs so some accessibility concerns like the ones expressed by Andrew in <a href=\"#comment-14219226\">#27</a> can be addressed.
+2. This is also introducing a lot of opinionated CSS (that, as @AaronMcHale mentions, will need to be maintained) that is not following existing guidelines. How will this look like on a site using Seven? I think @lauriii can actually give way better feedback here, but ideally a module should just introduce the minimum styles to make it work and let each of the admin themes add its own visual styles.
+3. As you can see on the GIF I've uploaded, there's an overlap between the title and the close button on narrow screens.
+
+Anyway, thanks for posting this here and the chance to have this feedback round with some code to test already! :)","ckrina",1206650,"ES","https://www.drupal.org/u/ckrina","Lullabot",NULL,0,"Lullabot",NULL,"2023-05-23 00:00:00"
+14243674,"2021-10-03 00:00:00","","Re. #29:
+
+<blockquote>
+The one with the sticky key as true will be acting as a featured announcement and that will have a learn more button. Whereas the other one (the one in white) instead of the learn button the title(link) will be clickable.
+</blockquote>
+
+Aha, thanks. They don't look like links, which ckrina mentions in #35.
+
+<hr>
+
+Re. #32:
+
+<blockquote>
+Would 'announcements' be free of namespace collision? That seems like a small enough change and just as descriptive
+</blockquote>
+
+That certainly avoids a hard namespace conflict. However I think the soft conflict is still there.
+
+A thesaurus wasn't much help. Broadcast, notice, and update were the best alternatives I could find. Various contrib modules have already used up a lot of possible terms.
+
+Instead of looking for an variation on \"announce\", could we name it after where the messages come from? Recalling the goal, emphasis mine:
+
+<blockquote>The goal of this initiative is to provide a channel for messaging <strong>about the Drupal project</strong>
+</blockquote>
+
+How about \"drupal project announcement\", \"drupal community news\", or something along those lines?
+
+Is there any intention for this UI and/or API to convey messages which <em>don't</em> come from drupal.org as community announcements?
+
+<hr>
+
+Re. #35:
+
+<blockquote>
+On a UX perspective, I'm concerned about how to better communicate visually that those are external links. Specially if it's a forced _target=\"blank\" as @andrewmacpherson mentions. An option would be the standard external icon.</blockquote>
+
+It would be far preferable if the <code>_target=blank</code> wasn't used here, regardless of whether we want to tell people it's an external link.
+
+External-link icons haven't been particularly consistent over the years, and are sometimes confused with share/send actions. I recall the UK government dropped them in favour of visible text to say it was external.
+
+The new bell icon is excellent. I was also going to suggest using a cut-out instead of overlap. It will adapt to forced-colour modes in monochrome; the bell and circle-badge will be the same colour, with a clear separator line. That's a strong affordance that it's an additional badge applied to the bell.
+
+<hr>
+
+Do the disks on the right hand side signify anything? I was wondering if they mean new or un-visited. I think text would convey this more clearly: \"new\" is what forum module uses.
+
+ggVG","andrewmacpherson",265648,"GB","https://www.drupal.org/u/andrewmacpherson",NULL,NULL,1,NULL,NULL,"2023-05-23 00:00:00"
+14250566,"2021-10-08 00:00:00","Quick small design feedback:","Quick small design feedback: I think the icon that would work better to represent the purpose would be a <a href=\"https://thenounproject.com/search/?q=megaphone\">megaphone</a>.
+
+<img src=\"/files/issues/2021-10-08/megaphone.png\" alt=\"\" />
+
+Edit: Be aware the icons from The Noun Project have a license. We should create our own SVG icon.
+","ckrina",1206650,"ES","https://www.drupal.org/u/ckrina","Lullabot",NULL,0,"Lullabot",NULL,"2023-05-23 00:00:00"
+14261061,"2021-10-18 00:00:00","","Updated the issue summary with a more detailed release notes snippet and a section on governance of the feed. Posting in this comment as well: 
+
+<h3 id=\"summary-release-notes\">Release notes snippet</h3>
+
+<blockquote>Drupal core now includes an announcements feed of project news from Drupal.org. This feed of announcements is displayed in the Drupal administrative toolbar to site owners/editors, tracking read/unread status with cache tags. Announcements may include: news about upcoming Drupal features, important information for site owners on older Drupal versions, and information about supporting the Drupal project through Drupal Association programs.</blockquote>
+
+<h3 id=\"summary-release-notes\">Governance</h3>
+
+To publish a new piece to this announcements feed should require an extra level of governance and oversight. 
+
+Proposed governance: 
+<ul>
+  <li>Sign off by a designated Drupal Association staff member</li>
+  <li>Sign off by a Drupal Core product manager (per maintainers.txt) </li>
+  <li>(When relevant) sign off by another key stakeholder - such as a security working group member for announcements related to security issues, for example.</li>
+</ul>
+","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14261310,"2021-10-19 00:00:00","","As nod_ suggested, this issue is going to follow an automated patch-based approach like <a href=\"https://www.drupal.org/project/drupal/issues/3231364\">#3231364: Add CKEditor 5 module to Drupal core</a> see <a href=\"https://www.drupal.org/project/announce/issues/3238706\">#3238706</a> ","Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14261324,"2021-10-19 00:00:00","","Changes fixed on this patch:
+1) Add a check to confirm a particular link is generated from a Drupal/DA controlled <a href=\"https://www.drupal.org/project/announce/issues/3236293\">domain</a>.
+2) Module Rename from announce to <a href=\"https://www.drupal.org/project/announce/issues/3236291\">announcements_feed</a>.
+3) Replace jQuery with vanilla <a href=\"https://www.drupal.org/project/announce/issues/3236294\">JS</a>.
+
+ ","Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14261328,"2021-10-19 00:00:00","Triggering the test bot","Triggering the test bot","Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14261352,"2021-10-19 00:00:00","",NULL,"Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14261366,"2021-10-19 00:00:00","","<a href=\"/u/mohit_aghera\">mohit_aghera</a> closed <a href=\"https://git.drupalcode.org/project/drupal/-/merge_requests/1180\">merge request !1180</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14261421,"2021-10-19 00:00:00","",NULL,"Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14261479,"2021-10-19 00:00:00","","The last submitted patch, <a href=\"#comment-14261421\">44: 3206643-44.patch</a>, failed testing. <a href=\"/pift-ci-job/2211657\">View results</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14261518,"2021-10-19 00:00:00","",NULL,"Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14261575,"2021-10-19 00:00:00","","The last submitted patch, <a href=\"#comment-14261518\">46: 3206643-46.patch</a>, failed testing. <a href=\"/pift-ci-job/2211692\">View results</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14261615,"2021-10-19 00:00:00","","Unable to run this test locally due to its huge loading time. I believe this will fix it.","Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14261617,"2021-10-19 00:00:00","",NULL,"Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14261673,"2021-10-19 00:00:00","","The last submitted patch, <a href=\"#comment-14261615\">48: 3206643-48.patch</a>, failed testing. <a href=\"/pift-ci-job/2211747\">View results</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14261710,"2021-10-19 00:00:00","",NULL,"Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14261711,"2021-10-19 00:00:00","",NULL,"Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14261815,"2021-10-19 00:00:00","","The last submitted patch, <a href=\"#comment-14261710\">51: 3206643-51.patch</a>, failed testing. <a href=\"/pift-ci-job/2211773\">View results</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14261844,"2021-10-19 00:00:00","Changes fixed on this patch:","Changes fixed on this patch:
+1) Add a check to confirm a particular link is generated from a Drupal/DA controlled <a href=\"https://www.drupal.org/project/announce/issues/3236293\">domain</a>.
+2) Module Rename from announce to <a href=\"https://www.drupal.org/project/announce/issues/3236291\">announcements_feed</a>.
+3) Replace jQuery with vanilla <a href=\"https://www.drupal.org/project/announce/issues/3236294\">JS</a>.
+
+ ","Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14261965,"2021-10-19 00:00:00","",NULL,"Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14267057,"2021-10-23 00:00:00","","Re. #37:
+
+At first glance this icon looked to me like an axe! I think that's a problem with 2-dimensional silhouette icons. Some of the other megaphone icons on the Noun Project page look clearer:
+
+<ul>
+  <li>Some are 3-dimensional. The megaphone's cone shape is apparent.</li>
+  <li>Many have some extra lines, the common cartoon way of showing that sound is coming out of it.</li>
+  <li>Many have the central part which sticks out from the middle of the megaphone cone.</li>
+  <li>A few have a person holding the megaphone. These are verb-focused (talk) rather than noun-focused (megaphone).</li>
+</ul>
+
+I don't recall seeing a megaphone icon before. (A very similar-looking icon is a side view of a loudspeaker, which is often used for volume control.)
+
+I don't have hard numbers, but I think the bell icon is a more common icon for \"notify\" or \"message\"?
+
+A speech bubble is another icon which could work for announcement.","andrewmacpherson",265648,"GB","https://www.drupal.org/u/andrewmacpherson",NULL,NULL,1,NULL,NULL,"2023-05-23 00:00:00"
+14268347,"2021-10-25 00:00:00","","I think there are a few things that need to be improved before considering a +1. I’m concerned with Claro’s blue and other styles forced into all themes with this CSS.
+
+To give you an idea of what I would expect from this project minimum styles, this is how it would look like reusing the off-canvas already existing styles.
+
+<img src=\"/files/issues/2021-10-25/Captura%20de%20Pantalla%202021-10-25%20a%20les%2012.25.21.png\" alt=\"\" />
+
+I’ve removed locally all the opinionated CSS in <code>announcements_feed.dialog.css</code>, like colors, and left only paddings/margins and hidden undesired visual elements like the default title pencil icon. 
+Claro’s visual improvements can be added later as a follow-up, or at least they shouldn't appear when Seven is enabled right now.
+
+
+Also, it would be great if someone could update the summary with Testing instructions for the patch. I’d like to know how to reproduce the content shown on the summary screenshots:
+- <em>How can be added a highlighted announce?</em> I’d love to check how this is shown without Claro styles.
+- <em>How can several announcements be added?</em> I’d love to see how it behaves with longer and multilingual text. 
+
+Re <a href=\"#comment-14267057\">#56</a> about the icon: I totally agree on a bell as a better representation for notifications, but the module descriptions says “<em>Notifies site users about latest updates from the Drupal community</em>”. I suggested a speaker because I understood this is not supposed to be a user or site notification feature, but a the community announcements channel. 
+
+But reading the Release notes snippet from summary the sentence “important information for site owners on older Drupal version” confuses me:
+> Announcements may include: news about upcoming Drupal features, important information for site owners on older Drupal versions, and information about supporting the Drupal project through Drupal Association programs.
+
+If this is supposed to just communicate generic information (not targeted to the current site) I see this type of content different to the site/user communications/notifications. If this is supposed to be integrated at some point as “notifications” (like current site’s updates) maybe it should be something to discuss here. I wouldn't see the Toolbar icon as a blocker at this point, but I think it'd be good to make clearer what this project isn't supposed to be (a site's notification place, if I'm right).
+","ckrina",1206650,"ES","https://www.drupal.org/u/ckrina","Lullabot",NULL,0,"Lullabot",NULL,"2023-05-23 00:00:00"
+14268392,"2021-10-25 00:00:00","",NULL,"Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14268394,"2021-10-25 00:00:00","",NULL,"Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14268411,"2021-10-25 00:00:00","","re #57 
+<ol>
+  <li>go to the module service file there you can change the url parameter...</li>
+  <li>Since the announcement is tempstored wrt time you might forcefully delete it from the db so run this<code>\\Drupal::service('keyvalue.expirable')->get('announce')->delete('announcements');</code> on your drush php</li>
+</ol>","Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14268450,"2021-10-25 00:00:00","",NULL,"mohit_aghera",639098,"IN","https://www.drupal.org/u/mohit_aghera","QED42","Drupal Association",0,"QED42","Drupal Association","2023-05-23 00:00:00"
+14268456,"2021-10-25 00:00:00","",NULL,"mohit_aghera",639098,"IN","https://www.drupal.org/u/mohit_aghera","QED42","Drupal Association",0,"QED42","Drupal Association","2023-05-23 00:00:00"
+14268486,"2021-10-25 00:00:00","","The last submitted patch, <a href=\"#comment-14268392\">58: announce-58.patch</a>, failed testing. <a href=\"/pift-ci-job/2217339\">View results</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14268516,"2021-10-25 00:00:00","",NULL,"Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14268589,"2021-10-25 00:00:00","Fixes form this patch","Fixes form this patch includes:
+<ul>
+  <li>3243253-css-refactoring-for: Fixed css linting errors.</li>
+  <li>Make announcements_feed_hook_help() comply with the format expected by Drupal core.</li>
+  <li>CSS added to claro and seven theme to accommodate the style</li>
+</ul>
+Refer to the gif.","Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14274289,"2021-10-29 00:00:00","",NULL,"Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14274390,"2021-10-29 00:00:00","","The last submitted patch, <a href=\"#comment-14274289\">66: 3206643-66.patch</a>, failed testing. <a href=\"/pift-ci-job/2221585\">View results</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14274564,"2021-10-29 00:00:00","",NULL,"Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14274566,"2021-10-29 00:00:00","",NULL,"Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14276249,"2021-11-01 00:00:00","","CSS refactoring changes.","AkshayAdhav",3180337,"IN","https://www.drupal.org/u/akshayadhav","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14276293,"2021-11-01 00:00:00","",NULL,"mohit_aghera",639098,"IN","https://www.drupal.org/u/mohit_aghera","QED42","Drupal Association",0,"QED42","Drupal Association","2023-05-23 00:00:00"
+14278478,"2021-11-02 00:00:00","Some CSS improvements I'd see","Some CSS improvements I'd see here are:
+<ol>
+
+<li>
+<code>
++++ b/core/modules/announcements_feed/css/announcements_feed.dialog.css
+@@ -0,0 +1,62 @@
++  background-image: url(../images/close_announce.svg);
+</code>
+
+Wouldn't it be better to just reuse/link the existing one in core under <code>/core/misc/icons/bebebe/ex.svg</code>? You can check how Layout Builder is implementing it.
+</li>
+
+<li>
+<code>
++++ b/core/modules/announcements_feed/css/announcements_feed.toolbar.css
+@@ -0,0 +1,14 @@
++  background-image: url(\"../images/new-announcement-bell.svg\");
+</code>
+
+Maybe the red circle could be done with the <code>::after</code> sub-element so there's no need to add another SVG file that looks almost the same.
+</li>
+
+</ol>
+
+3. Also, on a UX/behavior perspective about the Toolbar link: the rest of the items on the Toolbar, when they're clicked when the sub-menu is opened (like the Manage item), close the sub-menu. I would expect the same: if the Announce tray is opened when the user clicks on it, it should close the Settings Tray.","ckrina",1206650,"ES","https://www.drupal.org/u/ckrina","Lullabot",NULL,0,"Lullabot",NULL,"2023-05-23 00:00:00"
+14292764,"2021-11-16 00:00:00","",NULL,"lauriii",1078742,"FI","https://www.drupal.org/u/lauriii","Acquia",NULL,0,"Acquia",NULL,"2023-05-23 00:00:00"
+14296927,"2021-11-19 00:00:00","","I tried to work on the announce module this week but I found it a little hard to make significant progress on this because the high level plans for this project are still a little unclear to me. I've read the ideas queue issue [#2940739] but it didn't answer all of my questions. It explains the high level goals, but doesn't really go into much detail on how we are trying to solve that. I'm wondering if some of the discussion that has happened in person has been documented somewhere outside of the issue?
+
+There are couple of issues in the announce module issue queue that are asking clarification on some of the key concepts ([#3249644] and [#3249625]). It would be useful to work on those, and document the outcome in the module, as well as potentially adding a summary to this issue. It's important that there's enough understanding on how this new module is intended to work before it is added to core, to make sure that it can be maintained in long term.
+
+<hr>
+
+Are we planning to add this module to standard install profile? Are there plans on enabling this module on existing sites? If we are not adding this module to standard install profile, or enabling it on existing sites, how are we getting users to enable this module on their sites? What's the value the users get out of the module that makes them install it?
+
+<hr>
+
+<blockquote>The style is not consistent between the different theme, on claro and olivero there are difference in spacing, alignement, and even the style of the close button</blockquote>
+Is there already a plan how we can make the design consistent across different themes?
+
+","lauriii",1078742,"FI","https://www.drupal.org/u/lauriii","Acquia",NULL,0,"Acquia",NULL,"2023-05-23 00:00:00"
+14298024,"2021-11-20 00:00:00","","To add to what lauriii wrote above it was not clear what type of communication would be pushed thought that module initially. 
+
+Would it be possible to have a list of the last 5 communications (just the titles at least) that would have made it in that feed based on the past few months? The communication style of the DA which is very US-like and doesn't work as well in the rest of the world. Are the person/team in charge of approving communications all going to be US-based or will there be a mix of locations? 
+","nod_",598310,"FR","https://www.drupal.org/u/nod_","Acquia",NULL,0,"Acquia",NULL,"2023-05-23 00:00:00"
+14298550,"2021-11-21 00:00:00","","Possibly a relevant issue for the recent discussion.","AaronMcHale",429621,"GB","https://www.drupal.org/u/aaronmchale",NULL,NULL,0,NULL,NULL,"2023-05-23 00:00:00"
+14328729,"2021-12-03 00:00:00","",NULL,"hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14337381,"2021-12-13 00:00:00","",NULL,"Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14337405,"2021-12-13 00:00:00","","Opps forgot to take the latest pull.","Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14337476,"2021-12-13 00:00:00","",NULL,"Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14337615,"2021-12-13 00:00:00","","The last submitted patch, <a href=\"#comment-14337476\">80: 3206643-80.patch</a>, failed testing. <a href=\"/pift-ci-job/2263867\">View results</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14337648,"2021-12-21 00:00:00","Some issues fixed:","Some issues fixed:
+<code>
+#3248673: Toggle announcement dialog on clicking toolbar link.
+ #3250089 \"Remove close button. 
+#3249521: Various documentation fixes 
+#3249860: Rename templates according to core convention
+#3249629 : Simplify regex in.
+#3249535: Config and state keys used are incorrect (still using old module name).
+#3249661: Filtering for Drupal version is only done on newly loaded announcements.
+ #3249640: Implement BEM in the twigs.
+#3250091: Remove duplicate ids
+</code>
+#72 is addressed and resolved. ","Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14470463,"2022-04-06 00:00:00","I tested patch #3206643-82","I tested patch #3206643-82.patch and have the following results
+<ul>
+  <li> I can enable module and see announcements feed without any issues </li>
+  <li>Only one items is visible with date in 2021, as expected from https://www.drupal.org/announcements.json</li>
+  <li> Items without body do not show up in feed </li>
+  <li> Extra drush step for is required for publishing so we can review it before something goes to every site. </li>
+
+</ul>","irinaz",225592,"US","https://www.drupal.org/u/irinaz","Fibonacci Web Studio",NULL,1,"Fibonacci Web Studio",NULL,"2023-05-23 00:00:00"
+14473553,"2022-04-07 00:00:00","",NULL,"hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14528991,"2022-04-07 00:00:00","","<a href=\"https://www.drupal.org/project/drupal/releases/9.4.0-alpha1\">Drupal 9.4.0-alpha1</a> was released on May 6, 2022, which means new developments and disruptive changes should now be targeted for the 9.5.x-dev branch. For more information see the <a href=\"/core/release-cycle-overview#minor\">Drupal core minor version schedule</a> and the <a href=\"/core/d8-allowed-changes\">Allowed changes during the Drupal core release cycle</a>.","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14547885,"2022-06-06 00:00:00","",NULL,"hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14547887,"2022-06-06 00:00:00","","Posting a draft blog to act as the first 'official' content in the feed. The idea is this will set expectations for what site owners can expect in future posts. 
+
+https://docs.google.com/document/d/1d5Uq1ORQDy5bW_3WAyyorEVuHCtZBBB_aKMtnDfoS-Y/edit#
+
+<strong>Next steps</strong>
+<ul>
+  <li>Need to get this issue to RTBC so we can get it committed</li>
+  <li>Need to review the first post with core folks according to governance policy and get it posted</li>
+</ul>
+","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14555671,"2022-06-08 00:00:00","",NULL,"Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14574504,"2022-06-16 00:00:00","","Looks good to me!","matiasmiranda",2646507,"AR","https://www.drupal.org/u/matiasmiranda",NULL,NULL,1,NULL,NULL,"2023-05-23 00:00:00"
+14574558,"2022-06-16 00:00:00","","The last patch does not apply to the branch. 
+
+@matiasmiranda Thanks for reviewing! It would be better to know what you did to review it and to ensure any criticism listed above has been fixed. ","cilefen",1850070,"US","https://www.drupal.org/u/cilefen",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14574934,"2022-06-17 00:00:00","","Uploaded a rerolled patch, thanks!","ankithashetty",3602225,"IN","https://www.drupal.org/u/ankithashetty","Specbee","Drupal India Association",1,"Specbee","Drupal India Association","2023-05-23 00:00:00"
+14578418,"2022-06-21 00:00:00","","<code>
++++ b/composer.lock
+--- b/core/modules/announcements_feed/tests/modules/announce_feed_test/src/Controller/AnnounceTestController.php
++++ a/core/modules/system/tests/modules/advisory_feed_test/src/Controller/AdvisoryTestController.php
+</code>
+
+hmmm is the interdiff wrong ??? ","Lal_",3473743,"IN","https://www.drupal.org/u/lal_","QED42",NULL,1,"QED42",NULL,"2023-05-23 00:00:00"
+14598007,"2022-07-07 00:00:00"," ","&nbsp;","xjm",65776,"US","https://www.drupal.org/u/xjm",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14598488,"2022-07-08 00:00:00","Re: #92, the diffstat also","Re: <a href=\"#comment-14578418\">#92</a>, the diffstat also does not match the previous patch, so someone should check over the reroll carefully.
+
+We also still need usability and accessibility signoff here before this issue is marked RTBC.
+
+<a href=\"#comment-14298024\">#75</a> also does not seem to have been addressed yet, and it's unclear to me whether IS updates addressed <a href=\"#comment-14296927\">#74</a> or not either. It's also not clear to me if <a href=\"#comment-14278478\">#72</a> has been addressed... etc. In general, when posting new patches or updating the IS, please also indicate which previous reviews are (or aren't) addressed by the update. Thanks!","xjm",65776,"US","https://www.drupal.org/u/xjm",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14599067,"2022-07-08 00:00:00","","I've tried to apply the patch from <a href=\"https://www.drupal.org/project/drupal/issues/3206643#comment-14574934\">#91</a> to a fresh install of Drupal 9.5.x-dev@dev and it failed to apply unfortunately.  But based on <a href=\"https://www.drupal.org/project/drupal/issues/3206643#comment-14598007\">#93</a> a reroll might be required anyway.
+
+In regards of the UX review I could put it on the agenda of next weeks meeting? It takes place on the 15th of july Friday at 14:00 UTC (currently 7:00am PT, 10:00am ET). Today there won't be a regular meeting it looks like and that would also have been on too short notice for someone to join to present and or for answering questions probably. Because it proofed helpful if someone familiar with an issue could find the time to attend the meeting.","rkoller",3217695,"DE","https://www.drupal.org/u/rkoller",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14618772,"2022-07-21 00:00:00","","Updating title and summary with new tasks","mherchel",118428,"US","https://www.drupal.org/u/mherchel",NULL,NULL,0,NULL,NULL,"2023-05-23 00:00:00"
+14618788,"2022-07-21 00:00:00","","<blockquote>Are we planning to add this module to standard install profile? </blockquote>
+The plan is to add this eventually. This can be handled in a followup issue. First step is to get into core as experimental. 
+<blockquote>Are there plans on enabling this module on existing sites? </blockquote>
+I think this is a great idea, however this needs to happen later in a followup issue. 
+
+Updating issue summary. ","mherchel",118428,"US","https://www.drupal.org/u/mherchel",NULL,NULL,0,NULL,NULL,"2023-05-23 00:00:00"
+14618797,"2022-07-21 00:00:00","","@Lal_, would it be possible to move to Merge request instead of using patch or it is too complex at this time?","irinaz",225592,"US","https://www.drupal.org/u/irinaz","Fibonacci Web Studio",NULL,1,"Fibonacci Web Studio",NULL,"2023-05-23 00:00:00"
+14618811,"2022-07-21 00:00:00","","Re-roll of #91 for Drupal 9.5.x. Note that I removed the composer changes because of https://www.drupal.org/node/3295096
+
+","mherchel",118428,"US","https://www.drupal.org/u/mherchel",NULL,NULL,0,NULL,NULL,"2023-05-23 00:00:00"
+14618821,"2022-07-21 00:00:00","","Adding @todo item in issue summary:
+
+<blockquote>Figure out if this is realistically going into Drupal 9, or should we just target D10</blockquote>","mherchel",118428,"US","https://www.drupal.org/u/mherchel",NULL,NULL,0,NULL,NULL,"2023-05-23 00:00:00"
+14618843,"2022-07-21 00:00:00","","Just as a note:
+
+Totally separately from the technical considerations of what version we target to get this committed (and at this point, targeting 10 might be the best choice) - we may still want to consider the value of backporting for communications reasons. 
+
+Part of the reason to add this channel is so that we have some way to reach site owners who might not read Drupal news, subscribe to a newsletter, etc --- and it may aid us in future end of life - security announcements - etc. (Hence the child issue for a d7 backport even) 
+
+That conversation doesn't need to block anything though! We can revisit possible backports after we get an initial commit. ","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14624626,"2022-07-25 00:00:00","","I reached out to @Gábor Hojtsy in Slack at https://drupal.slack.com/archives/C1BMUQ9U6/p1658422784574099
+
+From that thread
+
+<blockquote>Some committers had concerns about the contents of the feed, governance around that, etc. to be defined before any technology ends up in core. Better/more sample messages. I think @lauriii was vocal about this? If memory serves right.</blockquote>
+
+We need a followup issue for this. 
+
+<blockquote>Some committers were concerned about the custom solution to a newfeeds basically, but since we are removing RSS support in core in Drupal 10, its probably what it is. Nevertheless agreement on that would be important. Framework managers would be appropriate for this</blockquote>
+
+This can probably be done in this issue. 
+
+<blockquote>This could only land in Drupal 10.1, but that is not too far off, I mean the dev branch possibility. That branch is already open and with the Drupal 10 beta it should be the target for stuff anyway in about 50 days.</blockquote>
+
+We'll need to re-roll this patch for Drupal 10.0.1
+
+<blockquote>There were concerns about the functionality of reading tracking, etc. and how useful is it on the level its implemented now.
+</blockquote>
+
+We should probably take care of this in this issue. ","mherchel",118428,"US","https://www.drupal.org/u/mherchel",NULL,NULL,0,NULL,NULL,"2023-05-23 00:00:00"
+14624972,"2022-07-25 00:00:00","","<blockquote>From that thread
+
+<blockquote>Some committers had concerns about the contents of the feed, governance around that, etc. to be defined before any technology ends up in core. Better/more sample messages. I think @lauriii was vocal about this? If memory serves right.
+</blockquote>
+We need a followup issue for this.</blockquote>
+
+We had a follow-up issue for governance that was resolved here: [#3071994] I will update to link to the proposed first post. 
+
+
+","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14657879,"2022-08-19 00:00:00","","Does this issue still need usability review? The issue tag is still there, but it was removed from the \"Remaining tasks\" in the issue summary in #84.
+
+I tested the patch in #99, and it applies cleanly to the current 9.5.x branch. I will cross off that item from the list.
+
+I tested giving a user the permission from this module but not permission to see the Toolbar, and the result is that my test user could not see the notifications. It might be worth mentioning that in the description (help text) for the permission, or it might be a good idea to have more than one way to view the notifications.
+
+We discussed this issue at [#3236318], but it seems that none of us left a comment here to summarize the discussion. That issue has a link to a recording of the meeting.","benjifisher",683300,"US","https://www.drupal.org/u/benjifisher","FRUITION",NULL,0,"FRUITION",NULL,"2023-05-23 00:00:00"
+14657896,"2022-08-19 00:00:00","","@benjifisher, does that mean that with patch #99 this issue status can be changed to \"Needs review\" or it is still \"Needs work\"?  ","irinaz",225592,"US","https://www.drupal.org/u/irinaz","Fibonacci Web Studio",NULL,1,"Fibonacci Web Studio",NULL,"2023-05-23 00:00:00"
+14742587,"2022-10-14 00:00:00","","It is too late to get this issue into Drupal 9.5 or 10.0, so this issue should target 10.1. Since the patch in #99 for 10.1.x failed static analysis, the status should still be NW.","benjifisher",683300,"US","https://www.drupal.org/u/benjifisher","FRUITION",NULL,0,"FRUITION",NULL,"2023-05-23 00:00:00"
+14742632,"2022-10-14 00:00:00","","I am attaching a patch based on the one from #99, with merge conflicts resolved for 10.1.x. I am also attaching a diff (not an interdiff, since it is a reroll).
+
+Running the core checks locally, I see the same failures that the testbot reported in #99, so I am asking the testbot to ignore this patch.","benjifisher",683300,"US","https://www.drupal.org/u/benjifisher","FRUITION",NULL,0,"FRUITION",NULL,"2023-05-23 00:00:00"
+14742990,"2022-10-14 00:00:00","","The attached patch fixes the problems detected by static analysis. +1 for the changes required by PHPStan.
+
+The changes to the JS file are the result of
+
+<code>
+yarn run -s lint:core-js-passing --fix modules/announcements_feed/js/announcements_feed.announcement.js
+</code>
+
+(from the <code>core/</code> directory).
+
+Back to NR.","benjifisher",683300,"US","https://www.drupal.org/u/benjifisher","FRUITION",NULL,0,"FRUITION",NULL,"2023-05-23 00:00:00"
+14743084,"2022-10-14 00:00:00","","The last submitted patch, <a href=\"#comment-14742990\">108: 3206643-108.patch</a>, failed testing. <a href=\"/pift-ci-job/2499875\">View results</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14743160,"2022-10-14 00:00:00","","Remove all files added to the seven and stable themes.","benjifisher",683300,"US","https://www.drupal.org/u/benjifisher","FRUITION",NULL,0,"FRUITION",NULL,"2023-05-23 00:00:00"
+14743910,"2022-10-14 00:00:00","","The last submitted patch, <a href=\"#comment-14743160\">110: 3206643-110.patch</a>, failed testing. <a href=\"/pift-ci-job/2499959\">View results</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14751021,"2022-10-18 00:00:00","","I figured out why the tests were failing: I am testing with Drupal 10, and each test announcement specifies a version constraint: 8 or 9 or both. The tests expect to find at least one announcement (for the current version) but there are none. I suppose I could have added new test announcements, but instead I promoted 8 ->9 and 9 -> 10.
+
+All the failing tests from #110 now pass locally, so this patch may get past the testbot.","benjifisher",683300,"US","https://www.drupal.org/u/benjifisher","FRUITION",NULL,0,"FRUITION",NULL,"2023-05-23 00:00:00"
+14752133,"2022-10-18 00:00:00","","The last submitted patch, <a href=\"#comment-14751021\">112: 3206643-112.patch</a>, failed testing. <a href=\"/pift-ci-job/2501425\">View results</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14752672,"2022-10-18 00:00:00","","In #112, I fixed the FunctionalJavascript tests that were failing, but my change to the fixtures also broke the Kernel tests. The attached patch fixes those.","benjifisher",683300,"US","https://www.drupal.org/u/benjifisher","FRUITION",NULL,0,"FRUITION",NULL,"2023-05-23 00:00:00"
+14753724,"2022-10-18 00:00:00","","<a href=\"/u/benjifisher\">benjifisher</a> opened <a href=\"https://git.drupalcode.org/project/drupal/-/merge_requests/2889\">merge request !2889</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14759540,"2022-10-22 00:00:00","Usability review","<h3 id=\"usability-review\">Usability review</h3>
+<p>We discussed this issue at [#3236318], but at that time no one left a comment here. There is a link on that issue to a recording of the discussion.</p>
+<p>As I recall, the consensus at that meeting is that it would be better to revive a dashboard: by default, users see the dashboard when they log in, and that would be a better place to show the announcements. Seeing announcements on login may be just as effective as the link in the toolbar, and there would be less clutter in the toolbar.</p>
+<p>We discussed this issue again at [#3315240]. That issue will have a link to a recording. We still think that a dashboard is the better approach. This time around, there was more support for the toolbar/settings tray approach as an interim solution. There was still some concern that this approach would make it harder to switch to a dashboard in the long run, and that it adds too much clutter to the toolbar.</p>
+<p>The main usability problem we identified is that the red dot is not an effective way to indicate that there are new announcements:</p>
+<ul>
+<li>It is generally bad practice for color to be the <em>only</em> indicator.</li>
+<li>The difference in shape is easy to miss.</li>
+<li>The red dot is easy to miss for users with limited vision.</li>
+</ul>
+<p>We considered a few alternatives, such as the number of new announcements before the word \"Announcements\". Using the same colors (white text on black) makes it easy to read, but that does not suggest that the number refers to the count of <em>new</em> announcements rather than the total. We think that putting a circle around the number, or using a light, colored background for the number, would suggest that.  This is a common pattern in mail apps for mobile devices, for example.</p>
+<p>One advantage of putting the announcements on a dashboard is that there is more room to convey the information that there are new ones.</p>
+<p>Since we would like to see the announcements added to a dashboard as the long-term solution, there should be some way to make that happen. I am adding the tag for a follow-up issue: we should have an issue to integrate with Views, or have some other way to create an Announcements block.</p>
+<p>Another feature request (can be a follow-up issue) is that we provide an individual option to opt out entirely, or to show the link only when there are new announcements.</p>
+<p>We had some other suggestions that are not really related to usability. Some are more the responsibility of the release manager. We were concerned that this module does just one thing, and is not easily extensible. Perhaps the architecture could be changed: separate the job of fetching announcements from the job of adding them to the toolbar and the off-canvas dialogue. One or both of those features might be easier to use for other purposes.</p>
+<p>In fact, the job of fetching data from an external feed used to be the job of the Aggregator module. Didn’t we just decide to <em>remove</em> that from Drupal core?</p>
+<p>As work continues on this feature, keep in mind extensibility and think about transitioning to a dashboard solution. For example, there has already been discussion of supporting more than one feed. (Is there a separate issue for that yet?) Perhaps the internal data structure (the variables passed to the Twig template, not the structure of the feed) should include some identifier for the feed.</p>
+
+For the record, the attendees at today's usability meeting were @AaronMcHale, @benjifisher, @rkoller, @shaal, @simohell, and @worldlinemine.","benjifisher",683300,"US","https://www.drupal.org/u/benjifisher","FRUITION",NULL,1,"FRUITION",NULL,"2023-05-23 00:00:00"
+14761475,"2022-10-25 00:00:00","","Adding ideas issue for modern Dashboard [#3244581].","AaronMcHale",429621,"GB","https://www.drupal.org/u/aaronmchale",NULL,NULL,0,NULL,NULL,"2023-05-23 00:00:00"
+14790767,"2022-11-17 00:00:00","","@benjifisher, thanks for posting meeting notes.   It would be good to complete this feature and add to D10, and keep dashboard a separate project.  I am not clear if this issue needs work (coding) or it can be tested?   Thanks for all the work on this issue!","irinaz",225592,"US","https://www.drupal.org/u/irinaz","Fibonacci Web Studio",NULL,1,"Fibonacci Web Studio",NULL,"2023-05-23 00:00:00"
+14790899,"2022-11-17 00:00:00","","i've taken a look at <code>MR2889</code>. One detail i've noticed the color contrast for the label <code>New</code> in red has a too low color contrast. The text has a color of red <code>#ff0000</code>/<code>rgb(255,0,0)</code> and a background color of <code>#464646</code>/<code>rgb(70,70,70)</code> which leads to a color contrast of <code>2,36:1</code> but <code>4,5:1</code> would be required (ref WCAG SC 1.4.3). 
+
+in high contrast mode in edge (on macos) the pencil disappears and the closing the sidebar button has also a low color contrast. 
+<img src=\"/files/issues/2022-11-17/highcontrast.jpg\" alt=\"the announcements sidebar in forced high contrast mode in edge\" />
+
+and i wonder currently the <code>announcements</code> menu item is a link like the other top level ones but it doesnt have the role <code>button</code>. that way it is listed in the rotor under <code>links</code> instead of <code>form controls</code>. the advantage of having a <code>form control</code> like <code>devel</code> (in case installed), <code>shortcuts</code> or <code>manage</code>. the item is announced with for example <code>shortcuts toggle button</code>. and it would also be possible to announce the change of state for the sidebar like <code>devel</code> does with the secondary menu. on key press it announces: 
+
+tray \"developement menu\" opened
+or
+tray \"developement menu\" closed
+
+currently when pressing the announcements link the sidebar title immediately gets announced followed by the first content link. having an announcement about the state might be helpful and slow things down? ","rkoller",3217695,"DE","https://www.drupal.org/u/rkoller",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14791009,"2022-11-17 00:00:00","","@rkoller Did you test this in D9 or D10? From what I recall, the pencil/closing icons are problems with the off-canvas menu that still exist in D9 but are fixed in D10. ","mherchel",118428,"US","https://www.drupal.org/u/mherchel",NULL,NULL,0,NULL,NULL,"2023-05-23 00:00:00"
+14791011,"2022-11-17 00:00:00","","woops forgot to mention the version number. sorry. i've tested on 10.1.x-dev. went with the version the issue is targeted to. 
+
+and one addition to <a href=\"https://www.drupal.org/project/drupal/issues/3206643#comment-14790899\">#119</a> . done a short screen recording using voiceover to illustrate the points about the toggle button and the announcements. ","rkoller",3217695,"DE","https://www.drupal.org/u/rkoller",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14803273,"2022-11-28 00:00:00","","@mherchel, do we need any additional information?  It would be super cool to release it with D10 launch party :)","irinaz",225592,"US","https://www.drupal.org/u/irinaz","Fibonacci Web Studio",NULL,0,"Fibonacci Web Studio",NULL,"2023-05-23 00:00:00"
+14804345,"2022-11-28 00:00:00","","<blockquote>@mherchel, do we need any additional information? It would be super cool to release it with D10 launch party :)</blockquote>
+
+I refactored the CSS to use PostCSS and use the new custom properties that are now available in the D10 off-canvas dialog. This also fixes the icon not showing in the toolbar when using forced colors.
+
+I still have a couple questions regarding the CSS and HTML, that I asked within comments within the MR above. 
+
+In addition to this, we need an issue summary update on
+
+<ul>
+  <li>How to test out all of the functionality. How do I see featured announcements, or when there's no announcements?</li>
+  <li>What is this supposed to look like? The figma link above just links to one page that says \"Alerts\" in the toolbar. I'm guessing this is outdated, because the actual module says \"Announcements\". </li>
+</ul>
+","mherchel",118428,"US","https://www.drupal.org/u/mherchel",NULL,NULL,0,NULL,NULL,"2023-05-23 00:00:00"
+14804387,"2022-11-28 00:00:00","","One bug that I noticed: If you close the announcements feed using the ESCAPE key, clicking the button to re-open it does not work.","mherchel",118428,"US","https://www.drupal.org/u/mherchel",NULL,NULL,0,NULL,NULL,"2023-05-23 00:00:00"
+14806312,"2022-11-29 00:00:00","","<a href=\"/u/ajv009\" title=\"View user profile.\" data-uid=\"3653917\" class=\"username\">AJV009</a> made their first commit to this issue’s fork.","AJV009",3653917,"IN","https://www.drupal.org/u/ajv009","QED42","Drupal India Association",1,"QED42","Drupal India Association","2023-05-23 00:00:00"
+14806429,"2022-11-29 00:00:00","","Small clean up of the issues summary - separately we need good demo materials to be able to easily answer @mherchel's questions and future questions as more iterations/chagnes are made - a DrupalPod where we can re-point the feed to the /tests/ feeds that are included in the module would be a good start. ","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14806505,"2022-11-30 00:00:00","","Hey @mherchel I have been trying to fix the bug you mentioned in #124.
+
+Ended up with changing the `$('.announce-dialog .announce-close').on('click', function` in announcements_feed.announcement.js.
+<code>
+        $('.announce-dialog .announce-close').on('click', function () {
+          dialog.open = false;
+        });
+
+        $(window).on('dialog:afterclose', function (event, dialog) {
+          $('[data-drupal-announce-trigger]').trigger('click');
+        });
+</code>
+Its working with a console error
+<blockquote>
+Uncaught Error: cannot call methods on dialog prior to initialization; attempted to call method 'widget'
+    at Function.error (jquery.min.js?v=3.6.1:2:2616)
+    at HTMLDivElement.<anonymous> (widget.js:234:16)
+    at Function.each (jquery.min.js?v=3.6.1:2:3003)
+    at S.fn.init.each (jquery.min.js?v=3.6.1:2:1481)
+    at t.fn.<computed> [as dialog] (widget.js:224:10)
+    at Object.getContainer (off-canvas.js?v=10.1.0-dev:302:23)
+    at resetSize (off-canvas.js?v=10.1.0-dev:207:42)
+    at later (debounce.js?v=10.1.0-dev:37:23)
+</blockquote>","AJV009",3653917,"IN","https://www.drupal.org/u/ajv009","QED42","Drupal India Association",1,"QED42","Drupal India Association","2023-05-23 00:00:00"
+14806537,"2022-11-30 00:00:00","","Fixed it, pushing it to the issue branch, asap.","AJV009",3653917,"IN","https://www.drupal.org/u/ajv009","QED42","Drupal India Association",1,"QED42","Drupal India Association","2023-05-23 00:00:00"
+14856255,"2023-01-06 00:00:00","For the initial commit as","For the initial commit as experimental, I think it would be good to have real content already in the feed ready to go, so that the module can pick it up as soon as it's installed. SImilarly, when going from experimental to stable, we'd want to make sure there's fresh/relevant content in the feed too. I don't know what a desirable frequency is, but whatever that is it'll need to be maintained, otherwise it'll look stale/broken.
+
+I haven't actually reviewed the feed parsing (or the code more generally) yet, but I agree with not API-ifying it (or going back to aggregator etc.). If we want to add back an RSS parser to core, we should do that in a separate issue - Zend's parser caused us many, many issues with PHP version support and etc. so I would not want to go back to that.","catch",35733,"GB","https://www.drupal.org/u/catch","Third and Grove",NULL,0,"Third and Grove",NULL,"2023-05-23 00:00:00"
+14856484,"2023-01-06 00:00:00","","<code>
++++ b/core/modules/announcements_feed/tests/announce_feed/updated.json
++++ b/core/modules/announcements_feed/tests/announce_feed/updated.json
+@@ -0,0 +1,47 @@
++[{
++        \"id\": \"201\",
++        \"title\": \"new 9 - 10 Drupal 9.1.3 is available\",
++        \"teaser\": \"This release will have a community alert prototype to notify site admins about drupal updates and required information\",
++        \"link\": \"https://www.drupal.org/project/announce\",
++        \"sticky\": true,
++        \"version\": \"^9 | ^10\",
++        \"updated\": \"2021-01-19T07:29:38+00:00\"
++},
+</code>
+
+Its not actually RSS, but a custom JSON format that is also demonstrated in the tests.","Gábor Hojtsy",4166,"HU","https://www.drupal.org/u/gábor-hojtsy","Acquia",NULL,0,"Acquia",NULL,"2023-05-23 00:00:00"
+14856495,"2023-01-06 00:00:00","Why did we go with a custom","Why did we go with a custom format over something like https://www.jsonfeed.org/ ? Even if the feed URL consumed by this module will be hardcoded, using an existing format means it could be more easily parsed by other sites/software, if they wanted to. Drupal is committed to the open web and using a custom format for announcements seems the antithesis of that.
+","longwave",246492,"GB","https://www.drupal.org/u/longwave","Full Fat Things",NULL,0,"Full Fat Things",NULL,"2023-05-23 00:00:00"
+14857735,"2023-01-07 00:00:00"," ","&nbsp;","xjm",65776,"US","https://www.drupal.org/u/xjm","Agileana",NULL,0,"Agileana",NULL,"2023-05-23 00:00:00"
+14857736,"2023-01-07 00:00:00","","<a href=\"/u/xjm\">xjm</a> opened <a href=\"https://git.drupalcode.org/project/drupal/-/merge_requests/3215\">merge request !3215</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14857737,"2023-01-07 00:00:00","","<a href=\"/u/xjm\">xjm</a> closed <a href=\"https://git.drupalcode.org/project/drupal/-/merge_requests/3215\">merge request !3215</a>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+14857740,"2023-01-07 00:00:00","I am unable to identify why","I am unable to identify why the code quality checks are failing, and cannot reproduce it when I run the script locally. Looking at the verbose results on dispatcher, I see this:
+<code>16:42:56 yarn run v1.22.19
+16:42:56 $ node ./scripts/css/postcss-build.js --check --file /var/www/html/core/modules/announcements_feed/css/announcements_feed.toolbar.pcss.css
+16:42:57 [22:42:57] '/var/www/html/core/modules/announcements_feed/css/announcements_feed.toolbar.pcss.css' is being checked.
+16:42:58 [22:42:58] '/var/www/html/core/modules/announcements_feed/css/announcements_feed.toolbar.pcss.css' is not updated.
+16:42:58 error Command failed with exit code 1.</code>
+
+Could this be some sort of bug with [#3308872]? Or a bug in the MR's CSS that leads to it failing to detect the file? The file certainly exists in the MR.","xjm",65776,"US","https://www.drupal.org/u/xjm","Agileana",NULL,0,"Agileana",NULL,"2023-05-23 00:00:00"
+14857836,"2023-01-08 00:00:00","","Just recompiled the CSS (there was one change). That may have been why it was failing ?","mherchel",118428,"US","https://www.drupal.org/u/mherchel",NULL,NULL,0,NULL,NULL,"2023-05-23 00:00:00"
+14857859,"2023-01-08 00:00:00","","Fixing attribution.","xjm",65776,"US","https://www.drupal.org/u/xjm","Agileana",NULL,0,"Agileana",NULL,"2023-05-23 00:00:00"
+14857953,"2023-01-08 00:00:00","Looks like that was it indeed","Looks like that was it indeed; thanks @mherchel. So \"X is not updated\" doesn't mean \"I, testbot, have nothing to review\"; it means \"you updated the built asset and not the source, or vice versa.\"","xjm",65776,"US","https://www.drupal.org/u/xjm","Agileana",NULL,0,"Agileana",NULL,"2023-05-23 00:00:00"
+14857965,"2023-01-08 00:00:00","","I posted [#3331818] for the lack of clear debugging info from the commit check script for PostCSS linting.","xjm",65776,"US","https://www.drupal.org/u/xjm","Agileana",NULL,0,"Agileana",NULL,"2023-05-23 00:00:00"
+14859696,"2023-01-09 00:00:00","","<blockquote> Why did we go with a custom format over something like https://www.jsonfeed.org/ ?</blockquote>
+
+The simple format was made to match the requirements. I was not aware of JSON Feed. It took me a minute to find the spec, here it is: https://www.jsonfeed.org/version/1.1/.
+
+We do have at least one custom element, what version constraint the message applies to. JSON Feed's spec does have an Extensions section, so that would work.
+
+Not much else is really required by the spec, so it would be workable, if we want to go this direction.","drumm",3064,"US","https://www.drupal.org/u/drumm","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14859919,"2023-01-09 00:00:00","","There's a module that adds a view display plugin for json_feed https://www.drupal.org/project/json_feed with 300 users. That suggests at least some people are using json_feed with Drupal so given the change would be purely renaming some keys in the custom format to match the spec (hopefully?), that seems like a good change.
+","catch",35733,"GB","https://www.drupal.org/u/catch","Third and Grove",NULL,0,"Third and Grove",NULL,"2023-05-23 00:00:00"
+14861883,"2023-01-10 00:00:00","","I just provided feedback on the sample real first post in the google doc. In particular I think we need to explain what kind of data is collected (if any) about users of the project and how to opt out. Not necessarily all fully explained in the post but at least linked from it. See my comments in the doc https://docs.google.com/document/d/1d5Uq1ORQDy5bW_3WAyyorEVuHCtZBBB_aKMtnDfoS-Y/edit#","Gábor Hojtsy",4166,"HU","https://www.drupal.org/u/gábor-hojtsy","Acquia",NULL,0,"Acquia",NULL,"2023-05-23 00:00:00"
+14866659,"2023-01-13 00:00:00","","<a href=\"/u/fjgarlin\" title=\"View user profile.\" data-uid=\"2495842\" class=\"username\">fjgarlin</a> made their first commit to this issue’s fork.","fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14869349,"2023-01-16 00:00:00","",NULL,"fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14873622,"2023-01-18 00:00:00","",NULL,"fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14873662,"2023-01-18 00:00:00","I updated the issue","I updated the issue description with <strong>testing instructions</strong> on a drupalpod instance with the latest changes and reading from the json feed from the test files. It's here: https://gitpod.io/#snapshot/828d66df-5e7e-41bf-8a32-46e84e2a9f1f (then open browser and go to the /admin/announcements_feed screen) and further details on how to change the feed or trigger the notifications as new are provided in the testing section.
+
+Not sure what's next, who should review this or what else if needed. I'm happy to jump in wherever it's needed.","fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14887193,"2023-01-25 00:00:00","",NULL,"fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14887213,"2023-01-25 00:00:00","",NULL,"fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14887215,"2023-01-25 00:00:00","",NULL,"fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14887418,"2023-01-25 00:00:00","",NULL,"irinaz",225592,"US","https://www.drupal.org/u/irinaz","Fibonacci Web Studio",NULL,0,"Fibonacci Web Studio",NULL,"2023-05-23 00:00:00"
+14887423,"2023-01-25 00:00:00","",NULL,"irinaz",225592,"US","https://www.drupal.org/u/irinaz","Fibonacci Web Studio",NULL,0,"Fibonacci Web Studio",NULL,"2023-05-23 00:00:00"
+14887441,"2023-01-25 00:00:00","",NULL,"fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14887616,"2023-01-25 00:00:00","","Making a short comment for now, before I try to summarize in the issue summary what was still outstanding:
+
+<ul>
+  <li>Color of the red button- which is fixed and waiting on final review confirmation</li>
+  <li>Tests were not passing - fixed</li>
+  <li>Demo needs to show more items - fixed in the current DrupalPod</li>
+  <li>First post feedback needs to be resolved - still outstanding, assigned to @hestenet</li>
+  <li>Json format needs to be refactored - [#3336530]</li>
+</ul>
+
+When those are complete, we set to 'Needs Review' and make sure all of the 'needs_accessibility_review' and 'needs_usability_review' etc type tags get signed off and removed. Then we move to RTBC, and can get a committer to finish this off. :) ","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14888699,"2023-01-26 00:00:00","Follow up from #153:","Follow up from #153:
+<ul>
+  <li>✅ Color of the red button - fixed and waiting on final review confirmation</li>
+  <li>✅ Tests were not passing (still running while I'm writing this)</li>
+  <li>✅ Demo needs to show more items - it points to the test data.</li>
+  <li>❌ First post feedback needs to be resolved - still outstanding, assigned to @hestenet</li>
+  <li>✅ Json format needs to be refactored: refactored here on this MR and [#3336530] pending review and deployment.</li>
+</ul>","fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14888808,"2023-01-26 00:00:00","",NULL,"fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14889110,"2023-01-26 00:00:00","","https://www.drupal.org/announcements.json now has the placeholder in the jsonfeed format. I think the next most important thing is to get real content into the feed, updated on a regular basis, as if this were in production.","drumm",3064,"US","https://www.drupal.org/u/drumm","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14903052,"2023-02-02 00:00:00","","Pending the addition of some links, and a decision about whether to include a survey in the first post, the other feedback about the 'first post' has been addressed: https://docs.google.com/document/d/1d5Uq1ORQDy5bW_3WAyyorEVuHCtZBBB_aKMtnDfoS-Y/edit# ","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14903080,"2023-02-02 00:00:00","Could the reviewers who","Could the reviewers who reported these issues confirm the fixes? You can follow the steps in the \"Testing\" session of the issue summary to use GitPod to review.
+
+The GitPod link
+
+✅ Color of the red button - fixed and waiting on final review confirmation
+   - Reviewer: @mherchel
+✅ Tests were not passing (still running while I'm writing this)
+   - Reviewer: The bot tells us this one :) 
+✅ Demo needs to show more items - it points to the test data.
+   - Reviewer: @catch
+? First post feedback needs to be resolved - still outstanding, assigned to @hestenet
+   - Reviewer: @Gábor Hojtsy
+✅ Json format needs to be refactored: refactored here on this MR and [#3336530]
+   - Reviewer: @longwave
+
+From there, I think I need to reach out to the right people to clear our current issue tags: 
+
+<ul>
+  <li>Needs accessibility review</li>
+  <li>Needs framework manager review</li>
+  <li>Needs product manager review</li>
+</ul>
+
+And then after all that: 
+<ul>
+  <li>Needs release manager</li>
+</ul>","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14904996,"2023-02-03 00:00:00","",NULL,"hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14912395,"2023-02-08 00:00:00","✅ Demo needs to show more","<blockquote>
+✅ Demo needs to show more items - it points to the test data.
+- Reviewer: @catch
+</blockquote>
+
+Unless I'm missing something, I don't think #129 is addressed.
+
+I can still only see one post on https://www.drupal.org/announcements.json - it is saying that something is about to be added to core.
+
+If this is merged into core as experimental, then we do not want an announcement that something is going to be added to core, because it'll already be in core, so the information will be at best outdated, at worst confusing/misleading.
+
+The feed should have actual relevant announcements for someone who would test the experimental module, before it's committed, so that they're immediately available once it is. And then part of the process of getting this to stable/adding it to standard/umami would be that those announcements continue to be up-to-date on whatever we think a reasonable schedule is. It's the first time we've added something to core that has an actual content dependency on Drupal.org, except maybe update status in a way, and once it's on sites, unless they uninstall it, core releases can't do anything about the contents of the feed.","catch",35733,"GB","https://www.drupal.org/u/catch","Third and Grove",NULL,0,"Third and Grove",NULL,"2023-05-23 00:00:00"
+14912542,"2023-02-08 00:00:00","","Reviewed the suggested first post in the google doc, I still have doubts about the survey, see there. I made a couple suggestions to parts that were not yet done.","Gábor Hojtsy",4166,"HU","https://www.drupal.org/u/gábor-hojtsy","Acquia",NULL,0,"Acquia",NULL,"2023-05-23 00:00:00"
+14912751,"2023-02-08 00:00:00","✅ Json format needs to be","<blockquote>✅ Json format needs to be refactored: refactored here on this MR and [#3336530]
+- Reviewer: @longwave</blockquote>
+
+The changes for this on both sides mostly look good. However, reading the JSON Feed extensions spec again I have a couple of comments:
+
+<blockquote>
+For instance, imagine a podcast directory service — call it Blue Shed Podcasts — that asks a podcaster to specify some additional information about a feed or item. A publisher would do something like this:
+
+<code>
+\"_blue_shed\": {
+    \"about\": \"https://blueshed-podcasts.com/json-feed-extension-docs\",
+    \"explicit\": false,
+    \"copyright\": \"1948 by George Orwell\",
+    \"owner\": \"Big Brother and the Holding Company\",
+    \"subtitle\": \"All shouting, all the time. Double. Plus. Good.\"
+}
+</code>
+
+The about string is there for a human looking at the feed, so they can understand what goes in the custom extension. It’s optional, but it should appear at least once in a feed that may contain multiple uses of _blue_shed (preferably in the first use, but that’s not required).
+
+Also, it’s good practice to name an extension with a company or service name, to provide a clue right away as to what it’s for and who made it.
+</blockquote>
+
+Our extension is currently named <code>_extra</code> which isn't very descriptive. I think the extension should be named <code>_drupal</code> or <code>_drupal_org</code> (*not* <code>_drupal.org</code>, as that is disallowed) and we should consider an <code>about</code> key that links to a relevant URL - I feel strongly about the former but not so strongly about the latter; we can't easily change the extension key later, but we could add the <code>about</code> element at any time in the future.
+","longwave",246492,"GB","https://www.drupal.org/u/longwave","Full Fat Things",NULL,0,"Full Fat Things",NULL,"2023-05-23 00:00:00"
+14912891,"2023-02-08 00:00:00","","Addressed #162 here https://www.drupal.org/project/drupalorg/issues/3336530#comment-14912886 . I named it \"_drupalorg\" as that's more consistent with the naming we use in the code all over, but happy to change it as needed.","fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14912946,"2023-02-08 00:00:00","","Thanks for the swift update - <code>_drupalorg</code> is better if that's consistent, no further comments from me on the JSON Feed side of things.
+","longwave",246492,"GB","https://www.drupal.org/u/longwave","Full Fat Things",NULL,0,"Full Fat Things",NULL,"2023-05-23 00:00:00"
+14913279,"2023-02-08 00:00:00","","Comments #160 and #161 both make sense to me. 
+
+Re: #160 - some specifics: The module has a test fixture which shows what something like 8-10 different types of posts would look like, just so you can see what a more full feed would look like that way. However, I can start to build more posts into the live feed, even if it isn't really in use yet... speaking of which....
+
+Re: #161 - I think I'll take out the survey concept in the first post entirely, and just put up a post which explains the lay of the land. Then I'll look into trying to get 2 or 3 more posts together, either appropriate reposts about project news from the core news feed, or unique posts. ","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14913361,"2023-02-08 00:00:00","","The issue with the red text being inaccessible is fixed (the red was removed)
+
+<img src=\"/files/issues/2023-02-08/Reports___Drupal_and_Sebin_Abraham_Jacob_-_Drupal_-_Slack_and_development_services_yml_%E2%80%94_drupal.png\" alt=\"\" />
+","mherchel",118428,"US","https://www.drupal.org/u/mherchel",NULL,NULL,0,NULL,NULL,"2023-05-23 00:00:00"
+14913371,"2023-02-08 00:00:00","","One more issue that I noticed:
+
+The date is currently formatted MM/DD/YYYY. However that's an americanism. Most of the world (I believe) uses DD/MM/YYYY. In Olivero, we sidestepped the issue by having a date like \" 2 April, 2021\". 
+
+We should also remove the leading zero from the time, and add AM/PM etc. 
+
+Thoughts on all of this? ","mherchel",118428,"US","https://www.drupal.org/u/mherchel",NULL,NULL,0,NULL,NULL,"2023-05-23 00:00:00"
+14913379,"2023-02-08 00:00:00","","I support 100% using complete name for the month, not two digits, like \" 2 April, 2021\".  @fgarlin, how difficult would it be make this change?","irinaz",225592,"US","https://www.drupal.org/u/irinaz","Fibonacci Web Studio",NULL,0,"Fibonacci Web Studio",NULL,"2023-05-23 00:00:00"
+14913396,"2023-02-08 00:00:00","","<blockquote>
+The date is currently formatted MM/DD/YYYY. However that's an americanism. Most of the world (I believe) uses DD/MM/YYYY.
+</blockquote>
+
+It seems to me that the pattern of the date format (currently \"short\") depends on the UI settings. Sites that have this set up to DD/MM/YYYY should have also this date formatted the same:
+
+<code>
+  <div class=\"announcement__date\">{{ announcement.timestamp | format_date('short') }}</div>
+</code>","poker10",272316,"SK","https://www.drupal.org/u/poker10","ActivIT s.r.o.",NULL,0,"ActivIT s.r.o.",NULL,"2023-05-23 00:00:00"
+14914503,"2023-02-09 00:00:00","","Correct, it will adapt to the set up of the site, following the \"short\" date format. So nothing to do on that end I assume.","fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14914620,"2023-02-09 00:00:00","",NULL,"fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14914993,"2023-02-09 00:00:00","","<a href=\"/u/vladimiraus\" title=\"View user profile.\" data-uid=\"673120\" class=\"username\">VladimirAus</a> made their first commit to this issue’s fork.","VladimirAus",673120,"AU","https://www.drupal.org/u/vladimiraus","Tomato Elephant Studio",NULL,0,"Tomato Elephant Studio",NULL,"2023-05-23 00:00:00"
+14916704,"2023-02-10 00:00:00","","Have we established any governance or process around what messages will appear in the feed?","AaronMcHale",429621,"GB","https://www.drupal.org/u/aaronmchale",NULL,NULL,1,NULL,NULL,"2023-05-23 00:00:00"
+14917015,"2023-02-10 00:00:00","","@AaronMcHale:
+
+<ul>
+  <li>This was the issue for the governance process, which Dries ultimately approved: [#3071994]</li>
+  <li>And that was documented here: https://www.drupal.org/docs/core-modules-and-themes/core-modules/announcements-feed/announcements-feed-module-overview</li>
+</ul>","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14932519,"2023-02-20 00:00:00","","Spun off a child issue for approval of the first post: [#3343263] 
+
+Will follow this up with 2 or 3 additional posts per @catch's feedback to have multiple relevant posts during the experimental phase for this module. ","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14934164,"2023-02-21 00:00:00","","First post was published: [#3343263]
+https://www.drupal.org/about/announcements/blog/what-to-expect-from-the-announcements-feed
+And is available in the feed: 
+https://drupal.org/announcements.json
+
+Per @catch's feedback, the last remaining todo(apart from any final code review) is to have 2 or 3 more posts so it's not quite so empty when committed. ","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14967029,"2023-03-14 00:00:00","The last outstanding item was","The last outstanding item was requested by @catch - to create 3 initial posts.
+
+Those posts are complete, and available in the feed: https://drupal.org/announcements.json
+
+In accordance with the governance process the issues for each were:
+<ul>
+  <li>[#3343263]</li>
+  <li>[#3345037]</li>
+  <li>[#3345573] </li>
+</ul>
+
+I did notice we are using date modified rather than date created in the feed - we may want to change that: 
+<ul>
+  <li>[#3347981] </li>
+</ul>
+Once that is resolved, hopefully someone can RTBC :) ","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14967299,"2023-03-14 00:00:00","","Installed the module without issue
+I see that off canvas opens without issue
+
+For accessibility
+When the off canvas opens focus goes to the first item.
+Tabbing stays within the office canvas (3 items and X button)
+Pressing X with keyboard closes off canvas and puts focus back on the announcement link.
+
+NOT sure if there needs to be any kind of announcement made in drupal-live-announce
+
+If not +1 from me.  But needs product, framework, release manager reviews too.
+","smustgrave",3252890,"US","https://www.drupal.org/u/smustgrave","Mobomo",NULL,0,"Mobomo",NULL,"2023-05-23 00:00:00"
+14967799,"2023-03-15 00:00:00","Follow up from #177:","Follow up from #177:
+* [#3347981] is ready to review + deploy
+* Changes to read from that new property made in the last commit: https://git.drupalcode.org/project/drupal/-/merge_requests/2889/diffs?commit_id=7e235ead1adaadf694d5353c6f2ae7ca6b1cd433","fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14968984,"2023-03-15 00:00:00","","Cleaning up the tags to the ones I think are left. I was cleared to remove the other tags once the found issues from the last comments were resolved. 
+
+<ul>
+  <li>Product manager review - @Gabor Hojtsy has been the closest, so hopefully can +1</li>
+  <li>Framework manager review - @catch has given feedback, but since he's also the likely release manager, maybe @larowlan or @effulgentisa could give us a sign off on this one. </li>
+  <li>Release manager review - I think this will be @catch based on activity so far. </li>
+  <li>Release notes snippet is already included in the issue summary </li>
+  <li>Drafting a change record will need to happen. </li>
+</ul>","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14969065,"2023-03-15 00:00:00","","We still need follow-up issues for the usability review in <a href=\"#comment-14759540\">comment #116</a>. Specifically, moving the feed to be within a dashboard.
+
+There is currently work going on to propose an initiative for Dashboards in Core.  The toolbar approach still does not sit well with me, and adding the feed to a Dashboard would be a much better place to present this information.
+
+It's probably fine for this to go in as experimental using the toolbar approach, but we should be clear that the toolbar approach may only be a temporary solution.
+
+For anyone interested in learning more about Dashboards, feel free to join us in the #dashboard channel on Drupal Slack, and the Core Ideas issue which sets out some of the initial approach [#3244581].","AaronMcHale",429621,"GB","https://www.drupal.org/u/aaronmchale",NULL,NULL,1,NULL,NULL,"2023-05-23 00:00:00"
+14969786,"2023-03-16 00:00:00","","I wanted to try this once again. I did all the steps from the issue summary to do testing. It still says 
+
+<blockquote>cURL error 60: SSL: no alternative certificate subject name matches target host name '8080-shaal-drupalpod-050qz7bqbvl.ws-eu86.gitpod.io' (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://8080-shaal-drupalpod-050qz7bqbvl.ws-eu86.gitpod.io/core/modules/announcements_feed/tests/announce_feed/community-feeds.json</blockquote>
+
+So it appears like the change does not actually take effect.","Gábor Hojtsy",4166,"HU","https://www.drupal.org/u/gábor-hojtsy","Acquia",NULL,0,"Acquia",NULL,"2023-05-23 00:00:00"
+14969859,"2023-03-16 00:00:00","","That seems to be a drupalpod issue. I'm following up on the #drupalpod channel. Any chance you can create a brand-new environment? I just created a new one and I don't get the certificate issue when making the URL public. We can continue debugging via slack if you want too.","fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14974157,"2023-03-20 00:00:00","","Edited issue summary after @fjgarlin let me know where was my misunderstanding.
+
+Also now that I have tested with the live feed, this is what I get in Chrome. The \"New\" marker running over the text is not good. And the order of items with the different order of dates is odd. Is this intended?
+
+<img src=\"/files/issues/2023-03-20/Screenshot%202023-03-20%20at%209.35.04.png\" alt=\"\" />","Gábor Hojtsy",4166,"HU","https://www.drupal.org/u/gábor-hojtsy","Acquia",NULL,0,"Acquia",NULL,"2023-05-23 00:00:00"
+14974165,"2023-03-20 00:00:00","","I can look into both things.","fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14974253,"2023-03-20 00:00:00","",NULL,"fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14974279,"2023-03-20 00:00:00","","Both of the reported issues have been addressed. Note that that <strong>the snapshot URL is new</strong>.","fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14974874,"2023-03-20 00:00:00","","I tested on a new snapshot and it works correctly for me, thanks! Ready to change to RTBC :)","irinaz",225592,"US","https://www.drupal.org/u/irinaz","Fibonacci Web Studio",NULL,0,"Fibonacci Web Studio",NULL,"2023-05-23 00:00:00"
+14975260,"2023-03-20 00:00:00","","Resizing the off-canvas I was able to get the overlap still.
+
+<img src=\"https://www.drupal.org/files/issues/2023-03-20/Screenshot%202023-03-20%20at%203.04.13%20PM.png\" alt=\"overlap\" />","smustgrave",3252890,"US","https://www.drupal.org/u/smustgrave","Mobomo",NULL,0,"Mobomo",NULL,"2023-05-23 00:00:00"
+14975294,"2023-03-20 00:00:00","","Thanks for the additional testing @smustgrave. TIL that you can resize the off-canvas! I didn't know that.
+
+I see two options: 
+1) Remove the absolute positioning of the \"New\" word and just place it after the title.
+2) Assign a fixed width to the title so it never overlaps with the \"New\" word. 
+
+For option 2, it'd need to be at least a 80%/20% which does not look nice, so I'm going to do option 1.
+
+Once done, I'll update the snapshot and make a comment here.","fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14976075,"2023-03-21 00:00:00","",NULL,"fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14976081,"2023-03-21 00:00:00","","#189 feedback has been now addressed. I've updated the snapshot URL in the issue description and this is ready for a new round of review(s).","fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14977185,"2023-03-21 00:00:00","In response to #116/#181 - I","In response to <a href=\"#comment-14759540\">#116</a>/<a href=\"#comment-14969065\">#181</a> - I've opened: 
+<ul>
+  <li>[#3349394]</li>
+</ul>
+
+It is postponed until the dashboard model itself is scaffolded out. 
+
+We are back to:
+<ul>
+  <li>Product manager review - @Gabor Hojtsy 
+           <ul><li> ✅ Fran has resolved the display issue found in your and @smustgrave's review</li></ul?</li>
+  <li>Framework manager review - @catch has given feedback, but since he's also the likely release manager, maybe @larowlan or @effulgentisa could give us a sign off on this one.</li>
+  <li>Release manager review - I think this will be @catch based on activity so far.</li>
+  <li>✅ Release notes snippet is already included in the issue summary</li>
+  <li>? Drafting a change record - started one here: https://www.drupal.org/node/3349399 </li>
+</ul>","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+14977861,"2023-03-22 00:00:00","","Left a review, the main issue here is that all pages become uncacheable with Dynamic Page Cache when you enable this module, by way of the user cache context.","larowlan",395439,"AU","https://www.drupal.org/u/larowlan","PreviousNext",NULL,0,"PreviousNext",NULL,"2023-05-23 00:00:00"
+14977862,"2023-03-22 00:00:00","",NULL,"larowlan",395439,"AU","https://www.drupal.org/u/larowlan","PreviousNext",NULL,0,"PreviousNext",NULL,"2023-05-23 00:00:00"
+14977895,"2023-03-22 00:00:00","","I am going to start working on the easier bits of the review.","quietone",2572884,"NZ","https://www.drupal.org/u/quietone","PreviousNext",NULL,0,"PreviousNext",NULL,"2023-05-23 00:00:00"
+14977988,"2023-03-22 00:00:00","","Oh, I broke the tests. :-(
+
+Also, when I converted to constructor property promotion PHPStan through errors of the form \"Constructor of class Foo has an unused parameter $bar\".","quietone",2572884,"NZ","https://www.drupal.org/u/quietone","PreviousNext",NULL,0,"PreviousNext",NULL,"2023-05-23 00:00:00"
+14979783,"2023-03-23 00:00:00","","One thing I do find confusing is that this is only place I know of where the pencil icon is used and it is not something that I can edit.
+
+<img src=\"/files/issues/2023-03-23/Screenshot%202023-03-23%20at%2014-10-43%20Add%20content%20dev1-web.png\" alt=\"\" />
+","quietone",2572884,"NZ","https://www.drupal.org/u/quietone","PreviousNext",NULL,0,"PreviousNext",NULL,"2023-05-23 00:00:00"
+14981667,"2023-03-23 00:00:00","","I have done all the easier, non frontend, bits of larowlan's review that I can. I'll step back now and let others continue. ","quietone",2572884,"NZ","https://www.drupal.org/u/quietone","PreviousNext",NULL,0,"PreviousNext",NULL,"2023-05-23 00:00:00"
+14981710,"2023-03-24 00:00:00","","One more thing, Can we change the module name to just 'announcements'? I found it mildly annoying to have such a long name while I working on this. Or why is '-feed' needed? ","quietone",2572884,"NZ","https://www.drupal.org/u/quietone","PreviousNext",NULL,0,"PreviousNext",NULL,"2023-05-23 00:00:00"
+14981830,"2023-03-24 00:00:00","","<a href=\"/u/rishabh-vishwakarma\" title=\"View user profile.\" data-uid=\"3732306\" class=\"username\">Rishabh Vishwakarma</a> made their first commit to this issue’s fork.","Rishabh Vishwakarma",3732306,NULL,"https://www.drupal.org/u/rishabh-vishwakarma","OpenSense Labs","DrupalFit",0,"OpenSense Labs","DrupalFit","2023-05-23 00:00:00"
+14982051,"2023-03-24 00:00:00","","@quietone - The module was renamed due to (potential) collision with other library, see comments #27, #36, #40.
+","poker10",272316,"SK","https://www.drupal.org/u/poker10","ActivIT s.r.o.",NULL,0,"ActivIT s.r.o.",NULL,"2023-05-23 00:00:00"
+14991778,"2023-03-31 00:00:00","","Pushed a lazy builder and a test to ensure we're cacheable (We previously were making all pages uncacheable with DPC)","larowlan",395439,"AU","https://www.drupal.org/u/larowlan","PreviousNext",NULL,0,"PreviousNext",NULL,"2023-05-23 00:00:00"
+15000600,"2023-04-06 00:00:00","",NULL,"fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+15005951,"2023-04-11 00:00:00","Reposting the current reviews","Reposting the current reviews that are needed. 
+
+<ul>
+  <li>✅ Fran has resolved the display issue found in @mherchel's and @smustgrave's reviews - please resolve any open threads</li>
+  <li>Framework manager review - @larowlan has provided a bunch of feedback (along with @quietone) - @fjgarlin believes this has all been addressed - can the threads be resolved and framework review be signed off?</li>
+  <li>✅ Product manager review - @Gabor Hojtsy - </li>
+  <li>Release manager review - I think this will be @catch based on activity so far?</li>
+  <li>✅ Release notes snippet is already included in the issue summary</li>
+  <li>? Drafting a change record - started one here: https://www.drupal.org/node/3349399</li>
+</ul>","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+15005954,"2023-04-11 00:00:00","",NULL,"hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+15005982,"2023-04-11 00:00:00","","There is no framework manager feedback pre-requisite to product manager reviews in Drupal. As a product manager, I already provided detailed feedback on the sample posts and my feedback on the UI were all addressed, so we should be good to remove the tag. :) ","Gábor Hojtsy",4166,"HU","https://www.drupal.org/u/gábor-hojtsy","Acquia",NULL,0,"Acquia",NULL,"2023-05-23 00:00:00"
+15009748,"2023-04-13 00:00:00","","Thanks, Gábor! And thanks for the context on order of operations. Even after all these years I know I don't always get the details right. 
+
+@larowlan and then @catch, I think you're up! ","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+15011342,"2023-04-14 00:00:00","","Re <a href=\"#comment-14979783\">comment #198</a>
+
+<blockquote>One thing I do find confusing is that this is only place I know of where the pencil icon is used and it is not something that I can edit.
+
+<img src=\"/files/issues/2023-03-23/Screenshot%202023-03-23%20at%2014-10-43%20Add%20content%20dev1-web.png\" alt=\"Showing pencil icon in the feed panel title\" /></blockquote>
+
+I agree, pencil is probably not the right icon as it generally implies you can edit something by clicking/tapping it.","AaronMcHale",429621,"GB","https://www.drupal.org/u/aaronmchale",NULL,NULL,1,NULL,NULL,"2023-05-23 00:00:00"
+15011723,"2023-04-15 00:00:00","","@poker10, thanks for answering my question about the name, 'Announcements Feeds'. That makes sense to avoid conflicts.
+
+I resolved the few issues I could. That is things I did not work on and were not front endy. I also made 
+
+However, I think the user will think of this as just 'Announcements' and that 'Feed' is not needed. For example, right now I am looking at the help page which uses 'Announcements Feed' while in the upper right hand corner I see 'Announcements'. Personally, I find that jarring. But my personal view aside would it not be better for them to be the same? 
+
+","quietone",2572884,"NZ","https://www.drupal.org/u/quietone","PreviousNext",NULL,0,"PreviousNext",NULL,"2023-05-23 00:00:00"
+15013807,"2023-04-17 00:00:00","","That icon should probably be the bell shown in <a href=\"https://www.drupal.org/project/drupal/issues/3206643#comment-14974157\">comment #184</a> 
+
+@quietone - as long as the machine name remains announcements_feed - I think the display text could be 'Announcements' to address the confusion you are talking about
+
+Maybe @fjgarlin can take care of these nits, and we can bounce back to last reviewers.","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+15013824,"2023-04-17 00:00:00","","I will action those two items my tomorrow morning and update the gitpod link once done.","fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+15014116,"2023-04-17 00:00:00","","@hestenet, Yes, that is what I was thinking.","quietone",2572884,"NZ","https://www.drupal.org/u/quietone","PreviousNext",NULL,0,"PreviousNext",NULL,"2023-05-23 00:00:00"
+15014118,"2023-04-17 00:00:00","","As someone who has not followed this at all I thought I'd try this out. First of all the MR needs a rebase. If you install from 10.1 HEAD and switch to this branch you'll get a WSOD. A fresh install from this branch works fine.
+
+Once that was resolved I installed the module and visited the help page to find out what to do next. It suggested that if I had permission I could click the \"Announcements\" button in the admin toolbar and otherwise guided me to the online help page. I could not for the life of me fine the Announcements button so I started stepping through with a debugger to see if it was working. Anyway, lo and behold, the Announcements button was there in the top right corner the whole time, I guess I was just focusing on the left hand side.
+
+While this seems really obvious now, and I feel silly for taking so long to find it, perhaps we could get a screenshot added to the online help page so we know what to expect?","mstrelan",314289,"AU","https://www.drupal.org/u/mstrelan","PreviousNext",NULL,0,"PreviousNext",NULL,"2023-05-23 00:00:00"
+15014571,"2023-04-18 00:00:00","","@mstrelan - we are rebasing regularly but sometimes it's hard to be on top of it, especially if we are waiting for reviews. Having said that, I just rebased the MR so thanks for mentioning it.
+
+After your comment, I thought about adjusting slightly (<em>\"...situated in the top right...\"</em>) the language or adding a screenshot, but the position of the \"Announcements\" link might change for users with RTL, so I left it as it is for now, but I'm happy to adapt as needed if there are some suggestions that people agree on.","fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+15015401,"2023-04-18 00:00:00","","I think the two main release management points, the feed format and having some realistic contents for testing are now covered, so we're down to regular review points rather than sign-offs as such here.
+
+Is there a meta issue with issues required for beta and stable?","catch",35733,"GB","https://www.drupal.org/u/catch","Third and Grove",NULL,0,"Third and Grove",NULL,"2023-05-23 00:00:00"
+15015868,"2023-04-18 00:00:00","","<a href=\"/u/alexpott\" title=\"View user profile.\" data-uid=\"157725\" class=\"username\">alexpott</a> made their first commit to this issue’s fork.","alexpott",157725,"GB","https://www.drupal.org/u/alexpott","Thunder",NULL,0,"Acro Media Inc;Thunder",NULL,"2023-05-23 00:00:00"
+15015991,"2023-04-19 00:00:00","","I grepped core for 'sites users' and there were less than five. The help pages and module descriptions use 'users', so I changed the text.","quietone",2572884,"NZ","https://www.drupal.org/u/quietone","PreviousNext",NULL,0,"PreviousNext",NULL,"2023-05-23 00:00:00"
+15016631,"2023-04-19 00:00:00","All the new feedback has been","All the new feedback has been addressed. I also believe that all the older threads are fully addressed. I've pinged people in slack about it too.
+
+These are the only remaining threads (at the time of writing). They need review as I followed up on them, but people did not yet close them:
+- @mherchel: 4 threads
+- @larowlan: 3 threads
+- @alexpott: 2 threads
+- @quietone: 1 thread
+- @DanielVeza: 1 thread
+- @fjgarlin: 1 thread (I can't resolve it - permissions)
+
+I've also updated the gitpod snapshot in the issue description.","fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+15020689,"2023-04-22 00:00:00","","I read trough the PR and looked at the test coverage and couldn't find anything that needs looks like it still needs changing. 
+Everything seems to be well documented as well.
+
+I added a basic version of the change record, but that should be completed with more information.","borisson_",2393360,"BE","https://www.drupal.org/u/borisson_","Calibrate",NULL,0,"Calibrate",NULL,"2023-05-23 00:00:00"
+15022823,"2023-04-24 00:00:00","","Some minor items on the MR","larowlan",395439,"AU","https://www.drupal.org/u/larowlan","PreviousNext",NULL,0,"PreviousNext",NULL,"2023-05-23 00:00:00"
+15024900,"2023-04-26 00:00:00","","I've created follow-ups and [#3356488] where everything can be tracked.","alexpott",157725,"GB","https://www.drupal.org/u/alexpott","Thunder",NULL,0,"Acro Media Inc;Thunder",NULL,"2023-05-23 00:00:00"
+15024907,"2023-04-26 00:00:00","","All the threads were resolved and follow-ups were created were necessary (thanks @alexpott). Marking this as NR.","fjgarlin",2495842,"ES","https://www.drupal.org/u/fjgarlin","Drupal Association",NULL,1,"Drupal Association",NULL,"2023-05-23 00:00:00"
+15025013,"2023-04-26 00:00:00","","We've reviewed the code extensively and the theming and markup has been reviewed by front end experts too. We have the follow-ups in place and we have a CR. I think the final MR represents a great first step from where we can build more user centred functionality for marking as read or implementing into the new dashboard initative.
+
+I'm not sure if this should go in as beta or as alpha. As it stands I don't think that this module offers an API. All classes are final and marked as @internal. Things can be opened up in beta or once this module as stable as necessary. Maybe someone can open an issue to discuss this - similar to [#3354860]","alexpott",157725,"GB","https://www.drupal.org/u/alexpott","Thunder",NULL,0,"Acro Media Inc;Thunder",NULL,"2023-05-23 00:00:00"
+15025063,"2023-04-26 00:00:00","","Saving issue credits; apologies if I missed anyone, but as usual with long issues it is hard to get this completely right.
+","longwave",246492,"GB","https://www.drupal.org/u/longwave","Full Fat Things",NULL,0,"Full Fat Things",NULL,"2023-05-23 00:00:00"
+15025101,"2023-04-26 00:00:00","","<div class=\"item-list\"><ul class=\"versioncontrol-project-commits\"><li class=\"first last\"><a href=\"/u/longwave\" title=\"View user profile.\" data-uid=\"246492\" class=\"username\">longwave</a> committed <a href=\"https://git.drupalcode.org/project/drupal/-/commit/492062df7c00bfbfe34cea537e23d5fc837d3824\">492062df</a> on <strong>10.1.x</strong><pre>Issue #3206643 by fjgarlin, Lal_, AJV009, quietone, benjifisher,...</pre></li>
+</ul></div>","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+15025102,"2023-04-26 00:00:00","Discussed with @catch and we","Discussed with @catch and we agree this is beta quality as there is no public API and it is feature complete as an MVP, and therefore this is low risk to commit now as an experimental module.
+
+Committed and pushed <a href=\"https://git.drupalcode.org/project/drupal/commit/492062df7c\">492062df7c</a> to 10.1.x. Thanks!
+
+Also updated the change record and published it.
+","longwave",246492,"GB","https://www.drupal.org/u/longwave","Full Fat Things",NULL,0,"Full Fat Things",NULL,"2023-05-23 00:00:00"
+15025108,"2023-04-26 00:00:00","",NULL,"longwave",246492,"GB","https://www.drupal.org/u/longwave","Full Fat Things",NULL,0,"Full Fat Things",NULL,"2023-05-23 00:00:00"
+15025747,"2023-04-26 00:00:00","","Incredibly thankful to everyone involved in making this happen. Thank you, everyone!","hestenet",54034,"US","https://www.drupal.org/u/hestenet","Drupal Association",NULL,0,"Drupal Association",NULL,"2023-05-23 00:00:00"
+15026711,"2023-04-27 00:00:00","We should add project","We should add project messaging to https://www.drupal.org/about/core/policies/core-change-policies/experimental/policy-and-list","catch",35733,"GB","https://www.drupal.org/u/catch","Third and Grove",NULL,0,"Third and Grove",NULL,"2023-05-23 00:00:00"
+15026735,"2023-04-27 00:00:00","","@catch I already added it to the first table after committing.","longwave",246492,"GB","https://www.drupal.org/u/longwave","Full Fat Things",NULL,0,"Full Fat Things",NULL,"2023-05-23 00:00:00"
+15026759,"2023-04-27 00:00:00","","Oops my brain didn't make the connection between 'project messaging' and 'announcements'.
+
+Next question then - should we add a new core component?","catch",35733,"GB","https://www.drupal.org/u/catch","Third and Grove",NULL,0,"Third and Grove",NULL,"2023-05-23 00:00:00"
+15026849,"2023-04-27 00:00:00","","I think we shoul add a new component. Should it be 'announcements' or would that be confusing as well? (Make it 'project annoucements' instead or would that would confusing in another way?)","Gábor Hojtsy",4166,"HU","https://www.drupal.org/u/gábor-hojtsy","Acquia",NULL,0,"Acquia",NULL,"2023-05-23 00:00:00"
+15026855,"2023-04-27 00:00:00","","Agree with adding a component, it should probably just be \"announcements_feed.module\"?","longwave",246492,"GB","https://www.drupal.org/u/longwave","Full Fat Things",NULL,0,"Full Fat Things",NULL,"2023-05-23 00:00:00"
+15026925,"2023-04-27 00:00:00","","Ah good point. Added :) ","Gábor Hojtsy",4166,"HU","https://www.drupal.org/u/gábor-hojtsy","Acquia",NULL,0,"Acquia",NULL,"2023-05-23 00:00:00"
+15043100,"2023-05-09 00:00:00","","Adjusting credit as credit is not granted for just pressing the rebase button in Gitlab.","bnjmnm",2369194,"US","https://www.drupal.org/u/bnjmnm","Acquia",NULL,0,"Acquia",NULL,"2023-05-23 00:00:00"
+15074144,"2023-05-23 00:00:00","","Automatically closed - issue fixed for 2 weeks with no activity.","System Message",180064,NULL,"https://www.drupal.org/u/system-message",NULL,NULL,NULL,NULL,NULL,"2023-05-23 00:00:00"
+15085270,"2023-05-31 00:00:00","Thanks everyone, very cool!","Thanks everyone, very cool!
+
+I created [#3363816] to make sure that it doesn't get missed.","ressa",102134,"DK","https://www.drupal.org/u/ressa","Ardea",NULL,0,"Ardea",NULL,"2023-05-23 00:00:00"

@@ -1,0 +1,1045 @@
+[
+    {
+        "client_msg_id": "7cc4487e-3251-49e9-8b72-9b117b348baf",
+        "type": "message",
+        "text": "Hi <@U01RG97SUNL>! We did several review rounds with Ana (the designer of what you linked) but we never totally finished the designs. The main problem with those is the blue accent color used as background, a resource we don’t want to use in a UI supposed to be lighter. I don’t have any quick suggestion at the moment: coming up with a proper design integrated with the design system will require time. If you find a designer that can do that this week it’d be great. Otherwise I don’t have the time this week, so as I mentioned on my earlier comment I might be able to help next week and propose designs for Claro.",
+        "user": "U1ET7192M",
+        "ts": "1635320839.015000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lbe3P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RG97SUNL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! We did several review rounds with Ana (the designer of what you linked) but we never totally finished the designs. The main problem with those is the blue accent color used as background, a resource we don’t want to use in a UI supposed to be lighter. I don’t have any quick suggestion at the moment: coming up with a proper design integrated with the design system will require time. If you find a designer that can do that this week it’d be great. Otherwise I don’t have the time this week, so as I mentioned on my earlier comment I might be able to help next week and propose designs for Claro."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "c463b5c4-fe81-44fb-99db-c5a18f1bf507",
+        "type": "message",
+        "text": "Ok <@U1ET7192M>\nWill check if there’s any designer or will wait for your feedback until then.",
+        "user": "U01RG97SUNL",
+        "ts": "1635321503.015200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L7b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ET7192M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWill check if there’s any designer or will wait for your feedback until then."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "30ea3944a55b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-17\/1853140223767_30ea3944a55b2489726a_72.jpg",
+            "first_name": "Akshay",
+            "real_name": "Akshay Adhav",
+            "display_name": "Akshay",
+            "team": "T06GX3JTS",
+            "name": "akshay.adhav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1ET7192M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d7faa434-242c-43bd-af84-fab53799dde9",
+        "type": "message",
+        "text": "Either way, as I mentioned an initial commit could be prepared without the current Claro styles so it doesn’t block the whole initiative and the rest of the feedback given (like the accessibility one by Andrew).",
+        "user": "U1ET7192M",
+        "ts": "1635321651.015500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zOk5o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Either way, as I mentioned an initial commit could be prepared without the current Claro styles so it doesn’t block the whole initiative and the rest of the feedback given (like the accessibility one by Andrew)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "57d48971-5f8c-4675-aab7-42e1f2a8e233",
+        "type": "message",
+        "text": "Cool. So for the time being, will remove Claro’s styling (keeping styling for seven and the default styling).\ncc: <@U2T8M7PA4>",
+        "user": "U01RG97SUNL",
+        "ts": "1635321935.015700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jCEDH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool. So for the time being, will remove Claro’s styling (keeping styling for seven and the default styling).\ncc: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "30ea3944a55b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-17\/1853140223767_30ea3944a55b2489726a_72.jpg",
+            "first_name": "Akshay",
+            "real_name": "Akshay Adhav",
+            "display_name": "Akshay",
+            "team": "T06GX3JTS",
+            "name": "akshay.adhav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "type": "message",
+        "text": "Hi <@U1ET7192M> <@U06NAEYSF>\nRemoved the claro styling. Please check the screenshots.\nJust want to mention one thing regarding dates in the standard feeds. As it is taking default styling we will face a11y issues. Do we need to add some different colour to it?",
+        "files": [
+            {
+                "id": "F02K83LT8UT",
+                "created": 1635340455,
+                "timestamp": 1635340455,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RG97SUNL",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 587289,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02K83LT8UT\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02K83LT8UT\/download\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K83LT8UT-377a5acffb\/image_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K83LT8UT-377a5acffb\/image_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K83LT8UT-377a5acffb\/image_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 206,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K83LT8UT-377a5acffb\/image_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 274,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K83LT8UT-377a5acffb\/image_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K83LT8UT-377a5acffb\/image_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 411,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K83LT8UT-377a5acffb\/image_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 457,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K83LT8UT-377a5acffb\/image_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 548,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K83LT8UT-377a5acffb\/image_1024.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 585,
+                "original_w": 2880,
+                "original_h": 1644,
+                "thumb_tiny": "AwAbADC39njGQIVxS\/ZYP+eS\/lUUtvK0rMsuATwOeKZ9km\/57n8zQBY+yQf88U\/Kj7JB\/wA8U\/Kq\/wBjn\/57n9aPsc\/\/AD3\/AFNACXcccWzZDHznOVquWwP9VEP+AVPcxtHHGrtuPzc1WOPQ0Aabj9594gd+akBIAHJH0p9IeBQAUhLZ4xinCkPSgCnqH\/LP8apH61rsiPjeobHqKTyIf+eaflQB\/9k=",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U01RG97SUNL\/F02K83LT8UT\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F02K83LT8UT-b7b8247df2",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F02KA9L9M9S",
+                "created": 1635340471,
+                "timestamp": 1635340471,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RG97SUNL",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 559963,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02KA9L9M9S\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02KA9L9M9S\/download\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KA9L9M9S-2dc115e0d9\/image_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KA9L9M9S-2dc115e0d9\/image_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KA9L9M9S-2dc115e0d9\/image_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 205,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KA9L9M9S-2dc115e0d9\/image_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 273,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KA9L9M9S-2dc115e0d9\/image_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KA9L9M9S-2dc115e0d9\/image_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 410,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KA9L9M9S-2dc115e0d9\/image_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 456,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KA9L9M9S-2dc115e0d9\/image_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 547,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KA9L9M9S-2dc115e0d9\/image_1024.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 583,
+                "original_w": 2880,
+                "original_h": 1640,
+                "thumb_tiny": "AwAbADC55EYyBCmPpR9lh\/55L+VRS28rysyy4BPA54pn2SX\/AJ7n8zQBY+ywf88U\/Kj7LB\/zxT8qr\/Y5\/wDnuf1o+xT\/APPf9TQAXcccWzZDHznOVzVbfxxFF\/3xU9xG0Ucas24\/NzVY\/WgDTcZk+8QO\/P8A9apASBjkj6U+kPAoAKQls8YxThSHpQA10R8b1DY9RTfIh\/55J+VMuZHj2bTjPtUH2iX+9+goA\/\/Z",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U01RG97SUNL\/F02KA9L9M9S\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F02KA9L9M9S-93595e0739",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F02KXP60M08",
+                "created": 1635340483,
+                "timestamp": 1635340483,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RG97SUNL",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 321181,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02KXP60M08\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02KXP60M08\/download\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KXP60M08-a0fdc9ee42\/image_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KXP60M08-a0fdc9ee42\/image_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KXP60M08-a0fdc9ee42\/image_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KXP60M08-a0fdc9ee42\/image_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KXP60M08-a0fdc9ee42\/image_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KXP60M08-a0fdc9ee42\/image_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 450,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KXP60M08-a0fdc9ee42\/image_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 500,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KXP60M08-a0fdc9ee42\/image_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 600,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KXP60M08-a0fdc9ee42\/image_1024.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 640,
+                "original_w": 2880,
+                "original_h": 1800,
+                "thumb_tiny": "AwAeADC2beIZHlx4+lH2aE\/8sozUp+8ef0pQQfT8aAIvskH\/ADxT8qPskH\/PFPyqbj2oHXtQBD9kg\/54p+VL9lg\/54p+VTUUANxyeTSgY7mm\/wARp9ABz60UUUAFFFFAH\/\/Z",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U01RG97SUNL\/F02KXP60M08\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F02KXP60M08-c24bff6211",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01RG97SUNL",
+        "ts": "1635341005.015900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jsoS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ET7192M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nRemoved the claro styling. Please check the screenshots.\nJust want to mention one thing regarding dates in the standard feeds. As it is taking default styling we will face a11y issues. Do we need to add some different colour to it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "00745696-8b0e-47e2-8b89-6862df9f7e40",
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "1dd30eac-3ff5-4b12-806a-3e8a16e697bd",
+        "type": "message",
+        "text": "This needs to be fixed, yes. But instead of changing the link color I’d remove the white background from the standard announcement.",
+        "user": "U1ET7192M",
+        "ts": "1635341196.016700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nen",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This needs to be fixed, yes. But instead of changing the link color I’d remove the white background from the standard announcement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "2a8ef3bf-6992-4fcf-8130-550f4c3ce262",
+        "type": "message",
+        "text": "By adding the white you’re actually highlighting them in this dark region, so I would rely just on the heading &amp; text size to add importance to the top ones.",
+        "user": "U1ET7192M",
+        "ts": "1635341343.016900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uiFr1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "By adding the white you’re actually highlighting them in this dark region, so I would rely just on the heading & text size to add importance to the top ones."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "97aff004-de75-4919-8c6c-07d430161ba4",
+        "type": "message",
+        "text": "Also, be aware of the cross being printed over the title :slightly_smiling_face:",
+        "user": "U1ET7192M",
+        "ts": "1635341406.017100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e9p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, be aware of the cross being printed over the title "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "0d828998-efc8-4d81-ad00-707d69b22720",
+        "type": "message",
+        "text": "Yeah, because of the default styling these things are happening.\nHad to add white background for standard feeds to differentiate it from featured ones. Will change it to some different color from the default’s color palette.",
+        "user": "U01RG97SUNL",
+        "ts": "1635342095.017300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OUl00",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, because of the default styling these things are happening.\nHad to add white background for standard feeds to differentiate it from featured ones. Will change it to some different color from the default’s color palette."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "30ea3944a55b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-17\/1853140223767_30ea3944a55b2489726a_72.jpg",
+            "first_name": "Akshay",
+            "real_name": "Akshay Adhav",
+            "display_name": "Akshay",
+            "team": "T06GX3JTS",
+            "name": "akshay.adhav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RG97SUNL",
+            "ts": "1635342404.000000"
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "e1bbd628-6acd-4fdc-aeb9-9765eea2c12f",
+        "type": "message",
+        "text": "I wouldn’t add any background color at all. Just with bigger typography on the featured ones should be enough. The moment you’re adding colors you’re making big visual changes. If any, the featured ones should be the ones with lighter color actually. In a dark background the light background is highlighting things.",
+        "user": "U1ET7192M",
+        "ts": "1635344127.017600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SU1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wouldn’t add any background color at all. Just with bigger typography on the featured ones should be enough. The moment you’re adding colors you’re making big visual changes. If any, the featured ones should be the ones with lighter color actually. In a dark background the light background is highlighting things."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "U01RG97SUNL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "How about this one without background color to standard feeds?",
+        "files": [
+            {
+                "id": "F02K8FA1M3M",
+                "created": 1635344632,
+                "timestamp": 1635344632,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RG97SUNL",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 389318,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02K8FA1M3M\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02K8FA1M3M\/download\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8FA1M3M-4522d00768\/image_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8FA1M3M-4522d00768\/image_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8FA1M3M-4522d00768\/image_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8FA1M3M-4522d00768\/image_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8FA1M3M-4522d00768\/image_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8FA1M3M-4522d00768\/image_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 450,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8FA1M3M-4522d00768\/image_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 500,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8FA1M3M-4522d00768\/image_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 600,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8FA1M3M-4522d00768\/image_1024.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 640,
+                "original_w": 2880,
+                "original_h": 1800,
+                "thumb_tiny": "AwAeADBG6\/NHHn3Wm8f88ov++a1eKTaaq67E2Zl\/L\/zyi\/75o+X\/AJ4xf981qgevNLgelF12Cz7mQzAf8sYv++KQyf8ATKL\/AL4q3qHBj7dapH61LKRN\/aM\/on5Un9ozeiflVSigC3\/aM3on5Uf2jN6J+VVKKALL3Lz43hfl6YqMmmx96WgD\/9k=",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U01RG97SUNL\/F02K8FA1M3M\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F02K8FA1M3M-40ed70e7ed",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01RG97SUNL",
+        "display_as_bot": false,
+        "ts": "1635344681.017900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TCq9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How about this one without background color to standard feeds?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d6c519f0-3f33-4710-bd9b-141e0081a18d",
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "89a5a484-9fd5-4312-9d70-a60db43812ed",
+        "type": "message",
+        "text": "<@U01RG97SUNL> I think that's look much better.",
+        "user": "U06NAEYSF",
+        "ts": "1635351939.018300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cwh3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RG97SUNL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think that's look much better."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "5a12f56c-82d4-4a39-b199-cb1c92429045",
+        "type": "message",
+        "text": "Agreed, this is much better for the default :slightly_smiling_face:",
+        "user": "U1ET7192M",
+        "ts": "1635364788.018500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d2Uvd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed, this is much better for the default "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "b5925e8a-fdd2-48b0-a4b3-51a6377abc11",
+        "type": "message",
+        "text": "One last thing I would do is remove the pencil icon. It doesn’t make any sense here, so I would either just remove it (and get rid of the padding) or maybe replace it with the same Tolbar icon (a bell so far)",
+        "user": "U1ET7192M",
+        "ts": "1635364917.018700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fbZqj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One last thing I would do is remove the pencil icon. It doesn’t make any sense here, so I would either just remove it (and get rid of the padding) or maybe replace it with the same Tolbar icon (a bell so far)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1ET7192M",
+            "ts": "1635364942.000000"
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "792810d3-1af8-45f3-ac35-b920a29d4e2b",
+        "type": "message",
+        "text": "Thanks for the feedback <@U06NAEYSF> <@U1ET7192M>\nWill make the changes accordingly.",
+        "user": "U01RG97SUNL",
+        "ts": "1635395498.019000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eru",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the feedback "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ET7192M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWill make the changes accordingly."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "30ea3944a55b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-17\/1853140223767_30ea3944a55b2489726a_72.jpg",
+            "first_name": "Akshay",
+            "real_name": "Akshay Adhav",
+            "display_name": "Akshay",
+            "team": "T06GX3JTS",
+            "name": "akshay.adhav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "type": "message",
+        "text": "<@U06NAEYSF> <@U1ET7192M>\nI would suggest to have the title bar without any icon. Showing the bell twice doesn’t look that good.\n<@U2T8M7PA4>",
+        "files": [
+            {
+                "id": "F02KQ8NKH6V",
+                "created": 1635397892,
+                "timestamp": 1635397892,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RG97SUNL",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 381809,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02KQ8NKH6V\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02KQ8NKH6V\/download\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KQ8NKH6V-f5f5362c46\/image_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KQ8NKH6V-f5f5362c46\/image_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KQ8NKH6V-f5f5362c46\/image_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 205,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KQ8NKH6V-f5f5362c46\/image_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 274,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KQ8NKH6V-f5f5362c46\/image_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KQ8NKH6V-f5f5362c46\/image_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 411,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KQ8NKH6V-f5f5362c46\/image_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 456,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KQ8NKH6V-f5f5362c46\/image_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 547,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02KQ8NKH6V-f5f5362c46\/image_1024.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 584,
+                "original_w": 2880,
+                "original_h": 1642,
+                "thumb_tiny": "AwAbADBGJz80cefdKZkf88ov++a1qTB9aq67E2fcysj\/AJ5Rf98UZH\/PGL\/vitYD15pcCi67BZ9zIJH\/ADxh\/wC+KQv\/ANM4f++at6h1j49apH6UmNEn9oT\/AOz+VH9oT\/7P5VVopDLX9oT\/AOz+VH9oT\/7P5VVooAsNcPPjzCPl6YFM496bF3px60Af\/9k=",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U01RG97SUNL\/F02KQ8NKH6V\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F02KQ8NKH6V-363ab58909",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F02K8LSUNFP",
+                "created": 1635397909,
+                "timestamp": 1635397909,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RG97SUNL",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 381323,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02K8LSUNFP\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02K8LSUNFP\/download\/image.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8LSUNFP-aa1c77ae63\/image_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8LSUNFP-aa1c77ae63\/image_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8LSUNFP-aa1c77ae63\/image_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 205,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8LSUNFP-aa1c77ae63\/image_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 274,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8LSUNFP-aa1c77ae63\/image_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8LSUNFP-aa1c77ae63\/image_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 411,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8LSUNFP-aa1c77ae63\/image_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 456,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8LSUNFP-aa1c77ae63\/image_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 547,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02K8LSUNFP-aa1c77ae63\/image_1024.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 584,
+                "original_w": 2880,
+                "original_h": 1642,
+                "thumb_tiny": "AwAbADBGJz80cefdKZkf88ov++a1qTB9aq67E2fcysj\/AJ5Rf98UZH\/PGL\/vitYD15pcCi67BZ9zIJH\/ADxh\/wC+KQv\/ANM4f++Kt6h1j49apH6UmNEn9oT\/AOz+VH9oT\/7P5VVopDLX9oT\/AOz+VH9oT\/7P5VVooAsNcPPjzCPl6YFM496bF3px60Af\/9k=",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U01RG97SUNL\/F02K8LSUNFP\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F02K8LSUNFP-b9b67495d0",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01RG97SUNL",
+        "ts": "1635398039.019200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d1=Mq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ET7192M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI would suggest to have the title bar without any icon. Showing the bell twice doesn’t look that good.\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0ce0e70b-beae-4fea-a744-873a96865f0c",
+        "thread_ts": "1634737836.114000",
+        "parent_user_id": "U2T8M7PA4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1ET7192M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

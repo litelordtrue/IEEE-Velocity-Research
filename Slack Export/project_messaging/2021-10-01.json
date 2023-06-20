@@ -1,0 +1,279 @@
+[
+    {
+        "client_msg_id": "dca2febf-9f27-4b20-a364-b90906996d42",
+        "type": "message",
+        "text": "<@U06HDFAP5>\nSo we are considering following approach for development process point of view.\n\n1. Create new issue and PR in Drupal core’s issue queue for general theming related to `announcements_feed` . We will target claro and seven theme.\n2. Create second PR with module specific theming like notification icon etc. in <https:\/\/www.drupal.org\/project\/announce|module’s> issue queue and later merge in contributed <https:\/\/www.drupal.org\/project\/announce|module’s> code.\n3. Later when we create a final patch for module’s code, we can apply the styling patch(from step 1) for theming changes.\nCan you please suggest if this is the right way.",
+        "user": "U2T8M7PA4",
+        "ts": "1633079003.079900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ucw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06HDFAP5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSo we are considering following approach for development process point of view.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create new issue and PR in Drupal core’s issue queue for general theming related to "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "announcements_feed",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " . We will target claro and seven theme."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create second PR with module specific theming like notification icon etc. in "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.drupal.org\/project\/announce",
+                                        "text": "module’s"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " issue queue and later merge in contributed "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.drupal.org\/project\/announce",
+                                        "text": "module’s"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " code."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Later when we create a final patch for module’s code, we can apply the styling patch(from step 1) for theming changes."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nCan you please suggest if this is the right way."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "d8b87c12-7504-4023-a513-9d9da3fbbfee",
+        "type": "message",
+        "text": "(That sounds good to me, I hope the core folks agree!)",
+        "user": "U06NAEYSF",
+        "ts": "1633104218.080100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F\/S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(That sounds good to me, I hope the core folks agree!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "5BCC9AE7-858F-4993-AC6A-3DE0D4E83E17",
+        "type": "message",
+        "text": "That sounds good for me",
+        "user": "U06HDFAP5",
+        "ts": "1633104366.080500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IpJo9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That sounds good for me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "82252B36-442A-4AA6-8DC0-8CE96CA661DF",
+        "type": "message",
+        "text": "We can always adjust as we go if it seems like it would help",
+        "user": "U06HDFAP5",
+        "ts": "1633104396.081200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K5A8K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We can always adjust as we go if it seems like it would help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "2f372bf1-0a1e-41fe-9d08-4a4cc66d32e4",
+        "type": "message",
+        "text": "cool, thanks a lot.",
+        "user": "U2T8M7PA4",
+        "ts": "1633146559.081400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mzlv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool, thanks a lot."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

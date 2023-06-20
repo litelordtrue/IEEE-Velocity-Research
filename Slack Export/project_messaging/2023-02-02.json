@@ -1,0 +1,206 @@
+[
+    {
+        "client_msg_id": "6137d3c2-4864-4bd9-adfa-1aac0ae4003a",
+        "type": "message",
+        "text": "Maybe in D11 this module can be enabled out of the box.",
+        "user": "U4KAE8Q91",
+        "ts": "1675365192.138729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r=BSW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe in D11 this module can be enabled out of the box."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "f256835c-9421-431a-9bf3-0391ca824a4f",
+        "type": "message",
+        "text": "We don't need to wait for a major version for that; just for it to be tested, stable, etc. and product signoff on the addition to Standard",
+        "user": "U4B423ANR",
+        "ts": "1675365790.438379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PsR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We don't need to wait for a major version for that; just for it to be tested, stable, etc. and product signoff on the addition to Standard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4B423ANR",
+            "ts": "1675365833.000000"
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "a08b9915-4884-4ec5-8c6e-a0a7a74bf731",
+        "type": "message",
+        "text": "We make changes like that in minors, not majors",
+        "user": "U4B423ANR",
+        "ts": "1675365863.887329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v+k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We make changes like that in minors, not majors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "ae3ab199-0122-4b0e-985b-089b0db5f351",
+        "type": "message",
+        "text": "And for content to be in production",
+        "user": "U3U1SD32R",
+        "ts": "1675365871.732989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WLy4F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And for content to be in production"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "7b32a79f-1f23-4750-8525-1c0e90e2e69f",
+        "type": "message",
+        "text": "I'll be responding to all the feedback on the first post proposal today. That will check off all the outstanding feedback and I'll need to make a list of the reviewers who had those feedback items to ask for review again before we go RTBC.",
+        "user": "U06NAEYSF",
+        "ts": "1675365929.475729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rLEWI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll be responding to all the feedback on the first post proposal today. That will check off all the outstanding feedback and I'll need to make a list of the reviewers who had those feedback items to ask for review again before we go RTBC."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    }
+]

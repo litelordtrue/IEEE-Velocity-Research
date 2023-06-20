@@ -1,0 +1,1419 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1632227939.046700",
+        "user": "U015ETZ1Z1P",
+        "text": "<@U015ETZ1Z1P> has joined the channel"
+    },
+    {
+        "client_msg_id": "21beaa34-d90a-49f7-9923-8723e832c5fa",
+        "type": "message",
+        "text": "hey <@U21M96DQU> done with changes <https:\/\/www.drupal.org\/project\/announce\/issues\/3236294#comment-14230516> could you take a look",
+        "user": "U4PT7ES0M",
+        "ts": "1632229451.047500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yNWu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U21M96DQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " done with changes "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236294#comment-14230516"
+                            },
+                            {
+                                "type": "text",
+                                "text": " could you take a look"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Replace jQuery with vanilla JS.",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236294#comment-14230516",
+                "text": "Problem\/Motivation Based on the comment here. Its probably the best to replace jQuery with vanilla js.",
+                "fallback": "Drupal.org: Replace jQuery with vanilla JS.",
+                "ts": 1631879847,
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236294#comment-14230516",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236294#comment-14230516"
+            }
+        ],
+        "thread_ts": "1632229451.047500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1632234317.055600",
+        "reply_users": [
+            "U21M96DQU",
+            "U4PT7ES0M"
+        ],
+        "replies": [
+            {
+                "user": "U21M96DQU",
+                "ts": "1632232559.047700"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1632234317.055600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "597d50a3-fd12-455d-91e4-ed2568bbf675",
+        "type": "message",
+        "text": "thanks! almost there couple of details left",
+        "user": "U21M96DQU",
+        "ts": "1632232559.047700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B8DM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks! almost there couple of details left"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632229451.047500",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "d2b2c089-35c3-443e-bd6b-ce20ea2679f5",
+        "type": "message",
+        "text": "Making some notes from the call we just had this morning - slack observers feel free to chime in (will thread this out):",
+        "user": "U06NAEYSF",
+        "ts": "1632233463.049700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kna",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Making some notes from the call we just had this morning - slack observers feel free to chime in (will thread this out):"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "41a96d6a-b072-4cd1-b51f-d6d49a03b357",
+        "type": "message",
+        "text": ":one: Jquery replacement with vanillajs is nearly done, need to resolve nod_'s feedback in the issue above",
+        "user": "U06NAEYSF",
+        "ts": "1632233475.050000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D0HL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "one",
+                                "unicode": "0031-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Jquery replacement with vanillajs is nearly done, need to resolve nod_'s feedback in the issue above"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233475.050000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1632233815.054300",
+        "reply_users": [
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632233815.054300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a15d1d51-ba5d-4b4d-b895-395e3667e6c1",
+        "type": "message",
+        "text": ":two: Team will try to minimize the custom css\/styling and see how well that renders with existing style elements in `seven` and `claro` -- most likely they may also need to make merge requests against seven and claro as well, just to ensure things look okay.",
+        "user": "U06NAEYSF",
+        "ts": "1632233550.051500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d8Gp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "two",
+                                "unicode": "0032-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Team will try to minimize the custom css\/styling and see how well that renders with existing style elements in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "seven ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "claro",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " -- most likely they may also need to make merge requests against seven and claro as well, just to ensure things look okay."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233550.051500",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1632234531.056400",
+        "reply_users": [
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632233753.053700"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632233933.055100"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632234531.056400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "547dbf83-59b2-4d44-9976-94ce4dfb88a0",
+        "type": "message",
+        "text": ":three: We'll go with `announcements_feed` for the module rename, if there's no other strong opinions",
+        "user": "U06NAEYSF",
+        "ts": "1632233599.052600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M1Aw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "three",
+                                "unicode": "0033-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We'll go with "
+                            },
+                            {
+                                "type": "text",
+                                "text": "announcements_feed",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the module rename, if there's no other strong opinions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U06NAEYSF",
+            "ts": "1632233863.000000"
+        },
+        "thread_ts": "1632233599.052600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1632233867.054800",
+        "reply_users": [
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632233867.054800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0737ad25-8ec7-4ad4-b8d5-f68756746bfd",
+        "type": "message",
+        "text": ":four:  We're hoping that minimizing the custom css and maybe\/probably making PRs against `seven` and `claro` to accompany them will help address the majority of the reported accessibility questions.",
+        "user": "U06NAEYSF",
+        "ts": "1632233688.053600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3VN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "four",
+                                "unicode": "0034-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  We're hoping that minimizing the custom css and maybe\/probably making PRs against "
+                            },
+                            {
+                                "type": "text",
+                                "text": "seven",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "claro",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to accompany them will help address the majority of the reported accessibility questions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "reply_count": 27,
+        "reply_users_count": 5,
+        "latest_reply": "1633146559.081400",
+        "reply_users": [
+            "U06NAEYSF",
+            "U2T8M7PA4",
+            "U06HDFAP5",
+            "U6XHB78BV",
+            "U015ETZ1Z1P"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632234417.055800"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632234465.056000"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632234496.056200"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1632234572.056800"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1632291039.057300"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1632307796.057500"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1632307859.057700"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1632308061.057900"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1632308240.058100"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1632308984.058400"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632322516.058600"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1632325444.058900"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1632325461.059100"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1632325485.059300"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632325826.059500"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1632328319.059700"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1632329585.060000"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1632330937.060200"
+            },
+            {
+                "user": "U6XHB78BV",
+                "ts": "1632921225.065500"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632930467.070400"
+            },
+            {
+                "user": "U015ETZ1Z1P",
+                "ts": "1633071277.079500"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1633071350.079700"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1633079003.079900"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1633104218.080100"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1633104366.080500"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1633104396.081200"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1633146559.081400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fc1b2a1c-47f2-44bc-ab02-097d7c79739c",
+        "type": "message",
+        "text": "<@U2T8M7PA4> For your team's reference:\n\n• Seven style guide: <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14219711>\n• Claro style guide: <https:\/\/www.drupal.org\/docs\/8\/core\/themes\/claro-theme\/design>",
+        "user": "U06NAEYSF",
+        "ts": "1632233753.053700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tHW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " For your team's reference:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Seven style guide: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14219711"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Claro style guide: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.drupal.org\/docs\/8\/core\/themes\/claro-theme\/design"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233550.051500",
+        "parent_user_id": "U06NAEYSF",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U2T8M7PA4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0838fd05-270b-4432-b26e-37bb620a4f59",
+        "type": "message",
+        "text": "Putting here as well: <https:\/\/www.drupal.org\/project\/announce\/issues\/3236294#comment-14230516>",
+        "user": "U06NAEYSF",
+        "ts": "1632233815.054300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jblv+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Putting here as well: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236294#comment-14230516"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Replace jQuery with vanilla JS.",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236294#comment-14230516",
+                "text": "Problem\/Motivation Based on the comment here. Its probably the best to replace jQuery with vanilla js.",
+                "fallback": "Drupal.org: Replace jQuery with vanilla JS.",
+                "ts": 1631879847,
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236294#comment-14230516",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236294#comment-14230516"
+            }
+        ],
+        "thread_ts": "1632233475.050000",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "d4b924bf-6b8f-4bcc-bdb0-9263d6b3c822",
+        "type": "message",
+        "text": "<https:\/\/www.drupal.org\/project\/announce\/issues\/3236291#comment-14228171>",
+        "user": "U06NAEYSF",
+        "ts": "1632233867.054800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HXw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236291#comment-14228171"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Module Rename",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236291#comment-14228171",
+                "text": "As andrewmacpherson suggested in the MR. It would be great if we could rename the module coz its library may be confused with the Drupal.announce. Current suggestion is to rename from announce to announcement.",
+                "fallback": "Drupal.org: Module Rename",
+                "ts": 1631879073,
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236291#comment-14228171",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3236291#comment-14228171"
+            }
+        ],
+        "thread_ts": "1632233599.052600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "103f83cc-55fe-4eef-8eeb-aa776d53d42c",
+        "type": "message",
+        "text": "In particular, the minimal styling we *do* ship with will follow <@U1ET7192M>'s guidance from this comment: <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14221002>",
+        "user": "U06NAEYSF",
+        "ts": "1632233933.055100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VbDjM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In particular, the minimal styling we "
+                            },
+                            {
+                                "type": "text",
+                                "text": "do",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ship with will follow "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ET7192M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s guidance from this comment: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14221002"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233550.051500",
+        "parent_user_id": "U06NAEYSF",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U1ET7192M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bacb3d60-18d1-4bf1-96ee-957def84310a",
+        "type": "message",
+        "text": "<@U21M96DQU> done with the changes.... How about a final review :smile:",
+        "user": "U4PT7ES0M",
+        "ts": "1632234317.055600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z0r=L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U21M96DQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " done with the changes.... How about a final review "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632229451.047500",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "9c5fe448-0968-49ed-a95b-f36818dadf91",
+        "type": "message",
+        "text": "The items I am aware from reading back through seem to be:\n• icon should support forced color mode - and should be switched to svg anyway - mock in ckrina's comment in the issue\n• the links should appear as blue underlined links in the *minimal* styling, and should match the style guide for seven and claro implementations\n• The links *should not* be forced to target=blank_ for screen reader reasons\n• The color contrast should be improved\n• The 'sticky' posts should be clearly readable as sticky by screen readers as well, and not just rely on a background color change or other visual change\n• We should consider making the 'learn more' link\/button appear on every feed item, and distinguish sticky items some other way - a class for screen readers + a different background color, or some kind of 'pin' icon for sticky, or something else? \nFinally the only item that I'm not sure got a final answer:\n• Do we want to use the off-canvas dialogue to have the announcement feed *pop over* the content *OR* open a sidebar drawer like it does now? (mimicking settings tray?) ",
+        "user": "U06NAEYSF",
+        "ts": "1632234417.055800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "381Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The items I am aware from reading back through seem to be:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "icon should support forced color mode - and should be switched to svg anyway - mock in ckrina's comment in the issue"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "the links should appear as blue underlined links in the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "minimal",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " styling, and should match the style guide for seven and claro implementations"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The links "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "should not",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " be forced to target=blank_ for screen reader reasons"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The color contrast should be improved"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The 'sticky' posts should be clearly readable as sticky by screen readers as well, and not just rely on a background color change or other visual change"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We should consider making the 'learn more' link\/button appear on every feed item, and distinguish sticky items some other way - a class for screen readers + a different background color, or some kind of 'pin' icon for sticky, or something else? "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nFinally the only item that I'm not sure got a final answer:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Do we want to use the off-canvas dialogue to have the announcement feed "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "pop over",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " the content "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "OR",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " open a sidebar drawer like it does now? (mimicking settings tray?) "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "c3db2840-a544-409a-8825-f4950b8d1e2d",
+        "type": "message",
+        "text": "<@U6XHB78BV> if I missed a key item in the summary please let me know, and obviously feel free to chime in on any of these points.  (cc'ing <@U1ET7192M> again on this thread as well since these details are also relevant to her feedback)",
+        "user": "U06NAEYSF",
+        "ts": "1632234465.056000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rogj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6XHB78BV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if I missed a key item in the summary please let me know, and obviously feel free to chime in on any of these points.  (cc'ing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ET7192M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " again on this thread as well since these details are also relevant to her feedback)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1ET7192M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32226441-fc06-411c-8a4a-62b75d032ed4",
+        "type": "message",
+        "text": "<@U2T8M7PA4> - I dunno if we want to pull all these points into an existing issue on the announce project or start a new one or what - but I'll let you figure out how to organize that! :slightly_smiling_face:",
+        "user": "U06NAEYSF",
+        "ts": "1632234496.056200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OOP37",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I dunno if we want to pull all these points into an existing issue on the announce project or start a new one or what - but I'll let you figure out how to organize that! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "b203b325-25f5-4f65-9dae-7b9659b464bb",
+        "type": "message",
+        "text": "^^ Tried to summarize a number of the accessibility related points about the styling in this thread: <https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1632233688053600>",
+        "user": "U06NAEYSF",
+        "ts": "1632234531.056400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f6=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^^ Tried to summarize a number of the accessibility related points about the styling in this thread: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1632233688053600"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1632233688053600",
+                "fallback": "[September 21st, 2021 7:14 AM] hestenet: :four:  We're hoping that minimizing the custom css and maybe\/probably making PRs against `seven` and `claro` to accompany them will help address the majority of the reported accessibility questions.",
+                "ts": "1632233688.053600",
+                "author_id": "U06NAEYSF",
+                "author_subname": "Tim Lehnen",
+                "channel_id": "C02AFHAUNET",
+                "channel_name": "project_messaging",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": ":four:  We're hoping that minimizing the custom css and maybe\/probably making PRs against `seven` and `claro` to accompany them will help address the majority of the reported accessibility questions.",
+                "message_blocks": [
+                    {
+                        "team": "T06GX3JTS",
+                        "channel": "C02AFHAUNET",
+                        "ts": "1632233688.053600",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "3VN",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "four"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "  We're hoping that minimizing the custom css and maybe\/probably making PRs against "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "seven",
+                                                    "style": {
+                                                        "code": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " and "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "claro",
+                                                    "style": {
+                                                        "code": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " to accompany them will help address the majority of the reported accessibility questions."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "author_name": "Tim Lehnen",
+                "author_link": "https:\/\/drupal.slack.com\/team\/U06NAEYSF",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/drupal.slack.com\/archives\/C02AFHAUNET\/p1632233688053600",
+                "footer": "Thread in #project_messaging"
+            }
+        ],
+        "thread_ts": "1632233550.051500",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "be0ee01e-9007-4e7b-90c4-39d28aa0173e",
+        "type": "message",
+        "text": "Yes, I’ll take care of organizing it.",
+        "user": "U2T8M7PA4",
+        "ts": "1632234572.056800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tiV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I’ll take care of organizing it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1632290872.057100",
+        "user": "U06HDFAP5",
+        "text": "<@U06HDFAP5> has joined the channel",
+        "inviter": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "3e504d77-e11e-4e0b-9613-41a8bc814be1",
+        "type": "message",
+        "text": "&gt;  Do we want to use the off-canvas dialogue to have the announcement feed *pop over* the content *OR* open a sidebar drawer like it does now? (mimicking settings tray?)\nThis would be a good topic to bring up in one of the UX calls",
+        "user": "U06HDFAP5",
+        "ts": "1632291039.057300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/IZ",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " Do we want to use the off-canvas dialogue to have the announcement feed "
+                            },
+                            {
+                                "type": "text",
+                                "text": "pop over",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " the content "
+                            },
+                            {
+                                "type": "text",
+                                "text": "OR",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " open a sidebar drawer like it does now? (mimicking settings tray?)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nThis would be a good topic to bring up in one of the UX calls"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

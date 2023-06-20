@@ -1,0 +1,1454 @@
+[
+    {
+        "client_msg_id": "0e6ac110-ec24-4f52-87f1-cf0f41aaeea8",
+        "type": "message",
+        "text": "I’m starting to review the patch in a while. I’m wondering if folks would prefer that I post feedback on the issue or if it would be easier to just post a new patch that addresses at least some of my feedback?",
+        "user": "U06HDFAP5",
+        "ts": "1636967153.031300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kWs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m starting to review the patch in a while. I’m wondering if folks would prefer that I post feedback on the issue or if it would be easier to just post a new patch that addresses at least some of my feedback?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635753844.023500",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "2639cc88-1a64-4a8c-96e4-7fc9edf16f33",
+        "type": "message",
+        "text": "if we post patches we should be considering how to not step on each other’s toes :slightly_smiling_face:",
+        "user": "U1A7P6GTZ",
+        "ts": "1636967283.031500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K+CB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if we post patches we should be considering how to not step on each other’s toes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635753844.023500",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "16d761ef-e279-4af4-8ff5-3a5b57769c7b",
+        "type": "message",
+        "text": "Do folks have any objections if we switch to using a MR at least temporarily for the time that we are sprinting on this during this week?",
+        "user": "U06HDFAP5",
+        "ts": "1636967352.032300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dgv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do folks have any objections if we switch to using a MR at least temporarily for the time that we are sprinting on this during this week?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636967352.032300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1636967396.032400",
+        "reply_users": [
+            "U06HDFAP5"
+        ],
+        "replies": [
+            {
+                "user": "U06HDFAP5",
+                "ts": "1636967396.032400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U5HCX3HB5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e93fca8-c6ad-4ff9-8343-2814433d953f",
+        "type": "message",
+        "text": "or is <https:\/\/www.drupal.org\/project\/announce> source for the patch?",
+        "user": "U06HDFAP5",
+        "ts": "1636967396.032400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GiH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce"
+                            },
+                            {
+                                "type": "text",
+                                "text": " source for the patch?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U06HDFAP5",
+            "ts": "1636967430.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "Drupal.org: Announce",
+                "from_url": "https:\/\/www.drupal.org\/project\/announce",
+                "service_name": "Drupal.org",
+                "title": "Announce",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce",
+                "text": "This project is for developing the prototype module for a Project Messaging Channel, with the goal of porting it over to Core, creating a capability reach Drupal users in the back-end interface directly. For information about this initiative, please check out the core ideas queue.",
+                "ts": 1564674798,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce"
+            }
+        ],
+        "thread_ts": "1636967352.032300",
+        "parent_user_id": "U06HDFAP5"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1636967633.033000",
+        "user": "U5HCX3HB5",
+        "text": "<@U5HCX3HB5> has joined the channel"
+    },
+    {
+        "client_msg_id": "76f03fe2-4760-4a35-88ca-ff869506e1e8",
+        "type": "message",
+        "text": "Are there steps for setting up a local development environment? I’m trying to make the `announce_feed_test` module work for local development but I’m not sure it was built for that in the first place",
+        "user": "U06HDFAP5",
+        "ts": "1636973345.034100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aLSWK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are there steps for setting up a local development environment? I’m trying to make the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "announce_feed_test",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " module work for local development but I’m not sure it was built for that in the first place"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636973345.034100",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1636979326.034600",
+        "reply_users": [
+            "U1A7P6GTZ",
+            "U06HDFAP5"
+        ],
+        "replies": [
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1636978999.034200"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1636979304.034400"
+            },
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1636979326.034600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8491fa61-f77d-473b-8ceb-4a02aeaac704",
+        "type": "message",
+        "text": "<https:\/\/www.drupal.org\/announcements.json> does exist",
+        "user": "U1A7P6GTZ",
+        "ts": "1636978999.034200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nsE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/announcements.json"
+                            },
+                            {
+                                "type": "text",
+                                "text": " does exist"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636973345.034100",
+        "parent_user_id": "U06HDFAP5"
+    },
+    {
+        "client_msg_id": "11be0dba-c5fe-4b55-bb3c-1a108d1e7e7a",
+        "type": "message",
+        "text": "I’m trying to test with multiple announcements + featured\/sticky announcements",
+        "user": "U06HDFAP5",
+        "ts": "1636979304.034400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eJxh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m trying to test with multiple announcements + featured\/sticky announcements"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636973345.034100",
+        "parent_user_id": "U06HDFAP5"
+    },
+    {
+        "client_msg_id": "3656876b-7aa5-4d3f-aabf-01e2b9c158c2",
+        "type": "message",
+        "text": "yeah <https:\/\/git.drupalcode.org\/project\/announce\/-\/tree\/1.x\/tests\/announce_feed> are the test feeds in the module but it does not directly provide a test feed for general testing AFAIS",
+        "user": "U1A7P6GTZ",
+        "ts": "1636979326.034600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PgJUY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/tree\/1.x\/tests\/announce_feed"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are the test feeds in the module but it does not directly provide a test feed for general testing AFAIS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/tree\/1.x\/tests\/announce_feed",
+                "service_name": "GitLab",
+                "title": "tests\/announce_feed · 1.x · project \/ announce",
+                "title_link": "https:\/\/git.drupalcode.org\/project\/announce\/-\/tree\/1.x\/tests\/announce_feed",
+                "text": "For more information about this repository, visit the project page at <https:\/\/www.drupal.org\/project\/announce>",
+                "thumb_url": "https:\/\/git.drupalcode.org\/assets\/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "fallback": "GitLab: tests\/announce_feed · 1.x · project \/ announce",
+                "service_icon": "https:\/\/git.drupalcode.org\/assets\/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png",
+                "id": 1,
+                "original_url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/tree\/1.x\/tests\/announce_feed"
+            }
+        ],
+        "thread_ts": "1636973345.034100",
+        "parent_user_id": "U06HDFAP5"
+    },
+    {
+        "client_msg_id": "28499a1c-1f1d-41b0-a0cb-ea1ebaae1b00",
+        "type": "message",
+        "text": "Posted feedback on <https:\/\/www.drupal.org\/project\/governance\/issues\/3071994#comment-14291683>",
+        "user": "U06HDFAP5",
+        "ts": "1636981519.035100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E1Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Posted feedback on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/governance\/issues\/3071994#comment-14291683"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/governance\/issues\/3071994#comment-14291683",
+                "service_name": "Drupal.org",
+                "title": "Document approval process for what appears in the official Drupal project messaging feed",
+                "title_link": "https:\/\/www.drupal.org\/project\/governance\/issues\/3071994#comment-14291683",
+                "text": "To do: This issue is a staging ground for documenting a robust editorial process for controlling what kind of messaging is pushed to Core.",
+                "ts": 1564678213,
+                "fallback": "Drupal.org: Document approval process for what appears in the official Drupal project messaging feed",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/governance\/issues\/3071994#comment-14291683"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33eeed9b-d340-4a3f-9a24-2bdea8c8c4ba",
+        "type": "message",
+        "text": "Noticed various small UI issues with text. Since I have permission, I fixed the d.o module page right away: <https:\/\/www.drupal.org\/docs\/contributed-modules\/announcements-feed> — this is the page where the core patch links to, so that will need to get fixed as well (its not a contributed module anymore). If we are to keep this page separately, then some of  the info needs to be different in the two.",
+        "user": "U1A7P6GTZ",
+        "ts": "1636983268.036400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q+t=m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Noticed various small UI issues with text. Since I have permission, I fixed the d.o module page right away: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/docs\/contributed-modules\/announcements-feed"
+                            },
+                            {
+                                "type": "text",
+                                "text": " — this is the page where the core patch links to, so that will need to get fixed as well (its not a contributed module anymore). If we are to keep this page separately, then some of  the info needs to be different in the two."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/docs\/contributed-modules\/announcements-feed",
+                "service_name": "Drupal.org",
+                "title": "Announcements Feed",
+                "title_link": "https:\/\/www.drupal.org\/docs\/contributed-modules\/announcements-feed",
+                "text": "Provides an interface as part of the administrator toolbar for viewing announcements from the Drupal project. The list of announcements is provided from <http:\/\/drupal.org|drupal.org> and may provide information about upcoming releases, new feature highlights, events like DrupalCon, and promote support of the project via Association membership or other programs. It was originally developed as the Announce ontributed module. There are no settings in the module, the <http:\/\/drupal.org|drupal.org> source feed location is built-in. Users may configure which user roles have access to the announcement list in the toolbar.",
+                "ts": 1634729485,
+                "fallback": "Drupal.org: Announcements Feed",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/docs\/contributed-modules\/announcements-feed"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2061d78-df3a-40a4-b7f0-d088f4134de3",
+        "type": "message",
+        "text": "Is there something special required to be able to run `\\Drupal\\Tests\\announcements_feed\\FunctionalJavascript\\AccessAnnouncementTest` locally? It seems like the tests are failing locally for me.",
+        "user": "U06HDFAP5",
+        "ts": "1636984487.037200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YVwsk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there something special required to be able to run "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\\Drupal\\Tests\\announcements_feed\\FunctionalJavascript\\AccessAnnouncementTest",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " locally? It seems like the tests are failing locally for me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636984487.037200",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1636989976.040300",
+        "reply_users": [
+            "U2T8M7PA4",
+            "U06HDFAP5"
+        ],
+        "replies": [
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1636985341.037700"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1636985384.037900"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1636985624.038100"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1636985806.038400"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1636985817.038600"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1636986048.038800"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1636986329.039100"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1636986344.039300"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1636989976.040300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9bbd07d5-e89e-46f4-845e-78cb70591ad7",
+        "type": "message",
+        "text": "<@U06HDFAP5> <@U1A7P6GTZ> We are following the same process that we did for ckeditor5 module development.\n\ni.e. we create the issue in module’s issue queue. Later after merging we create a patch for main issue via a shell script.\n\nIn our case, we have module <https:\/\/www.drupal.org\/project\/announce|here>, and <https:\/\/www.drupal.org\/project\/announce\/issues\/3238706|this is> the shell script that <@U4PT7ES0M> uses it to create the patch.",
+        "user": "U2T8M7PA4",
+        "ts": "1636985267.037300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OibX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06HDFAP5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1A7P6GTZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We are following the same process that we did for ckeditor5 module development.\n\ni.e. we create the issue in module’s issue queue. Later after merging we create a patch for main issue via a shell script.\n\nIn our case, we have module "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3238706",
+                                "text": "this is"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the shell script that "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " uses it to create the patch."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce",
+                "service_name": "Drupal.org",
+                "title": "Announce",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce",
+                "text": "This project is for developing the prototype module for a Project Messaging Channel, with the goal of porting it over to Core, creating a capability reach Drupal users in the back-end interface directly. For information about this initiative, please check out the core ideas queue.",
+                "ts": 1564674798,
+                "fallback": "Drupal.org: Announce",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce"
+            },
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3238706",
+                "service_name": "Drupal.org",
+                "title": "Shell script of automated patch",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3238706",
+                "text": "The idea of this issue is to cook up a shell that would cook up a shell script which would make us easier for us to raise PR.",
+                "ts": 1632382405,
+                "fallback": "Drupal.org: Shell script of automated patch",
+                "id": 2,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3238706"
+            }
+        ],
+        "thread_ts": "1635753844.023500",
+        "parent_user_id": "U21M96DQU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06HDFAP5",
+                    "U1A7P6GTZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e1da2375-0b5b-40a3-bf83-200b48749042",
+        "type": "message",
+        "text": "looking into this <@U06HDFAP5>",
+        "user": "U2T8M7PA4",
+        "ts": "1636985341.037700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vz4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "looking into this "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06HDFAP5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636984487.037200",
+        "parent_user_id": "U06HDFAP5"
+    },
+    {
+        "client_msg_id": "46fce7e4-1ad4-44d1-ac97-e1c25ef53786",
+        "type": "message",
+        "text": "Primarily we are using ddev based setup for the development, do you want me to invite\/share the repo?",
+        "user": "U2T8M7PA4",
+        "ts": "1636985384.037900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vuL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Primarily we are using ddev based setup for the development, do you want me to invite\/share the repo?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636984487.037200",
+        "parent_user_id": "U06HDFAP5"
+    },
+    {
+        "client_msg_id": "e89b6490-1383-4d2b-818d-704a8d7e8efe",
+        "type": "message",
+        "text": "Hmm, does it have something special that is required for this test to pass?",
+        "user": "U06HDFAP5",
+        "ts": "1636985624.038100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FIzN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmm, does it have something special that is required for this test to pass?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636984487.037200",
+        "parent_user_id": "U06HDFAP5"
+    },
+    {
+        "client_msg_id": "e314814d-3ff3-4ec1-b5d8-46e262165b7b",
+        "type": "message",
+        "text": "Nope, nothing as such.\nJust a standard setup with `.ddev\/docker-compose.chromedriver.yml`",
+        "user": "U2T8M7PA4",
+        "ts": "1636985806.038400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+rLYZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nope, nothing as such.\nJust a standard setup with "
+                            },
+                            {
+                                "type": "text",
+                                "text": ".ddev\/docker-compose.chromedriver.yml",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636984487.037200",
+        "parent_user_id": "U06HDFAP5"
+    },
+    {
+        "client_msg_id": "6e0361c9-2ac0-4ba4-aabd-f7edc329aef6",
+        "type": "message",
+        "text": "Sharing this right away",
+        "user": "U2T8M7PA4",
+        "ts": "1636985817.038600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GHi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sharing this right away"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636984487.037200",
+        "parent_user_id": "U06HDFAP5"
+    },
+    {
+        "client_msg_id": "cba2ad5b-fcaf-4a0c-9a07-5a3ede67e97d",
+        "type": "message",
+        "text": "<https:\/\/pastebin.com\/0gWW7H0F> - docker compose chromedriver\nphpunit.xml <https:\/\/pastebin.com\/7JrzVBey>\nphpunit.xml is same as Drupal core’s file. I’ve just updated just paths depending on docroot.",
+        "user": "U2T8M7PA4",
+        "ts": "1636986048.038800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hVR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pastebin.com\/0gWW7H0F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - docker compose chromedriver\nphpunit.xml "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pastebin.com\/7JrzVBey"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nphpunit.xml is same as Drupal core’s file. I’ve just updated just paths depending on docroot."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/pastebin.com\/0gWW7H0F",
+                "service_name": "Pastebin",
+                "title": ".ddev\/docker-compose.chromedriver.yml - Pastebin.com",
+                "title_link": "https:\/\/pastebin.com\/0gWW7H0F",
+                "text": "<http:\/\/Pastebin.com|Pastebin.com> is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time.",
+                "fallback": "Pastebin: .ddev\/docker-compose.chromedriver.yml - Pastebin.com",
+                "service_icon": "https:\/\/pastebin.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/pastebin.com\/0gWW7H0F"
+            },
+            {
+                "from_url": "https:\/\/pastebin.com\/7JrzVBey",
+                "service_name": "Pastebin",
+                "title": "phpunit.xml - Pastebin.com",
+                "title_link": "https:\/\/pastebin.com\/7JrzVBey",
+                "text": "<http:\/\/Pastebin.com|Pastebin.com> is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time.",
+                "fallback": "Pastebin: phpunit.xml - Pastebin.com",
+                "service_icon": "https:\/\/pastebin.com\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/pastebin.com\/7JrzVBey"
+            }
+        ],
+        "thread_ts": "1636984487.037200",
+        "parent_user_id": "U06HDFAP5"
+    },
+    {
+        "client_msg_id": "3f9b5b9a-02b6-4242-a588-48877a357f2c",
+        "type": "message",
+        "text": "I don’t see any major differences there that would explain this",
+        "user": "U06HDFAP5",
+        "ts": "1636986329.039100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JIjP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t see any major differences there that would explain this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636984487.037200",
+        "parent_user_id": "U06HDFAP5"
+    },
+    {
+        "client_msg_id": "960f637a-98ba-4d1a-90ee-a6546a15e049",
+        "type": "message",
+        "text": "I did have colleague running the test locally and it was passing for them",
+        "user": "U06HDFAP5",
+        "ts": "1636986344.039300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7SE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did have colleague running the test locally and it was passing for them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636984487.037200",
+        "parent_user_id": "U06HDFAP5"
+    },
+    {
+        "client_msg_id": "2CE4657D-7174-4489-8FD4-08542ED383B3",
+        "type": "message",
+        "text": "got it passing by running it with web server that is using Apache instead of PHP built in web server",
+        "user": "U06HDFAP5",
+        "ts": "1636989976.040300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OXPNa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "got it passing by running it with web server that is using Apache instead of PHP built in web server"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636984487.037200",
+        "parent_user_id": "U06HDFAP5"
+    },
+    {
+        "client_msg_id": "c3dd79b4-de45-47a7-82ad-506e2c1febd8",
+        "type": "message",
+        "text": "Opened <https:\/\/www.drupal.org\/project\/announce\/issues\/3249521> with some light docs fixes",
+        "user": "U1A7P6GTZ",
+        "ts": "1637008242.040600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OBd3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Opened "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249521"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with some light docs fixes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249521",
+                "service_name": "Drupal.org",
+                "title": "Various documentation fixes",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249521",
+                "text": "Problem\/Motivation The module description is incorrect and the help could use some improvement. The core module should not link to documentation on a contributed project, this needs some kind of solution, possibly in the core patch script. Steps to reproduce Proposed resolution Remaining tasks User interface changes API changes Data model changes",
+                "ts": 1637004127,
+                "fallback": "Drupal.org: Various documentation fixes",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249521"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "683fc84d-c3bd-4dd3-9a94-356f6dbbb977",
+        "type": "message",
+        "text": "While doing that, noticed <https:\/\/www.drupal.org\/project\/announce\/issues\/3249532> which is odd, should be discussed",
+        "user": "U1A7P6GTZ",
+        "ts": "1637008265.041000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hah76",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "While doing that, noticed "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532"
+                            },
+                            {
+                                "type": "text",
+                                "text": " which is odd, should be discussed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532",
+                "service_name": "Drupal.org",
+                "title": "Should not display ALL the announcements(?)",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532",
+                "text": "Problem\/Motivation The module currently displays all the announcements from <http:\/\/drupal.org|drupal.org>. Is the idea that the announcement feed itself will have controls \/ limits as to what it contains and thus limit what is displayed on the site? If so, we should include that somehow in the documentation as well. Noticed while working on [#3249521]. If the feed keeps growing, then we need a Drupal site-side solution to limit the items. Steps to reproduce Proposed resolution Remaining tasks User interface changes API changes Data model changes",
+                "ts": 1637005533,
+                "fallback": "Drupal.org: Should not display ALL the announcements(?)",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef6509fd-9f4a-472f-b64f-90d72c153c89",
+        "type": "message",
+        "text": "also while doing the docs updates I noticed this and proposed lots of fixes (not yet green though) <https:\/\/www.drupal.org\/project\/announce\/issues\/3249535> will continue tomorrow but feel free to pick up and fix it up \/ land if you have time in the meantime",
+        "user": "U1A7P6GTZ",
+        "ts": "1637008290.041600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ANK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also while doing the docs updates I noticed this and proposed lots of fixes (not yet green though) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249535"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will continue tomorrow but feel free to pick up and fix it up \/ land if you have time in the meantime"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1A7P6GTZ",
+            "ts": "1637008309.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249535",
+                "service_name": "Drupal.org",
+                "title": "Config and state keys used are incorrect (still using old module name)",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249535",
+                "text": "Problem\/Motivation The configuration and state keys used in the module still use to the old module name and thus are misleading \/ incorrect. Steps to reproduce Proposed resolution Remaining tasks User interface changes API changes Data model changes",
+                "ts": 1637005639,
+                "fallback": "Drupal.org: Config and state keys used are incorrect (still using old module name)",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249535"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e38abdfb-d6a6-404a-9779-db8999acce37",
+        "type": "message",
+        "text": ":thankful: Gábor",
+        "user": "U06NAEYSF",
+        "ts": "1637010075.042100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Z3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "thankful"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Gábor"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bbae847e-7250-45a3-8811-acc7e755f568",
+        "type": "message",
+        "text": "Send a quick MR for <https:\/\/www.drupal.org\/project\/announce\/issues\/3248673> implementation is not OK but it does show the target behavior. Should take inspiration from the toolbar module (backend) for the implementation",
+        "user": "U21M96DQU",
+        "ts": "1637011516.043700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9F9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Send a quick MR for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3248673"
+                            },
+                            {
+                                "type": "text",
+                                "text": " implementation is not OK but it does show the target behavior. Should take inspiration from the toolbar module (backend) for the implementation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3248673",
+                "service_name": "Drupal.org",
+                "title": "Toggle announcement dialog on clicking toolbar link",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3248673",
+                "text": "Problem\/Motivation When Announcement dialog is open on clicking the Announcements link multiple times in the toolbar does not do anything. Steps to reproduce 1. On 1st click of Announcements link dialog opens up. 2. On 2nd click of Announcements link nothing happens. Proposed resolution The off-canvas dialog should toggle on clicking Announcements link. Remaining tasks User interface changes API changes Data model changes",
+                "ts": 1636547184,
+                "fallback": "Drupal.org: Toggle announcement dialog on clicking toolbar link",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3248673"
+            }
+        ]
+    }
+]

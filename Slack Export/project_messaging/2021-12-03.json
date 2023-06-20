@@ -1,0 +1,173 @@
+[
+    {
+        "client_msg_id": "d31c5bcb-f248-406d-9fcd-adddc8b6a199",
+        "type": "message",
+        "text": "Updated the issue summary of our main core inclusion meta: <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#summary-remaining-tasks>\n\nWith the 4 tasks opened after the recent sprint:\n• <https:\/\/www.drupal.org\/project\/announce\/issues\/3249625|#3249625: Document difference between featured and standard announcements>\n• <https:\/\/www.drupal.org\/project\/announce\/issues\/3249644|#3249644: Clarify behavior of announcements, new, viewed, hiding, etc.>\n• <https:\/\/www.drupal.org\/project\/announce\/issues\/3249532|#3249532: Display only the top 10 announcements by version (featured then recent) with a see more link>\n• <https:\/\/www.drupal.org\/project\/governance\/issues\/3071994|#3071994: Document approval process for what appears in the official Drupal project messaging feed>\nI think those are the primary blockers before the next round of review for core-inclusion.",
+        "user": "U06NAEYSF",
+        "ts": "1638567882.075500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JiCGb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Updated the issue summary of our main core inclusion meta: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#summary-remaining-tasks"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWith the 4 tasks opened after the recent sprint:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249625",
+                                        "text": "#3249625: Document difference between featured and standard announcements",
+                                        "unsafe": true
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249644",
+                                        "text": "#3249644: Clarify behavior of announcements, new, viewed, hiding, etc.",
+                                        "unsafe": true
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532",
+                                        "text": "#3249532: Display only the top 10 announcements by version (featured then recent) with a see more link",
+                                        "unsafe": true
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.drupal.org\/project\/governance\/issues\/3071994",
+                                        "text": "#3071994: Document approval process for what appears in the official Drupal project messaging feed",
+                                        "unsafe": true
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nI think those are the primary blockers before the next round of review for core-inclusion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638567882.075500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1638598660.075700",
+        "reply_users": [
+            "U1A7P6GTZ"
+        ],
+        "replies": [
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1638598660.075700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1A7P6GTZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ebeb8975-3030-4339-8e36-e0c15b9c0031",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U1A7P6GTZ",
+        "ts": "1638598660.075700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+hAlB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638567882.075500",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

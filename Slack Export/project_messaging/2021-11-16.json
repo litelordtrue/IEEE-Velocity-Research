@@ -1,0 +1,1410 @@
+[
+    {
+        "client_msg_id": "3a4a1085-9035-4b09-9143-60ce7b5509be",
+        "type": "message",
+        "text": "<@U2T8M7PA4> got a few questions about some of the features, mainly what is the closed button on featured announcements used for (or was supposed to be used for) <https:\/\/www.drupal.org\/project\/announce\/issues\/3249644>",
+        "user": "U21M96DQU",
+        "ts": "1637058917.044700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5rXk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " got a few questions about some of the features, mainly what is the closed button on featured announcements used for (or was supposed to be used for) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249644"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249644",
+                "service_name": "Drupal.org",
+                "title": "Clarify behavior of announcements, new, viewed, hiding, etc.",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249644",
+                "text": "Problem\/Motivation It is not clear what a user can do with annoucements and what gets saved or not. Currently the list is displayed and cached for each user (using the announce:feed: cache tag, and user cache context). For each user a list of announcements ID is saved and is used to mark annoucements as \"new\" if an announcement id is not in this list.",
+                "ts": 1637058352,
+                "fallback": "Drupal.org: Clarify behavior of announcements, new, viewed, hiding, etc.",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249644"
+            }
+        ],
+        "thread_ts": "1637058917.044700",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1637076105.048500",
+        "reply_users": [
+            "U2T8M7PA4",
+            "U21M96DQU",
+            "U1A7P6GTZ"
+        ],
+        "replies": [
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1637063000.045700"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1637063013.046000"
+            },
+            {
+                "user": "U21M96DQU",
+                "ts": "1637066871.046200"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1637073304.047800"
+            },
+            {
+                "user": "U21M96DQU",
+                "ts": "1637073637.048000"
+            },
+            {
+                "user": "U21M96DQU",
+                "ts": "1637073638.048200"
+            },
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1637076105.048500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f833be7f-78c8-43e0-b868-3de36e465d46",
+        "type": "message",
+        "text": "Thanks <@U4PT7ES0M> for fixing up <https:\/\/www.drupal.org\/project\/announce\/issues\/3249535>, I think this should go in, then I would love to submit more fixes for other things in the same code lines :smile:",
+        "user": "U1A7P6GTZ",
+        "ts": "1637059698.045500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rKQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for fixing up "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249535"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I think this should go in, then I would love to submit more fixes for other things in the same code lines "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249535",
+                "service_name": "Drupal.org",
+                "title": "Some of configuration keys, cache tags, keyvalue store, service names, logger channel, etc. use old module name",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249535",
+                "text": "Problem\/Motivation The configuration and state keys used in the module still use to the old module name and thus are misleading \/ incorrect. Steps to reproduce Proposed resolution Remaining tasks User interface changes API changes Data model changes",
+                "ts": 1637005639,
+                "fallback": "Drupal.org: Some of configuration keys, cache tags, keyvalue store, service names, logger channel, etc. use old module name",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249535"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63c15e7a-bd8b-4228-bf96-8d8019d890eb",
+        "type": "message",
+        "text": "<@U21M96DQU>\nBased on initial designs <https:\/\/www.figma.com\/proto\/Ws4Gk0ImaripDb4NAlTvCBtZ\/Community-Alerts---Desktop--v1?node-id=41%3A485&amp;viewport=-19%2C551%2C0.11556927114725113&amp;scaling=min-zoom|here>, it was a planned feature where we can mark each individual notification as read notifications, close notification etc.\nLater we decided to keep those as enhancements because we want to keep basic module ready for 9.3.x release.\n\nFor now, close button on `featured announcement` just hides the notification for a while and it will popup again on when we open the modal next time or reload the page.",
+        "user": "U2T8M7PA4",
+        "ts": "1637063000.045700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xxp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U21M96DQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBased on initial designs "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.figma.com\/proto\/Ws4Gk0ImaripDb4NAlTvCBtZ\/Community-Alerts---Desktop--v1?node-id=41%3A485&viewport=-19%2C551%2C0.11556927114725113&scaling=min-zoom",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", it was a planned feature where we can mark each individual notification as read notifications, close notification etc.\nLater we decided to keep those as enhancements because we want to keep basic module ready for 9.3.x release.\n\nFor now, close button on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "featured announcement",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " just hides the notification for a while and it will popup again on when we open the modal next time or reload the page."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.figma.com\/proto\/Ws4Gk0ImaripDb4NAlTvCBtZ\/Community-Alerts---Desktop--v1?node-id=41%3A485&viewport=-19%2C551%2C0.11556927114725113&scaling=min-zoom",
+                "service_name": "Figma",
+                "title": "Community Alerts - Desktop- v2",
+                "title_link": "https:\/\/www.figma.com\/proto\/Ws4Gk0ImaripDb4NAlTvCBtZ\/Community-Alerts---Desktop--v1?node-id=41%3A485&viewport=-19%2C551%2C0.11556927114725113&scaling=min-zoom",
+                "text": "Created with Figma",
+                "thumb_url": "https:\/\/www.figma.com\/file\/Ws4Gk0ImaripDb4NAlTvCBtZ\/thumbnail?ver=thumbnails\/2c8645fc-b50b-40dd-8936-94460e6602de",
+                "thumb_width": 798,
+                "thumb_height": 51,
+                "image_url": "https:\/\/www.figma.com\/file\/Ws4Gk0ImaripDb4NAlTvCBtZ\/thumbnail?ver=thumbnails\/2c8645fc-b50b-40dd-8936-94460e6602de",
+                "image_width": 798,
+                "image_height": 51,
+                "image_bytes": 9035,
+                "fallback": "Figma: Community Alerts - Desktop- v2",
+                "service_icon": "https:\/\/static.figma.com\/app\/icon\/1\/touch-76.png",
+                "id": 1,
+                "original_url": "https:\/\/www.figma.com\/proto\/Ws4Gk0ImaripDb4NAlTvCBtZ\/Community-Alerts---Desktop--v1?node-id=41%3A485&amp;viewport=-19%2C551%2C0.11556927114725113&amp;scaling=min-zoom"
+            }
+        ],
+        "thread_ts": "1637058917.044700",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "dde8163c-b759-49ef-a78f-f9f93d316252",
+        "type": "message",
+        "text": "<@U6KM25QT0> might have more ideas about it.",
+        "user": "U2T8M7PA4",
+        "ts": "1637063013.046000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ap2K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6KM25QT0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " might have more ideas about it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637058917.044700",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "ff22e0ad-1286-4f3f-a827-31e1ec41af6d",
+        "type": "message",
+        "text": "right, so right now the \"new\" status correspond to the original \"unread\" status? and marking something \"read\" is done automatically",
+        "user": "U21M96DQU",
+        "ts": "1637066871.046200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SERS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "right, so right now the \"new\" status correspond to the original \"unread\" status? and marking something \"read\" is done automatically"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637058917.044700",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "5271ea22-0e3e-4b12-86fd-8615840e2d32",
+        "type": "message",
+        "text": "I guess to get in to core it probably needs a maintainer, who would be that person down the line? also helps to know who makes the calls about feature set",
+        "user": "U21M96DQU",
+        "ts": "1637066923.047100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i4Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess to get in to core it probably needs a maintainer, who would be that person down the line? also helps to know who makes the calls about feature set"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637066923.047100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1637081099.048800",
+        "reply_users": [
+            "U2T8M7PA4",
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1637071104.047500"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1637081099.048800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1A7P6GTZ",
+                    "U06HDFAP5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "hand",
+                "users": [
+                    "U2T8M7PA4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cc28b55-1633-4b75-9f20-de73af3b20b8",
+        "type": "message",
+        "text": "In future, I can take care of maintaining things.\nAlso, regarding feature set, probably <@U06NAEYSF> can comment about it.",
+        "user": "U2T8M7PA4",
+        "ts": "1637071104.047500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jHKC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In future, I can take care of maintaining things.\nAlso, regarding feature set, probably "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can comment about it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637066923.047100",
+        "parent_user_id": "U21M96DQU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U21M96DQU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06NAEYSF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84d19d6c-7a09-49fe-a172-35ccf4a8cd37",
+        "type": "message",
+        "text": "Yes, currently `new` status is global.\nIt works like:\n• whenever someone opens the modal, all the notifications are marked as read.\n• When some new notification comes up in future, it will have bell icon\n• Again when user opens modal it gets marked as read.\n",
+        "user": "U2T8M7PA4",
+        "ts": "1637073304.047800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ihr7B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, currently "
+                            },
+                            {
+                                "type": "text",
+                                "text": "new",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " status is global.\nIt works like:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "whenever someone opens the modal, all the notifications are marked as read."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "When some new notification comes up in future, it will have bell icon"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Again when user opens modal it gets marked as read."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637058917.044700",
+        "parent_user_id": "U21M96DQU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U21M96DQU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4b426c78-e929-49bc-aabb-57e22ddc6c33",
+        "type": "message",
+        "text": "so since we don't have the sticky behavior of the featured announcements like there was in the mockup, could we just remove the close button on featured annoucments",
+        "user": "U21M96DQU",
+        "ts": "1637073637.048000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2BG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so since we don't have the sticky behavior of the featured announcements like there was in the mockup, could we just remove the close button on featured annoucments"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637058917.044700",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "f3d2301d-53ac-4060-8cfd-4dc5aecd27a0",
+        "type": "message",
+        "text": "?",
+        "user": "U21M96DQU",
+        "ts": "1637073638.048200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "INpX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637058917.044700",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "7a871e4d-8ed4-41d5-ba54-5b8e84e2dfcc",
+        "type": "message",
+        "text": "Hm, there is a featured feature, those are listed first :smile:",
+        "user": "U1A7P6GTZ",
+        "ts": "1637076105.048500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IBYlv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hm, there is a featured feature, those are listed first "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637058917.044700",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "a7d40714-067b-4e9e-9167-f63453655ac5",
+        "type": "message",
+        "text": "As far as making feature decisions - I think typically that defaults to the sub-system maintainer for the feature (thank you for offering to step forward <@U2T8M7PA4> !), right? But it would make sense that the same group that governs the announcements themselves would be consulted about future feature revisions.",
+        "user": "U06NAEYSF",
+        "ts": "1637081099.048800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/VBVj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As far as making feature decisions - I think typically that defaults to the sub-system maintainer for the feature (thank you for offering to step forward "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !), right? But it would make sense that the same group that governs the announcements themselves would be consulted about future feature revisions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637066923.047100",
+        "parent_user_id": "U21M96DQU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U21M96DQU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f116895d-6231-4892-b03a-88573eec3a14",
+        "type": "message",
+        "text": "hey <@U1A7P6GTZ> <https:\/\/www.drupal.org\/project\/announce\/issues\/3249641> in here how about we use `drupal_set_message` to report error here ???",
+        "user": "U4PT7ES0M",
+        "ts": "1637081229.049900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "udm2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1A7P6GTZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249641"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in here how about we use "
+                            },
+                            {
+                                "type": "text",
+                                "text": "drupal_set_message",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to report error here ???"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249641",
+                "service_name": "Drupal.org",
+                "title": "Show error in the UI in case fetching announcements fails",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249641",
+                "text": "Problem\/Motivation At the moment, if fetching announcements fails, the dialog is opened as empty. This is poor UX since the user could assume that there aren't any announcements. Providing easy to understand error messages is often listed as one of the most important UX considerations. Proposed resolution Show error message instead of the list in case fetching announcements fails. Remaining tasks User interface changes API changes Data model changes",
+                "ts": 1637058140,
+                "fallback": "Drupal.org: Show error in the UI in case fetching announcements fails",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249641"
+            }
+        ],
+        "thread_ts": "1637081229.049900",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1637143238.056300",
+        "reply_users": [
+            "U1A7P6GTZ",
+            "U4PT7ES0M",
+            "U21M96DQU"
+        ],
+        "replies": [
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1637082875.050100"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1637085232.050400"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1637085674.050800"
+            },
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1637091735.051000"
+            },
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1637091825.051200"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1637136752.054800"
+            },
+            {
+                "user": "U21M96DQU",
+                "ts": "1637141901.055500"
+            },
+            {
+                "user": "U21M96DQU",
+                "ts": "1637141959.055700"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1637143126.055900"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1637143238.056300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "77c3b906-a2e8-4992-b44d-a402d226b02e",
+        "type": "message",
+        "text": "Did I say to use drupal_set_message? ;) I think that would only show on the standalone page. Although it MAY show in the offcanvas tray too. It is worth a try.",
+        "user": "U1A7P6GTZ",
+        "ts": "1637082875.050100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3ol",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did I say to use drupal_set_message? ;) I think that would only show on the standalone page. Although it MAY show in the offcanvas tray too. It is worth a try."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637081229.049900",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "type": "message",
+        "text": "It would be something like this",
+        "files": [
+            {
+                "id": "F02MXCZMBJ5",
+                "created": 1637085217,
+                "timestamp": 1637085217,
+                "name": "Screenshot 2021-11-16 at 11.16.40 PM.png",
+                "title": "Screenshot 2021-11-16 at 11.16.40 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U4PT7ES0M",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 291715,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02MXCZMBJ5\/screenshot_2021-11-16_at_11.16.40_pm.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02MXCZMBJ5\/download\/screenshot_2021-11-16_at_11.16.40_pm.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MXCZMBJ5-a9416b0dc1\/screenshot_2021-11-16_at_11.16.40_pm_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MXCZMBJ5-a9416b0dc1\/screenshot_2021-11-16_at_11.16.40_pm_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MXCZMBJ5-a9416b0dc1\/screenshot_2021-11-16_at_11.16.40_pm_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 177,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MXCZMBJ5-a9416b0dc1\/screenshot_2021-11-16_at_11.16.40_pm_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 236,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MXCZMBJ5-a9416b0dc1\/screenshot_2021-11-16_at_11.16.40_pm_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MXCZMBJ5-a9416b0dc1\/screenshot_2021-11-16_at_11.16.40_pm_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 354,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MXCZMBJ5-a9416b0dc1\/screenshot_2021-11-16_at_11.16.40_pm_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 393,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MXCZMBJ5-a9416b0dc1\/screenshot_2021-11-16_at_11.16.40_pm_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 472,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02MXCZMBJ5-a9416b0dc1\/screenshot_2021-11-16_at_11.16.40_pm_1024.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 504,
+                "original_w": 2798,
+                "original_h": 1376,
+                "thumb_tiny": "AwAXADBGJB+aOPPulNyP+eUX\/fFamPc0nA9fyqrrsKz7mZx\/zyi\/74o4\/wCeUX\/fFagAPc0u2i67Cs+5kswA\/wBTF\/3xTfN44ii\/74q7qIxCv+9\/Ss+kykbO9f71LvX1qGikBNvX1o3r61DRQBHqDAwrg\/xVn1cvP9Wv1qnQB\/\/Z",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U4PT7ES0M\/F02MXCZMBJ5\/screenshot_2021-11-16_at_11.16.40_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F02MXCZMBJ5-3b16c4d9c3",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U4PT7ES0M",
+        "display_as_bot": false,
+        "ts": "1637085232.050400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QLDgE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It would be something like this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4f7b9073-b21f-424a-92e0-568d23b89f19",
+        "thread_ts": "1637081229.049900",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "21eb425d-82b1-43b3-8404-296bffd2c658",
+        "type": "message",
+        "text": "currently i can only think of `incorrect url` or `improper json` might lead to empty announcement page... Which can be handled by this :grimacing:",
+        "user": "U4PT7ES0M",
+        "ts": "1637085674.050800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WdBan",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "currently i can only think of "
+                            },
+                            {
+                                "type": "text",
+                                "text": "incorrect url",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "text",
+                                "text": "improper json",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " might lead to empty announcement page... Which can be handled by this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing",
+                                "unicode": "1f62c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637081229.049900",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "df373b5c-59ca-4478-b5a6-34d20fc42ac5",
+        "type": "message",
+        "text": "I don't think you expect the error to show up on the page while you interact with the sidebar. Also the two infos contradict in the error and sidebar. <http:\/\/Drupal.org|Drupal.org> could also be down, there may be other network errors or firewalls or whatnot.",
+        "user": "U1A7P6GTZ",
+        "ts": "1637091735.051000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ufv0M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't think you expect the error to show up on the page while you interact with the sidebar. Also the two infos contradict in the error and sidebar. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Drupal.org",
+                                "text": "Drupal.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " could also be down, there may be other network errors or firewalls or whatnot."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637081229.049900",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "f7bbaead-123d-4fd2-887b-0ec20c498d9b",
+        "type": "message",
+        "text": "So it's not quite \"incorrect url\" but rather cannot load the JSON file for whatever reason. Or can load it but malformed. There is also the case of no announcements being applicable to this version of Drupal (even though more announcements are available per say).",
+        "user": "U1A7P6GTZ",
+        "ts": "1637091825.051200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QFW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So it's not quite \"incorrect url\" but rather cannot load the JSON file for whatever reason. Or can load it but malformed. There is also the case of no announcements being applicable to this version of Drupal (even though more announcements are available per say)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637081229.049900",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "0535aae9-5ae4-49de-a58e-d299f3d54301",
+        "type": "message",
+        "text": "<@U2T8M7PA4> hello do you think we could get some of the patches in? Would help avoid reroll hell later (especially the one renaming things in code <https:\/\/www.drupal.org\/project\/announce\/issues\/3249535|https:\/\/www.drupal.org\/project\/announce\/issues\/3249535>",
+        "user": "U21M96DQU",
+        "ts": "1637125732.054000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dnXx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hello do you think we could get some of the patches in? Would help avoid reroll hell later (especially the one renaming things in code "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249535",
+                                "text": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249535"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249535",
+                "service_name": "Drupal.org",
+                "title": "Some of configuration keys, cache tags, keyvalue store, service names, logger channel, etc. use old module name",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249535",
+                "text": "Problem\/Motivation The configuration and state keys used in the module still use to the old module name and thus are misleading \/ incorrect. Steps to reproduce Proposed resolution Remaining tasks User interface changes API changes Data model changes",
+                "ts": 1637005639,
+                "fallback": "Drupal.org: Some of configuration keys, cache tags, keyvalue store, service names, logger channel, etc. use old module name",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249535"
+            }
+        ],
+        "thread_ts": "1637125732.054000",
+        "reply_count": 11,
+        "reply_users_count": 4,
+        "latest_reply": "1637230096.059700",
+        "reply_users": [
+            "U2T8M7PA4",
+            "U21M96DQU",
+            "U06HDFAP5",
+            "U1A7P6GTZ"
+        ],
+        "replies": [
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1637126251.054200"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1637126453.054400"
+            },
+            {
+                "user": "U21M96DQU",
+                "ts": "1637127004.054600"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1637141638.055200"
+            },
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1637155711.056600"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1637155778.056800"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1637222530.057000"
+            },
+            {
+                "user": "U06HDFAP5",
+                "ts": "1637224235.057200"
+            },
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1637224576.057400"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1637228447.058400"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1637230096.059700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "661b12fd-7c36-4f0f-8c7d-541189e87f3e",
+        "type": "message",
+        "text": "Yes, I’ve already planned some time. Will review an merge in half an hour.",
+        "user": "U2T8M7PA4",
+        "ts": "1637126251.054200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A5Ph",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I’ve already planned some time. Will review an merge in half an hour."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637125732.054000",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "eed2eaa5-bcf9-4758-a3e5-6f32e6e50c97",
+        "type": "message",
+        "text": "Done, merged.\nLooking at other PRs.",
+        "user": "U2T8M7PA4",
+        "ts": "1637126453.054400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M==L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done, merged.\nLooking at other PRs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637125732.054000",
+        "parent_user_id": "U21M96DQU"
+    },
+    {
+        "client_msg_id": "9f1ee072-baf1-48e0-88e7-2d5194b83aca",
+        "type": "message",
+        "text": "Awesome thanks!",
+        "user": "U21M96DQU",
+        "ts": "1637127004.054600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SapU8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "f3bd68b91d72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-16\/69726234336_f3bd68b91d72b7bf95a0_72.jpg",
+            "first_name": "Théodore",
+            "real_name": "Théodore Biadala",
+            "display_name": "nod_",
+            "team": "T06GX3JTS",
+            "name": "nod_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637125732.054000",
+        "parent_user_id": "U21M96DQU"
+    }
+]

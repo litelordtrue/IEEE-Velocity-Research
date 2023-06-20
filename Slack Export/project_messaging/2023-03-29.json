@@ -1,0 +1,296 @@
+[
+    {
+        "client_msg_id": "2857cf45-dd17-4f29-b2bf-84faf1dd031d",
+        "type": "message",
+        "text": "<@U1ASJU340> <@U4LU589C0> <@U1CREGN04> - you all have open threads in the MR here <https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889>\n\nI think that most of them have been addressed. The only outstanding one is about the lazy builders in the cache contexts.\n\nI will be off from tomorrow until next Thursday, so *it’d be great if during that time you can resolve the open threads within the MR that are fully addressed*. And of course, if anybody wants to work on that lazy builder task you’re more than welcome to it. Otherwise I’ll pick up new feedback and existing tasks once I’m back.\n\ncc <@U06NAEYSF>",
+        "user": "U6K08UK96",
+        "ts": "1680100060.129749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "go9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U1ASJU340"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4LU589C0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1CREGN04"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - you all have open threads in the MR here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI think that most of them have been addressed. The only outstanding one is about the lazy builders in the cache contexts.\n\nI will be off from tomorrow until next Thursday, so "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’d be great if during that time you can resolve the open threads within the MR that are fully addressed",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". And of course, if anybody wants to work on that lazy builder task you’re more than welcome to it. Otherwise I’ll pick up new feedback and existing tasks once I’m back.\n\ncc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680100060.129749",
+        "reply_count": 9,
+        "reply_users_count": 5,
+        "latest_reply": "1680808920.452319",
+        "reply_users": [
+            "U1CREGN04",
+            "U1ASJU340",
+            "U4KAE8Q91",
+            "U06NAEYSF",
+            "U6K08UK96"
+        ],
+        "replies": [
+            {
+                "user": "U1CREGN04",
+                "ts": "1680100088.037529"
+            },
+            {
+                "user": "U1ASJU340",
+                "ts": "1680117483.854919"
+            },
+            {
+                "user": "U1ASJU340",
+                "ts": "1680117504.836559"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1680193873.593619"
+            },
+            {
+                "user": "U1ASJU340",
+                "ts": "1680222322.877019"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1680223352.599829"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1680227082.031339"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1680794266.100809"
+            },
+            {
+                "user": "U1ASJU340",
+                "ts": "1680808920.452319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "173c0c47-eda0-44f5-9d47-b2226ea7386b",
+        "type": "message",
+        "text": "Thanks for the ping. Setting a reminder",
+        "user": "U1CREGN04",
+        "ts": "1680100088.037529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b9\/GZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the ping. Setting a reminder"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680100060.129749",
+        "parent_user_id": "U6K08UK96",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U6K08UK96",
+                    "U4KAE8Q91"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e5a7a5b-9888-410c-8e77-db3583cff469",
+        "type": "message",
+        "text": "I'll look at the builder today",
+        "user": "U1ASJU340",
+        "ts": "1680117483.854919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BUB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll look at the builder today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "38ee8c40793c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-29\/614544627089_38ee8c40793c53a9a9fa_72.jpg",
+            "first_name": "larowlan",
+            "real_name": "larowlan",
+            "display_name": "larowlan",
+            "team": "T06GX3JTS",
+            "name": "larowlan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680100060.129749",
+        "parent_user_id": "U6K08UK96",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3dd073a1-88b5-4361-aeae-346c3b34f576",
+        "type": "message",
+        "text": "Great work, enjoy your break :umbrella_on_ground:",
+        "user": "U1ASJU340",
+        "ts": "1680117504.836559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fLY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great work, enjoy your break "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "umbrella_on_ground",
+                                "unicode": "26f1-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "38ee8c40793c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-29\/614544627089_38ee8c40793c53a9a9fa_72.jpg",
+            "first_name": "larowlan",
+            "real_name": "larowlan",
+            "display_name": "larowlan",
+            "team": "T06GX3JTS",
+            "name": "larowlan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680100060.129749",
+        "parent_user_id": "U6K08UK96",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

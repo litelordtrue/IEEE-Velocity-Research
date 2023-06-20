@@ -1,0 +1,331 @@
+[
+    {
+        "client_msg_id": "ee82931c-178e-4da9-9997-dcedec971d25",
+        "type": "message",
+        "text": "<@U3U1SD32R> hey I've incorporated the changes, <https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/12\/diffs?diff_id=88668&amp;start_sha=35526f66b54b601a1ca648562cdf4df6b3408833#08ca5ffa3446f9634cf292967c3652c7300b5ac7_18_17|https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/12#note_47485 >... is it good enough",
+        "user": "U4PT7ES0M",
+        "ts": "1633529424.088000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IJmib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U3U1SD32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hey I've incorporated the changes, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/12\/diffs?diff_id=88668&start_sha=35526f66b54b601a1ca648562cdf4df6b3408833#08ca5ffa3446f9634cf292967c3652c7300b5ac7_18_17",
+                                "text": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/12#note_47485 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "... is it good enough"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitLab",
+                "title": "3236293: Added a link checker so that only D.O domains can pass through. (!12) · Merge requests · project \/ announce",
+                "title_link": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/12\/diffs?diff_id=88668&start_sha=35526f66b54b601a1ca648562cdf4df6b3408833#08ca5ffa3446f9634cf292967c3652c7300b5ac7_18_17",
+                "text": "Closes #3236293",
+                "fallback": "GitLab: 3236293: Added a link checker so that only D.O domains can pass through. (!12) · Merge requests · project \/ announce",
+                "thumb_url": "https:\/\/git.drupalcode.org\/assets\/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+                "fields": [
+                    {
+                        "title": "Author",
+                        "value": "Lal_",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/12\/diffs?diff_id=88668&start_sha=35526f66b54b601a1ca648562cdf4df6b3408833#08ca5ffa3446f9634cf292967c3652c7300b5ac7_18_17",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "service_icon": "https:\/\/git.drupalcode.org\/assets\/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png",
+                "id": 1,
+                "original_url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/12\/diffs?diff_id=88668&amp;start_sha=35526f66b54b601a1ca648562cdf4df6b3408833#08ca5ffa3446f9634cf292967c3652c7300b5ac7_18_17"
+            }
+        ],
+        "thread_ts": "1633441855.086500",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "14135de1-87fb-4ba3-8a9a-8c3619eebf6c",
+        "type": "message",
+        "text": "Commented on the code change.",
+        "user": "U3U1SD32R",
+        "ts": "1633529599.088300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XSqR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Commented on the code change."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633441855.086500",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "0800f1aa-cbf8-4671-8a7b-0aa9e00c1df5",
+        "type": "message",
+        "text": "thanks <@U3U1SD32R> here is the reworked diff <https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/12\/diffs?diff_id=88890&amp;start_sha=46c5ab9249c62b60a7263924e9c2649ce68ae204#08ca5ffa3446f9634cf292967c3652c7300b5ac7_119_119|https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/12\/diffs?diff_id=88890&amp;start_sha=46c5ab9249c62b60a7263924e9c2649ce68ae204#08ca5[…]9_119>",
+        "user": "U4PT7ES0M",
+        "ts": "1633530500.088500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GXeA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U3U1SD32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here is the reworked diff "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/12\/diffs?diff_id=88890&start_sha=46c5ab9249c62b60a7263924e9c2649ce68ae204#08ca5ffa3446f9634cf292967c3652c7300b5ac7_119_119",
+                                "text": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/12\/diffs?diff_id=88890&start_sha=46c5ab9249c62b60a7263924e9c2649ce68ae204#08ca5[…]9_119"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitLab",
+                "title": "3236293: Added a link checker so that only D.O domains can pass through. (!12) · Merge requests · project \/ announce",
+                "title_link": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/12\/diffs?diff_id=88890&start_sha=46c5ab9249c62b60a7263924e9c2649ce68ae204#08ca5ffa3446f9634cf292967c3652c7300b5ac7_119_119",
+                "text": "Closes #3236293",
+                "fallback": "GitLab: 3236293: Added a link checker so that only D.O domains can pass through. (!12) · Merge requests · project \/ announce",
+                "thumb_url": "https:\/\/git.drupalcode.org\/assets\/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+                "fields": [
+                    {
+                        "title": "Author",
+                        "value": "Lal_",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/12\/diffs?diff_id=88890&start_sha=46c5ab9249c62b60a7263924e9c2649ce68ae204#08ca5ffa3446f9634cf292967c3652c7300b5ac7_119_119",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "service_icon": "https:\/\/git.drupalcode.org\/assets\/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png",
+                "id": 1,
+                "original_url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/12\/diffs?diff_id=88890&amp;start_sha=46c5ab9249c62b60a7263924e9c2649ce68ae204#08ca5ffa3446f9634cf292967c3652c7300b5ac7_119_119"
+            }
+        ],
+        "thread_ts": "1633441855.086500",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "3ee325a6-f68a-41ff-83f8-994c14b7934f",
+        "type": "message",
+        "text": "Looks generally fine for me. I’d bet someone might want to see more testing, ensuring <http:\/\/evil.example.org|evil.example.org> is rejected, for example.",
+        "user": "U3U1SD32R",
+        "ts": "1633530749.088800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V1Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks generally fine for me. I’d bet someone might want to see more testing, ensuring "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/evil.example.org",
+                                "text": "evil.example.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is rejected, for example."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633441855.086500",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "c13d91ea-b82f-4636-926d-1d560b120451",
+        "type": "message",
+        "text": "Are you suggesting to write tests for the function ??? <@U3U1SD32R>",
+        "user": "U4PT7ES0M",
+        "ts": "1633531151.089000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3pm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you suggesting to write tests for the function ??? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U3U1SD32R"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4PT7ES0M",
+            "ts": "1633531174.000000"
+        },
+        "thread_ts": "1633441855.086500",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "f2ec9181-e495-4096-9407-567c7681bb7e",
+        "type": "message",
+        "text": "I don’t know the specific testing requirements, but I know core likes ample tests. I haven’t done real core issue review for a long time.",
+        "user": "U3U1SD32R",
+        "ts": "1633531366.089300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sck",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t know the specific testing requirements, but I know core likes ample tests. I haven’t done real core issue review for a long time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633441855.086500",
+        "parent_user_id": "U4PT7ES0M"
+    }
+]

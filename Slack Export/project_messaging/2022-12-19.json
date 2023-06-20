@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "c6a85131-b199-43b8-96d1-1f396d289536",
+        "type": "message",
+        "text": "Happy Holidays to All!!",
+        "user": "U4KAE8Q91",
+        "ts": "1671471775.647839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KBhPr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Holidays to All!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U06NAEYSF",
+                    "U1CREGN04"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

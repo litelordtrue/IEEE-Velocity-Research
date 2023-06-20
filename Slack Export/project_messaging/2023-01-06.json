@@ -1,0 +1,231 @@
+[
+    {
+        "client_msg_id": "82fd1ff1-7573-43e0-8dda-58e1d8a3017e",
+        "type": "message",
+        "text": "<@U3U1SD32R> here is a question about JSON format for project messaging.  I do not have a good answer. <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14856495>",
+        "user": "U4KAE8Q91",
+        "ts": "1673026429.868659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s=\/X8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U3U1SD32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here is a question about JSON format for project messaging.  I do not have a good answer. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14856495"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14856495",
+                "ts": 1617212298,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14856495",
+                "fallback": "Drupal.org: Project messaging channel in core (as experimental)",
+                "text": "Problem\/Motivation Per the core idea issue: [#2940739] The vast majority of Drupal users do not have accounts on <http:\/\/Drupal.org|Drupal.org>, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association. The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core.",
+                "title": "Project messaging channel in core (as experimental)",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14856495",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1673026429.868659",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1673026751.712849",
+        "reply_users": [
+            "U3U1SD32R",
+            "U4KAE8Q91"
+        ],
+        "replies": [
+            {
+                "user": "U3U1SD32R",
+                "ts": "1673026679.454889"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1673026751.712849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3A875721-77CE-40E3-B2FB-F960954D3755",
+        "type": "message",
+        "text": "I got the notification from the issue, I’ll follow up there, on Monday or earlier ",
+        "user": "U3U1SD32R",
+        "ts": "1673026679.454889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HSF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I got the notification from the issue, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " follow up there, on Monday or earlier "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673026429.868659",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c87f05c-a214-4e9a-9f06-72ad7d0c9bc2",
+        "type": "message",
+        "text": "Thanks!  I will stay connected on this project hoping to move forward on other issues from December as well.",
+        "user": "U4KAE8Q91",
+        "ts": "1673026751.712849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iiS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!  I will stay connected on this project hoping to move forward on other issues from December as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673026429.868659",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U06NAEYSF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a23df94-4dbb-45ea-a494-e7a77c1e0542",
+        "type": "message",
+        "text": "<@U4PT7ES0M>, Happy New Year!  What is best way to proceed at this point to get most up to date version ready for testing?",
+        "user": "U4KAE8Q91",
+        "ts": "1673026814.925019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QO0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Happy New Year!  What is best way to proceed at this point to get most up to date version ready for testing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669836822.615349",
+        "parent_user_id": "U4KAE8Q91"
+    }
+]

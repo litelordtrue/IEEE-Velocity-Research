@@ -1,0 +1,342 @@
+[
+    {
+        "client_msg_id": "6e7073e4-bcc6-4e7d-92c7-156eb5383f7c",
+        "type": "message",
+        "text": "<@U06NAEYSF> thoughts <https:\/\/www.drupal.org\/project\/announce\/issues\/3239588#comment-14238242>",
+        "user": "U4PT7ES0M",
+        "ts": "1632832857.063700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pwJ3t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thoughts "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3239588#comment-14238242"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "'\/announcement' page needs to be restricted",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3239588#comment-14238242",
+                "text": "Problem\/Motivation Currently \/announcement page is not themed. After some discussion with the team it is been decided to restrict user from view the page.",
+                "fallback": "Drupal.org: '\/announcement' page needs to be restricted",
+                "ts": 1632818058,
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3239588#comment-14238242",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3239588#comment-14238242"
+            }
+        ],
+        "thread_ts": "1632832857.063700",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1632850396.065300",
+        "reply_users": [
+            "U06NAEYSF",
+            "U4PT7ES0M"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632840984.063900"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632841031.064100"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632841107.064300"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632841112.064500"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632841123.064700"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1632850396.065300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "eefbf906-55d1-46ca-b4c0-cfbb8444a5fb",
+        "type": "message",
+        "text": "Added a comment. If we need to keep the page in order to have a fallback for people with js disabled then I guess we need to keep it.",
+        "user": "U06NAEYSF",
+        "ts": "1632840984.063900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ax7P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Added a comment. If we need to keep the page in order to have a fallback for people with js disabled then I guess we need to keep it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632832857.063700",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "12525b51-f847-447f-84c2-e85ceeae3ec0",
+        "type": "message",
+        "text": "Otherwise I was in favor of basically getting rid of it entirely in favor of just linking straight to d.o - but we can only do that if it has a good fallback without js",
+        "user": "U06NAEYSF",
+        "ts": "1632841031.064100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ohST",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Otherwise I was in favor of basically getting rid of it entirely in favor of just linking straight to d.o - but we can only do that if it has a good fallback without js"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632832857.063700",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "f4d93387-e412-4924-ae61-437513d0d451",
+        "type": "message",
+        "text": "If we have to keep it as a fallback, let's keep the minimal styling, as you have in the screenshot",
+        "user": "U06NAEYSF",
+        "ts": "1632841107.064300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/VJi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If we have to keep it as a fallback, let's keep the minimal styling, as you have in the screenshot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632832857.063700",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "cb4050bb-c4a2-419f-afb6-f35767a54033",
+        "type": "message",
+        "text": "But also, it should be under a \/admin path",
+        "user": "U06NAEYSF",
+        "ts": "1632841112.064500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H56f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But also, it should be under a \/admin path"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632832857.063700",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "40d2d262-359c-4cd4-966f-2b27c96a5c3d",
+        "type": "message",
+        "text": "like... \/admin\/announcements",
+        "user": "U06NAEYSF",
+        "ts": "1632841123.064700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nlq7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "like... \/admin\/announcements"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632832857.063700",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "8629d50b-079a-461a-97cd-190ce358a144",
+        "type": "message",
+        "text": "Alright got it :thumbsup:",
+        "user": "U4PT7ES0M",
+        "ts": "1632850396.065300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sGl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alright got it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632832857.063700",
+        "parent_user_id": "U4PT7ES0M"
+    }
+]

@@ -1,0 +1,441 @@
+[
+    {
+        "client_msg_id": "19b30eaa-ac9f-459b-a401-2d1a7e61b3c5",
+        "type": "message",
+        "text": "Just noting that while I *love* this idea - it's clearly got to be part of a larger phase2 dedicated initiative.",
+        "user": "U06NAEYSF",
+        "ts": "1634056618.099600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MY2mi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just noting that while I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "love",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " this idea - it's clearly got to be part of a larger phase2 dedicated initiative."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT"
+    },
+    {
+        "client_msg_id": "bc665f66-a907-482b-9891-797a5d1fb5c3",
+        "type": "message",
+        "text": "I do still think we need the existing project messaging work in core for 9.3 if we can get there before the 25th in the meantime",
+        "user": "U06NAEYSF",
+        "ts": "1634056640.099800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d56y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do still think we need the existing project messaging work in core for 9.3 if we can get there before the 25th in the meantime"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT"
+    },
+    {
+        "client_msg_id": "9d025ca9-c118-4bd8-86de-505c35e7121c",
+        "type": "message",
+        "text": "<@U2T8M7PA4> Would you like to set up a check-in either in Slack or by zoom this week so we can see where we are? Getting close to the Oct 25th alpha deadline and I know your team has been working super hard on all the feedback everyone has been providing here.",
+        "user": "U06NAEYSF",
+        "ts": "1634056676.100700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l7M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Would you like to set up a check-in either in Slack or by zoom this week so we can see where we are? Getting close to the Oct 25th alpha deadline and I know your team has been working super hard on all the feedback everyone has been providing here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634056676.100700",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1634222212.103100",
+        "reply_users": [
+            "U2T8M7PA4",
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1634122621.102400"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1634138472.102600"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1634222180.102900"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1634222212.103100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a58809f9-1e0a-45e0-ae30-8011dbdbe0d1",
+        "type": "message",
+        "text": "The biggest struggle with Dashboard and why it ultimately failed in round 1 was less about the architecture (agreed that LB would make this easy today) and more that there was no follow-through on creating useful, meaningful metrics to display in such a dashboard (esp. thinking through on a per-role basis... what is useful to admins and what is useful to content authors and what is useful to end users are often 12 different things ;)). We ended up with a \"one size fits all\" approach with a bunch of views in that were easy to create, but not very useful day-to-day.\n\nSo if we're going to bring it back, it needs some actual design\/thought behind what blocks it needs to show, and to whom, and we need some folks stepping up to make those \"inner parts\" come to reality, even if that means adding some extra features here and there (e.g. the ability to show views as charts, as an example).\n\nAnd _definitely_ agreed it's a whole other initiative and shouldn't block this one in any way. :slightly_smiling_face:\n\nDefinitely worth an ideas issue though! And some historical research into the older incarnation, which AFAIK had some aspirational designs as part of it.",
+        "user": "U1AA5D42H",
+        "ts": "1634059628.101000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gqaPb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The biggest struggle with Dashboard and why it ultimately failed in round 1 was less about the architecture (agreed that LB would make this easy today) and more that there was no follow-through on creating useful, meaningful metrics to display in such a dashboard (esp. thinking through on a per-role basis... what is useful to admins and what is useful to content authors and what is useful to end users are often 12 different things ;)). We ended up with a \"one size fits all\" approach with a bunch of views in that were easy to create, but not very useful day-to-day.\n\nSo if we're going to bring it back, it needs some actual design\/thought behind what blocks it needs to show, and to whom, and we need some folks stepping up to make those \"inner parts\" come to reality, even if that means adding some extra features here and there (e.g. the ability to show views as charts, as an example).\n\nAnd "
+                            },
+                            {
+                                "type": "text",
+                                "text": "definitely",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " agreed it's a whole other initiative and shouldn't block this one in any way. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nDefinitely worth an ideas issue though! And some historical research into the older incarnation, which AFAIK had some aspirational designs as part of it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1fb45a2a91f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1fb45a2a91f7f81c2a7148ee43f658f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "webchick",
+            "real_name": "webchick",
+            "display_name": "webchick",
+            "team": "T06GX3JTS",
+            "name": "webchick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6XHB78BV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U3A2ZDSE4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ed29530-5dcf-4589-bd7e-1705850aecc5",
+        "type": "message",
+        "text": "Agree with everything there that <@U06NAEYSF> and <@U1AA5D42H> have said.\n&gt; (esp. thinking through on a per-role basis... what is useful to admins and what is useful to content authors and what is useful to end users are often 12 different things ;))\nAbsolutely agree here, that was part of my thinking when I was talking about a persona based approach, if nothing else it forces us to think about what's useful for those different types of users, which as you say are very different",
+        "user": "U6XHB78BV",
+        "ts": "1634063696.101300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dSj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agree with everything there that "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1AA5D42H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have said.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(esp. thinking through on a per-role basis... what is useful to admins and what is useful to content authors and what is useful to end users are often 12 different things ;))"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely agree here, that was part of my thinking when I was talking about a persona based approach, if nothing else it forces us to think about what's useful for those different types of users, which as you say are very different"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U3A2ZDSE4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "739784bf-dd26-44c9-8d79-4540135faa58",
+        "type": "message",
+        "text": "If I get time later this week, I'm happy to pull together things into an ideas issue, if not this week, I should have time early next week",
+        "user": "U6XHB78BV",
+        "ts": "1634063856.101500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gpZmw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If I get time later this week, I'm happy to pull together things into an ideas issue, if not this week, I should have time early next week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U1AA5D42H",
+                    "U1ET7192M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b14e400e-38e7-4e81-b6e6-3f2a06603358",
+        "type": "message",
+        "text": "&gt; Just noting that while I *love* this idea - it's clearly got to be part of a larger phase2 dedicated initiative.\n&gt; I do still think we need the existing project messaging work in core for 9.3 if we can get there before the 25th in the meantime\nAlso fully agree with this, I don't think we would be doing anyone any favours by trying to rush through a Dashboard idea, definitely needs its own space to properly discuss and brainstorm it.",
+        "user": "U6XHB78BV",
+        "ts": "1634066157.101800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6KJDu",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just noting that while I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "love",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " this idea - it's clearly got to be part of a larger phase2 dedicated initiative.\nI do still think we need the existing project messaging work in core for 9.3 if we can get there before the 25th in the meantime"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also fully agree with this, I don't think we would be doing anyone any favours by trying to rush through a Dashboard idea, definitely needs its own space to properly discuss and brainstorm it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633753156.092800",
+        "parent_user_id": "U47JYK2DT",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U06NAEYSF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

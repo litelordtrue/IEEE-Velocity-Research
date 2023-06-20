@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "2c8a0ae0-5499-4a67-88ba-4b621772b359",
+        "type": "message",
+        "text": "thanks!",
+        "user": "U6K08UK96",
+        "ts": "1675931780.673609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Ib8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675878349.084749",
+        "parent_user_id": "U6K08UK96"
+    }
+]

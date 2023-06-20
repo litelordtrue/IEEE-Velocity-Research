@@ -1,0 +1,225 @@
+[
+    {
+        "type": "message",
+        "text": "This is the original mov that I used to convert to gif. Not as choppy for sure, but not faster than on the gif?! cc <@U6K08UK96>, <@UCV2S889L>",
+        "files": [
+            {
+                "id": "F05598J5M4L",
+                "created": 1682584872,
+                "timestamp": 1682584872,
+                "name": "Screen Recording 2023-04-26 at 15.03.26.mov",
+                "title": "Screen Recording 2023-04-26 at 15.03.26.mov",
+                "mimetype": "video\/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "U1A7P6GTZ",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 2536934,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "none"
+                },
+                "mp4": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F05598J5M4L-44dff3d52a\/screen_recording_2023-04-26_at_15.03.26.mp4?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F05598J5M4L-44dff3d52a\/screen_recording_2023-04-26_at_15.03.26.mp4?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F05598J5M4L\/download\/screen_recording_2023-04-26_at_15.03.26.mov?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "hls": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F05598J5M4L-44dff3d52a\/file.m3u8?_xcb=cb6c5&t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "hls_embed": "data:application\/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9MTMwMjA5NCxBVkVSQUdFLUJBTkRXSURUSD0xMzAyMDk0LENPREVDUz0iYXZjMS42NDAwMjgsbXA0YS40MC41IixSRVNPTFVUSU9OPTE0NDJ4MTA4MCxGUkFNRS1SQVRFPTI5Ljk3MApkYXRhOmFwcGxpY2F0aW9uL3ZuZC5hcHBsZS5tcGVndXJsO2Jhc2U2NCxJMFZZVkUwelZRb2pSVmhVTFZndFZrVlNVMGxQVGpvekNpTkZXRlF0V0MxVVFWSkhSVlJFVlZKQlZFbFBUam8zQ2lORldGUXRXQzFOUlVSSlFTMVRSVkZWUlU1RFJUb3hDaU5GV0ZRdFdDMVFURUZaVEVsVFZDMVVXVkJGT2xaUFJBb2pSVmhVU1U1R09qSXVNelk1TEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBMlIxZ3pTbFJUTFVZd05UVTVPRW8xVFRSTUxUUTBaR1ptTTJRMU1tRXZabWxzWlY5SVh6STJORjh4T1RJd2VERXdPREJmTmpVd01FdENVRk5mTjFGV1FsSmZNREF3TURFdWRITUtJMFZZVkMxWUxVVk9SRXhKVTFRSwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9ODUwMDc1LEFWRVJBR0UtQkFORFdJRFRIPTg1MDA3NSxDT0RFQ1M9ImF2YzEuNjQwMDFmLG1wNGEuNDAuNSIsUkVTT0xVVElPTj05NjJ4NzIwLEZSQU1FLVJBVEU9MjkuOTcwCmh0dHBzOi8vZmlsZXMuc2xhY2suY29tL2ZpbGVzLXRtYi9UMDZHWDNKVFMtRjA1NTk4SjVNNEwtNDRkZmYzZDUyYS9maWxlX0hfMjY0XzEyODB4NzIwXzM1MDBLQlBTXzdRVkJSLm0zdTgK",
+                "mp4_low": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F05598J5M4L-44dff3d52a\/screen_recording_2023-04-26_at_15.03.26_trans.mp4?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "duration_ms": 2369,
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F05598J5M4L-44dff3d52a\/screen_recording_2023-04-26_at_15.03.26_thumb_video.jpeg?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_video_w": 2232,
+                "thumb_video_h": 1672,
+                "permalink": "https:\/\/drupal.slack.com\/files\/U1A7P6GTZ\/F05598J5M4L\/screen_recording_2023-04-26_at_15.03.26.mov",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F05598J5M4L-973e074780",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U1A7P6GTZ",
+        "display_as_bot": false,
+        "ts": "1682584914.604769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fJYd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the original mov that I used to convert to gif. Not as choppy for sure, but not faster than on the gif?! cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UCV2S889L"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "09409349-dd23-4aa1-b4eb-9167700f814f",
+        "thread_ts": "1682515097.212629",
+        "parent_user_id": "U1A7P6GTZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d6ab30c-4b95-4baa-a09b-21fa9da0c0e1",
+        "type": "message",
+        "text": "I can also share the gitpod site link if that is useful. Not sharing here because it may go offline before you read this :smile:",
+        "user": "U1A7P6GTZ",
+        "ts": "1682584992.971189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=W5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can also share the gitpod site link if that is useful. Not sharing here because it may go offline before you read this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682515097.212629",
+        "parent_user_id": "U1A7P6GTZ"
+    },
+    {
+        "client_msg_id": "320b2918-5a8e-4096-a213-522814cf9029",
+        "type": "message",
+        "text": "that mov file seems smoother than the gif. in any case, once people try the new module they’ll see that it’s fast and smooth",
+        "user": "U6K08UK96",
+        "ts": "1682585719.500269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xm5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that mov file seems smoother than the gif. in any case, once people try the new module they’ll see that it’s fast and smooth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682515097.212629",
+        "parent_user_id": "U1A7P6GTZ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1682600186.411559",
+        "user": "UPU9J7HMM",
+        "text": "<@UPU9J7HMM> has joined the channel"
+    },
+    {
+        "client_msg_id": "da3b0482-0d3d-441b-abf5-0cce1f3a5d03",
+        "type": "message",
+        "text": "Yeah, not ultimately a big deal, now that we've confirmed it's not really a bug",
+        "user": "U06NAEYSF",
+        "ts": "1682608006.423719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TOaTY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, not ultimately a big deal, now that we've confirmed it's not really a bug"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682515097.212629",
+        "parent_user_id": "U1A7P6GTZ"
+    }
+]

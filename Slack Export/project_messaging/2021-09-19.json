@@ -1,0 +1,118 @@
+[
+    {
+        "client_msg_id": "3bebb14d-52b0-4433-b5dd-8e5467c7101f",
+        "type": "message",
+        "text": "We can disable detail page altogether by adding tokenised URLs.\nI think there was some confusion when we started reviewing it.\n\nShould we go ahead and disable the dedicated page?",
+        "user": "U2T8M7PA4",
+        "ts": "1632114382.038400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nGu4W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We can disable detail page altogether by adding tokenised URLs.\nI think there was some confusion when we started reviewing it.\n\nShould we go ahead and disable the dedicated page?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887805.032300",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1632114490.038700",
+        "user": "U6XHB78BV",
+        "text": "<@U6XHB78BV> has joined the channel",
+        "inviter": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "149e18da-7a9f-40cf-b762-18cbd4d37f63",
+        "type": "message",
+        "text": "<@U6XHB78BV>, thank you so much for all the inputs <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14219711|here>.\nI wanted to check whether we are good with current off-canvas implementation and approach.\n\nDecision to add custom CSS:\nMainly it was taken to implement the styles based on the given designs.",
+        "user": "U2T8M7PA4",
+        "ts": "1632115193.040200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zuezK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6XHB78BV"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", thank you so much for all the inputs "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14219711",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nI wanted to check whether we are good with current off-canvas implementation and approach.\n\nDecision to add custom CSS:\nMainly it was taken to implement the styles based on the given designs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2T8M7PA4",
+            "ts": "1632115690.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Project messaging channel in core",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14219711",
+                "text": "Problem\/Motivation Per the core idea issue: [#2940739] The vast majority of Drupal users do not have accounts on <http:\/\/Drupal.org|Drupal.org>, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association. The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core.",
+                "fallback": "Drupal.org: Project messaging channel in core",
+                "ts": 1617212298,
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14219711",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14219711"
+            }
+        ]
+    }
+]

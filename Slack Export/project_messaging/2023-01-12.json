@@ -1,0 +1,672 @@
+[
+    {
+        "client_msg_id": "d641a8ba-0e0d-42f1-8659-a08e2cecff02",
+        "type": "message",
+        "text": "Hi <@U4KAE8Q91>, thanks for this. I’m planning to start reading through the messages\/code\/etc later today.\n\nRegarding your question in :one: , <@U06NAEYSF> replied in another thread:\n&gt; FWIW - the ‘Project Messaging in Core’ is just the initiative name - ‘Announcements feed’ was decided after some feedback as the actual module name - and the docs reflect the decision.",
+        "user": "U6K08UK96",
+        "ts": "1673513910.984309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NlcP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4KAE8Q91"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", thanks for this. I’m planning to start reading through the messages\/code\/etc later today.\n\nRegarding your question in "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "one",
+                                "unicode": "0031-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " replied in another thread:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FWIW - the ‘Project Messaging in Core’ is just the initiative name - ‘Announcements feed’ was decided after some feedback as the actual module name - and the docs reflect the decision."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375762.385969",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "cdae0e5e-4f83-4765-ae39-21cee8d48a17",
+        "type": "message",
+        "text": "I’ve made comments on all opened threads <@U4KAE8Q91>.\n\nI’ve also checked everything in a new drupalpod instance, as the one you linked was having some issues.\n\nI’ve also caught up in threads and the issue.",
+        "user": "U6K08UK96",
+        "ts": "1673541396.453739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cfR0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve made comments on all opened threads "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4KAE8Q91"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nI’ve also checked everything in a new drupalpod instance, as the one you linked was having some issues.\n\nI’ve also caught up in threads and the issue."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375762.385969",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e8733b68-1a9b-4ebc-8a95-6629c53c7810",
+        "type": "message",
+        "text": "I checked with <@U06NAEYSF> and he asked me to take a crack at resolving these.\n\nI’ll also try to find the steps to configure the (drupalpod) instance to read from the example feed in the test fixtures dir of the module - and figure out how to get it to reload the feed from that source to make it easier to test.\n\nI’ll do all the above tomorrow, but wanted to give an update here in case any of you wanted to mention anything before.",
+        "user": "U6K08UK96",
+        "ts": "1673541518.986029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vp0Mv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I checked with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and he asked me to take a crack at resolving these.\n\nI’ll also try to find the steps to configure the (drupalpod) instance to read from the example feed in the test fixtures dir of the module - and figure out how to get it to reload the feed from that source to make it easier to test.\n\nI’ll do all the above tomorrow, but wanted to give an update here in case any of you wanted to mention anything before."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375762.385969",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "0ba7529d-1544-41a3-9170-b375ec98d7b8",
+        "type": "message",
+        "text": "<@U6K08UK96>, thank you!!!",
+        "user": "U4KAE8Q91",
+        "ts": "1673549804.716249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U3j3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", thank you!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375762.385969",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "b8c633dc-f533-4ac3-8b17-85623e821c47",
+        "type": "message",
+        "text": "I will also ask in <#C01N7HQSSFN|drupalpod> channel what is correct way to reference files in Drupalpod instances",
+        "user": "U4KAE8Q91",
+        "ts": "1673549846.061929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EbAJc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will also ask in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C01N7HQSSFN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel what is correct way to reference files in Drupalpod instances"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375762.385969",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "064f8508-8903-465e-bb14-d24220ae3554",
+        "type": "message",
+        "text": "I figured out what was the problem with the source - I have to set gitpod to \"Share Running Workspace\" during testing - otherwise link <https:\/\/8080-lavender-whippet-w7zkxdtex03.ws-us82.gitpod.io\/core\/modules\/announcements_feed\/tests\/announce_feed\/updated.json> cannot be accessed",
+        "user": "U4KAE8Q91",
+        "ts": "1673552407.720979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pJYp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I figured out what was the problem with the source - I have to set gitpod to \"Share Running Workspace\" during testing - otherwise link "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/8080-lavender-whippet-w7zkxdtex03.ws-us82.gitpod.io\/core\/modules\/announcements_feed\/tests\/announce_feed\/updated.json"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cannot be accessed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4KAE8Q91",
+            "ts": "1673552427.000000"
+        },
+        "thread_ts": "1673375954.055689",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "7e59aeeb-75eb-4c46-a72e-d2d2cd9c4a80",
+        "type": "message",
+        "text": "Ah ha :slightly_smiling_face:",
+        "user": "U06NAEYSF",
+        "ts": "1673552422.403699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZzO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah ha "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375954.055689",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "f0620a69-6beb-4526-b059-a76e68a3c487",
+        "type": "message",
+        "text": "<@U06NAEYSF>, I will add more content to updated.json file on this gitpod instance",
+        "user": "U4KAE8Q91",
+        "ts": "1673552451.634689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t2ke",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I will add more content to updated.json file on this gitpod instance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4KAE8Q91",
+            "ts": "1673552458.000000"
+        },
+        "thread_ts": "1673375954.055689",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "4e061200-4675-45d1-9fa5-2ffa243787e9",
+        "type": "message",
+        "text": "That works!",
+        "user": "U06NAEYSF",
+        "ts": "1673552474.010039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2pC9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That works!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375954.055689",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "458811ab-75d0-4963-b12b-028a67758871",
+        "type": "message",
+        "text": "There should be a bunch of sample content in there already some where.",
+        "user": "U06NAEYSF",
+        "ts": "1673552488.029519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=rsdY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There should be a bunch of sample content in there already some where."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375954.055689",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04K2DFEHSM",
+                "created": 1673552520,
+                "timestamp": 1673552520,
+                "name": "Screen Shot 2023-01-12 at 11.41.53 AM.png",
+                "title": "Screen Shot 2023-01-12 at 11.41.53 AM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U4KAE8Q91",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 1390622,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F04K2DFEHSM\/screen_shot_2023-01-12_at_11.41.53_am.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F04K2DFEHSM\/download\/screen_shot_2023-01-12_at_11.41.53_am.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04K2DFEHSM-4c4f5890ab\/screen_shot_2023-01-12_at_11.41.53_am_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04K2DFEHSM-4c4f5890ab\/screen_shot_2023-01-12_at_11.41.53_am_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04K2DFEHSM-4c4f5890ab\/screen_shot_2023-01-12_at_11.41.53_am_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 201,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04K2DFEHSM-4c4f5890ab\/screen_shot_2023-01-12_at_11.41.53_am_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 267,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04K2DFEHSM-4c4f5890ab\/screen_shot_2023-01-12_at_11.41.53_am_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04K2DFEHSM-4c4f5890ab\/screen_shot_2023-01-12_at_11.41.53_am_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 401,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04K2DFEHSM-4c4f5890ab\/screen_shot_2023-01-12_at_11.41.53_am_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 446,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04K2DFEHSM-4c4f5890ab\/screen_shot_2023-01-12_at_11.41.53_am_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 535,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F04K2DFEHSM-4c4f5890ab\/screen_shot_2023-01-12_at_11.41.53_am_1024.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 571,
+                "original_w": 2656,
+                "original_h": 1480,
+                "thumb_tiny": "AwAaADCUSnI\/ev8A98rU5glzxOw\/4CKa1vGuC0hAz3xU\/mJ\/fX86bt0Er9SLyZf+fhv++RR5Mv8Az8N\/3yKnoxSGUZpWgk2tPITjPCrUZu+f9bL\/AN8rS33+v\/4CKqk9qANpiAOf5U3cvp\/47TmAI5pqqOeB+VADgcjNLQAB0AFFAGbfnFx\/wEVV71a1D\/j4H+6Kq0Af\/9k=",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U4KAE8Q91\/F04K2DFEHSM\/screen_shot_2023-01-12_at_11.41.53_am.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F04K2DFEHSM-40aaab26e3",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U4KAE8Q91",
+        "display_as_bot": false,
+        "ts": "1673552529.453329",
+        "client_msg_id": "3c270811-18ae-4488-a0d0-10f6526968df",
+        "thread_ts": "1673375954.055689",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "2caa0423-a6fa-4fe9-8734-d5c15e31b73c",
+        "type": "message",
+        "text": "Need more to test scrolling",
+        "user": "U4KAE8Q91",
+        "ts": "1673552530.614689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jmY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Need more to test scrolling"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375954.055689",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "f36166f7-ceb3-4c7c-86fd-19a4066420b5",
+        "type": "message",
+        "text": "<@U6K08UK96>, now new json is showing up correctly for testing :slightly_smiling_face:  I still cannot figure out why it takes DrupalPod about 12 hours to load new data even after I run `ddev drush cr`  - probably additional caching is set somewhere.",
+        "user": "U4KAE8Q91",
+        "ts": "1673576696.315779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wQNM1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", now new json is showing up correctly for testing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  I still cannot figure out why it takes DrupalPod about 12 hours to load new data even after I run "
+                            },
+                            {
+                                "type": "text",
+                                "text": "ddev drush cr ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " - probably additional caching is set somewhere."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4KAE8Q91",
+            "ts": "1673587748.000000"
+        },
+        "thread_ts": "1673375762.385969",
+        "parent_user_id": "U4KAE8Q91"
+    }
+]

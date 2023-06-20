@@ -1,0 +1,366 @@
+[
+    {
+        "client_msg_id": "a1cbbf61-7ed3-4c79-9ae3-2db8a55c32e7",
+        "type": "message",
+        "text": "<@U4LU589C0> - I see you’re currently pushing changes on <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643> . :thread: for coordination:",
+        "user": "U6K08UK96",
+        "ts": "1679568702.694389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uilz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4LU589C0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I see you’re currently pushing changes on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thread",
+                                "unicode": "1f9f5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for coordination:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679568702.694389",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1679904085.018989",
+        "reply_users": [
+            "U6K08UK96",
+            "U4LU589C0"
+        ],
+        "replies": [
+            {
+                "user": "U6K08UK96",
+                "ts": "1679568734.908249"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1679568773.114539"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1679568814.183169"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1679568848.305579"
+            },
+            {
+                "user": "U4LU589C0",
+                "ts": "1679613042.513089"
+            },
+            {
+                "user": "U4LU589C0",
+                "ts": "1679613057.326559"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1679904085.018989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "937ddc37-46a1-47db-bbaa-8edca6ca86ba",
+        "type": "message",
+        "text": "I assume you’re addressing the feedback from `@larowlan`",
+        "user": "U6K08UK96",
+        "ts": "1679568734.908249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C+B3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I assume you’re addressing the feedback from "
+                            },
+                            {
+                                "type": "text",
+                                "text": "@larowlan",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679568702.694389",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "cf1f5ce6-4d83-47db-ac36-2d56d8a5c230",
+        "type": "message",
+        "text": "I’m happy to help as well where I can, but don’t want us to overlap and undo each other’s work, duplicate effort or have conflicts.",
+        "user": "U6K08UK96",
+        "ts": "1679568773.114539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2F+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m happy to help as well where I can, but don’t want us to overlap and undo each other’s work, duplicate effort or have conflicts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679568702.694389",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "261caa4b-e5ed-42a4-b9b5-a9f617081b04",
+        "type": "message",
+        "text": "btw, I also thought the same about the pencil icon :shrug:",
+        "user": "U6K08UK96",
+        "ts": "1679568814.183169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Hj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "btw, I also thought the same about the pencil icon "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "shrug",
+                                "unicode": "1f937"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679568702.694389",
+        "parent_user_id": "U6K08UK96",
+        "reactions": [
+            {
+                "name": "plus_one",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a179264-8667-45be-8ffc-807cbb9500bd",
+        "type": "message",
+        "text": "so, just let me know if you want me to jump in on anything",
+        "user": "U6K08UK96",
+        "ts": "1679568848.305579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mhn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so, just let me know if you want me to jump in on anything"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679568702.694389",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "0509eb60-429d-4396-bd0e-8132fcbb001b",
+        "type": "message",
+        "text": "<@U6K08UK96> Thanks.  I just checked and I have done all the simple stuff that I can. Most of the rest is frontend (not me) and I still can't get FunctionalJavascript tests to run locally which is a problem.",
+        "user": "U4LU589C0",
+        "ts": "1679613042.513089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qv1Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks.  I just checked and I have done all the simple stuff that I can. Most of the rest is frontend (not me) and I still can't get FunctionalJavascript tests to run locally which is a problem."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bfa574840a14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-22\/157909004594_bfa574840a14842730f3_72.png",
+            "first_name": "V",
+            "real_name": "V Spagnolo",
+            "display_name": "quietone",
+            "team": "T06GX3JTS",
+            "name": "quietone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679568702.694389",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "32d85235-c528-4d1e-a602-8cc01f112762",
+        "type": "message",
+        "text": "I'll comment on the issue",
+        "user": "U4LU589C0",
+        "ts": "1679613057.326559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d7o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll comment on the issue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bfa574840a14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-22\/157909004594_bfa574840a14842730f3_72.png",
+            "first_name": "V",
+            "real_name": "V Spagnolo",
+            "display_name": "quietone",
+            "team": "T06GX3JTS",
+            "name": "quietone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679568702.694389",
+        "parent_user_id": "U6K08UK96"
+    }
+]

@@ -1,0 +1,328 @@
+[
+    {
+        "client_msg_id": "b53ae940-ef8d-4f7c-85c8-12bb217f3568",
+        "type": "message",
+        "text": "2nd of the 3 initial posts we want to have ready for the feed has been drafted: <https:\/\/www.drupal.org\/project\/governance\/issues\/3345037#comment-14947556>",
+        "user": "U06NAEYSF",
+        "ts": "1677713237.192599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PCT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2nd of the 3 initial posts we want to have ready for the feed has been drafted: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/governance\/issues\/3345037#comment-14947556"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/governance\/issues\/3345037#comment-14947556",
+                "ts": 1677613544,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/governance\/issues\/3345037#comment-14947556",
+                "fallback": "Drupal.org: Draft second project announcements \"the community behind the code\"",
+                "text": "Problem\/Motivation Per request from: [#3206643] We want to have at least 3 initial posts in the announcements feed before it is committed as experimental. This issue is for the second post. Current thinking is: \"The Community Behind the Code\" or \"Come for the Code Stay for the Community\" - an introductory post to provide basic end-user education about the open source community behind the project. Draft of 2nd post Remaining tasks Draft Ask a core maintainer to review Post to d.o Update the json feed",
+                "title": "Draft second project announcements \"the community behind the code\"",
+                "title_link": "https:\/\/www.drupal.org\/project\/governance\/issues\/3345037#comment-14947556",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1677713237.192599",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1677738846.730929",
+        "reply_users": [
+            "U4KAE8Q91",
+            "U1A7P6GTZ"
+        ],
+        "replies": [
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1677722637.540089"
+            },
+            {
+                "user": "U1A7P6GTZ",
+                "ts": "1677738846.730929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5a2fe287-5bbe-420b-a138-9b5309b827b0",
+        "type": "message",
+        "text": "The two we have so far are:\n• What the heck is this announcement feed thing?\n• and 'The community behind contribution' and how to get involved. \n• Would love any ideas for the third topic. ",
+        "user": "U06NAEYSF",
+        "ts": "1677713273.665479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N8wD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The two we have so far are:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What the heck is this announcement feed thing?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "and 'The community behind contribution' and how to get involved. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Would love any ideas for the third topic. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e5ee5833-9f7a-4271-9d27-78f225c4b4ec",
+        "type": "message",
+        "text": "Maybe something with a little more meat on the bone... 'what you should expect between now and D11's release'",
+        "user": "U06NAEYSF",
+        "ts": "1677713390.051719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HnRNb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe something with a little more meat on the bone... 'what you should expect between now and D11's release'"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7cad27df-06c4-4142-9d5c-da01c3047021",
+        "type": "message",
+        "text": "From project page <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643>\n\"The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core. This channel could provide information about upcoming releases, new feature highlights, events like DrupalCon, and promote support of the project via Association membership or other programs.\"\n\nMaybe post can be about any of those:\n• an upcoming release\n• new feature highlights, \n• DrupalCon\n• how to support of the project via Association membership or other programs.\n",
+        "user": "U4KAE8Q91",
+        "ts": "1677722637.540089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b4HW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From project page "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\"The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core. This channel could provide information about upcoming releases, new feature highlights, events like DrupalCon, and promote support of the project via Association membership or other programs.\"\n\nMaybe post can be about any of those:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "an upcoming release"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "new feature highlights, "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "DrupalCon"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "how to support of the project via Association membership or other programs."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4KAE8Q91",
+            "ts": "1677722726.000000"
+        },
+        "thread_ts": "1677713237.192599",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "63769935-4a98-4ffe-a4c4-bf611ffef30e",
+        "type": "message",
+        "text": "I think this is for “support of the project”",
+        "user": "U1A7P6GTZ",
+        "ts": "1677738846.730929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2bD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think this is for “support of the project”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cebd04c2fd4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-13\/622821018658_cebd04c2fd4cf6690c8b_72.jpg",
+            "first_name": "Gábor",
+            "real_name": "Gábor Hojtsy (he\/him)",
+            "display_name": "Gábor Hojtsy (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "gaborhojtsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677713237.192599",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

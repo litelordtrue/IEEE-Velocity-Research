@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "99536ff6-7af4-45db-a0be-5bc027c6536c",
+        "type": "message",
+        "text": "<@U4PT7ES0M> ^^ would you be able to review the latest here?",
+        "user": "U06NAEYSF",
+        "ts": "1652286749.207279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ED=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^ would you be able to review the latest here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1650541942.208209",
+        "parent_user_id": "U03951VJN48"
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "client_msg_id": "2d53c968-34ae-4d51-a099-d6cf982322d0",
+        "type": "message",
+        "text": "Hi! Sorry I missed this, I have been most out of the l0oop the past week or so, <@U06NAEYSF> I think that is an accurate summary. There was some discussion about this feature at the most recent UX call as well, so there may be some comments still to come on the issue, I'm assuming benji was going to summarise the discussion, but unsure as I had to leave before hte end of the call.",
+        "user": "U6XHB78BV",
+        "ts": "1632921225.065500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qEjX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Sorry I missed this, I have been most out of the l0oop the past week or so, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think that is an accurate summary. There was some discussion about this feature at the most recent UX call as well, so there may be some comments still to come on the issue, I'm assuming benji was going to summarise the discussion, but unsure as I had to leave before hte end of the call."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "d6374cb7e443",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-16\/2093587083568_d6374cb7e443989cfbc8_72.jpg",
+            "first_name": "AaronMcHale",
+            "real_name": "AaronMcHale",
+            "display_name": "Aaron McHale",
+            "team": "T06GX3JTS",
+            "name": "aaronmchale",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "type": "message",
+        "text": "<@U06NAEYSF> this is how the `\/admin\/announcement` is gonna look right....  Currently the module is using two template twig annoucements (for the dialog) and announcement-admin (for the admin page).... You also talked about minimal themeing... Can you suggests any changes required or do you have any template in your mind ??\nCC: <@U2T8M7PA4>",
+        "files": [
+            {
+                "id": "F02G4GEEF36",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U4PT7ES0M",
+        "display_as_bot": false,
+        "ts": "1632923665.069500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PTkYg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is how the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\/admin\/announcement",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is gonna look right....  Currently the module is using two template twig annoucements (for the dialog) and announcement-admin (for the admin page).... You also talked about minimal themeing... Can you suggests any changes required or do you have any template in your mind ??\nCC: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0d2e32ad-6aba-494f-925a-4f5fc1bbd93f"
+    },
+    {
+        "type": "message",
+        "text": "this one looks clearer",
+        "files": [
+            {
+                "id": "F02G2CZQMGB",
+                "created": 1632923890,
+                "timestamp": 1632923890,
+                "name": "Community-Announcements-dannounce.png",
+                "title": "Community-Announcements-dannounce.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U4PT7ES0M",
+                "user_team": "T06GX3JTS",
+                "editable": false,
+                "size": 347142,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02G2CZQMGB\/community-announcements-dannounce.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T06GX3JTS-F02G2CZQMGB\/download\/community-announcements-dannounce.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02G2CZQMGB-8047ec86b3\/community-announcements-dannounce_64.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02G2CZQMGB-8047ec86b3\/community-announcements-dannounce_80.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02G2CZQMGB-8047ec86b3\/community-announcements-dannounce_360.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_360_w": 360,
+                "thumb_360_h": 205,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02G2CZQMGB-8047ec86b3\/community-announcements-dannounce_480.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_480_w": 480,
+                "thumb_480_h": 273,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02G2CZQMGB-8047ec86b3\/community-announcements-dannounce_160.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02G2CZQMGB-8047ec86b3\/community-announcements-dannounce_720.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_720_w": 720,
+                "thumb_720_h": 410,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02G2CZQMGB-8047ec86b3\/community-announcements-dannounce_800.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_800_w": 800,
+                "thumb_800_h": 456,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02G2CZQMGB-8047ec86b3\/community-announcements-dannounce_960.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_960_w": 960,
+                "thumb_960_h": 547,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T06GX3JTS-F02G2CZQMGB-8047ec86b3\/community-announcements-dannounce_1024.png?t=xoxe-6575120944-5433338263842-5445967509729-1094f9f6a56092c5fa9eafe16d6a3fb9",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 583,
+                "original_w": 2806,
+                "original_h": 1598,
+                "thumb_tiny": "AwAbADC19mg\/55il+y2\/\/PJTUop3+elAEH2S3\/54r+VH2S3\/AOeK\/lU\/+elHagCD7Jb\/APPFfypRawf88VqfnvRQAwCnYFJgCloAMD0pcUUUAFFFFAH\/2Q==",
+                "permalink": "https:\/\/drupal.slack.com\/files\/U4PT7ES0M\/F02G2CZQMGB\/community-announcements-dannounce.png",
+                "permalink_public": "https:\/\/slack-files.com\/T06GX3JTS-F02G2CZQMGB-b23e10db2f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U4PT7ES0M",
+        "display_as_bot": false,
+        "ts": "1632923902.070100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "he8ZE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this one looks clearer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0ea24d08-3656-4601-b9ce-8534815dcad3"
+    },
+    {
+        "client_msg_id": "97ea351c-3d79-4ca9-8054-3d56f4235d50",
+        "type": "message",
+        "text": "Thank you <@U6XHB78BV> -",
+        "user": "U06NAEYSF",
+        "ts": "1632930467.070400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oxEY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6XHB78BV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " -"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "2cd7a77f-9995-4054-8e00-08e2b0ff6522",
+        "type": "message",
+        "text": "<@U4PT7ES0M> - I think we follow roughly the guidance that <@U1ET7192M> had for theming the module in general still applies here (I think it was one of the last comments in the issue) - <@U1ET7192M> would you have more specific feedback about this page, which primarily exists as a fallback if users don't have javascript enabled?",
+        "user": "U06NAEYSF",
+        "ts": "1632930633.071600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4seDY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I think we follow roughly the guidance that "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ET7192M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " had for theming the module in general still applies here (I think it was one of the last comments in the issue) - "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1ET7192M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would you have more specific feedback about this page, which primarily exists as a fallback if users don't have javascript enabled?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632930633.071600",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1634732023.111400",
+        "reply_users": [
+            "U1ET7192M",
+            "U2T8M7PA4",
+            "U4PT7ES0M"
+        ],
+        "replies": [
+            {
+                "user": "U1ET7192M",
+                "ts": "1632991195.076700"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1632991223.076900"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1632991523.077100"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1632996576.077300"
+            },
+            {
+                "user": "U1ET7192M",
+                "ts": "1632996657.077600"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1632999304.078000"
+            },
+            {
+                "user": "U4PT7ES0M",
+                "ts": "1634732023.111400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4PT7ES0M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a31df63b-61c0-4b32-a658-de949b17783d",
+        "type": "message",
+        "text": "<@U3U1SD32R> we need your opinion about module rename.\nWe’ve changed the machine name of the module here <https:\/\/www.drupal.org\/project\/announce>\nHowever, project name is still announce_feed, is it possible to change the machine name for D.O projects?",
+        "user": "U2T8M7PA4",
+        "ts": "1632985132.073400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qpNO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U3U1SD32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we need your opinion about module rename.\nWe’ve changed the machine name of the module here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHowever, project name is still announce_feed, is it possible to change the machine name for D.O projects?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Announce",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce",
+                "text": "This project is for developing the prototype module for a Project Messaging Channel, with the goal of porting it over to Core, creating a capability reach Drupal users in the back-end interface directly. For information about this initiative, please check out the core ideas queue.",
+                "fallback": "Drupal.org: Announce",
+                "ts": 1564674798,
+                "from_url": "https:\/\/www.drupal.org\/project\/announce",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce"
+            }
+        ],
+        "thread_ts": "1632985132.073400",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1633020114.079300",
+        "reply_users": [
+            "U3U1SD32R",
+            "U06NAEYSF",
+            "U2T8M7PA4"
+        ],
+        "replies": [
+            {
+                "user": "U3U1SD32R",
+                "ts": "1633004326.078300"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1633017191.078600"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1633017205.078800"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1633019179.079000"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1633020114.079300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

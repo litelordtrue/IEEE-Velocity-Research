@@ -1,0 +1,229 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1669746998.823529",
+        "user": "U04CS93RH1C",
+        "text": "<@U04CS93RH1C> has joined the channel"
+    },
+    {
+        "client_msg_id": "9863b05d-c155-4b96-8acd-ff1bbda26264",
+        "type": "message",
+        "text": "Never committed anything for the core before. So just wanna make sure:\nWhen you say \"mark this module as Experimental\"\nAll I have to do is add this in the info.yml of the module right?\n```package: Core (Experimental)\nlifecycle: experimental```",
+        "user": "U04CS93RH1C",
+        "ts": "1669758491.597549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ayGw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Never committed anything for the core before. So just wanna make sure:\nWhen you say \"mark this module as Experimental\"\nAll I have to do is add this in the info.yml of the module right?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "package: Core (Experimental)\nlifecycle: experimental"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "e0d5fa4fcad5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-11-29\/4434310005158_e0d5fa4fcad5c8684713_72.jpg",
+            "first_name": "Alphons",
+            "real_name": "Alphons Jaimon",
+            "display_name": "Alphons Jaimon",
+            "team": "T06GX3JTS",
+            "name": "alphons.jaimon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669672092.098999",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "2865a0fb-09a2-4bd3-b284-606403d2577a",
+        "type": "message",
+        "text": "<@U4PT7ES0M>,  <@U3U1SD32R> We need help with the instructions to change the feed source parameter to one of the other feed sources in the \/tests\/ directory of the module, and then adjust whatever cache, cron, or drush command is needed to have it parse from the new feed. This is so we can switch between test feeds on a DrupalPod account to show core reviews the feed in different states. We want to document these steps here     <https:\/\/www.drupal.org\/docs\/core-modules-and-themes\/core-modules\/announcements-feed\/announcements-feed-development-and-testing>\nthank you in advance!!",
+        "user": "U4KAE8Q91",
+        "ts": "1669763753.925329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=2sHZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U3U1SD32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We need help with the instructions to change the feed source parameter to one of the other feed sources in the \/tests\/ directory of the module, and then adjust whatever cache, cron, or drush command is needed to have it parse from the new feed. This is so we can switch between test feeds on a DrupalPod account to show core reviews the feed in different states. We want to document these steps here     "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/docs\/core-modules-and-themes\/core-modules\/announcements-feed\/announcements-feed-development-and-testing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthank you in advance!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669763753.925329",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1669836376.636659",
+        "reply_users": [
+            "U06NAEYSF",
+            "U4KAE8Q91"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1669764114.428309"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1669829606.146339"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1669834533.903999"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1669836271.548209"
+            },
+            {
+                "user": "U4KAE8Q91",
+                "ts": "1669836376.636659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "177026dc-3a91-4dd2-a18f-5fe1252dcc94",
+        "type": "message",
+        "text": "Yes, thanks",
+        "user": "U4KAE8Q91",
+        "ts": "1669763785.603129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3UwAs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669672092.098999",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "6a76b8b4-90a1-4403-b3b5-f2591bd2caa4",
+        "type": "message",
+        "text": "+1 I was trying to figure this out with Irina and was able to change the feed source url but not figure out how to trigger it to parse again.",
+        "user": "U06NAEYSF",
+        "ts": "1669764114.428309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e1Uy2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 I was trying to figure this out with Irina and was able to change the feed source url but not figure out how to trigger it to parse again."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1669763753.925329",
+        "parent_user_id": "U4KAE8Q91"
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1677401839.974549",
+        "user": "U4LU589C0",
+        "text": "<@U4LU589C0> has joined the channel"
+    },
+    {
+        "client_msg_id": "7fa7df1f-8b6b-435b-a650-60a0129c454f",
+        "type": "message",
+        "text": "I was reading the module documentation, which is very thorough, thank you. I notice that it has a <https:\/\/www.drupal.org\/docs\/core-modules-and-themes\/core-modules\/announcements-feed\/announcements-feed-module-overview#s-governance|governance> section which duplicates the content at <https:\/\/www.drupal.org\/node\/3274085|Governance for Drupal Announcements feed>. Can we change that so it links to the core governance docs?",
+        "user": "U4LU589C0",
+        "ts": "1677402037.211339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WNej",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was reading the module documentation, which is very thorough, thank you. I notice that it has a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/docs\/core-modules-and-themes\/core-modules\/announcements-feed\/announcements-feed-module-overview#s-governance",
+                                "text": "governance"
+                            },
+                            {
+                                "type": "text",
+                                "text": " section which duplicates the content at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/node\/3274085",
+                                "text": "Governance for Drupal Announcements feed"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Can we change that so it links to the core governance docs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bfa574840a14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-22\/157909004594_bfa574840a14842730f3_72.png",
+            "first_name": "V",
+            "real_name": "V Spagnolo",
+            "display_name": "quietone",
+            "team": "T06GX3JTS",
+            "name": "quietone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/docs\/core-modules-and-themes\/core-modules\/announcements-feed\/announcements-feed-module-overview#s-governance",
+                "ts": 1642801211,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/docs\/core-modules-and-themes\/core-modules\/announcements-feed\/announcements-feed-module-overview#s-governance",
+                "fallback": "Drupal.org: Announcements Feed module overview",
+                "text": "The Announce module has not yet been committed to Drupal core. Work is in progress in [#3206643] The Announce module provides a feed of announcements about the Drupal project and Drupal Association programs in Drupal core. Content The purpose of this feed is to provide a channel for outreach directly to Drupal site owners. This content must be highly relevant to site owners interests, serve the strategic goals of the project, and\/or promote the sustainability of the project and the Drupal Association.",
+                "title": "Announcements Feed module overview",
+                "title_link": "https:\/\/www.drupal.org\/docs\/core-modules-and-themes\/core-modules\/announcements-feed\/announcements-feed-module-overview#s-governance",
+                "service_name": "Drupal.org"
+            },
+            {
+                "from_url": "https:\/\/www.drupal.org\/node\/3274085",
+                "ts": 1649359059,
+                "id": 2,
+                "original_url": "https:\/\/www.drupal.org\/node\/3274085",
+                "fallback": "Drupal.org: Governance for Drupal Announcements feed",
+                "text": "The Announce module has not yet been committed to Drupal core. Work is in progress in [#3206643] The Announce module provides a feed of announcements about the Drupal project and Drupal Association programs in Drupal core. Governance Governance of the announcements feed follows a similar principle to other Drupal contribution: the author of the post cannot 'RTBC' the work. This announcement feed is jointly governed by Drupal core maintainers and the Drupal Association. If the Drupal Association drafts a post, at least one member of the core maintainer team must approve it.",
+                "title": "Governance for Drupal Announcements feed",
+                "title_link": "https:\/\/www.drupal.org\/node\/3274085",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1677402037.211339",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677521331.330559",
+        "reply_users": [
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U06NAEYSF",
+                "ts": "1677521331.330559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U1A7P6GTZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1677439793.665519",
+        "user": "U04R8D4F61K",
+        "text": "<@U04R8D4F61K> has joined the channel"
+    }
+]

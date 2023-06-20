@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "461e3cd4-67f6-4373-8959-5588ec74c4ed",
+        "type": "message",
+        "text": "<@U6K08UK96>,  do you have time to connect on zoom to talk about details of this setup?  Thanks, Irina",
+        "user": "U4KAE8Q91",
+        "ts": "1673476870.655829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2sv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",  do you have time to connect on zoom to talk about details of this setup?  Thanks, Irina"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673375762.385969",
+        "parent_user_id": "U4KAE8Q91"
+    }
+]

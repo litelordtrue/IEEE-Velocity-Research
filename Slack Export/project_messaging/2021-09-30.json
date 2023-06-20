@@ -1,0 +1,622 @@
+[
+    {
+        "client_msg_id": "a11e0c3a-5f00-48e5-8aa6-3279f9e2097d",
+        "type": "message",
+        "text": "First just a general thing: why the featured content doe not have a date like the others?",
+        "user": "U1ET7192M",
+        "ts": "1632991195.076700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S14W5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "First just a general thing: why the featured content doe not have a date like the others?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632930633.071600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "aa54ff67-67c0-45ae-bf9d-4b2e00053603",
+        "type": "message",
+        "text": "Apart from this, I would probably say keeping the CSS to the bare minimum on the module, just using basic html like headings&amp;like and relying on their default spacing would be enough. Basically what you’re showing here.",
+        "user": "U1ET7192M",
+        "ts": "1632991223.076900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "el1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Apart from this, I would probably say keeping the CSS to the bare minimum on the module, just using basic html like headings&like and relying on their default spacing would be enough. Basically what you’re showing here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632930633.071600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "daf70a1f-7c59-45fc-8fe9-8ab81990da31",
+        "type": "message",
+        "text": "In Seven, I don’t know it that well but I’m afraid <https:\/\/groups.drupal.org\/node\/283223|we don’t have> specific\/alternative elements to make this look fancier. I’d say I’d try to add more space between items, and specially between the featured section and the standard content.",
+        "user": "U1ET7192M",
+        "ts": "1632991523.077100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zsjo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In Seven, I don’t know it that well but I’m afraid "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/groups.drupal.org\/node\/283223",
+                                "text": "we don’t have"
+                            },
+                            {
+                                "type": "text",
+                                "text": " specific\/alternative elements to make this look fancier. I’d say I’d try to add more space between items, and specially between the featured section and the standard content."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632930633.071600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "713ae959-b4ad-4ef4-951b-244e475faac6",
+        "type": "message",
+        "text": "For Claro you could try something like this as a really basic first step reusing existing styles and adding some extra spacing <https:\/\/www.figma.com\/file\/3cwl0E9b9PHUkqfsRHr8Cg\/Community-Alerts-Desktop?node-id=641%3A213>",
+        "user": "U1ET7192M",
+        "ts": "1632996576.077300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VB3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For Claro you could try something like this as a really basic first step reusing existing styles and adding some extra spacing "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.figma.com\/file\/3cwl0E9b9PHUkqfsRHr8Cg\/Community-Alerts-Desktop?node-id=641%3A213"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Figma",
+                "title": "Community Alerts - Desktop",
+                "title_link": "https:\/\/www.figma.com\/file\/3cwl0E9b9PHUkqfsRHr8Cg\/Community-Alerts-Desktop?node-id=641%3A213",
+                "text": "Created with Figma",
+                "fallback": "Figma: Community Alerts - Desktop",
+                "thumb_url": "https:\/\/www.figma.com\/file\/3cwl0E9b9PHUkqfsRHr8Cg\/thumbnail?ver=thumbnails\/3cwl0E9b9PHUkqfsRHr8Cg\/default",
+                "image_url": "https:\/\/www.figma.com\/file\/3cwl0E9b9PHUkqfsRHr8Cg\/thumbnail?ver=thumbnails\/3cwl0E9b9PHUkqfsRHr8Cg\/default",
+                "image_width": 800,
+                "image_height": 461,
+                "from_url": "https:\/\/www.figma.com\/file\/3cwl0E9b9PHUkqfsRHr8Cg\/Community-Alerts-Desktop?node-id=641%3A213",
+                "thumb_width": 800,
+                "thumb_height": 461,
+                "image_bytes": 8098,
+                "service_icon": "https:\/\/static.figma.com\/app\/icon\/1\/touch-76.png",
+                "id": 1,
+                "original_url": "https:\/\/www.figma.com\/file\/3cwl0E9b9PHUkqfsRHr8Cg\/Community-Alerts-Desktop?node-id=641%3A213"
+            }
+        ],
+        "thread_ts": "1632930633.071600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "445403ee-efc4-4860-9780-bd9aed9319e8",
+        "type": "message",
+        "text": "And a second option with a little bit more of work but still really basic. Although it would mean some work to add the Details component into the top. <https:\/\/www.figma.com\/file\/3cwl0E9b9PHUkqfsRHr8Cg\/Community-Alerts-Desktop?node-id=642%3A433>",
+        "user": "U1ET7192M",
+        "ts": "1632996657.077600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lVap",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And a second option with a little bit more of work but still really basic. Although it would mean some work to add the Details component into the top. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.figma.com\/file\/3cwl0E9b9PHUkqfsRHr8Cg\/Community-Alerts-Desktop?node-id=642%3A433"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a15aef27d44b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-12\/723420024176_a15aef27d44b65011c5b_72.png",
+            "first_name": "Cristina",
+            "real_name": "Cristina Chumillas",
+            "display_name": "ckrina",
+            "team": "T06GX3JTS",
+            "name": "ckrina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1ET7192M",
+            "ts": "1632996669.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Figma",
+                "title": "Community Alerts - Desktop",
+                "title_link": "https:\/\/www.figma.com\/file\/3cwl0E9b9PHUkqfsRHr8Cg\/Community-Alerts-Desktop?node-id=642%3A433",
+                "text": "Created with Figma",
+                "fallback": "Figma: Community Alerts - Desktop",
+                "thumb_url": "https:\/\/www.figma.com\/file\/3cwl0E9b9PHUkqfsRHr8Cg\/thumbnail?ver=thumbnails\/3cwl0E9b9PHUkqfsRHr8Cg\/default",
+                "image_url": "https:\/\/www.figma.com\/file\/3cwl0E9b9PHUkqfsRHr8Cg\/thumbnail?ver=thumbnails\/3cwl0E9b9PHUkqfsRHr8Cg\/default",
+                "image_width": 800,
+                "image_height": 461,
+                "from_url": "https:\/\/www.figma.com\/file\/3cwl0E9b9PHUkqfsRHr8Cg\/Community-Alerts-Desktop?node-id=642%3A433",
+                "thumb_width": 800,
+                "thumb_height": 461,
+                "image_bytes": 8098,
+                "service_icon": "https:\/\/static.figma.com\/app\/icon\/1\/touch-76.png",
+                "id": 1,
+                "original_url": "https:\/\/www.figma.com\/file\/3cwl0E9b9PHUkqfsRHr8Cg\/Community-Alerts-Desktop?node-id=642%3A433"
+            }
+        ],
+        "thread_ts": "1632930633.071600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "fd05e194-b672-4a8e-9974-43d4a0691d8c",
+        "type": "message",
+        "text": "<@U4PT7ES0M> <@U015ETZ1Z1P> FYI ^^",
+        "user": "U2T8M7PA4",
+        "ts": "1632999304.078000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BdE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U015ETZ1Z1P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " FYI ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632930633.071600",
+        "parent_user_id": "U06NAEYSF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U015ETZ1Z1P",
+                    "U4PT7ES0M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "017561a3-cff4-40b1-b45c-9ff4b7e8af07",
+        "type": "message",
+        "text": "No, that is not possible.",
+        "user": "U3U1SD32R",
+        "ts": "1633004326.078300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lbk=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, that is not possible."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632985132.073400",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "d8384cb7-95ed-41fa-973a-ac9e2a633156",
+        "type": "message",
+        "text": "Yeah - the change can happen in the merge request to core - but the contrib namespace will stay the same",
+        "user": "U06NAEYSF",
+        "ts": "1633017191.078600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YOJat",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah - the change can happen in the merge request to core - but the contrib namespace will stay the same"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632985132.073400",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "095aa805-7767-4870-a378-13334ccb0943",
+        "type": "message",
+        "text": "Andthat's actually kind of important, contrib and core modules having the same machine name causes problems",
+        "user": "U06NAEYSF",
+        "ts": "1633017205.078800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ubo7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Andthat's actually kind of important, contrib and core modules having the same machine name causes problems"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632985132.073400",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "b94f0803-827c-478b-9961-264eebb516ee",
+        "type": "message",
+        "text": "yes, got it.\nWe’ve also created a shell script like CKEditor 5 PR\nSo that’s automated for now.",
+        "user": "U2T8M7PA4",
+        "ts": "1633019179.079000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UEGS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, got it.\nWe’ve also created a shell script like CKEditor 5 PR\nSo that’s automated for now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632985132.073400",
+        "parent_user_id": "U2T8M7PA4",
+        "reactions": [
+            {
+                "name": "checkbox",
+                "users": [
+                    "U06NAEYSF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9148d767-625d-4d60-aa38-ee6c20a9f722",
+        "type": "message",
+        "text": "Perfect",
+        "user": "U06NAEYSF",
+        "ts": "1633020114.079300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uoo=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632985132.073400",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "adb9ee45-ceba-4edd-9d4c-863f7831ecc9",
+        "type": "message",
+        "text": "<@U06HDFAP5> I think it would be better to keep minimal styling in module itself so that the styling remains consistent across the themes instead of targeting only seven &amp; claro. Because in future there could be other themes as well in core. Please let me know if should proceed in minimising the styling of module.\ncc: <@U2T8M7PA4>",
+        "user": "U015ETZ1Z1P",
+        "ts": "1633071277.079500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FTU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06HDFAP5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think it would be better to keep minimal styling in module itself so that the styling remains consistent across the themes instead of targeting only seven & claro. Because in future there could be other themes as well in core. Please let me know if should proceed in minimising the styling of module.\ncc: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g017863dbe5d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/017863dbe5d946a6fb1966be3912d57c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "asmita wagh",
+            "display_name": "asmita wagh",
+            "team": "T06GX3JTS",
+            "name": "asmita.wagh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "20e64eae-4840-4427-8aaf-1d162f409c51",
+        "type": "message",
+        "text": "We usually try to draw the line at functionality. Core should include styles that are necessary for the module to be functional",
+        "user": "U06HDFAP5",
+        "ts": "1633071350.079700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9LVr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We usually try to draw the line at functionality. Core should include styles that are necessary for the module to be functional"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

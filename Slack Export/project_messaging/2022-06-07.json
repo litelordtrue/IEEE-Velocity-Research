@@ -1,0 +1,424 @@
+[
+    {
+        "client_msg_id": "79d30cbc-891e-413a-a3d9-ac4f36e2f142",
+        "type": "message",
+        "text": "Okay! <@U4PT7ES0M> Is that something you could do for us?",
+        "user": "U06NAEYSF",
+        "ts": "1654617282.602099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1uc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Is that something you could do for us?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654527765.175289",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "a6c0188d-ec86-445e-939f-60c984596132",
+        "type": "message",
+        "text": "We can spend some time learning your script if need be.",
+        "user": "U06NAEYSF",
+        "ts": "1654622595.532799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MCM=D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We can spend some time learning your script if need be."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654527765.175289",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "1e6e89d8-abca-4579-88ee-d62f8f6fa203",
+        "type": "message",
+        "text": "(cc <@U4KAE8Q91> and maybe <@U6K08UK96> depending on what Lal has time to do)",
+        "user": "U06NAEYSF",
+        "ts": "1654622620.191139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x+C5T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4KAE8Q91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and maybe "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " depending on what Lal has time to do)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654527765.175289",
+        "parent_user_id": "U06NAEYSF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654622677.092859",
+        "user": "U6K08UK96",
+        "text": "<@U6K08UK96> has joined the channel"
+    },
+    {
+        "client_msg_id": "0f78f0c3-89ff-4511-ac19-e31d97dd04e7",
+        "type": "message",
+        "text": "<@U4PT7ES0M>, seems like this is the patch - <https:\/\/www.drupal.org\/files\/issues\/2021-12-13\/3206643-82.patch> .   Can we move forward with review for this patch? <@U6K08UK96>,  does this patch looks to you as ready for review?",
+        "user": "U4KAE8Q91",
+        "ts": "1654632314.622059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1AV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", seems like this is the patch - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/files\/issues\/2021-12-13\/3206643-82.patch"
+                            },
+                            {
+                                "type": "text",
+                                "text": " .   Can we move forward with review for this patch? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",  does this patch looks to you as ready for review?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654527765.175289",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "71ef4d0f-cd55-49c8-8669-562a5f93f3a3",
+        "type": "message",
+        "text": "I can create the final patch",
+        "user": "U4PT7ES0M",
+        "ts": "1654661452.772869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/7C6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can create the final patch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654527765.175289",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "90ce3e74-a5fe-47b2-8919-b9fff2b1a33f",
+        "type": "message",
+        "text": "<@U4KAE8Q91> its doesn’t have the changes from <https:\/\/www.drupal.org\/project\/announce\/issues\/3249532>",
+        "user": "U4PT7ES0M",
+        "ts": "1654663110.039429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bTn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4KAE8Q91"
+                            },
+                            {
+                                "type": "text",
+                                "text": " its doesn’t have the changes from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532",
+                "ts": 1637005533,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532",
+                "fallback": "Drupal.org: Display only the top 10 announcements by version (featured then recent) with a see more link",
+                "text": "Problem\/Motivation The module currently displays all the announcements from <http:\/\/drupal.org|drupal.org> only filtered to the version of Drupal used. Is the idea that the announcement feed itself will have controls \/ limits as to what it contains and thus limit what is displayed on the site? If so, we should include that somehow in the documentation as well. Noticed while working on [#3249521]. If the feed keeps growing, then we may need a Drupal site-side solution to limit the items. What happens when there are 15 or 25 items in the feed? Should items older than the site even be shown?",
+                "title": "Display only the top 10 announcements by version (featured then recent) with a see more link",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3249532",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1654527765.175289",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "a0c4ad6d-06a4-4305-8413-6a6d038e6d01",
+        "type": "message",
+        "text": "<@U4PT7ES0M> - thanks!  Can you post final patch that can be reviewed and then committed?  Thanks a lot!",
+        "user": "U4KAE8Q91",
+        "ts": "1654664871.027539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FH1HM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4PT7ES0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - thanks!  Can you post final patch that can be reviewed and then committed?  Thanks a lot!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "649fe3223e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-22\/586715832502_649fe3223e841798082f_72.jpg",
+            "first_name": "Irina",
+            "real_name": "Irina Zaks",
+            "display_name": "irinaz",
+            "team": "T06GX3JTS",
+            "name": "irinaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654527765.175289",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "a04abef7-db2d-46dc-8fae-16860bdaa17a",
+        "type": "message",
+        "text": "<https:\/\/www.drupal.org\/project\/announce\/issues\/3284584> failed on the this…. We should integrate cspell on to the testbot",
+        "user": "U4PT7ES0M",
+        "ts": "1654668310.382439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZxJpD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3284584"
+                            },
+                            {
+                                "type": "text",
+                                "text": " failed on the this…. We should integrate cspell on to the testbot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3284584",
+                "ts": 1654668171,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/announce\/issues\/3284584",
+                "fallback": "Drupal.org: Cspell failing for the module",
+                "text": "Problem\/Motivation Cspell fails with the message.",
+                "title": "Cspell failing for the module",
+                "title_link": "https:\/\/www.drupal.org\/project\/announce\/issues\/3284584",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1654527765.175289",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

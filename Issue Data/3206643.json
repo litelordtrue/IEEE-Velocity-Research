@@ -1,0 +1,3026 @@
+{
+  "body": {
+    "value": "<h3 id=\"summary-problem-motivation\">Problem/Motivation</h3>\n<p>Per the core idea issue: <span class=\"project-issue-issue-link project-issue-status-info project-issue-status-7\"><a href=\"/project/ideas/issues/2940739\" title=\"Status: Closed (fixed), Assigned to: hestenet\">#2940739: Project messaging channel in core initiative</a></span></p>\n<blockquote><p>The vast majority of Drupal users do not have accounts on Drupal.org, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association.</p>\n<p>The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core. This channel could provide information about upcoming releases, new feature highlights, events like DrupalCon, and promote support of the project via Association membership or other programs.</p></blockquote>\n<h3 id=\"summary-proposed-resolution\">Proposed resolution</h3>\n<h4>Guidelines</h4>\n<p>We agreed to develop the feature using the following guidelines:</p>\n<ul>\n<li>Follow existing core patterns where possible</li>\n<li>Reuse existing visual display/layout from the settings tray</li>\n<li>Provide a notification icon in the primary toolbar</li>\n<li>Consume a feed from Drupal.org</li>\n</ul>\n<p>For initial inclusion, the following potential features were <strong>not</strong> in scope:</p>\n<ul>\n<li>Configurable endpoints for multiple feeds. </li>\n<li>An API for extensibility by other contributed modules. </li>\n</ul>\n<h4>Prototype</h4>\n<p>Initial design concepts were provided here: <a href=\"https://www.figma.com/proto/Ws4Gk0ImaripDb4NAlTvCBtZ/Community-Alerts---Desktop--v1?node-id=41%3A485&amp;viewport=-19%2C551%2C0.11556927114725113&amp;scaling=min-zoom\" rel=\"nofollow\">https://www.figma.com/proto/Ws4Gk0ImaripDb4NAlTvCBtZ/Community-Alerts---...</a></p>\n<p>This announcement feature has been developed as part of contrib: <a href=\"https://www.drupal.org/project/announce\" rel=\"nofollow\">https://www.drupal.org/project/announce</a></p>\n<h4>Demo</h4>\n<p>This early demo shows an example of the announcement feed during the Contrib phase. It is not up to date with the latest changes from feedback in comments in this thread. </p>\n<ul>\n<li> Drupalpod instance with test feed enabled: see testing instructions below.</li>\n<li><a href=\"https://docs.google.com/presentation/d/12jDE9KumnWVJPiTNOaBkv9GUPZDA4nd6GSDy70gg96w/edit#slide=id.p\" rel=\"nofollow\">Screenshots (slides)</a></li>\n</ul>\n<p>Original demo (outdated)<br />\n<img src=\"/files/issues/2021-11-01/announcement-feeds-demo.gif\" width=\"600\" height=\"600\" alt=\"Announcement Feed Video\" /></p>\n<h3 id=\"summary-remaining-tasks\">Remaining tasks</h3>\n<h4>Steps to get this module into core</h4>\n<ol>\n<li>Merge into core and market it as an experimental module, according to typical process for new core features.</li>\n<li>After a successful release as experimental, if no major changes are required, mark stable in following release.</li>\n<li>Add it to the standard profile (and maybe others)</li>\n<li>Figure out if and how to enable it on existing sites.</li>\n</ol>\n<ul>\n<li><del>Finalize the feed from Drupal.org (need to handle version constraints for messaging)</del></li>\n<li><span class=\"project-issue-issue-link project-issue-status-info project-issue-status-7\"><a href=\"/project/announce/issues/3249625\" title=\"Status: Closed (fixed)\">#3249625: Document difference between featured and standard announcements</a></span></li>\n<li><span class=\"project-issue-issue-link project-issue-status-info project-issue-status-7\"><a href=\"/project/announce/issues/3249644\" title=\"Status: Closed (fixed)\">#3249644: Clarify behavior of announcements, new, viewed, hiding, etc.</a></span></li>\n<li><span class=\"project-issue-issue-link project-issue-status-info project-issue-status-7\"><a href=\"/project/announce/issues/3249532\" title=\"Status: Closed (fixed)\">#3249532: Display only the top 10 announcements by version (featured then recent) with a see more link</a></span></li>\n<li><span class=\"project-issue-issue-link project-issue-status-info project-issue-status-7\"><a href=\"/project/governance/issues/3071994\" title=\"Status: Closed (fixed), Assigned to: hestenet\">#3071994: Document approval process for what appears in the official Drupal project messaging feed</a></span></li>\n<li><del>Complete tests: <span class=\"project-issue-issue-link project-issue-status-info project-issue-status-7\"><a href=\"/project/announce/issues/3198730\" title=\"Status: Closed (fixed)\">#3198730: Automated tests for Announce</a></span></del></li>\n<li><del>Standardize language to 'announcements' rather than 'alerts'</del></li>\n<li><del>Usability review</del></li>\n<li><del>Re-roll patch for 9.5.x (currently doesn't apply)</del></li>\n<li><del>Roll patch for 10.0.x</del>\n</li><li><del>Accessibility review</del></li>\n<li><del>Release note snippet drafted</del></li>\n<li><del>✅ Fran has resolved the display issue found in @mherchel's and @smustgrave's reviews</del></li>\n<li><del>✅Product manager review - @Gabor Hojtsy - when the above is signed off, can we get your formal sign off?</del></li>\n<li>Framework manager review - @larowlan has provided a bunch of feedback (along with @quietone) - @fjgarlin believes this has all been addressed - can the threads be resolved and framework review be signed off?</li>\n<li>Release manager review - I think this will be @catch based on activity so far?</li>\n<li><del>✅ Release notes snippet is already included in the issue summary</del></li>\n<li>🟡 Drafting a change record - started one here: <a href=\"https://www.drupal.org/node/3349399\" rel=\"nofollow\">https://www.drupal.org/node/3349399</a></li>\n</ul>\n<h3 id=\"summary-follow-up\">Follow-up</h3>\n<ul>\n<li>Get core review and post the first<em>official</em> post to the feed: <a href=\"https://docs.google.com/document/d/1d5Uq1ORQDy5bW_3WAyyorEVuHCtZBBB_aKMtnDfoS-Y/edit#\" rel=\"nofollow\">https://docs.google.com/document/d/1d5Uq1ORQDy5bW_3WAyyorEVuHCtZBBB_aKMt...</a></li>\n<li>Follow-up: <span class=\"project-issue-issue-link project-issue-status-info project-issue-status-8\"><a href=\"/project/announce/issues/3071997\" title=\"Status: Needs review\">#3071997: Backport to D7</a></span></li>\n<li>Follow-up: Decide whether or not to backport to earlier D9 releases just to provide more exposure, get more adoption, since the point of this feature is communication with our ecosystem.\n</li></ul>\n<h3 id=\"summary-ui-changes\">User interface changes</h3>\n<ul>\n<li>Adds a notification icon to the admin toolbar</li>\n<li>Adds an announcement tray with a list of the announcements pulled from the feed</li>\n</ul>\n<h3 id=\"summary-api-changes\">API changes</h3>\n<ul>\n<li>This feature does not add any public APIs</li>\n</ul>\n<h3 id=\"summary-data-model-changes\">Data model changes</h3>\n<ul>\n<li>This feature uses cache tags in the user scope to handle read/unread status of announcements.</li>\n</ul>\n<h3 id=\"summary-data-model-changes\">Security considerations</h3>\n<ul>\n<li>The feed itself must be securely controlled from Drupal.org with a policy for who has access and editorial approval: <span class=\"project-issue-issue-link project-issue-status-info project-issue-status-7\"><a href=\"/project/governance/issues/3071994\" title=\"Status: Closed (fixed), Assigned to: hestenet\">#3071994: Document approval process for what appears in the official Drupal project messaging feed</a></span>.</li>\n</ul>\n<h3 id=\"summary-release-notes\">Release notes snippet</h3>\n<blockquote><p>Drupal core now includes an announcements feed of project news from Drupal.org. This feed of announcements is displayed in the Drupal administrative toolbar to site owners/editors, tracking read/unread status with cache tags. Announcements may include: news about upcoming Drupal features, important information for site owners on older Drupal versions, and information about supporting the Drupal project through Drupal Association programs.</p></blockquote>\n<h3 id=\"summary-release-notes\">D7 Backport</h3>\n<p>This is an exceptional case where a backport to Drupal 7, even this late in Drupal 7's lifecycle, is likely worth our time. The large number of legacy sites on Drupal 7 are an audience we need to be able to reach, and this may be our only way to do so. </p>\n<h3 id=\"contributors\">Contributors to D9 release</h3>\n<p>tedbow, Lal_, drumm, vimaljoseph, mohit_aghera, mitthukumawat, hestnet, Abhinand Gokhala K, AkshayAdhav</p>\n<h3 id=\"test\">Testing</h3>\n<p><strong>Drupalpod</strong> instance: <a href=\"https://gitpod.io/#snapshot/697e9aac-5820-4cbc-858b-0330ceeb35ba\" rel=\"nofollow\">https://gitpod.io/#snapshot/697e9aac-5820-4cbc-858b-0330ceeb35ba</a> and then navigate to /admin/announcements_feed on the browser window. </p>\n<p>See below as the feed might not work.</p>\n<p>You will need to <strong>select which feed you want to test</strong>. You need to override the feed_url:</p>\n<ul>\n<li>Copy sites/example.settings.local.php to <code class=\"language-php\">sites/default/settings.local.php</code></li>\n<li>Uncomment the last three lines of <code class=\"language-php\">sites/default/settings.php</code> to include the above file</li>\n<li><strong>IMPORTANT:</strong> On drupalpod, go to the Ports tab (besides Terminal tab), then go to port 8080 and make it public. Copy the URL of your pod instance for the next step.</li>\n<li>Edit the <code class=\"language-php\">sites/development.services.yml</code> (on drupalpod <code class=\"language-php\">repos/drupal/sites/development.services.yml</code>!) and add <code class=\"language-php\">announcements_feed.feed_url: https://DRUPAL-URL/core/modules/announcements_feed/tests/announce_feed/community-feeds.json</code> to the parameters section (replace DRUPAL-URL with the URL of your testing instance). Alternatively, remove the above line, so it defaults to <code class=\"language-php\">https://www.drupal.org/announcements.json</code></li>\n<li><code class=\"language-php\">ddev drush php:eval \"\\Drupal::service('user.data')-&gt;delete('announcements_feed');\\Drupal::service('keyvalue.expirable')-&gt;get('announcements_feed')-&gt;deleteAll();drupal_flush_all_caches();\"</code></li>\n</ul>\n<p>To <strong>trigger the notifications as new</strong> run: <code class=\"language-php\">ddev drush php:eval \"\\Drupal::service('user.data')-&gt;delete('announcements_feed');drupal_flush_all_caches();\"</code></p>",
+    "summary": "",
+    "format": "1"
+  },
+  "taxonomy_vocabulary_9": [
+    {
+      "uri": "https://www.drupal.org/api-d7/taxonomy_term/21556",
+      "id": "21556",
+      "resource": "taxonomy_term"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/taxonomy_term/199026",
+      "id": "199026",
+      "resource": "taxonomy_term"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/taxonomy_term/198387",
+      "id": "198387",
+      "resource": "taxonomy_term"
+    }
+  ],
+  "field_issue_status": "7",
+  "field_issue_priority": "300",
+  "field_issue_category": "3",
+  "field_issue_component": "announcements_feed.module",
+  "field_issue_assigned": {
+    "uri": "https://www.drupal.org/api-d7/user/54034",
+    "id": "54034",
+    "resource": "user"
+  },
+  "field_project": {
+    "uri": "https://www.drupal.org/api-d7/node/3060",
+    "id": "3060",
+    "resource": "node",
+    "machine_name": "drupal"
+  },
+  "field_issue_files": [
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6502982",
+        "id": "6502982",
+        "resource": "file",
+        "cid": "14214634"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6502983",
+        "id": "6502983",
+        "resource": "file",
+        "cid": "14214634"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6502984",
+        "id": "6502984",
+        "resource": "file",
+        "cid": "14214634"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6504905",
+        "id": "6504905",
+        "resource": "file",
+        "cid": "14221002"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6504906",
+        "id": "6504906",
+        "resource": "file",
+        "cid": "14221002"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6504907",
+        "id": "6504907",
+        "resource": "file",
+        "cid": "14221002"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6512881",
+        "id": "6512881",
+        "resource": "file",
+        "cid": "14250566"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6516227",
+        "id": "6516227",
+        "resource": "file",
+        "cid": "14261324"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6516237",
+        "id": "6516237",
+        "resource": "file",
+        "cid": "14261352"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6516256",
+        "id": "6516256",
+        "resource": "file",
+        "cid": "14261421"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6516300",
+        "id": "6516300",
+        "resource": "file",
+        "cid": "14261518"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6516347",
+        "id": "6516347",
+        "resource": "file",
+        "cid": "14261615"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6516366",
+        "id": "6516366",
+        "resource": "file",
+        "cid": "14261710"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6516392",
+        "id": "6516392",
+        "resource": "file",
+        "cid": "14261844"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6518462",
+        "id": "6518462",
+        "resource": "file",
+        "cid": "14268347"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6518475",
+        "id": "6518475",
+        "resource": "file",
+        "cid": "14268392"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6518491",
+        "id": "6518491",
+        "resource": "file",
+        "cid": "14268450"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6518493",
+        "id": "6518493",
+        "resource": "file",
+        "cid": "14268456"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6518508",
+        "id": "6518508",
+        "resource": "file",
+        "cid": "14268516"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6518509",
+        "id": "6518509",
+        "resource": "file",
+        "cid": "14268516"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6518526",
+        "id": "6518526",
+        "resource": "file",
+        "cid": "14268589"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6520108",
+        "id": "6520108",
+        "resource": "file",
+        "cid": "14274289"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6520109",
+        "id": "6520109",
+        "resource": "file",
+        "cid": "14274289"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6520194",
+        "id": "6520194",
+        "resource": "file",
+        "cid": "14274564"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6521007",
+        "id": "6521007",
+        "resource": "file",
+        "cid": "14276249"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6584051",
+        "id": "6584051",
+        "resource": "file",
+        "cid": "14337381"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6584061",
+        "id": "6584061",
+        "resource": "file",
+        "cid": "14337405"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6584075",
+        "id": "6584075",
+        "resource": "file",
+        "cid": "14337476"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6584120",
+        "id": "6584120",
+        "resource": "file",
+        "cid": "14337648"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6639011",
+        "id": "6639011",
+        "resource": "file",
+        "cid": "14555671"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6646935",
+        "id": "6646935",
+        "resource": "file",
+        "cid": "14574934"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6646936",
+        "id": "6646936",
+        "resource": "file",
+        "cid": "14574934"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6661506",
+        "id": "6661506",
+        "resource": "file",
+        "cid": "14618811"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6700338",
+        "id": "6700338",
+        "resource": "file",
+        "cid": "14742632"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6700340",
+        "id": "6700340",
+        "resource": "file",
+        "cid": "14742632"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6700437",
+        "id": "6700437",
+        "resource": "file",
+        "cid": "14742990"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6700438",
+        "id": "6700438",
+        "resource": "file",
+        "cid": "14742990"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6700487",
+        "id": "6700487",
+        "resource": "file",
+        "cid": "14743160"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6700488",
+        "id": "6700488",
+        "resource": "file",
+        "cid": "14743160"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6701237",
+        "id": "6701237",
+        "resource": "file",
+        "cid": "14751021"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6701238",
+        "id": "6701238",
+        "resource": "file",
+        "cid": "14751021"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6701642",
+        "id": "6701642",
+        "resource": "file",
+        "cid": "14752672"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6701643",
+        "id": "6701643",
+        "resource": "file",
+        "cid": "14752672"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6713332",
+        "id": "6713332",
+        "resource": "file",
+        "cid": "14790899"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6713368",
+        "id": "6713368",
+        "resource": "file",
+        "cid": "14791011"
+      },
+      "display": "0"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6748917",
+        "id": "6748917",
+        "resource": "file",
+        "cid": "14913361"
+      },
+      "display": "1"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6765552",
+        "id": "6765552",
+        "resource": "file",
+        "cid": "14974157"
+      },
+      "display": "1"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6765878",
+        "id": "6765878",
+        "resource": "file",
+        "cid": "14975260"
+      },
+      "display": "1"
+    },
+    {
+      "file": {
+        "uri": "https://www.drupal.org/api-d7/file/6767276",
+        "id": "6767276",
+        "resource": "file",
+        "cid": "14979783"
+      },
+      "display": "1"
+    }
+  ],
+  "field_issue_parent": {
+    "uri": "https://www.drupal.org/api-d7/node/2940739",
+    "id": "2940739",
+    "resource": "node"
+  },
+  "field_issue_related": [
+    {
+      "uri": "https://www.drupal.org/api-d7/node/3071994",
+      "id": "3071994",
+      "resource": "node"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/node/3196014",
+      "id": "3196014",
+      "resource": "node"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/node/3244581",
+      "id": "3244581",
+      "resource": "node"
+    }
+  ],
+  "field_issue_version": "10.1.x-dev",
+  "field_issue_credit": [
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14047329",
+      "id": "14047329",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14047333",
+      "id": "14047333",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14187841",
+      "id": "14187841",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14187846",
+      "id": "14187846",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14187863",
+      "id": "14187863",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14187865",
+      "id": "14187865",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14187867",
+      "id": "14187867",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14214375",
+      "id": "14214375",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14214608",
+      "id": "14214608",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14214612",
+      "id": "14214612",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14214634",
+      "id": "14214634",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14218072",
+      "id": "14218072",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14218073",
+      "id": "14218073",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14218609",
+      "id": "14218609",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14218622",
+      "id": "14218622",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14218629",
+      "id": "14218629",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14218691",
+      "id": "14218691",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14218757",
+      "id": "14218757",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14218831",
+      "id": "14218831",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14219226",
+      "id": "14219226",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14219232",
+      "id": "14219232",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14219484",
+      "id": "14219484",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14219711",
+      "id": "14219711",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14219889",
+      "id": "14219889",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14219897",
+      "id": "14219897",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14220746",
+      "id": "14220746",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14221002",
+      "id": "14221002",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14243674",
+      "id": "14243674",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14250566",
+      "id": "14250566",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261061",
+      "id": "14261061",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261310",
+      "id": "14261310",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261324",
+      "id": "14261324",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261328",
+      "id": "14261328",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261352",
+      "id": "14261352",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261421",
+      "id": "14261421",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261518",
+      "id": "14261518",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261615",
+      "id": "14261615",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261617",
+      "id": "14261617",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261710",
+      "id": "14261710",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261711",
+      "id": "14261711",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261844",
+      "id": "14261844",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261965",
+      "id": "14261965",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14267057",
+      "id": "14267057",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268347",
+      "id": "14268347",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268392",
+      "id": "14268392",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268394",
+      "id": "14268394",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268411",
+      "id": "14268411",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268450",
+      "id": "14268450",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268456",
+      "id": "14268456",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268516",
+      "id": "14268516",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268589",
+      "id": "14268589",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14274289",
+      "id": "14274289",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14274564",
+      "id": "14274564",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14274566",
+      "id": "14274566",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14276249",
+      "id": "14276249",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14276293",
+      "id": "14276293",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14278478",
+      "id": "14278478",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14298024",
+      "id": "14298024",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14298550",
+      "id": "14298550",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14328729",
+      "id": "14328729",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14337381",
+      "id": "14337381",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14337405",
+      "id": "14337405",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14337476",
+      "id": "14337476",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14337648",
+      "id": "14337648",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14473553",
+      "id": "14473553",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14470463",
+      "id": "14470463",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14547885",
+      "id": "14547885",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14547887",
+      "id": "14547887",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14555671",
+      "id": "14555671",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14578418",
+      "id": "14578418",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14599067",
+      "id": "14599067",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14618772",
+      "id": "14618772",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14618788",
+      "id": "14618788",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14618797",
+      "id": "14618797",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14618811",
+      "id": "14618811",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14618821",
+      "id": "14618821",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14618843",
+      "id": "14618843",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14624626",
+      "id": "14624626",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14624972",
+      "id": "14624972",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14657879",
+      "id": "14657879",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14657896",
+      "id": "14657896",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14742587",
+      "id": "14742587",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14742632",
+      "id": "14742632",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14742990",
+      "id": "14742990",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14743160",
+      "id": "14743160",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14751021",
+      "id": "14751021",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14752672",
+      "id": "14752672",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14759540",
+      "id": "14759540",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14761475",
+      "id": "14761475",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14790767",
+      "id": "14790767",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14790899",
+      "id": "14790899",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14791009",
+      "id": "14791009",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14791011",
+      "id": "14791011",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14803273",
+      "id": "14803273",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14804345",
+      "id": "14804345",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14804387",
+      "id": "14804387",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14806312",
+      "id": "14806312",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14806429",
+      "id": "14806429",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14806505",
+      "id": "14806505",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14806537",
+      "id": "14806537",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14856255",
+      "id": "14856255",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14856484",
+      "id": "14856484",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14856495",
+      "id": "14856495",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14857836",
+      "id": "14857836",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14857859",
+      "id": "14857859",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14598007",
+      "id": "14598007",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14598488",
+      "id": "14598488",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14857735",
+      "id": "14857735",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14857740",
+      "id": "14857740",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14857965",
+      "id": "14857965",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14857953",
+      "id": "14857953",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14859696",
+      "id": "14859696",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14859919",
+      "id": "14859919",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14861883",
+      "id": "14861883",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14866659",
+      "id": "14866659",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14869349",
+      "id": "14869349",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14873622",
+      "id": "14873622",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14873662",
+      "id": "14873662",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14887193",
+      "id": "14887193",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14887213",
+      "id": "14887213",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14887215",
+      "id": "14887215",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14887418",
+      "id": "14887418",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14887423",
+      "id": "14887423",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14887441",
+      "id": "14887441",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14887616",
+      "id": "14887616",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14888699",
+      "id": "14888699",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14888808",
+      "id": "14888808",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14889110",
+      "id": "14889110",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14903052",
+      "id": "14903052",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14903080",
+      "id": "14903080",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14904996",
+      "id": "14904996",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14912395",
+      "id": "14912395",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14912542",
+      "id": "14912542",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14912751",
+      "id": "14912751",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14912891",
+      "id": "14912891",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14912946",
+      "id": "14912946",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14913279",
+      "id": "14913279",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14913361",
+      "id": "14913361",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14913371",
+      "id": "14913371",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14913379",
+      "id": "14913379",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14914503",
+      "id": "14914503",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14914620",
+      "id": "14914620",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14916704",
+      "id": "14916704",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14917015",
+      "id": "14917015",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14932519",
+      "id": "14932519",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14934164",
+      "id": "14934164",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14967029",
+      "id": "14967029",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14967299",
+      "id": "14967299",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14967799",
+      "id": "14967799",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14968984",
+      "id": "14968984",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14969065",
+      "id": "14969065",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14969786",
+      "id": "14969786",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14969859",
+      "id": "14969859",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14974157",
+      "id": "14974157",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14974165",
+      "id": "14974165",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14974253",
+      "id": "14974253",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14974279",
+      "id": "14974279",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14974874",
+      "id": "14974874",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14975260",
+      "id": "14975260",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14975294",
+      "id": "14975294",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14976075",
+      "id": "14976075",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14976081",
+      "id": "14976081",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14977185",
+      "id": "14977185",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14977861",
+      "id": "14977861",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14977862",
+      "id": "14977862",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14977895",
+      "id": "14977895",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14977988",
+      "id": "14977988",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14979783",
+      "id": "14979783",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14981667",
+      "id": "14981667",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14981710",
+      "id": "14981710",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14981830",
+      "id": "14981830",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14991778",
+      "id": "14991778",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15000600",
+      "id": "15000600",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15005954",
+      "id": "15005954",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15005982",
+      "id": "15005982",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15005951",
+      "id": "15005951",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15009748",
+      "id": "15009748",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15011342",
+      "id": "15011342",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15011723",
+      "id": "15011723",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15013807",
+      "id": "15013807",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15013824",
+      "id": "15013824",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15014116",
+      "id": "15014116",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15014571",
+      "id": "15014571",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15015401",
+      "id": "15015401",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15015868",
+      "id": "15015868",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15015991",
+      "id": "15015991",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15016631",
+      "id": "15016631",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15022823",
+      "id": "15022823",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15024900",
+      "id": "15024900",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15024907",
+      "id": "15024907",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15025013",
+      "id": "15025013",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15025063",
+      "id": "15025063",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15025102",
+      "id": "15025102",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15025108",
+      "id": "15025108",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15025747",
+      "id": "15025747",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15026711",
+      "id": "15026711",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15026735",
+      "id": "15026735",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15026759",
+      "id": "15026759",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15026849",
+      "id": "15026849",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15026855",
+      "id": "15026855",
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15026925",
+      "id": "15026925",
+      "resource": "comment"
+    }
+  ],
+  "field_issue_last_status_change": "1684865641",
+  "flag_project_issue_follow_user": [
+    {
+      "uri": "https://www.drupal.org/api-d7/user/102134",
+      "id": 102134,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/2369194",
+      "id": 2369194,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/2393360",
+      "id": 2393360,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/157725",
+      "id": 157725,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/3362504",
+      "id": 3362504,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/314289",
+      "id": 314289,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/3732306",
+      "id": 3732306,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/2572884",
+      "id": 2572884,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/395439",
+      "id": 395439,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/81431",
+      "id": 81431,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/3252890",
+      "id": 3252890,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/673120",
+      "id": 673120,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/2495842",
+      "id": 2495842,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/65776",
+      "id": 65776,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/246492",
+      "id": 246492,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/35733",
+      "id": 35733,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/959536",
+      "id": 959536,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/3653917",
+      "id": 3653917,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/12302",
+      "id": 12302,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/272316",
+      "id": 272316,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/683300",
+      "id": 683300,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/118428",
+      "id": 118428,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/3602225",
+      "id": 3602225,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/3217695",
+      "id": 3217695,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/2646507",
+      "id": 2646507,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/1850070",
+      "id": 1850070,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/225592",
+      "id": 225592,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/1790054",
+      "id": 1790054,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/2876519",
+      "id": 2876519,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/241634",
+      "id": 241634,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/99777",
+      "id": 99777,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/3180337",
+      "id": 3180337,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/116368",
+      "id": 116368,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/1206650",
+      "id": 1206650,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/1078742",
+      "id": 1078742,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/2665733",
+      "id": 2665733,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/3260314",
+      "id": 3260314,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/265648",
+      "id": 265648,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/60045",
+      "id": 60045,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/4166",
+      "id": 4166,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/639098",
+      "id": 639098,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/3473743",
+      "id": 3473743,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/3502327",
+      "id": 3502327,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/1074416",
+      "id": 1074416,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/429621",
+      "id": 429621,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/80733",
+      "id": 80733,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/2511158",
+      "id": 2511158,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/729614",
+      "id": 729614,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/46549",
+      "id": 46549,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/30772",
+      "id": 30772,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/24967",
+      "id": 24967,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/118908",
+      "id": 118908,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/180064",
+      "id": 180064,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/817380",
+      "id": 817380,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/3064",
+      "id": 3064,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/598310",
+      "id": 598310,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/255969",
+      "id": 255969,
+      "resource": "user"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/user/54034",
+      "id": 54034,
+      "resource": "user"
+    }
+  ],
+  "nid": "3206643",
+  "vid": "13106415",
+  "is_new": false,
+  "type": "project_issue",
+  "title": "Project messaging channel in core (as experimental)",
+  "language": "en",
+  "url": "https://www.drupal.org/project/drupal/issues/3206643",
+  "edit_url": "https://www.drupal.org/node/3206643/edit",
+  "status": "1",
+  "promote": "0",
+  "sticky": "0",
+  "created": "1617212298",
+  "changed": "1685529993",
+  "author": {
+    "uri": "https://www.drupal.org/api-d7/user/54034",
+    "id": "54034",
+    "resource": "user"
+  },
+  "book_ancestors": [],
+  "comment": "2",
+  "comments": [
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14047329",
+      "id": 14047329,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14047333",
+      "id": 14047333,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14089326",
+      "id": 14089326,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14093926",
+      "id": 14093926,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14187841",
+      "id": 14187841,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14187846",
+      "id": 14187846,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14187863",
+      "id": 14187863,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14187865",
+      "id": 14187865,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14187867",
+      "id": 14187867,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14214375",
+      "id": 14214375,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14214605",
+      "id": 14214605,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14214608",
+      "id": 14214608,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14214612",
+      "id": 14214612,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14214634",
+      "id": 14214634,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14214649",
+      "id": 14214649,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14214650",
+      "id": 14214650,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14214658",
+      "id": 14214658,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14214659",
+      "id": 14214659,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14218072",
+      "id": 14218072,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14218073",
+      "id": 14218073,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14218609",
+      "id": 14218609,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14218622",
+      "id": 14218622,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14218629",
+      "id": 14218629,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14218691",
+      "id": 14218691,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14218757",
+      "id": 14218757,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14218831",
+      "id": 14218831,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14219226",
+      "id": 14219226,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14219232",
+      "id": 14219232,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14219484",
+      "id": 14219484,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14219711",
+      "id": 14219711,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14219778",
+      "id": 14219778,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14219889",
+      "id": 14219889,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14219897",
+      "id": 14219897,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14220746",
+      "id": 14220746,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14221002",
+      "id": 14221002,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14243674",
+      "id": 14243674,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14250566",
+      "id": 14250566,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261061",
+      "id": 14261061,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261310",
+      "id": 14261310,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261324",
+      "id": 14261324,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261328",
+      "id": 14261328,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261352",
+      "id": 14261352,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261366",
+      "id": 14261366,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261421",
+      "id": 14261421,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261479",
+      "id": 14261479,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261518",
+      "id": 14261518,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261575",
+      "id": 14261575,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261615",
+      "id": 14261615,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261617",
+      "id": 14261617,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261673",
+      "id": 14261673,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261710",
+      "id": 14261710,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261711",
+      "id": 14261711,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261815",
+      "id": 14261815,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261844",
+      "id": 14261844,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14261965",
+      "id": 14261965,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14267057",
+      "id": 14267057,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268347",
+      "id": 14268347,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268392",
+      "id": 14268392,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268394",
+      "id": 14268394,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268411",
+      "id": 14268411,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268450",
+      "id": 14268450,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268456",
+      "id": 14268456,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268486",
+      "id": 14268486,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268516",
+      "id": 14268516,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14268589",
+      "id": 14268589,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14274289",
+      "id": 14274289,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14274390",
+      "id": 14274390,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14274564",
+      "id": 14274564,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14274566",
+      "id": 14274566,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14276249",
+      "id": 14276249,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14276293",
+      "id": 14276293,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14278478",
+      "id": 14278478,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14292764",
+      "id": 14292764,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14296927",
+      "id": 14296927,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14298024",
+      "id": 14298024,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14298550",
+      "id": 14298550,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14328729",
+      "id": 14328729,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14337381",
+      "id": 14337381,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14337405",
+      "id": 14337405,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14337476",
+      "id": 14337476,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14337615",
+      "id": 14337615,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14337648",
+      "id": 14337648,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14473553",
+      "id": 14473553,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14528991",
+      "id": 14528991,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14470463",
+      "id": 14470463,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14547885",
+      "id": 14547885,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14547887",
+      "id": 14547887,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14555671",
+      "id": 14555671,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14574504",
+      "id": 14574504,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14574558",
+      "id": 14574558,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14574934",
+      "id": 14574934,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14578418",
+      "id": 14578418,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14599067",
+      "id": 14599067,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14618772",
+      "id": 14618772,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14618788",
+      "id": 14618788,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14618797",
+      "id": 14618797,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14618811",
+      "id": 14618811,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14618821",
+      "id": 14618821,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14618843",
+      "id": 14618843,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14624626",
+      "id": 14624626,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14624972",
+      "id": 14624972,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14657879",
+      "id": 14657879,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14657896",
+      "id": 14657896,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14742587",
+      "id": 14742587,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14742632",
+      "id": 14742632,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14742990",
+      "id": 14742990,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14743084",
+      "id": 14743084,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14743160",
+      "id": 14743160,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14743910",
+      "id": 14743910,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14751021",
+      "id": 14751021,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14752133",
+      "id": 14752133,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14752672",
+      "id": 14752672,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14753724",
+      "id": 14753724,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14759540",
+      "id": 14759540,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14761475",
+      "id": 14761475,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14790767",
+      "id": 14790767,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14790899",
+      "id": 14790899,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14791009",
+      "id": 14791009,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14791011",
+      "id": 14791011,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14803273",
+      "id": 14803273,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14804345",
+      "id": 14804345,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14804387",
+      "id": 14804387,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14806312",
+      "id": 14806312,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14806429",
+      "id": 14806429,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14806505",
+      "id": 14806505,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14806537",
+      "id": 14806537,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14856255",
+      "id": 14856255,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14856484",
+      "id": 14856484,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14856495",
+      "id": 14856495,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14857736",
+      "id": 14857736,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14857737",
+      "id": 14857737,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14857836",
+      "id": 14857836,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14857859",
+      "id": 14857859,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14598007",
+      "id": 14598007,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14598488",
+      "id": 14598488,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14857735",
+      "id": 14857735,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14857740",
+      "id": 14857740,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14857965",
+      "id": 14857965,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14857953",
+      "id": 14857953,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14859696",
+      "id": 14859696,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14859919",
+      "id": 14859919,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14861883",
+      "id": 14861883,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14866659",
+      "id": 14866659,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14869349",
+      "id": 14869349,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14873622",
+      "id": 14873622,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14873662",
+      "id": 14873662,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14887193",
+      "id": 14887193,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14887213",
+      "id": 14887213,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14887215",
+      "id": 14887215,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14887418",
+      "id": 14887418,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14887423",
+      "id": 14887423,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14887441",
+      "id": 14887441,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14887616",
+      "id": 14887616,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14888699",
+      "id": 14888699,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14888808",
+      "id": 14888808,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14889110",
+      "id": 14889110,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14903052",
+      "id": 14903052,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14903080",
+      "id": 14903080,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14904996",
+      "id": 14904996,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14912395",
+      "id": 14912395,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14912542",
+      "id": 14912542,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14912751",
+      "id": 14912751,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14912891",
+      "id": 14912891,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14912946",
+      "id": 14912946,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14913279",
+      "id": 14913279,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14913361",
+      "id": 14913361,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14913371",
+      "id": 14913371,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14913379",
+      "id": 14913379,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14913396",
+      "id": 14913396,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14914503",
+      "id": 14914503,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14914620",
+      "id": 14914620,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14914993",
+      "id": 14914993,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14916704",
+      "id": 14916704,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14917015",
+      "id": 14917015,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14932519",
+      "id": 14932519,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14934164",
+      "id": 14934164,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14967029",
+      "id": 14967029,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14967299",
+      "id": 14967299,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14967799",
+      "id": 14967799,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14968984",
+      "id": 14968984,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14969065",
+      "id": 14969065,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14969786",
+      "id": 14969786,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14969859",
+      "id": 14969859,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14974157",
+      "id": 14974157,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14974165",
+      "id": 14974165,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14974253",
+      "id": 14974253,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14974279",
+      "id": 14974279,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14974874",
+      "id": 14974874,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14975260",
+      "id": 14975260,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14975294",
+      "id": 14975294,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14976075",
+      "id": 14976075,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14976081",
+      "id": 14976081,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14977185",
+      "id": 14977185,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14977861",
+      "id": 14977861,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14977862",
+      "id": 14977862,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14977895",
+      "id": 14977895,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14977988",
+      "id": 14977988,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14979783",
+      "id": 14979783,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14981667",
+      "id": 14981667,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14981710",
+      "id": 14981710,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14981830",
+      "id": 14981830,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14982051",
+      "id": 14982051,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/14991778",
+      "id": 14991778,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15000600",
+      "id": 15000600,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15005954",
+      "id": 15005954,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15005982",
+      "id": 15005982,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15005951",
+      "id": 15005951,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15009748",
+      "id": 15009748,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15011342",
+      "id": 15011342,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15011723",
+      "id": 15011723,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15013807",
+      "id": 15013807,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15013824",
+      "id": 15013824,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15014116",
+      "id": 15014116,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15014118",
+      "id": 15014118,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15014571",
+      "id": 15014571,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15015401",
+      "id": 15015401,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15015868",
+      "id": 15015868,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15015991",
+      "id": 15015991,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15016631",
+      "id": 15016631,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15020689",
+      "id": 15020689,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15022823",
+      "id": 15022823,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15024900",
+      "id": 15024900,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15024907",
+      "id": 15024907,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15025013",
+      "id": 15025013,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15025063",
+      "id": 15025063,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15025101",
+      "id": 15025101,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15025102",
+      "id": 15025102,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15025108",
+      "id": 15025108,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15025747",
+      "id": 15025747,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15026711",
+      "id": 15026711,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15026735",
+      "id": 15026735,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15026759",
+      "id": 15026759,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15026849",
+      "id": 15026849,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15026855",
+      "id": 15026855,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15026925",
+      "id": 15026925,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15043100",
+      "id": 15043100,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15074144",
+      "id": 15074144,
+      "resource": "comment"
+    },
+    {
+      "uri": "https://www.drupal.org/api-d7/comment/15085270",
+      "id": 15085270,
+      "resource": "comment"
+    }
+  ],
+  "comment_count": "238",
+  "comment_count_new": false,
+  "feeds_item_guid": null,
+  "feeds_item_url": null,
+  "feed_nid": null,
+  "flag_flag_tracker_follow_user": [],
+  "flag_tracker_follower_count": "58",
+  "has_new_content": null,
+  "last_comment_timestamp": "1685530034"
+}

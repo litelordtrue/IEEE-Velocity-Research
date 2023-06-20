@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "1671fc6c-318b-4247-8865-e4501a699241",
+        "type": "message",
+        "text": "Thanks very much!",
+        "user": "U06NAEYSF",
+        "ts": "1679507217.712389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SRM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks very much!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678916347.185179",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "43703141-7e3e-465d-a5f5-5485e93f95f4",
+        "type": "message",
+        "text": "<@U6K08UK96> is going to take another pass on this this week",
+        "user": "U06NAEYSF",
+        "ts": "1679507229.229749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rNSa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U6K08UK96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is going to take another pass on this this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678916347.185179",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

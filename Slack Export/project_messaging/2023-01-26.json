@@ -1,0 +1,788 @@
+[
+    {
+        "client_msg_id": "e21a7a76-7cf1-47d8-aac8-0b7627ee0e95",
+        "type": "message",
+        "text": "<https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3336530> this is a version of the feed following `jsonfeed` format. Once that issue is approved and deployed, I’ll follow up with the changes on the D10 issue.",
+        "user": "U6K08UK96",
+        "ts": "1674728127.266889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YGMG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3336530"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is a version of the feed following "
+                            },
+                            {
+                                "type": "text",
+                                "text": "jsonfeed",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " format. Once that issue is approved and deployed, I’ll follow up with the changes on the D10 issue."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3336530",
+                "ts": 1674680218,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3336530",
+                "fallback": "Drupal.org: Make announcements json feed format consistent with https:\/\/www.jsonfeed.org\/version\/1.1\/.",
+                "text": "Problem\/Motivation Make <https:\/\/www.drupal.org\/announcements.json> complaint with JSON feed format <https:\/\/www.jsonfeed.org\/version\/1.1\/>. Steps to reproduce Proposed resolution Remaining tasks Make the code changes Use the updated code to generate new fixtures for [#3206643] User interface changes None API changes Data model changes Nope",
+                "title": "Make announcements json feed format consistent with https:\/\/www.jsonfeed.org\/version\/1.1\/.",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3336530",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1674728127.266889",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1674753769.452619",
+        "reply_users": [
+            "U6K08UK96"
+        ],
+        "replies": [
+            {
+                "user": "U6K08UK96",
+                "ts": "1674735533.415999"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1674753769.452619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U06NAEYSF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76925d8e-20b8-48f1-8543-3eed663e843b",
+        "type": "message",
+        "text": "and the first attempt at using it (it’ll use the fixtures from the tests): <https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889\/diffs?commit_id=475346322b4f072534d23feac6635111f9d4f48b>",
+        "user": "U6K08UK96",
+        "ts": "1674735533.415999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RGA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and the first attempt at using it (it’ll use the fixtures from the tests): "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889\/diffs?commit_id=475346322b4f072534d23feac6635111f9d4f48b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674728127.266889",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "client_msg_id": "e4c56e0d-346f-410d-9d52-060b27e74373",
+        "type": "message",
+        "text": "latest <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14888699>\n\nupdating snapshot and links in issue.",
+        "user": "U6K08UK96",
+        "ts": "1674753769.452619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+EefA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "latest "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14888699"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nupdating snapshot and links in issue."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14888699",
+                "ts": 1617212298,
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14888699",
+                "fallback": "Drupal.org: Project messaging channel in core (as experimental)",
+                "text": "Problem\/Motivation Per the core idea issue: [#2940739] The vast majority of Drupal users do not have accounts on <http:\/\/Drupal.org|Drupal.org>, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association. The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core.",
+                "title": "Project messaging channel in core (as experimental)",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14888699",
+                "service_name": "Drupal.org"
+            }
+        ],
+        "thread_ts": "1674728127.266889",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U06NAEYSF> et al - latest comment with current *D10* progress here (I was waiting for green tests after latest changes) <https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14888699>\n\nI took a new *gitpod* snapshot here <https:\/\/gitpod.io\/#snapshot\/deaae6f2-7483-478a-94c7-d0b7e1aabe84> and updated the IS \/ testing instructions with it.\n\nThe *D7* issue to make the announcements feed follow jsonfeed format is here too: <https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3336530>",
+        "user": "U6K08UK96",
+        "ts": "1674754188.100519",
+        "thread_ts": "1674609699.202039",
+        "root": {
+            "client_msg_id": "712e28ef-0bf1-4d92-888b-d47d1197e30f",
+            "type": "message",
+            "text": "<@U6K08UK96>, <@U4B423ANR>, <@U1CREGN04>, I wanted to check in see what is needed now to commit this to core :slightly_smiling_face:. thank you in advance!",
+            "user": "U4KAE8Q91",
+            "ts": "1674609699.202039",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7NC",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U6K08UK96"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ", "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U4B423ANR"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ", "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U1CREGN04"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ", I wanted to check in see what is needed now to commit this to core "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "slightly_smiling_face",
+                                    "unicode": "1f642"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ". thank you in advance!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T06GX3JTS",
+            "thread_ts": "1674609699.202039",
+            "reply_count": 45,
+            "reply_users_count": 6,
+            "latest_reply": "1675365929.475729",
+            "reply_users": [
+                "U06NAEYSF",
+                "U4B423ANR",
+                "U6K08UK96",
+                "U4KAE8Q91",
+                "U3U1SD32R",
+                "U7G1P7P6Z"
+            ],
+            "replies": [
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1674611617.967819"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1674611629.834569"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674676054.294799"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674676086.027549"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674676092.669009"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674676122.751299"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674676130.639399"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674676150.790019"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674676240.003899"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674676287.531249"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674676311.761119"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674676335.929579"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674676388.236289"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674676407.735969"
+                },
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1674677360.277499"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1674678617.931929"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674678671.278129"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1674678674.274759"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1674678724.868039"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674678754.734079"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674678817.914309"
+                },
+                {
+                    "user": "U3U1SD32R",
+                    "ts": "1674678987.664979"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674679084.340939"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1674679202.497239"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1674679272.463469"
+                },
+                {
+                    "user": "U3U1SD32R",
+                    "ts": "1674679408.762069"
+                },
+                {
+                    "user": "U3U1SD32R",
+                    "ts": "1674679554.085569"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1674679593.065479"
+                },
+                {
+                    "user": "U3U1SD32R",
+                    "ts": "1674680064.459669"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1674680225.593769"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1674682321.034819"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1674682333.448319"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1674684569.820529"
+                },
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1674754188.100519"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674754403.266129"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1674754472.998999"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1674754493.962399"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674754660.996859"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1674754717.984029"
+                },
+                {
+                    "user": "U7G1P7P6Z",
+                    "ts": "1675072054.133939"
+                },
+                {
+                    "user": "U4KAE8Q91",
+                    "ts": "1675365192.138729"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1675365790.438379"
+                },
+                {
+                    "user": "U4B423ANR",
+                    "ts": "1675365863.887329"
+                },
+                {
+                    "user": "U3U1SD32R",
+                    "ts": "1675365871.732989"
+                },
+                {
+                    "user": "U06NAEYSF",
+                    "ts": "1675365929.475729"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bNjn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06NAEYSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et al - latest comment with current "
+                            },
+                            {
+                                "type": "text",
+                                "text": "D10",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " progress here (I was waiting for green tests after latest changes) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14888699"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI took a new "
+                            },
+                            {
+                                "type": "text",
+                                "text": "gitpod",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " snapshot here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gitpod.io\/#snapshot\/deaae6f2-7483-478a-94c7-d0b7e1aabe84"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and updated the IS \/ testing instructions with it.\n\nThe "
+                            },
+                            {
+                                "type": "text",
+                                "text": "D7",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " issue to make the announcements feed follow jsonfeed format is here too: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupalorg\/issues\/3336530"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "99b93f18-4d96-483d-a6e1-be5d7aedcb9f",
+        "edited": {
+            "user": "U6K08UK96",
+            "ts": "1674754469.000000"
+        },
+        "reactions": [
+            {
+                "name": "thankful",
+                "users": [
+                    "U06NAEYSF",
+                    "U4KAE8Q91"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "119bcaad-4db9-4637-9bca-983e5ee2c865",
+        "type": "message",
+        "text": "BTW, it's not up to me, but I personally would probably not commit this to D7. D7 doesn't have experimental modules, or minors. We can enable it by default for new D10 sites once stable, but ideally there _aren't_ new D7 sites. Ultimately up to <@U7G1P7P6Z>, though.",
+        "user": "U4B423ANR",
+        "ts": "1674754403.266129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AjjJP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BTW, it's not up to me, but I personally would probably not commit this to D7. D7 doesn't have experimental modules, or minors. We can enable it by default for new D10 sites once stable, but ideally there "
+                            },
+                            {
+                                "type": "text",
+                                "text": "aren't",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " new D7 sites. Ultimately up to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U7G1P7P6Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", though."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "4f189fad-6590-42c3-92f7-735911099c8f",
+        "type": "message",
+        "text": "It depends on whether or not we feel there's strategic value in a last ditch effort to have a direct outreach channel to those site owners, I guess. And how many of them we expect to install any update that includes it.",
+        "user": "U06NAEYSF",
+        "ts": "1674754472.998999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1FLDs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It depends on whether or not we feel there's strategic value in a last ditch effort to have a direct outreach channel to those site owners, I guess. And how many of them we expect to install any update that includes it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "05b17d19-7bff-4dee-bacd-92f317d52b33",
+        "type": "message",
+        "text": "But yeah, up to <@U7G1P7P6Z> for sure",
+        "user": "U06NAEYSF",
+        "ts": "1674754493.962399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o81X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But yeah, up to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U7G1P7P6Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U06NAEYSF",
+            "ts": "1674754500.000000"
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91",
+        "reactions": [
+            {
+                "name": "plus_one",
+                "users": [
+                    "U4KAE8Q91"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b665a110-efd2-496d-9feb-1d068089dc01",
+        "type": "message",
+        "text": "In order for people to see it, they would need to take the action of turning on the module for their sites, which in turn would mean they're already paying enough attention to know there is a new module they can turn on",
+        "user": "U4B423ANR",
+        "ts": "1674754660.996859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ysv4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In order for people to see it, they would need to take the action of turning on the module for their sites, which in turn would mean they're already paying enough attention to know there is a new module they can turn on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    },
+    {
+        "client_msg_id": "7e41f0b0-0172-463d-b4c4-ca8b40424304",
+        "type": "message",
+        "text": "Probably a nonzero set, but also not a huge one",
+        "user": "U4B423ANR",
+        "ts": "1674754717.984029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M\/Cz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Probably a nonzero set, but also not a huge one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "05a068b51ef7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275597377408_05a068b51ef796ef36d4_72.jpg",
+            "first_name": "xjm",
+            "real_name": "xjm",
+            "display_name": "",
+            "team": "T06GX3JTS",
+            "name": "xjm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    }
+]

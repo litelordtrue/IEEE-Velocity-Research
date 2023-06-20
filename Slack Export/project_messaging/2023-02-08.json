@@ -1,0 +1,1062 @@
+[
+    {
+        "client_msg_id": "a2b1ba0b-8ce0-4627-a712-a746782244af",
+        "type": "message",
+        "text": "I'm able to get the annoucements_feed module installed, but how do I get data to show? I followed the directions in the issue summary, but that didn't work",
+        "user": "U1CREGN04",
+        "ts": "1675877280.390519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "88+LB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm able to get the annoucements_feed module installed, but how do I get data to show? I followed the directions in the issue summary, but that didn't work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "37e8cccb-e3dc-47c5-a859-c206dadd4428",
+        "type": "message",
+        "text": "did you do it from the snapshot link in the testing instructions?\n\nI need to get a new snapshot with the changes that happened today and update the testing instructions, but also, you might need to wait until the change is live on <https:\/\/www.drupal.org\/announcements.json>",
+        "user": "U6K08UK96",
+        "ts": "1675878349.084749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=f47j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "did you do it from the snapshot link in the testing instructions?\n\nI need to get a new snapshot with the changes that happened today and update the testing instructions, but also, you might need to wait until the change is live on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/announcements.json"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675878349.084749",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1675931780.673609",
+        "reply_users": [
+            "U3U1SD32R",
+            "U6K08UK96"
+        ],
+        "replies": [
+            {
+                "user": "U3U1SD32R",
+                "ts": "1675895737.579119"
+            },
+            {
+                "user": "U6K08UK96",
+                "ts": "1675931780.673609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4f8859f5-fe3c-4001-a46c-4ad5f5ca1ee1",
+        "type": "message",
+        "text": "I think for <@U1CREGN04>’s use case using the test feed from the fixtures would be a good start.",
+        "user": "U06NAEYSF",
+        "ts": "1675878422.829979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UtY=b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think for "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1CREGN04"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’s use case using the test feed from the fixtures would be a good start."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d40aaa91-c1ed-4b9a-b412-902cd2671e09",
+        "type": "message",
+        "text": "I think it's catch and gabor who are more concerned about the actual live feed (which I will work on, but I don't want to block mike)",
+        "user": "U06NAEYSF",
+        "ts": "1675878437.021939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4WcE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it's catch and gabor who are more concerned about the actual live feed (which I will work on, but I don't want to block mike)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b2a507d7-db89-4726-8470-44482a0c3596",
+        "type": "message",
+        "text": "Yeah, if we can get Mike into the snapshot pointed to the test fixture ASAP that would be great. And maybe we need to update IS instructions - there's so much clutter.",
+        "user": "U06NAEYSF",
+        "ts": "1675878463.380519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wSKL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, if we can get Mike into the snapshot pointed to the test fixture ASAP that would be great. And maybe we need to update IS instructions - there's so much clutter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "904fe1cd-1463-43d4-ad87-28c072cd7bba",
+        "type": "message",
+        "text": "I'm testing this locally",
+        "user": "U1CREGN04",
+        "ts": "1675878472.799769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IBHO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm testing this locally"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4468db40-4360-4298-865a-3e0945e715f3",
+        "type": "message",
+        "text": "Ah - in that case the instructions on how to switch from the live feed to the test fixture feed..",
+        "user": "U06NAEYSF",
+        "ts": "1675878490.373479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9sQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah - in that case the instructions on how to switch from the live feed to the test fixture feed.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1913fc1c-64ad-4509-8d4c-c4a4cf8efb62",
+        "type": "message",
+        "text": "i can point it to a local json file if necessary",
+        "user": "U1CREGN04",
+        "ts": "1675878500.737689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bMN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i can point it to a local json file if necessary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5c9fcc27-60d1-4bce-a01a-ad6118819e96",
+        "type": "message",
+        "text": "I’m planning to update the snapshot and do another full test my tomorrow morning, once the changes are also live. maybe I can do a new one tonight if I find the time.\nin the meantime, you should be able to create a new drupalpod environment (or locally) and follow the testing instructions. that _should_ work.",
+        "user": "U6K08UK96",
+        "ts": "1675878508.972669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "azHHK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m planning to update the snapshot and do another full test my tomorrow morning, once the changes are also live. maybe I can do a new one tonight if I find the time.\nin the meantime, you should be able to create a new drupalpod environment (or locally) and follow the testing instructions. that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "should",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d6e6ecd3-1214-4639-896c-4dc42be164e3",
+        "type": "message",
+        "text": "which would be great, because I could then modify it (and break it! :devil: )",
+        "user": "U1CREGN04",
+        "ts": "1675878516.480639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+g1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "which would be great, because I could then modify it (and break it! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "devil"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "56e6de80-1e23-47c5-a97f-199bfaa26acc",
+        "type": "message",
+        "text": "<https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#test> if you follow that you can break (locally) all the things you want :slightly_smiling_face: (just ignore the drupalpod link as you’re testing locally)",
+        "user": "U6K08UK96",
+        "ts": "1675878565.629959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zm9j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#test"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you follow that you can break (locally) all the things you want "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (just ignore the drupalpod link as you’re testing locally)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6K08UK96",
+            "ts": "1675878593.000000"
+        }
+    },
+    {
+        "client_msg_id": "263a20f7-9039-47e5-b9f2-f1f42b37fa78",
+        "type": "message",
+        "text": "I went through that. Will do so again to make sure I didn't miss anything",
+        "user": "U1CREGN04",
+        "ts": "1675878641.366599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k\/JZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I went through that. Will do so again to make sure I didn't miss anything"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e57b47cd-c32e-4950-9c5f-24a112bd80ca",
+        "type": "message",
+        "text": "I think my problem is with my `development.services.yml`. What's the entry that I need to add? Copying and pasting from the testing instructions makes drupal throw an error.\n\nCan someone throw me their file?",
+        "user": "U1CREGN04",
+        "ts": "1675879167.683119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VVPb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think my problem is with my "
+                            },
+                            {
+                                "type": "text",
+                                "text": "development.services.yml",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". What's the entry that I need to add? Copying and pasting from the testing instructions makes drupal throw an error.\n\nCan someone throw me their file?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "97a657f5-aec7-40c0-ab9a-4c3a7c4460ca",
+        "type": "message",
+        "text": "see the note. you need to change the URL to your local",
+        "user": "U6K08UK96",
+        "ts": "1675879349.001339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Ol",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "see the note. you need to change the URL to your local"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ddf5193e-06cc-4cc3-a9b5-e0db67d531d7",
+        "type": "message",
+        "text": "I just followed the instructions and it worked",
+        "user": "U6K08UK96",
+        "ts": "1675879356.123449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g3Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just followed the instructions and it worked"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "427b91b5-ec51-4592-85e6-22f8258005c9",
+        "type": "message",
+        "text": "```# Local development services.\n#\n# To activate this feature, follow the instructions at the top of the\n# 'example.settings.local.php' file, which sits next to this file.\nparameters:\n  http.response.debug_cacheability_headers: true\n  announcements_feed.feed_url: <https:\/\/8080-shaal-drupalpod-050qz7bqbvl.ws-eu86.gitpod.io\/core\/modules\/announcements_feed\/tests\/announce_feed\/community-feeds.json>\nservices:\n  cache.backend.null:\n    class: Drupal\\Core\\Cache\\NullBackendFactory```",
+        "user": "U6K08UK96",
+        "ts": "1675879372.676749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OyV6o",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "# Local development services.\n#\n# To activate this feature, follow the instructions at the top of the\n# 'example.settings.local.php' file, which sits next to this file.\nparameters:\n  http.response.debug_cacheability_headers: true\n  announcements_feed.feed_url: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/8080-shaal-drupalpod-050qz7bqbvl.ws-eu86.gitpod.io\/core\/modules\/announcements_feed\/tests\/announce_feed\/community-feeds.json"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nservices:\n  cache.backend.null:\n    class: Drupal\\Core\\Cache\\NullBackendFactory"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f08395d8-f826-459e-a014-7dc56518c752",
+        "type": "message",
+        "text": "note that <https:\/\/8080-shaal-drupalpod-050qz7bqbvl.ws-eu86.gitpod.io> is my gitpod instance. you’ll need to change that for your local URL `<https:\/\/YOUR-LOCAL-URL\/core\/modules\/announcements_feed\/tests\/announce_feed\/community-feeds.json>`",
+        "user": "U6K08UK96",
+        "ts": "1675879432.508079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R41TS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "note that "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/8080-shaal-drupalpod-050qz7bqbvl.ws-eu86.gitpod.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is my gitpod instance. you’ll need to change that for your local URL "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/YOUR-LOCAL-URL\/core\/modules\/announcements_feed\/tests\/announce_feed\/community-feeds.json",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a49086ea-12dc-4f37-adf2-12c6c7e98c84",
+        "type": "message",
+        "text": "I did that. Trying again... to make sure I didn't screw up",
+        "user": "U1CREGN04",
+        "ts": "1675880347.266889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "niD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did that. Trying again... to make sure I didn't screw up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d1ba8d0e-c611-457d-87e3-c2e3cf5ab54d",
+        "type": "message",
+        "text": "(I verified the URL works by loading it directly too)",
+        "user": "U1CREGN04",
+        "ts": "1675880359.136389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OHh\/8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(I verified the URL works by loading it directly too)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7a9ad536-9a09-4f30-9e12-8d3a99b28380",
+        "type": "message",
+        "text": "GOT IT! I had to run the drush commands in a certain order",
+        "user": "U1CREGN04",
+        "ts": "1675880474.197279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IxL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GOT IT! I had to run the drush commands in a certain order"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U6K08UK96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40C64C7B-D331-47B5-96F4-CB65C1B1C25D",
+        "type": "message",
+        "text": "Did you also run the drush com… :slightly_smiling_face: ",
+        "user": "U6K08UK96",
+        "ts": "1675880485.587549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NDIl5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did you also run the drush com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "baee6aa4-df16-4a7b-8bf4-149805b8e689",
+        "type": "message",
+        "text": "hahahah",
+        "user": "U1CREGN04",
+        "ts": "1675880491.577119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zota",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hahahah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B4DJJRCUU",
+        "type": "message",
+        "text": "picard palm",
+        "user": "U1CREGN04",
+        "ts": "1675880510.789719",
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "uXY",
+                "image_url": "https:\/\/media3.giphy.com\/media\/o14YPU6vooy0o\/giphy.gif?cid=6104955eg1vs45ngvp74wgw7zdnu0e9uhz4yy07ak10nhz1m&rid=giphy.gif&ct=g",
+                "alt_text": "picard palm",
+                "title": {
+                    "type": "plain_text",
+                    "text": "picard palm",
+                    "emoji": true
+                },
+                "image_width": 245,
+                "image_height": 187,
+                "image_bytes": 847908,
+                "is_animated": true,
+                "fallback": "245x187px image"
+            },
+            {
+                "type": "context",
+                "block_id": "ZoL7",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "bot_profile": {
+            "id": "B4DJJRCUU",
+            "app_id": "A0F827J2C",
+            "name": "giphy",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "deleted": false,
+            "updated": 1488577486,
+            "team_id": "T06GX3JTS"
+        }
+    },
+    {
+        "client_msg_id": "19f55d98-5d3e-4bb0-b25c-cf57c858cf22",
+        "type": "message",
+        "text": "That’s live now",
+        "user": "U3U1SD32R",
+        "ts": "1675895737.579119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w304l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s live now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1675878349.084749",
+        "parent_user_id": "U6K08UK96"
+    }
+]

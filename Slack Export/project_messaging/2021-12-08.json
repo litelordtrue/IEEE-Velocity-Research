@@ -1,0 +1,147 @@
+[
+    {
+        "client_msg_id": "6f22cef0-46f4-4e15-bbfa-2c6df5633752",
+        "type": "message",
+        "text": "Hi <@U7G1P7P6Z> :wave:\nWe have Drupal 7 release’s PR here. <https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/13>\nCurrently we are working on few changes related to best practices.\nHowever, it would be good to get your review on this.\nHappy to accommodate your feedbacks.",
+        "user": "U2T8M7PA4",
+        "ts": "1638967530.077400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3zx2M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U7G1P7P6Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWe have Drupal 7 release’s PR here. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/13"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCurrently we are working on few changes related to best practices.\nHowever, it would be good to get your review on this.\nHappy to accommodate your feedbacks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/13",
+                "thumb_url": "https:\/\/git.drupalcode.org\/assets\/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "service_icon": "https:\/\/git.drupalcode.org\/assets\/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png",
+                "id": 1,
+                "original_url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/13",
+                "fallback": "GitLab: Porting Drupal 7 (!13) · Merge requests · project \/ announce",
+                "text": "For more information about this repository, visit the project page at <https:\/\/www.drupal.org\/project\/announce>",
+                "title": "Porting Drupal 7 (!13) · Merge requests · project \/ announce",
+                "title_link": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/13",
+                "service_name": "GitLab",
+                "fields": [
+                    {
+                        "value": "Lal_",
+                        "title": "Author",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638967530.077400",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1639663261.084500",
+        "reply_users": [
+            "U7G1P7P6Z"
+        ],
+        "replies": [
+            {
+                "user": "U7G1P7P6Z",
+                "ts": "1638969686.077600"
+            },
+            {
+                "user": "U7G1P7P6Z",
+                "ts": "1639663261.084500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f6b9056d-3c86-4b07-a098-389f90de13a9",
+        "type": "message",
+        "text": "great, thank you! Will take a look ASAP",
+        "user": "U7G1P7P6Z",
+        "ts": "1638969686.077600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k91R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "great, thank you! Will take a look ASAP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "4aad7a9e94b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-24\/369562018290_4aad7a9e94b138fd3982_72.jpg",
+            "first_name": "Drew",
+            "real_name": "Drew Webber",
+            "display_name": "mcdruid",
+            "team": "T06GX3JTS",
+            "name": "drew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638967530.077400",
+        "parent_user_id": "U2T8M7PA4"
+    }
+]

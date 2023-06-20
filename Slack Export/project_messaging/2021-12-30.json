@@ -1,0 +1,149 @@
+[
+    {
+        "client_msg_id": "022e0e84-6b20-4498-94eb-f36e2e2a4e18",
+        "type": "message",
+        "text": "coming back late to the party, according to <https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/CSS\/revert>\n\n&gt;  If used by a site's own styles (the author origin), revert rolls back the property's cascaded value to the user's custom style, if one exists; otherwise, it rolls the style back to the user agent's default style.",
+        "user": "U1CREGN04",
+        "ts": "1640873361.086100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gB5LJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "coming back late to the party, according to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/CSS\/revert"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " If used by a site's own styles (the author origin), revert rolls back the property's cascaded value to the user's custom style, if one exists; otherwise, it rolls the style back to the user agent's default style."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/CSS\/revert",
+                "image_url": "https:\/\/developer.mozilla.org\/mdn-social-share.0ca9dbda.png",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 12123,
+                "service_icon": "https:\/\/developer.mozilla.org\/apple-touch-icon.0ea0fa02.png",
+                "id": 1,
+                "original_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/CSS\/revert",
+                "fallback": "revert - CSS: Cascading Style Sheets | MDN",
+                "text": "The revert CSS keyword reverts the cascaded value of the property from its current value to the value the property would have had if no changes had been made by the current style origin to the current element. Thus, it resets the property to its inherited value if it inherits from its parent or to the default value established by the user agent's stylesheet (or by user styles, if any exist). It can be applied to any CSS property, including the CSS shorthand all.",
+                "title": "revert - CSS: Cascading Style Sheets | MDN",
+                "title_link": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/CSS\/revert",
+                "service_name": "developer.mozilla.org"
+            }
+        ],
+        "thread_ts": "1631887745.031800",
+        "parent_user_id": "U2T8M7PA4"
+    },
+    {
+        "client_msg_id": "46a88466-3ce3-4c96-a4fe-5e95a5f0d889",
+        "type": "message",
+        "text": "so, It looks like `revert` is the correct option here. Note that `revert` isn't supported in IE11, which is why we used `unset` in off canvas IIRC",
+        "user": "U1CREGN04",
+        "ts": "1640873403.086400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cIW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so, It looks like "
+                            },
+                            {
+                                "type": "text",
+                                "text": "revert",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is the correct option here. Note that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "revert",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " isn't supported in IE11, which is why we used "
+                            },
+                            {
+                                "type": "text",
+                                "text": "unset",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in off canvas IIRC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "a8ba2d4f48f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-23\/644798430624_a8ba2d4f48f045fe84ba_72.jpg",
+            "first_name": "Mike",
+            "real_name": "Mike Herchel",
+            "display_name": "mherchel",
+            "team": "T06GX3JTS",
+            "name": "mherchel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1631887745.031800",
+        "parent_user_id": "U2T8M7PA4"
+    }
+]

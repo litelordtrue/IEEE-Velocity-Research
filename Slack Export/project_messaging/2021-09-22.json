@@ -1,0 +1,571 @@
+[
+    {
+        "client_msg_id": "6c6163c9-c87b-428f-8847-dd5ddef74e57",
+        "type": "message",
+        "text": "<@U06HDFAP5> Does this sounds good to create two PRs, each for Claro and Seven?\n\nOr we can do something where we can include basic styles of certain component in module’s theme and later module can adopt styles from Claro or Seven theme?\n\ncc: <@U015ETZ1Z1P>",
+        "user": "U2T8M7PA4",
+        "ts": "1632307796.057500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PIsl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06HDFAP5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Does this sounds good to create two PRs, each for Claro and Seven?\n\nOr we can do something where we can include basic styles of certain component in module’s theme and later module can adopt styles from Claro or Seven theme?\n\ncc: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U015ETZ1Z1P"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "e688a2fb-b96b-4f82-b949-b9640a654f2e",
+        "type": "message",
+        "text": "Hmm, is this going to be new experimental module?",
+        "user": "U06HDFAP5",
+        "ts": "1632307859.057700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HFGVs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmm, is this going to be new experimental module?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "a7c95a30-1bf6-4284-a978-d22a312d94b3",
+        "type": "message",
+        "text": "I think we haven’t decided yet.\nThere are no specific features except seeing the feeds.\nSo I think probably committer team can take a call based on that.\nThere was some discussion on <#C1BMUQ9U6|contribute>, let me grab the link.",
+        "user": "U2T8M7PA4",
+        "ts": "1632308061.057900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u4X\/1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we haven’t decided yet.\nThere are no specific features except seeing the feeds.\nSo I think probably committer team can take a call based on that.\nThere was some discussion on "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C1BMUQ9U6"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", let me grab the link."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "e41cdb34-2a0f-496a-92cf-47332386c4fc",
+        "type": "message",
+        "text": "<https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14218629>",
+        "user": "U2T8M7PA4",
+        "ts": "1632308240.058100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q4\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14218629"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Drupal.org",
+                "title": "Project messaging channel in core",
+                "title_link": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14218629",
+                "text": "Problem\/Motivation Per the core idea issue: [#2940739] The vast majority of Drupal users do not have accounts on <http:\/\/Drupal.org|Drupal.org>, and likely do not regularly follow Drupal project news, or engage with communications channels that promote important updates, news and events, or support for the community and association. The goal of this initiative is to provide a channel for messaging about the Drupal project within the administrative interface of core.",
+                "fallback": "Drupal.org: Project messaging channel in core",
+                "ts": 1617212298,
+                "from_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14218629",
+                "id": 1,
+                "original_url": "https:\/\/www.drupal.org\/project\/drupal\/issues\/3206643#comment-14218629"
+            }
+        ],
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "1ff17e5b-8a89-44b2-be0f-79a79e9193e7",
+        "type": "message",
+        "text": "If it’s not going to be experimental, I think ideally the styles would be implemented in the same issue",
+        "user": "U06HDFAP5",
+        "ts": "1632308984.058400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q16\/B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If it’s not going to be experimental, I think ideally the styles would be implemented in the same issue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "0a4c6756-ad83-4ee7-be05-3645a63d0f3f",
+        "type": "message",
+        "text": "<@U06HDFAP5> is that best practice if they are updates to seven and claro? I wasn't sure if we try to separate out things that touch different sub-components of core, though of course they all have to go in together, really..",
+        "user": "U06NAEYSF",
+        "ts": "1632322516.058600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WG=9s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06HDFAP5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is that best practice if they are updates to seven and claro? I wasn't sure if we try to separate out things that touch different sub-components of core, though of course they all have to go in together, really.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "7eeea4ca-66b9-4e20-88bb-0cb4c45f3782",
+        "type": "message",
+        "text": "I think if it’s not experimental, it would be best that it’s all done in one issue",
+        "user": "U06HDFAP5",
+        "ts": "1632325444.058900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ULhT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think if it’s not experimental, it would be best that it’s all done in one issue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "d10a9ed4-ab8e-4648-a98f-fc9c48d52402",
+        "type": "message",
+        "text": "so that the feature is actually “stable” since it’s stable part of the code",
+        "user": "U06HDFAP5",
+        "ts": "1632325461.059100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sVj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so that the feature is actually “stable” since it’s stable part of the code"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "71c7afda-38bb-4596-a0a1-962c3cde8b98",
+        "type": "message",
+        "text": "I guess there could be some opportunity to mark some subsections of modules as experimental but I’m not sure that’s something we have done before",
+        "user": "U06HDFAP5",
+        "ts": "1632325485.059300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v0x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess there could be some opportunity to mark some subsections of modules as experimental but I’m not sure that’s something we have done before"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "802593aa-bbe6-401e-b247-6350cbdbe2ce",
+        "type": "message",
+        "text": "Okay - <@U2T8M7PA4> ^^ Do you follow? Sounds like we should try to make the changes to style components in seven and claro in the same issue.",
+        "user": "U06NAEYSF",
+        "ts": "1632325826.059500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5=7u5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay - "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2T8M7PA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^ Do you follow? Sounds like we should try to make the changes to style components in seven and claro in the same issue."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "3917278f-af3f-4870-be9e-774983241bef",
+        "type": "message",
+        "text": "<@U06HDFAP5>\nSo we can have a separate PR\/changes in seven and claro theme.\n\nBesides, module can have it’s basic theme. Is it correct?",
+        "user": "U2T8M7PA4",
+        "ts": "1632328319.059700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ul+oi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06HDFAP5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSo we can have a separate PR\/changes in seven and claro theme.\n\nBesides, module can have it’s basic theme. Is it correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2T8M7PA4",
+            "ts": "1632328356.000000"
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "a61929ec-1c01-48d4-aa01-1cc7e0324594",
+        "type": "message",
+        "text": "I think we should do them all in one issue, some basic styles to make it functional, as well as more opinionated designs in Seven and Claro",
+        "user": "U06HDFAP5",
+        "ts": "1632329585.060000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1nPQO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we should do them all in one issue, some basic styles to make it functional, as well as more opinionated designs in Seven and Claro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "2599f73ef074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-08-25\/72809982097_2599f73ef074cb9c8f6a_72.jpg",
+            "first_name": "Lauri",
+            "real_name": "Lauri Eskola",
+            "display_name": "lauriii",
+            "team": "T06GX3JTS",
+            "name": "lauriii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    },
+    {
+        "client_msg_id": "51f3f248-fa45-418f-87fb-c6641a32f96b",
+        "type": "message",
+        "text": "cool, thanks.\nI’ll talk to the team about it. Will keep you posted for the same.",
+        "user": "U2T8M7PA4",
+        "ts": "1632330937.060200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aqm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool, thanks.\nI’ll talk to the team about it. Will keep you posted for the same."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632233688.053600",
+        "parent_user_id": "U06NAEYSF"
+    }
+]

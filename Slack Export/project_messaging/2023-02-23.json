@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "b56eb683-8ee8-47b2-b2e9-13ee2c856dc9",
+        "type": "message",
+        "text": "Important to be aware of: <https:\/\/twitter.com\/xjmdrupal\/status\/1628851300367495171>",
+        "user": "U06NAEYSF",
+        "ts": "1677184405.615689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YhB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Important to be aware of: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/xjmdrupal\/status\/1628851300367495171"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/xjmdrupal\/status\/1628851300367495171",
+                "ts": 1677183387,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/xjmdrupal\/status\/1628851300367495171",
+                "fallback": "<https:\/\/twitter.com\/xjmdrupal|@xjmdrupal>: Small update on the #Drupal 10.1 release schedule: To accommodate several events during the alpha, beta, and RC phases, we have moved the alpha deadline for new features\/APIs two weeks earlier to Friday, April 21, 2023.  Details: <https:\/\/www.drupal.org\/about\/core\/policies\/core-release-cycles\/schedule#current>",
+                "text": "Small update on the #Drupal 10.1 release schedule: To accommodate several events during the alpha, beta, and RC phases, we have moved the alpha deadline for new features\/APIs two weeks earlier to Friday, April 21, 2023.  Details: <https:\/\/www.drupal.org\/about\/core\/policies\/core-release-cycles\/schedule#current>",
+                "author_name": "xjm",
+                "author_link": "https:\/\/twitter.com\/xjmdrupal\/status\/1628851300367495171",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/459437370811510784\/TuW604Ew_normal.jpeg",
+                "author_subname": "@xjmdrupal",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

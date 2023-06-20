@@ -1,0 +1,187 @@
+[
+    {
+        "client_msg_id": "c715ac8f-ec41-44f0-8c87-948e11efeddd",
+        "type": "message",
+        "text": "oh thanks! I’m picking up where I left now",
+        "user": "U6K08UK96",
+        "ts": "1681887707.771249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vVV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh thanks! I’m picking up where I left now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681814780.425789",
+        "parent_user_id": "U6K08UK96"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "that number is down to 11 now. all of them are addressed\/answered.\n\none of them is mine but I can’t close it, so it’d be great if some of you could do that for me.\n\nI’ll update the IS with a new gitpod snapshot.",
+        "user": "U6K08UK96",
+        "ts": "1681902476.992059",
+        "thread_ts": "1681815165.225729",
+        "root": {
+            "client_msg_id": "ff67b3c4-0565-4e1e-8819-269a5b5dc97c",
+            "type": "message",
+            "text": "I’ll post a comment on the issue once I have refactored the above but wanted to give an update in the channel.\nThere are currently ~60 unresolved threads in the MR, but only 1 or 2 actually unresolved. All the others have been addressed.\n\n<@U1ASJU340> and <@U1CREGN04> - if you could go through yours and either resolve or make a comment that’d be great. <@U374BLPJR> is doing the same with the new ones. Thanks all!!",
+            "user": "U6K08UK96",
+            "ts": "1681815165.225729",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "SRAZ+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I’ll post a comment on the issue once I have refactored the above but wanted to give an update in the channel.\nThere are currently ~60 unresolved threads in the MR, but only 1 or 2 actually unresolved. All the others have been addressed.\n\n"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U1ASJU340"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " and "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U1CREGN04"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " - if you could go through yours and either resolve or make a comment that’d be great. "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U374BLPJR"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " is doing the same with the new ones. Thanks all!!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T06GX3JTS",
+            "thread_ts": "1681815165.225729",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1681902476.992059",
+            "reply_users": [
+                "U6K08UK96"
+            ],
+            "replies": [
+                {
+                    "user": "U6K08UK96",
+                    "ts": "1681902476.992059"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vLS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that number is down to 11 now. all of them are addressed\/answered.\n\none of them is mine but I can’t close it, so it’d be great if some of you could do that for me.\n\nI’ll update the IS with a new gitpod snapshot."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b54e67a6-912c-408f-a80f-5f756b554798"
+    },
+    {
+        "client_msg_id": "4bc30496-4653-4008-9173-845e212a7a63",
+        "type": "message",
+        "text": "<@U374BLPJR> - I think I addressed al your new feedback except this one, where I have a few questions. If you could have a look and reply (in the MR or a :thread: here) that’d be great. Thanks in advance!\n\nthis one = <https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889#note_168639>",
+        "user": "U6K08UK96",
+        "ts": "1681919294.693799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "foaxM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U374BLPJR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I think I addressed al your new feedback except this one, where I have a few questions. If you could have a look and reply (in the MR or a "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thread",
+                                "unicode": "1f9f5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here) that’d be great. Thanks in advance!\n\nthis one = "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/drupal\/-\/merge_requests\/2889#note_168639"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "72ec19128191",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-23\/2403804142870_72ec1912819136468217_72.jpg",
+            "first_name": "Fran",
+            "real_name": "Fran Garcia-Linares",
+            "display_name": "fjgarlin",
+            "team": "T06GX3JTS",
+            "name": "fran.garcia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

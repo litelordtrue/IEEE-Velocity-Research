@@ -1,0 +1,396 @@
+[
+    {
+        "client_msg_id": "ee2441a0-0931-49f7-b6e9-dc6b97642cfb",
+        "type": "message",
+        "text": "I've been trying to setup automated testing on the module... was able create <https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/14\/diffs?commit_id=d48c9ef273eee397789a09b4bf8856a548a6de5f#2f5ca026d78c0db9f72919ebfdae96559e374224|drupalci> (not merged with 1.x yet)... But how will I trigger the automated ci of this particular fork ??",
+        "user": "U4PT7ES0M",
+        "ts": "1632397456.062100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o=Uy\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've been trying to setup automated testing on the module... was able create "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/14\/diffs?commit_id=d48c9ef273eee397789a09b4bf8856a548a6de5f#2f5ca026d78c0db9f72919ebfdae96559e374224",
+                                "text": "drupalci"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (not merged with 1.x yet)... But how will I trigger the automated ci of this particular fork ??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "cf70add466f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2363583482742_cf70add466f0d9f8c6c5_72.png",
+            "first_name": "Abhishek",
+            "real_name": "Abhishek Lal",
+            "display_name": "Lal_",
+            "team": "T06GX3JTS",
+            "name": "lal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4PT7ES0M",
+            "ts": "1632397480.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "GitLab",
+                "title": "Renaming the module. (!14) · Merge requests · project \/ announce",
+                "title_link": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/14\/diffs?commit_id=d48c9ef273eee397789a09b4bf8856a548a6de5f#2f5ca026d78c0db9f72919ebfdae96559e374224",
+                "text": "Closes #3236291",
+                "fallback": "GitLab: Renaming the module. (!14) · Merge requests · project \/ announce",
+                "thumb_url": "https:\/\/git.drupalcode.org\/assets\/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+                "fields": [
+                    {
+                        "title": "Author",
+                        "value": "Lal_",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/14\/diffs?commit_id=d48c9ef273eee397789a09b4bf8856a548a6de5f#2f5ca026d78c0db9f72919ebfdae96559e374224",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "service_icon": "https:\/\/git.drupalcode.org\/assets\/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png",
+                "id": 1,
+                "original_url": "https:\/\/git.drupalcode.org\/project\/announce\/-\/merge_requests\/14\/diffs?commit_id=d48c9ef273eee397789a09b4bf8856a548a6de5f#2f5ca026d78c0db9f72919ebfdae96559e374224"
+            }
+        ],
+        "thread_ts": "1632397456.062100",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1632412974.063400",
+        "reply_users": [
+            "U2T8M7PA4",
+            "U3U1SD32R",
+            "U06NAEYSF"
+        ],
+        "replies": [
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1632399215.062400"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1632399448.062600"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1632399502.062800"
+            },
+            {
+                "user": "U3U1SD32R",
+                "ts": "1632399631.063000"
+            },
+            {
+                "user": "U2T8M7PA4",
+                "ts": "1632400826.063200"
+            },
+            {
+                "user": "U06NAEYSF",
+                "ts": "1632412974.063400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6714f2ea-dff4-42a2-b57d-09a3319c6ab9",
+        "type": "message",
+        "text": "<@U3U1SD32R> thoughts on this?",
+        "user": "U2T8M7PA4",
+        "ts": "1632399215.062400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=uyY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U3U1SD32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thoughts on this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632397456.062100",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "eeb8feb9-11d2-45d6-96bf-5634145ed01e",
+        "type": "message",
+        "text": "There is no testing configuration set to “Run on commit and _for issues_” at <https:\/\/www.drupal.org\/node\/3071968\/qa> yet",
+        "user": "U3U1SD32R",
+        "ts": "1632399448.062600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gPlg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is no testing configuration set to “Run on commit and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "for issues",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "” at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drupal.org\/node\/3071968\/qa"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632397456.062100",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "74bafe3d-62b7-4fc0-9945-bb9417c92e3c",
+        "type": "message",
+        "text": "Also it is important to only rename the module for the core merge request, not when it is in contrib.",
+        "user": "U3U1SD32R",
+        "ts": "1632399502.062800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GZNf5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also it is important to only rename the module for the core merge request, not when it is in contrib."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632397456.062100",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "6e23d4ef-0256-4df5-af1c-6aab58e6a146",
+        "type": "message",
+        "text": "We have our packagist endpoint allow you to composer require components within modules, as in `composer require drupal\/announcements_feed` . When a particular component module exists in multiple projects, especially core &amp; contrib, that gets into a difficult situation for composer.",
+        "user": "U3U1SD32R",
+        "ts": "1632399631.063000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jLnR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have our packagist endpoint allow you to composer require components within modules, as in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "composer require drupal\/announcements_feed",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " . When a particular component module exists in multiple projects, especially core & contrib, that gets into a difficult situation for composer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g13e37205f78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/613e37205f78a328adfb08b6f244cf73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Neil",
+            "real_name": "Neil Drumm",
+            "display_name": "drumm",
+            "team": "T06GX3JTS",
+            "name": "drumm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632397456.062100",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "c9ab7795-0591-422f-b454-45ca78ef2895",
+        "type": "message",
+        "text": "&gt; Also it is important to only rename the module for the core merge request, not when it is in contrib.\nWe are thinking to take ckeditor5 based approach.\nWe can keep on uploading the new patch on Drupal core’s issue queue.\n\nRenaming module will be little tricky at the time,\nbecause we need to do multiple changes around libraries names, file names etc.",
+        "user": "U2T8M7PA4",
+        "ts": "1632400826.063200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/HM",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also it is important to only rename the module for the core merge request, not when it is in contrib."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are thinking to take ckeditor5 based approach.\nWe can keep on uploading the new patch on Drupal core’s issue queue.\n\nRenaming module will be little tricky at the time,\nbecause we need to do multiple changes around libraries names, file names etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "bbc7e069e9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/592877444177_bbc7e069e9ddb1c3f58e_72.jpg",
+            "first_name": "Mohit",
+            "real_name": "Mohit Aghera",
+            "display_name": "mohit_aghera",
+            "team": "T06GX3JTS",
+            "name": "mohit.aghera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632397456.062100",
+        "parent_user_id": "U4PT7ES0M"
+    },
+    {
+        "client_msg_id": "93a443aa-6b97-4d4e-bef8-d70194f36aa3",
+        "type": "message",
+        "text": "What they are doing for ckeditor5 should be a good example to follow.",
+        "user": "U06NAEYSF",
+        "ts": "1632412974.063400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hKx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What they are doing for ckeditor5 should be a good example to follow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "g1c886695cf2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1c886695cf25b52cb38601610838410.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Lehnen",
+            "display_name": "hestenet (he\/him)",
+            "team": "T06GX3JTS",
+            "name": "hestenet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632397456.062100",
+        "parent_user_id": "U4PT7ES0M"
+    }
+]

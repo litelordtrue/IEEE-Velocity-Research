@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "451f6549-3dfd-4bfd-85c4-c6b9dd4b75d0",
+        "type": "message",
+        "text": "Hey, yeah I've been thinking about this and the \"preaching to the choir\" aspect alluded to... would have to work out sensible defaults for existing sites etc.. Will discuss with the other D7 maintainers.",
+        "user": "U7G1P7P6Z",
+        "ts": "1675072054.133939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Emg5S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, yeah I've been thinking about this and the \"preaching to the choir\" aspect alluded to... would have to work out sensible defaults for existing sites etc.. Will discuss with the other D7 maintainers."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T06GX3JTS",
+        "user_team": "T06GX3JTS",
+        "source_team": "T06GX3JTS",
+        "user_profile": {
+            "avatar_hash": "4aad7a9e94b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-24\/369562018290_4aad7a9e94b138fd3982_72.jpg",
+            "first_name": "Drew",
+            "real_name": "Drew Webber",
+            "display_name": "mcdruid",
+            "team": "T06GX3JTS",
+            "name": "drew",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1674609699.202039",
+        "parent_user_id": "U4KAE8Q91"
+    }
+]
