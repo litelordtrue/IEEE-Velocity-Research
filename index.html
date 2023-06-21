@@ -6,13 +6,51 @@
 </head>
 
 <body>
+    <p> welcome! </p>
+    <div id = "line_graph"></div>
     <script type = "text/javascript">
+        // set the dimensions and margins of the graph
+        const margin = {top: 10, right: 30, bottom: 30, left: 60},
+            width = 760 - margin.left - margin.right,
+            height = 500 - margin.top - margin.bottom;
+
+        // append the svg object to the body of the page
+        const svg = d3.select("#line_graph")
+        .append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+            .attr("transform", `translate(${margin.left},${margin.top})`);
+        
         var date_dict_promise = d3.json("/date_dict.json")
 
         date_dict_promise.then(function(data){
-            console.log(data);
-        }, function(){
-            console.log("failure!");
+            pts = []
+            for (date in data){
+                pts.push({
+                    date: new Date(date),
+                    commits: data[date]
+                });
+            }
+
+            pts.sort((a,b) => {return (a.date > b.date ? 1 : -1);})
+
+            const tScale = d3.scaleTime().domain(d3.extent(pts, function(d){return d.date})).range([0, width]);
+            svg.append("g").attr("transform", `translate(0, ${height})`).call(d3.axisBottom(tScale));
+
+            const commitScale = d3.scaleLinear().domain([0, d3.max(pts, function(d){return d.commits})]).range([height,0]);
+            svg.append("g").call(d3.axisLeft(commitScale));
+
+            svg.append("path")
+                .datum(pts)
+                .attr("fill", "none")
+                .attr("stroke", "steelblue")
+                .attr("stroke-width", 1.5)
+                .attr("d", d3.line()
+                    .x(function(d) { return tScale(d.date) })
+                    .y(function(d) { return commitScale(d.commits) })
+                    )
+
         })
     </script>
 </body>
