@@ -8,10 +8,16 @@
 
 <body>
     <p> welcome! </p>
+    <button id = "addMissingValuesButton" onclick="redrawCommitsGraph()"> Add Missing Values!</button>
     <div id = "line_graph"></div>
     <script type = "text/javascript">
         svgInit();
-        drawCommitsGraph();
+        let processed_promise = readCommits();
+        processed_promise.then(function(data){
+            drawCommitsGraph(data);
+        });
+
+        
     </script>
 </body>
 

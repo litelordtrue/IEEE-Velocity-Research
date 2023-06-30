@@ -1,13 +1,7 @@
 class SuperGraphType {
-    constructor(date){
+    constructor(date, value){
         this.date = date;
-    }
-}
-
-class CommitsType extends SuperGraphType {
-    constructor(date, commits){
-        super(date);
-        this.commits = commits;
+        this.value = value;
     }
 }
 
@@ -15,20 +9,36 @@ function sortGraphType(data){
     data.sort((a,b) => {return (a.date > b.date ? 1 : -1);});
 }
 
+function nDaysForward(date, n){
+    let year = date.getFullYear();
+    let month = date.getMonth();
+    let day = date.getDate() + n;
+    return new Date(year, month, day);
+}
+
 // this function ASSUMES SORTED INPUT
-function addMissingValues(data, [,value]){
-    updated_data = data;
-    for (i = 0; i < length(data) - 1; i++){
-        date1 = data[i].date;
-        date2 = data[i+1].date;
-        second_dif = date2 - date1;
+function addMissingValues(data, value = 0){
+    let new_values = [];
+    for (i = 0; i < data.length - 1; i++){
+        let date1 = data[i].date;
+        let date2 = data[i+1].date;
+        let second_dif = date2 - date1;
         // check if there is a full day between the two days
         //         second * minute * hour * millisecond
-        if (second_dif >= 60*60*24*1000){
-            date1plus = new Date(date1.getYear(), date1.getMonth())
+        if (second_dif < 60*60*24*1000){}
+        else {
+            let date1plus = new SuperGraphType(nDaysForward(date1, 1), value);
+            new_values.push(date1plus);
+            if (second_dif >= 2*60*60*24*1000){
+                let date2minus = new SuperGraphType(nDaysForward(date2, -1), value);
+                new_values.push(date2minus);
+            }
         }
     }
+    new_values = new_values.concat(data);
+    sortGraphType(new_values);
 
+    return new_values;
 }
 
 
@@ -48,34 +58,48 @@ function svgInit(){
         .attr("transform", `translate(${margin.left},${margin.top})`);
 }
 
-
-function drawCommitsGraph(){
-    const svg = d3.select("#line_main_svg")
+function readCommits(){
     var date_dict_promise = d3.json("/date_dict.json")
 
-    date_dict_promise.then(function(data){
+    let processed_promise = date_dict_promise.then(function(data){
         pts = []
         for (date in data){
-            pts.push( new CommitsType(new Date(date), data[date]));
+            pts.push(new SuperGraphType(new Date(date), data[date]));
         }
 
         sortGraphType(pts);
 
-        const tScale = d3.scaleTime().domain(d3.extent(pts, function(d){return d.date})).range([0, width]);
-        svg.append("g").attr("transform", `translate(0, ${height})`).call(d3.axisBottom(tScale));
-
-        const commitScale = d3.scaleLinear().domain([0, d3.max(pts, function(d){return d.commits})]).range([height,0]);
-        svg.append("g").call(d3.axisLeft(commitScale));
-
-        svg.append("path")
-            .datum(pts)
-            .attr("fill", "none")
-            .attr("stroke", "steelblue")
-            .attr("stroke-width", 1.5)
-            .attr("d", d3.line()
-                .x(function(d) { return tScale(d.date) })
-                .y(function(d) { return commitScale(d.commits) })
-            )
-
+        return pts;
     })
+
+    return processed_promise;
+}
+
+function drawCommitsGraph(pts){
+    const svg = d3.select("#line_main_svg")
+
+    const tScale = d3.scaleTime().domain(d3.extent(pts, function(d){return d.date})).range([0, width]);
+    svg.append("g").attr("transform", `translate(0, ${height})`).call(d3.axisBottom(tScale));
+
+    const commitScale = d3.scaleLinear().domain([0, d3.max(pts, function(d){return d.value})]).range([height,0]);
+    svg.append("g").call(d3.axisLeft(commitScale));
+
+    svg.append("path")
+        .datum(pts)
+        .attr("fill", "none")
+        .attr("stroke", "steelblue")
+        .attr("stroke-width", 1.5)
+        .attr("d", d3.line()
+            .x(function(d) { return tScale(d.date) })
+            .y(function(d) { return commitScale(d.value) })
+        )
+}
+
+function redrawCommitsGraph(){
+    d3.select('#line_main_svg').remove();
+    svgInit();
+    //console.log(pts);
+    pts = addMissingValues(pts);
+    //console.log(pts);
+    drawCommitsGraph(pts);
 }
