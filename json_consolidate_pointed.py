@@ -9,6 +9,7 @@ class Message:
         self.date = date
         self.author = author
         self.replies = []
+        self.direction = []
 
 
     def __str__(self) -> str:
@@ -19,6 +20,9 @@ class Message:
     
     def addReply(self, message):
         self.replies.append(message)
+    
+    def setDirection(self, direction):
+        self.direction = direction
 
 
 # where all of our jsons for slack are stored
@@ -46,14 +50,32 @@ for root, dirs, files in os.walk(path, topdown=True):
         for msg in data:
 
             # removing channel joins - irrelevant. maybe we should keep them? 
-            if 'subtype' in msg and msg['subtype'] == "channel_join":
+            if 'subtype' in msg and (msg['subtype'] == "channel_join" or msg['subtype'] == "channel_leave"):
                 continue
 
+            m_direction = []
+
+            if 'blocks' in msg:
+                for block in msg['blocks']:
+                    if 'elements' in block:
+                        for element in block['elements']:
+                            if 'elements' in element:
+                                for subelement in element['elements']:
+                                    if subelement["type"] == "user":
+                                        m_direction.append(subelement["user_id"])
+                    
+            
             n += 1
             m_id = msg['ts']
             m_text = msg['text']
             m_author_id = msg['user']
-            message = Message(m_id, m_text, m_time, m_author_id)
+            message = {
+                "id": m_id,
+                "text": m_text,
+                "date": m_time,
+                "author": m_author_id,
+                "direction": m_direction
+            }
             list_of_msgs.append(message)
 
             # putting together a dictionary that gives us real names for every author_id
@@ -65,11 +87,19 @@ for root, dirs, files in os.walk(path, topdown=True):
         date_dict[m_time] = n
 
 
+
     #for name in dirs:
     #    print(os.path.join(root, name))
 
-author_json = json.dumps(author_dict, indent=4)
- 
+# sort by date
+
+list_of_msgs.sort(key=(lambda msg : msg["date"]))
+
+
+list_json = json.dumps(list_of_msgs, indent=4)
+
 # Writing to sample.json
-with open("author_dictionary.json", "w") as outfile:
-    outfile.write(author_json)
+with open("slack_messages.json", "w") as outfile:
+    outfile.write(list_json)
+
+#print(list_of_msgs[0])

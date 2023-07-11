@@ -1,0 +1,44 @@
+"blocks": [
+    {
+        "type": "rich_text",
+        "block_id": "\/XtuF",
+        "elements": [
+            {
+                "type": "rich_text_section",
+                "elements": [
+                    {
+                        "type": "link",
+                        "url": "https:\/\/www.figma.com\/proto\/Ws4Gk0ImaripDb4NAlTvCBtZ\/Community-Alerts---Desktop--v2?node-id=41%3A4075&viewport=-19%2C551%2C0.11556927114725113&scaling=min-zoom",
+                        "text": "https:\/\/www.figma.com\/proto\/Ws4Gk0ImaripDb4NAlTvCBtZ\/Community-Alerts---Desktop--v2[…]4075&viewport=-19%2C551%2C0.11556927114725113&scaling=min-zoom"
+                    },
+                    {
+                        "type": "text",
+                        "text": "\nIn 10th design, there is a feature to mark each notification as "
+                    },
+                    {
+                        "type": "text",
+                        "text": "Mark as read",
+                        "style": {
+                            "code": true
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "\/"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Mark as unread",
+                        "style": {
+                            "code": true
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": ".\n\nI didn’t found implementation related to that."
+                    }
+                ]
+            }
+        ]
+    }
+],
