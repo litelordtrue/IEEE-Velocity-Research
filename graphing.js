@@ -104,45 +104,6 @@ function redrawCommitsGraph(){
     drawCommitsGraph(pts);
 }
 
-// // stacked by author
-// function drawStackedGraph(){
-//     var test_stacked_data = [
-//         {month: new Date(2018, 1, 1), apples: 10, bananas: 20, oranges: 15},
-//         {month: new Date(2018, 2, 1), apples: 15, bananas: 15, oranges: 15},
-//         {month: new Date(2018, 3, 1), apples: 20, bananas: 25, oranges: 15}
-//     ];
-
-//     const svg = d3.select("#stacked_main_svg");
-
-//     var stackGen = d3.stack().keys(['apples', 'bananas', 'oranges']);
-//     var stacked_series = stackGen(test_stacked_data);
-
-//     const xScale = d3.scaleTime().domain(d3.extent(test_stacked_data, function(d){return d.month})).range([0, width]);
-//     svg.append("g").attr("transform", `translate(0, ${height})`).call(d3.axisBottom(xScale));
-
-//     const yScale = d3.scaleLinear().domain([0, 2*d3.max(test_stacked_data, function(d){return Math.max(d.apples, d.oranges, d.bananas)})]).range([height,0]);
-//     svg.append("g").call(d3.axisLeft(yScale));
-
-//     const colorScale = d3.scaleOrdinal().domain(['apples', 'bananas', 'oranges']).range(['red', 'orange', 'yellow']);
-
-//     const areaGen = d3.area().x((d) => xScale(d.data.month)).y0((d) => yScale(d[0])).y1((d) => yScale(d[1]));
-
-//     svg.append("g")
-//         .selectAll("g")
-//         // Enter in the stack data = loop key per key = group per group
-//         .data(stacked_series)
-//         .enter().append("g")
-//         .attr("fill", function(d) { return colorScale(d.key); })
-//         .selectAll("rect")
-//         // enter a second time = loop subgroup per subgroup to add all rectangles
-//         .data(function(d) { return d; })
-//         .enter().append("rect")
-//             .attr("x", function(d) { return xScale(d.data.group); })
-//             .attr("y", function(d) { return yScale(d[1]); })
-//             .attr("height", function(d) { return yScale(d[0]) - yScale(d[1]); })
-//             .attr("width", 20)
-// }
-
 function readMessages(){
     var messages_promise = d3.json("/slack_messages.json").then(function(data){
         for (i = 0; i < data.length; i++){
@@ -172,7 +133,8 @@ function stackedSvgInit(type){
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
     .append("g")
-        .attr("transform", `translate(${margin.left},${margin.top})`);
+        .attr("transform", `translate(${margin.left},${margin.top})`)
+        .attr("id", type + "_stacked_main_g");
     
 }
 
@@ -252,21 +214,19 @@ function readyForDrawing(counted_data){
 // stacked by author 
 function drawStackedGraph(data, type){
     let processed_data = readyForDrawing(countWithinBuckets(bucketDataByMonth(data)));
-    ex_data = processed_data;
     
-    const svg = d3.select("#" + type + "_stacked_main_svg");
+    const svg = d3.select("#" + type + "_stacked_main_g");
 
-    let stackGen = d3.stack().keys(Object.keys(author_dict));
-    let stacked_series = stackGen(processed_data);
+    let stacked_data = d3.stack().keys(Object.keys(author_dict))(processed_data);
 
     const xScale = d3.scaleBand().domain(processed_data.map(function(d) { return d.date; })).range([0, width]).padding(0.2);
     svg.append("g")
         .attr("transform", "translate(0," + height + ")")
-        .call(d3.axisBottom(xScale).tickFormat(x => (x.getMonth() + 1) + "/" + x.getFullYear())).selectAll("text").attr("transform", "translate(-10,10)rotate(-45)");
+        .call(d3.axisBottom(xScale).tickFormat(x => (x.getMonth() + 1) + "/" + x.getFullYear())).selectAll("text").attr("transform", "translate(-10,5)rotate(-30)");
 
     // FIX DOMAIN
-    const yScale = d3.scaleLinear().domain([0, 150]).range([height,0]);
-    svg.append("g").call(d3.axisRight(yScale));
+    const yScale = d3.scaleLinear().domain([0, 200]).range([height,0]);
+    svg.append("g").call(d3.axisLeft(yScale));
 
     let n_authors = Object.keys(author_dict).length;
     let color_range = Array(n_authors);
@@ -274,18 +234,25 @@ function drawStackedGraph(data, type){
     const colorScale = d3.scaleOrdinal().domain(Object.keys(author_dict)).range(color_range);
 
     // Bars
-    svg.selectAll("mybar")
-        .data(processed_data)
-        .enter()
-        .append("rect")
-        .attr("x", function(d) { return xScale(d.date); })
-        .attr("y", function(d) { return yScale(d["U1A7P6GTZ"]); })
-        .attr("width", xScale.bandwidth())
-        .attr("height", function(d) {return height - yScale(d["U1A7P6GTZ"]); })
-        .attr("fill", "#69b3a2")
+    svg.append("g")
+    .selectAll("g")
+    .data(stacked_data)
+    .enter().append("g")
+        .attr("fill", function(d) { return colorScale(d.key); })
+        .selectAll("rect")
+        .data(function(d) { return d; })
+        .enter().append("rect")
+        .attr("x", function(d) { return xScale(d.data.date); })
+        .attr("y", function(d) { return yScale(d[1]); })
+        .attr("height", function(d) { return yScale(d[0]) - yScale(d[1]); })
+        .attr("width",xScale.bandwidth())
 
+    
 }
 
+function readAuthorDict(){
+    return d3.json("/author_dictionary.json");
+}
 
 author_dict = {
     "U4PT7ES0M": "Abhishek Lal",

@@ -8,7 +8,7 @@
 
 <body>
     <p> welcome! </p>
-    <button id = "addMissingValuesButton" onclick="redrawCommitsGraph()"> Add Missing Values!</button>
+    <!-- <button id = "addMissingValuesButton" onclick="redrawCommitsGraph()"> Add Missing Values!</button> -->
     <div id = "line_graph"></div>
     <script type = "text/javascript">
         //lineSvgInit();
@@ -18,10 +18,9 @@
         //});
 
         var ex_data;
-
+        
         let messages_promise = readMessages();
         messages_promise.then(function(data){
-            ex_data = data;
             stackedSvgInit("messages");
             drawStackedGraph(data, "messages");
         })
