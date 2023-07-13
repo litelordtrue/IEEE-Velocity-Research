@@ -1,6 +1,4 @@
-const margin = {top: 10, right: 30, bottom: 30, left: 60},
-width = 1000 - margin.left - margin.right,
-height = 500 - margin.top - margin.bottom;
+// FUNCTIONS TO READ JSON //
 
 
 function readMessages(){
@@ -19,26 +17,60 @@ function readMessages(){
     return messages_promise;
 }
 
-// set up a new div with an svg element inside, given an appropriate id from the type. ie for messages pass type messages
-function stackedSvgInit(type){
-    let stacked_div = document.createElement("div");
-        stacked_div.setAttribute("id", type + "_stacked_graph");
-    document.body.appendChild(stacked_div);
+function readIssues(){
+    var issues_promise = d3.json("/drupal_issues.json").then(function(data){
+        for (i = 0; i < data.length; i++){
+            let issue = data[i];
 
-    // set the dimensions and margins of the graph
-    
-    // append the svg object to the body of the page
-    let svg = d3.select("#" + type + "_stacked_graph")
-    .append("svg").attr("id", type + "_stacked_main_svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-    .append("g")
-        .attr("transform", `translate(${margin.left},${margin.top})`)
-        .attr("id", type + "_stacked_main_g");
-    
+            // convert text date to javascript Date object
+            issue.date = new Date(issue.date);
+        }
+
+        return data;
+    })
+
+    return issues_promise;
 }
 
-// random helper function for bucketing data
+function readCommits(){
+    var commits_promise = d3.json("/gitlab_commits.json").then(function(data){
+        refactored_commits = [];
+
+        for (i = 0; i < data.length; i++){
+            let commit = data[i];
+
+            // rename attributes to date and author
+            delete Object.assign(commit, {["date"]: commit["authored_date"] })["authored_date"];
+            delete Object.assign(commit, {["author"]: commit["author_name"] })["author_name"];
+
+            // convert text date to javascript Date object
+            commit.date = new Date(commit.date);
+            
+        }
+
+        return data;
+    })
+
+    return commits_promise;
+}
+
+// END READ SECTION //
+// FUNCTIONS TO MANIPULATE DATA //
+
+function createAuthorArray(data){
+    // Set does not allow duplicates, convenient for putting list together
+    author_array = new Set();
+
+    for (i = 0; i < data.length; i++){
+        let datum = data[i];
+        author_array.add(datum.author);
+    }
+
+    // however, sets dont have many of the useful array methods so we return an array
+    return Array.from(author_array);
+}
+
+// list out the months between two Dates as strings of the format "%Y/%m"
 function listMonthsBetween(start, end){
     list_of_months = [];
     let month = start.getMonth();
@@ -109,10 +141,45 @@ function readyForDrawing(counted_data){
     }
 
     return month_array;
+
+};
+
+function gatherExtrema(datas){
+    // datas should be an array of all datasets
+    // we want to know which author posted the most and which day had the most posts
+
+    
+};
+
+// END DATA MANIPULATION FUNCTIONS //
+// FUNCTIONS FOR DRAWING USING D3 //
+
+// bounds for svg. arbitrarily set for now 
+const margin = {top: 10, right: 30, bottom: 30, left: 60},
+width = 1000 - margin.left - margin.right,
+height = 500 - margin.top - margin.bottom;
+
+// set up a new div with an svg element inside, given an appropriate id from the type. ie for messages pass type messages
+function stackedSvgInit(type){
+    let stacked_div = document.createElement("div");
+        stacked_div.setAttribute("id", type + "_stacked_graph");
+    document.body.appendChild(stacked_div);
+
+    // set the dimensions and margins of the graph
+    
+    // append the svg object to the body of the page
+    let svg = d3.select("#" + type + "_stacked_graph")
+    .append("svg").attr("id", type + "_stacked_main_svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+        .attr("transform", `translate(${margin.left},${margin.top})`)
+        .attr("id", type + "_stacked_main_g");
+    
 }
 
 // stacked by author 
-function drawStackedGraph(data, type, author_array){
+function fillStackedGraph(data, type, author_array){
     let processed_data = readyForDrawing(countWithinBuckets(bucketDataByMonth(data), author_array));
     
     const svg = d3.select("#" + type + "_stacked_main_g");
@@ -152,50 +219,10 @@ function drawStackedGraph(data, type, author_array){
     svg.append("text").attr("y", margin.top).attr("x", width/2).text(type);
 }
 
-function readIssues(){
-    var issues_promise = d3.json("/drupal_issues.json").then(function(data){
-        for (i = 0; i < data.length; i++){
-            let issue = data[i];
+function drawStackedGraph(data, type){
+    let author_array = createAuthorArray(data);
+    stackedSvgInit(type);
+    fillStackedGraph(data, type, author_array);
+};
 
-            // convert text date to javascript Date object
-            issue.date = new Date(issue.date);
-        }
-
-        return data;
-    })
-
-    return issues_promise;
-}
-
-function createAuthorArray(data){
-    author_array = new Set();
-
-    for (i = 0; i < data.length; i++){
-        let datum = data[i];
-        author_array.add(datum.author);
-    }
-
-    return Array.from(author_array);
-}
-
-function readCommits(){
-    var commits_promise = d3.json("/gitlab_commits.json").then(function(data){
-        refactored_commits = [];
-
-        for (i = 0; i < data.length; i++){
-            let commit = data[i];
-
-            // rename attributes to date and author
-            delete Object.assign(commit, {["date"]: commit["authored_date"] })["authored_date"];
-            delete Object.assign(commit, {["author"]: commit["author_name"] })["author_name"];
-
-            // convert text date to javascript Date object
-            commit.date = new Date(commit.date);
-            
-        }
-
-        return data;
-    })
-
-    return commits_promise;
-}
+// END DRAWING FUNCTIONS

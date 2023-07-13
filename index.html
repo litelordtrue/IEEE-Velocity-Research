@@ -17,28 +17,18 @@
         //});
 
         var ex_data;
-        
-        let messages_promise = readMessages();
-        messages_promise.then(function(data){
-            let author_array = createAuthorArray(data);
-            stackedSvgInit("messages");
-            drawStackedGraph(data, "messages", author_array);
-        })
-        
-        let issues_promise = readIssues();
-        issues_promise.then(function(data){
-            let author_array = createAuthorArray(data);
-            stackedSvgInit("issues");
-            drawStackedGraph(data, "issues", author_array);
-        })
 
-        let commits_promise = readCommits();
-        commits_promise.then(function(data){
-            console.log(data);
-            let author_array = createAuthorArray(data);
-            stackedSvgInit("commits");
-            drawStackedGraph(data, "commits", author_array);
-        })
+        let triple_promise = Promise.allSettled([readMessages(), readIssues(), readCommits()]);
+        triple_promise.then(function(data){
+            messages_data = data[0].value;
+            drawStackedGraph(messages_data, "messages");
+            issues_data = data[1].value;
+            drawStackedGraph(issues_data, "issues");
+            commits_data = data[2].value;
+            drawStackedGraph(commits_data, "commits");
+
+            
+        });
     </script>
 </body>
 
