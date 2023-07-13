@@ -7,7 +7,6 @@
 </head>
 
 <body>
-    <p> welcome! </p>
     <!-- <button id = "addMissingValuesButton" onclick="redrawCommitsGraph()"> Add Missing Values!</button> -->
     <div id = "line_graph"></div>
     <script type = "text/javascript">
@@ -21,10 +20,25 @@
         
         let messages_promise = readMessages();
         messages_promise.then(function(data){
+            let author_array = createAuthorArray(data);
             stackedSvgInit("messages");
-            drawStackedGraph(data, "messages");
+            drawStackedGraph(data, "messages", author_array);
         })
         
+        let issues_promise = readIssues();
+        issues_promise.then(function(data){
+            let author_array = createAuthorArray(data);
+            stackedSvgInit("issues");
+            drawStackedGraph(data, "issues", author_array);
+        })
+
+        let commits_promise = readCommits();
+        commits_promise.then(function(data){
+            console.log(data);
+            let author_array = createAuthorArray(data);
+            stackedSvgInit("commits");
+            drawStackedGraph(data, "commits", author_array);
+        })
     </script>
 </body>
 

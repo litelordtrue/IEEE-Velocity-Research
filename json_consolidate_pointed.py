@@ -82,7 +82,7 @@ for root, dirs, files in os.walk(path, topdown=True):
             # i decided it was cheaper computationally for the script to 
             # overwrite existing k,v pairs instead of check if it's already in
             if 'user_profile' in msg:
-                author_dict[m_author_id] = msg['user_profile']['real_name']
+                author_dict[m_author_id] = msg['user_profile']['display_name']
         
         date_dict[m_time] = n
 
@@ -96,10 +96,10 @@ for root, dirs, files in os.walk(path, topdown=True):
 list_of_msgs.sort(key=(lambda msg : msg["date"]))
 
 
-list_json = json.dumps(list_of_msgs, indent=4)
+list_json = json.dumps(author_dict, indent=4)
 
 # Writing to sample.json
-with open("slack_messages.json", "w") as outfile:
+with open("author_dump.json", "w") as outfile:
     outfile.write(list_json)
 
 #print(list_of_msgs[0])
