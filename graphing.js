@@ -106,24 +106,29 @@ function bucketDataByMonth(data){
 }
 
 // helper function to take the keys of an object but create a new object with some new default value for all keys
-function replaceValuesFromObject(object, new_value){
+function copyObjectReplacedValues(object, new_value){
     return Object.fromEntries(Object.keys(object).map(x => [x, new_value]));
+}
+
+// count within a single "bucket", this is useful in multiple places so I split it. naming is pretty bad though
+function countWithinBucket(bucket, author_array){
+    let counted_author_dict = Object.fromEntries(author_array.map(x => [x, 0]));
+
+    for (j = 0; j < bucket.length; j++){
+        datum = bucket[j];
+        counted_author_dict[datum.author] += 1;
+    }
+
+    return counted_author_dict;
 }
 
 // count instances of author per bucket
 function countWithinBuckets(bucketed_data, author_array){
-    let counted_data = replaceValuesFromObject(bucketed_data, null);
+    let counted_data = copyObjectReplacedValues(bucketed_data, null);
 
     for (date in bucketed_data){
-        let counted_author_dict = Object.fromEntries(author_array.map(x => [x, 0]));
-
         bucket = bucketed_data[date];
-        for (j = 0; j < bucket.length; j++){
-            datum = bucket[j];
-            counted_author_dict[datum.author] += 1;
-        }
-
-        counted_data[date] = counted_author_dict;
+        counted_data[date] = countWithinBucket(bucket, author_array);
     }
 
     return counted_data;
@@ -144,14 +149,98 @@ function readyForDrawing(counted_data){
 
 };
 
-function gatherExtrema(datas){
-    // datas should be an array of all datasets
-    // we want to know which author posted the most and which day had the most posts
+// helper function to get the key of maximal entry(s) in an object
+function getMaxOfObject(object){
+    max_value = Math.max(...Object.values(object));
+    max_keys = Object.keys(object).filter(x => (object[x] == max_value));
+    return [max_keys, max_value]
+}
 
-    
+function copyObjectWithMap(object, f){
+    new_object = {};
+    for (key in object){
+        new_object[key] = f(object[key]);
+    }
+
+    return new_object;
+}
+
+// deep copy by mapping identity
+function deepCopyObject(object){
+    return copyObjectWithMap(object, (x => x));
+}
+
+function gatherExtrema(data){
+    let sub_object = {
+        who: [],
+        n: 0
+    }
+    let gathered_object = {
+        by_author: deepCopyObject(sub_object),
+        by_bucket: deepCopyObject(sub_object)
+    }
+
+    if (data.length > 0){
+        // we want to know which author posted the most and which bucket had the most posts
+        let [max_authors, max_authors_posts] = getMaxOfObject(countWithinBucket(data, createAuthorArray(data)));
+        gathered_object.by_author.who = max_authors;
+        gathered_object.by_author.n = max_authors_posts;
+
+        let [max_buckets, max_buckets_posts] = getMaxOfObject(copyObjectWithMap(bucketDataByMonth(data), (x => x.length)));
+        max_buckets = max_buckets.map(date => (new Date(...date.split("/"))).toLocaleDateString('en-US', {month: 'long', year: "numeric"}));
+        gathered_object.by_bucket.who = max_buckets;
+        gathered_object.by_bucket.n = max_buckets_posts;
+    }
+
+    return gathered_object;
 };
 
 // END DATA MANIPULATION FUNCTIONS //
+// FUNCTIONS FOR DRAWING EXTREMA TABLE //
+function createTextCell(text){
+    let td = document.createElement("td");
+    let text_cell = document.createTextNode(text);
+    td.appendChild(text_cell);
+    return td;
+}
+
+function initExtremaTable(){
+    let empty_extrema = gatherExtrema([]);
+    let table = document.createElement("table");
+        table.setAttribute("id", "extremaTable");
+    document.body.appendChild(table);
+    let table_head = table.createTHead();
+    let header_row = table_head.insertRow();
+    header_row.appendChild(createTextCell("dataset"));
+    for (key in empty_extrema){
+        text_cell = createTextCell(key.split("_")[1]);
+        text_cell.setAttribute("colspan", "2");
+        header_row.appendChild(text_cell);
+    }
+    let sub_header_row = table_head.insertRow();
+    sub_header_row.appendChild(createTextCell(""));
+    for (i in Object.values(empty_extrema)){
+        for (key in Object.values(empty_extrema)[i]){
+            sub_header_row.appendChild(createTextCell(key));
+        }
+    }
+}
+
+function updateExtremaTable(extrema, type){
+    let table = document.getElementById("extremaTable");
+    let row = table.insertRow();
+    row.appendChild(createTextCell(type));
+    for (key in extrema){
+        let sub_extrema = extrema[key];
+        for (sub_key in sub_extrema){
+            row.appendChild(createTextCell(sub_extrema[sub_key]));
+        }
+    }
+}
+// END EXTREMA TABLE //
+
+
+
 // FUNCTIONS FOR DRAWING USING D3 //
 
 // bounds for svg. arbitrarily set for now 
@@ -180,6 +269,9 @@ function stackedSvgInit(type){
 
 // stacked by author 
 function fillStackedGraph(data, type, author_array){
+    let extrema = gatherExtrema(data);
+    updateExtremaTable(extrema, type);
+
     let processed_data = readyForDrawing(countWithinBuckets(bucketDataByMonth(data), author_array));
     
     const svg = d3.select("#" + type + "_stacked_main_g");
@@ -191,8 +283,7 @@ function fillStackedGraph(data, type, author_array){
         .attr("transform", "translate(0," + height + ")")
         .call(d3.axisBottom(xScale).tickFormat(x => (x.getMonth() + 1) + "/" + x.getFullYear())).selectAll("text").attr("transform", "translate(-10,5)rotate(-30)");
 
-    // FIX DOMAIN
-    const yScale = d3.scaleLinear().domain([0, 200]).range([height,0]);
+    const yScale = d3.scaleLinear().domain([0, 1.2*extrema.by_bucket.n]).range([height,0]);
     svg.append("g").call(d3.axisLeft(yScale));
 
     let n_authors = author_array.length;
@@ -215,8 +306,9 @@ function fillStackedGraph(data, type, author_array){
         .attr("width",xScale.bandwidth())
 
     // Title
-
     svg.append("text").attr("y", margin.top).attr("x", width/2).text(type);
+
+    // Filling in appropriate data in table
 }
 
 function drawStackedGraph(data, type){
@@ -224,5 +316,6 @@ function drawStackedGraph(data, type){
     stackedSvgInit(type);
     fillStackedGraph(data, type, author_array);
 };
+
 
 // END DRAWING FUNCTIONS

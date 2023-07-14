@@ -7,27 +7,23 @@
 </head>
 
 <body>
-    <!-- <button id = "addMissingValuesButton" onclick="redrawCommitsGraph()"> Add Missing Values!</button> -->
-    <div id = "line_graph"></div>
     <script type = "text/javascript">
-        //lineSvgInit();
-        //let processed_promise = readCommits();
-        //processed_promise.then(function(data){
-        //    drawCommitsGraph(data);
-        //});
 
         var ex_data;
 
         let triple_promise = Promise.allSettled([readMessages(), readIssues(), readCommits()]);
         triple_promise.then(function(data){
+            initExtremaTable();
             messages_data = data[0].value;
             drawStackedGraph(messages_data, "messages");
+
             issues_data = data[1].value;
             drawStackedGraph(issues_data, "issues");
+
             commits_data = data[2].value;
             drawStackedGraph(commits_data, "commits");
+            ex_data = commits_data;
 
-            
         });
     </script>
 </body>
