@@ -24,6 +24,8 @@
             drawStackedGraph(commits_data, "commits");
             ex_data = commits_data;
 
+            initGroupedSvg();
+            fillGroupedGraph({messages: messages_data, issues: issues_data, commits: commits_data});
         });
     </script>
 </body>

@@ -57,6 +57,14 @@ function readCommits(){
 // END READ SECTION //
 // FUNCTIONS TO MANIPULATE DATA //
 
+function removeArrayItem(arr, value) {
+    var index = arr.indexOf(value);
+    if (index > -1) {
+      arr.splice(index, 1);
+    }
+    return arr;
+  }
+
 function createAuthorArray(data){
     // Set does not allow duplicates, convenient for putting list together
     author_array = new Set();
@@ -105,11 +113,6 @@ function bucketDataByMonth(data){
     return bucketed_data;
 }
 
-// helper function to take the keys of an object but create a new object with some new default value for all keys
-function copyObjectReplacedValues(object, new_value){
-    return Object.fromEntries(Object.keys(object).map(x => [x, new_value]));
-}
-
 // count within a single "bucket", this is useful in multiple places so I split it. naming is pretty bad though
 function countWithinBucket(bucket, author_array){
     let counted_author_dict = Object.fromEntries(author_array.map(x => [x, 0]));
@@ -145,6 +148,8 @@ function readyForDrawing(counted_data){
         month_array.push(month_object);
     }
 
+    month_array.sort((a,b) => a.date - b.date);
+
     return month_array;
 
 };
@@ -168,6 +173,11 @@ function copyObjectWithMap(object, f){
 // deep copy by mapping identity
 function deepCopyObject(object){
     return copyObjectWithMap(object, (x => x));
+}
+
+// helper function to take the keys of an object but create a new object with some new default value for all keys
+function copyObjectReplacedValues(object, new_value){
+    return copyObjectWithMap(object, x => new_value);
 }
 
 function gatherExtrema(data){
@@ -195,6 +205,32 @@ function gatherExtrema(data){
     return gathered_object;
 };
 
+function createGroupedData(datas){
+    // datas should look like: {type: data, type: data}
+    counted_datas = {}
+    for (type in datas){
+        counted_datas[type] = copyObjectWithMap(bucketDataByMonth(datas[type]), x => x.length);
+    }
+    empty_counted_data = copyObjectReplacedValues(counted_datas, 0);
+    all_dates = new Set();
+
+    for (key in counted_datas){
+        for (date in counted_datas[key]){
+            all_dates.add(date);
+        }
+    }
+
+    grouped_datas = Object.fromEntries(Array.from(all_dates).map(x => [x, deepCopyObject(empty_counted_data)]));
+
+    for (key in counted_datas){
+        for (date in counted_datas[key]){
+            grouped_datas[date][key] = counted_datas[key][date];
+        }
+    }
+
+    return grouped_datas;
+};
+
 // END DATA MANIPULATION FUNCTIONS //
 // FUNCTIONS FOR DRAWING EXTREMA TABLE //
 function createTextCell(text){
@@ -219,9 +255,9 @@ function initExtremaTable(){
     }
     let sub_header_row = table_head.insertRow();
     sub_header_row.appendChild(createTextCell(""));
-    for (i in Object.values(empty_extrema)){
-        for (key in Object.values(empty_extrema)[i]){
-            sub_header_row.appendChild(createTextCell(key));
+    for (let key of Object.values(empty_extrema)){
+        for (subkey in key){
+            sub_header_row.appendChild(createTextCell(subkey));
         }
     }
 }
@@ -249,7 +285,7 @@ width = 1000 - margin.left - margin.right,
 height = 500 - margin.top - margin.bottom;
 
 // set up a new div with an svg element inside, given an appropriate id from the type. ie for messages pass type messages
-function stackedSvgInit(type){
+function initStackedSvg(type){
     let stacked_div = document.createElement("div");
         stacked_div.setAttribute("id", type + "_stacked_graph");
     document.body.appendChild(stacked_div);
@@ -313,9 +349,67 @@ function fillStackedGraph(data, type, author_array){
 
 function drawStackedGraph(data, type){
     let author_array = createAuthorArray(data);
-    stackedSvgInit(type);
+    initStackedSvg(type);
     fillStackedGraph(data, type, author_array);
 };
 
+function initGroupedSvg(){
+    let grouped_div = document.createElement("div");
+        grouped_div.setAttribute("id", "grouped_graph");
+    document.body.appendChild(grouped_div);
 
+    // set the dimensions and margins of the graph
+    
+    // append the svg object to the body of the page
+    let svg = d3.select("#grouped_graph")
+    .append("svg").attr("id", "grouped_main_svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+        .attr("transform", `translate(${margin.left},${margin.top})`)
+        .attr("id", "grouped_main_g");
+
+}
+
+function fillGroupedGraph(datas){
+    let processed_data = readyForDrawing(createGroupedData(datas));
+    console.log(processed_data);
+
+    const svg = d3.select('#grouped_main_g');
+
+    var subgroups = removeArrayItem(Object.keys(processed_data[0]), "date");
+
+    const xScale = d3.scaleBand().domain(processed_data.map(function(d) { return d.date; })).range([0, width]).padding(0.2);
+    svg.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(xScale).tickFormat(x => (x.getMonth() + 1) + "/" + x.getFullYear())).selectAll("text").attr("transform", "translate(-10,5)rotate(-30)");
+    
+    const yScale = d3.scaleLinear().domain([0, 200]).range([height,0]);
+    svg.append("g").call(d3.axisLeft(yScale));
+
+    const xSubscale = d3.scaleBand().domain(subgroups).range([0, xScale.bandwidth()]).padding(.25*xScale.padding());
+
+    let n_subgroups = subgroups.length;
+    let color_range = Array(n_subgroups);
+    for (i = 0; i < n_subgroups; i++){color_range[i] = d3.interpolatePuOr(i/n_subgroups)};
+    const colorScale = d3.scaleOrdinal().domain(subgroups).range(color_range); 
+
+    svg.append("g")
+        .selectAll("g")
+        // Enter in data = loop group per group
+        .data(processed_data)
+        .enter()
+        .append("g")
+        .attr("transform", function(d) { return "translate(" + xScale(d.date) + ",0)"; })
+        .selectAll("rect")
+        .data(function(d) { return subgroups.map(function(key) { return {key: key, value: d[key]}; }); })
+        .enter().append("rect")
+        .attr("x", function(d) { return xSubscale(d.key); })
+        .attr("y", function(d) { return yScale(d.value); })
+        .attr("width", xSubscale.bandwidth())
+        .attr("height", function(d) { return height - yScale(d.value); })
+        .attr("fill", function(d) { return colorScale(d.key); });
+    
+    
+}
 // END DRAWING FUNCTIONS
