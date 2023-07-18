@@ -186,6 +186,7 @@ function gatherExtrema(data){
         n: 0
     }
     let gathered_object = {
+        by_total: deepCopyObject(sub_object),
         by_author: deepCopyObject(sub_object),
         by_bucket: deepCopyObject(sub_object)
     }
