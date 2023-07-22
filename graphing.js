@@ -63,19 +63,23 @@ function removeArrayItem(arr, value) {
       arr.splice(index, 1);
     }
     return arr;
-  }
+}
+
+function createCountByArray(data, count_by){
+        // Set does not allow duplicates, convenient for putting list together
+        count_by_array = new Set();
+
+        for (i = 0; i < data.length; i++){
+            let datum = data[i];
+            count_by_array.add(datum[count_by]);
+        }
+    
+        // however, sets dont have many of the useful array methods so we return an array
+        return Array.from(count_by_array);
+}
 
 function createAuthorArray(data){
-    // Set does not allow duplicates, convenient for putting list together
-    author_array = new Set();
-
-    for (i = 0; i < data.length; i++){
-        let datum = data[i];
-        author_array.add(datum.author);
-    }
-
-    // however, sets dont have many of the useful array methods so we return an array
-    return Array.from(author_array);
+    return createCountByArray(data, "author");
 }
 
 // list out the months between two Dates as strings of the format "%Y/%m"
@@ -113,16 +117,29 @@ function bucketDataByMonth(data){
     return bucketed_data;
 }
 
+// this is great and generalized but im not using it because I need the list of EVERY author, not just the authors of the array.
+function countWithinArray(array, count_by){
+    count_by_array = createCountByArray(array, count_by);
+    let counted_dict = Object.fromEntries(count_by_array.map(x => [x, 0]));
+
+    for (j = 0; j < array.length; j++){
+        datum = array[j];
+        counted_dict[datum[count_by]] += 1;
+    }
+
+    return counted_dict;
+}
+
 // count within a single "bucket", this is useful in multiple places so I split it. naming is pretty bad though
 function countWithinBucket(bucket, author_array){
-    let counted_author_dict = Object.fromEntries(author_array.map(x => [x, 0]));
+    let counted_dict = Object.fromEntries(author_array.map(x => [x, 0]));
 
     for (j = 0; j < bucket.length; j++){
         datum = bucket[j];
-        counted_author_dict[datum.author] += 1;
+        counted_dict[datum.author] += 1;
     }
 
-    return counted_author_dict;
+    return counted_dict;
 }
 
 // count instances of author per bucket
@@ -136,6 +153,7 @@ function countWithinBuckets(bucketed_data, author_array){
 
     return counted_data;
 }
+
 
 // convert previous structure to d3 recognizable
 function readyForDrawing(counted_data){
@@ -192,11 +210,18 @@ function gatherExtrema(data){
     }
 
     if (data.length > 0){
-        // we want to know which author posted the most and which bucket had the most posts
-        let [max_authors, max_authors_posts] = getMaxOfObject(countWithinBucket(data, createAuthorArray(data)));
+        // total
+        let [max_total, max_total_posts] = getMaxOfObject(countWithinArray(data, "author"));
+        gathered_object.by_total.who = max_total;
+        gathered_object.by_total.n = max_total_posts;
+
+
+        // by author
+        let [max_authors, max_authors_posts] = getMaxOfObject(countWithinArray(data, "author"));
         gathered_object.by_author.who = max_authors;
         gathered_object.by_author.n = max_authors_posts;
 
+        // by bucket
         let [max_buckets, max_buckets_posts] = getMaxOfObject(copyObjectWithMap(bucketDataByMonth(data), (x => x.length)));
         max_buckets = max_buckets.map(date => (new Date(...date.split("/"))).toLocaleDateString('en-US', {month: 'long', year: "numeric"}));
         gathered_object.by_bucket.who = max_buckets;
