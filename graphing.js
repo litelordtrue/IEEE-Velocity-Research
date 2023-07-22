@@ -284,6 +284,7 @@ function updateExtremaTable(extrema, type){
 const margin = {top: 10, right: 30, bottom: 50, left: 60},
 width = 1000 - margin.left - margin.right,
 height = 500 - margin.top - margin.bottom;
+legend_width_ratio = 3;
 
 // set up a new div with an svg element inside, given an appropriate id from the type. ie for messages pass type messages
 function initStackedSvg(type){
@@ -366,8 +367,10 @@ function initGroupedSvg(){
     // append the svg object to the body of the page
     let svg = d3.select("#grouped_graph")
     .append("svg").attr("id", "grouped_main_svg")
-        .attr("width", width + margin.left + margin.right)
+                                            // giving extra space for the legend
+        .attr("width", width + margin.left + legend_width_ratio*margin.right)
         .attr("height", height + margin.top + margin.bottom)
+        .style("background-color", "whitesmoke")
     .append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`)
         .attr("id", "grouped_main_g");
@@ -413,6 +416,33 @@ function fillGroupedGraph(datas){
         .attr("height", function(d) { return height - yScale(d.value); })
         .attr("fill", function(d) { return colorScale(d.key); });
     
+    // Legend and Title
+    svg.append("text").attr("transform", `translate(${width/2},${height+(margin.bottom)/1.25})`).text("month");
+
+    let l_margin = {width: 10, space: 5}
+
+    let legend = svg.append("g")
+        .attr("id", "grouped_legend")
+        .attr("transform", `translate(${width},${margin.top})`);
     
+    legend.append("rect").attr("width", legend_width_ratio*margin.right)
+        .attr("height", subgroups.length*(l_margin.width + l_margin.space) + l_margin.space)
+        .style("fill", "whitesmoke").style("stroke", "black");
+
+
+    for (i = 0; i < subgroups.length; i++){
+        let subgroup = subgroups[i];
+
+        legend.append("rect")
+            .attr("transform", `translate(${l_margin.space}, ${l_margin.space*(i+1)+i*l_margin.width})`)
+            .attr("width", l_margin.width).attr("height", l_margin.width)
+            .style("fill", colorScale(subgroup));
+        
+        legend.append("text")
+            .attr("transform", `translate(${2*l_margin.space + l_margin.width}, ${l_margin.space*(i+3)+i*l_margin.width})`)
+            .text(subgroup)
+            //.style("font-size", `${l_margin.width}px`);
+
+    }
 }
 // END DRAWING FUNCTIONS
