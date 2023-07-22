@@ -281,7 +281,7 @@ function updateExtremaTable(extrema, type){
 // FUNCTIONS FOR DRAWING USING D3 //
 
 // bounds for svg. arbitrarily set for now 
-const margin = {top: 10, right: 30, bottom: 30, left: 60},
+const margin = {top: 10, right: 30, bottom: 50, left: 60},
 width = 1000 - margin.left - margin.right,
 height = 500 - margin.top - margin.bottom;
 
@@ -298,6 +298,7 @@ function initStackedSvg(type){
     .append("svg").attr("id", type + "_stacked_main_svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
+        .style("background-color", "whitesmoke")
     .append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`)
         .attr("id", type + "_stacked_main_g");
@@ -307,7 +308,6 @@ function initStackedSvg(type){
 // stacked by author 
 function fillStackedGraph(data, type, author_array){
     let extrema = gatherExtrema(data);
-    updateExtremaTable(extrema, type);
 
     let processed_data = readyForDrawing(countWithinBuckets(bucketDataByMonth(data), author_array));
     
@@ -342,10 +342,12 @@ function fillStackedGraph(data, type, author_array){
         .attr("height", function(d) { return yScale(d[0]) - yScale(d[1]); })
         .attr("width",xScale.bandwidth())
 
-    // Title
-    svg.append("text").attr("y", margin.top).attr("x", width/2).text(type);
+    // Titles
+    svg.append("text").attr("transform", `translate(${-margin.left/2},${height/2})rotate(-90)`).text(type);
+    svg.append("text").attr("transform", `translate(${width/2},${height+(margin.bottom)/1.25})`).text("month");
 
     // Filling in appropriate data in table
+    updateExtremaTable(extrema, type);
 }
 
 function drawStackedGraph(data, type){

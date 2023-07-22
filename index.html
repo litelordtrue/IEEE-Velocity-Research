@@ -14,6 +14,7 @@
         let triple_promise = Promise.allSettled([readMessages(), readIssues(), readCommits()]);
         triple_promise.then(function(data){
             initExtremaTable();
+
             messages_data = data[0].value;
             drawStackedGraph(messages_data, "messages");
 
@@ -22,6 +23,7 @@
 
             commits_data = data[2].value;
             drawStackedGraph(commits_data, "commits");
+            
             ex_data = commits_data;
 
             initGroupedSvg();
