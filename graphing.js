@@ -198,7 +198,7 @@ function copyObjectReplacedValues(object, new_value){
     return copyObjectWithMap(object, x => new_value);
 }
 
-function gatherExtrema(data){
+function gatherExtrema(data, type){
     let sub_object = {
         who: [],
         n: 0
@@ -211,10 +211,8 @@ function gatherExtrema(data){
 
     if (data.length > 0){
         // total
-        let [max_total, max_total_posts] = getMaxOfObject(countWithinArray(data, "author"));
-        gathered_object.by_total.who = max_total;
-        gathered_object.by_total.n = max_total_posts;
-
+        gathered_object.by_total.who = createAuthorArray(data).length;
+        gathered_object.by_total.n = data.length;
 
         // by author
         let [max_authors, max_authors_posts] = getMaxOfObject(countWithinArray(data, "author"));
@@ -259,8 +257,8 @@ function createGroupedData(datas){
 
 // END DATA MANIPULATION FUNCTIONS //
 // FUNCTIONS FOR DRAWING EXTREMA TABLE //
-function createTextCell(text){
-    let td = document.createElement("td");
+function createTextCell(text, type){
+    let td = document.createElement(type);
     let text_cell = document.createTextNode(text);
     td.appendChild(text_cell);
     return td;
@@ -273,29 +271,31 @@ function initExtremaTable(){
     document.body.appendChild(table);
     let table_head = table.createTHead();
     let header_row = table_head.insertRow();
-    header_row.appendChild(createTextCell("dataset"));
+    header_row.appendChild(createTextCell("dataset", "th"));
     for (key in empty_extrema){
-        text_cell = createTextCell(key.split("_")[1]);
+        text_cell = createTextCell(key.split("_")[1], "th");
         text_cell.setAttribute("colspan", "2");
         header_row.appendChild(text_cell);
     }
     let sub_header_row = table_head.insertRow();
-    sub_header_row.appendChild(createTextCell(""));
+    sub_header_row.appendChild(createTextCell("", "th"));
     for (let key of Object.values(empty_extrema)){
         for (subkey in key){
-            sub_header_row.appendChild(createTextCell(subkey));
+            sub_header_row.appendChild(createTextCell(subkey, "th"));
         }
     }
+
+    let table_body = table.createTBody();
 }
 
 function updateExtremaTable(extrema, type){
-    let table = document.getElementById("extremaTable");
+    let table = document.getElementById("extremaTable").tBodies[0];
     let row = table.insertRow();
-    row.appendChild(createTextCell(type));
+    row.appendChild(createTextCell(type, "th"));
     for (key in extrema){
         let sub_extrema = extrema[key];
         for (sub_key in sub_extrema){
-            row.appendChild(createTextCell(sub_extrema[sub_key]));
+            row.appendChild(createTextCell(sub_extrema[sub_key], "td"));
         }
     }
 }
