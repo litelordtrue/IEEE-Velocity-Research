@@ -88,7 +88,7 @@ function listMonthsBetween(start, end){
     let month = start.getMonth();
     let year = start.getFullYear();
     while (!(month == end.getMonth() && year == end.getFullYear())){
-        list_of_months.push(year + "/" + month);
+        list_of_months.push(`${year}/${month}`);
         if (month == 11){
             month = 0;
             year += 1;
@@ -98,7 +98,7 @@ function listMonthsBetween(start, end){
         }
     }
 
-    list_of_months.push(end.getFullYear() + "/" + end.getMonth());
+    list_of_months.push(`${end.getFullYear()}/${end.getMonth()}`);
     return list_of_months;
 }
 
@@ -110,7 +110,7 @@ function bucketDataByMonth(data){
 
     for (i = 0; i < data.length; i++){
         let datum = data[i];
-        let date_string = datum.date.getFullYear() + "/" + datum.date.getMonth();
+        let date_string = `${datum.date.getFullYear()}/${datum.date.getMonth()}`;
         bucketed_data[date_string].push(datum);
     }
 
@@ -314,26 +314,26 @@ legend_width_ratio = 3;
 // set up a new div with an svg element inside, given an appropriate id from the type. ie for messages pass type messages
 function initStackedSvg(type){
     let stacked_div = document.createElement("div");
-        stacked_div.setAttribute("id", type + "_stacked_graph");
+        stacked_div.setAttribute("id", `${type}_stacked_graph`);
     document.body.appendChild(stacked_div);
 
     // set the dimensions and margins of the graph
     
     // append the svg object to the body of the page
-    let svg = d3.select("#" + type + "_stacked_graph")
-    .append("svg").attr("id", type + "_stacked_main_svg")
+    let svg = d3.select(`#${type}_stacked_graph`)
+    .append("svg").attr("id", `${type}_stacked_main_svg`)
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
         .style("background-color", "whitesmoke")
     .append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`)
-        .attr("id", type + "_stacked_main_g");
+        .attr("id", `${type}_stacked_main_g`);
     
 }
 
 // return a color interpolator (returns color for input between 0 and 1) 
 // that has colors fixed to a particular saturation and lightness
-function customInterpolateHSL(saturation, lightness){
+function interpolateFixedIntensity(saturation, lightness){
     start = d3.color(`hsl(180, ${saturation}%, ${lightness}%)`);
     end = d3.color(`hsl(360, ${saturation}%, ${lightness}%)`);
     return d3.interpolateHslLong(start, end);
@@ -345,21 +345,22 @@ function fillStackedGraph(data, type, author_array){
 
     let processed_data = readyForDrawing(countWithinBuckets(bucketDataByMonth(data), author_array));
     
-    const svg = d3.select("#" + type + "_stacked_main_g");
+    const svg = d3.select(`#${type}_stacked_main_g`);
 
     let stacked_data = d3.stack().keys(author_array)(processed_data);
 
     const xScale = d3.scaleBand().domain(processed_data.map(function(d) { return d.date; })).range([0, width]).padding(0.2);
     svg.append("g")
-        .attr("transform", "translate(0," + height + ")")
-        .call(d3.axisBottom(xScale).tickFormat(x => (x.getMonth() + 1) + "/" + x.getFullYear())).selectAll("text").attr("transform", "translate(-10,5)rotate(-30)");
+        .attr("transform", `translate(0,${height})`)
+        .call(d3.axisBottom(xScale).tickFormat(x => `${x.getMonth() + 1}/${x.getFullYear()}`))
+        .selectAll("text").attr("transform", "translate(-10,5)rotate(-30)");
 
     const yScale = d3.scaleLinear().domain([0, 1.2*extrema.by_bucket.n]).range([height,0]);
     svg.append("g").call(d3.axisLeft(yScale));
 
     let n_authors = author_array.length;
     let color_range = Array(n_authors);
-    let custom_interpolate = customInterpolateHSL(80, 50);
+    let custom_interpolate = interpolateFixedIntensity(80, 50);
     for (i = 0; i < n_authors; i++){
         // continuous
         color_range[i] = custom_interpolate(i/n_authors)
@@ -426,8 +427,8 @@ function fillGroupedGraph(datas){
 
     const xScale = d3.scaleBand().domain(processed_data.map(function(d) { return d.date; })).range([0, width]).padding(0.2);
     svg.append("g")
-        .attr("transform", "translate(0," + height + ")")
-        .call(d3.axisBottom(xScale).tickFormat(x => (x.getMonth() + 1) + "/" + x.getFullYear())).selectAll("text").attr("transform", "translate(-10,5)rotate(-30)");
+        .attr("transform", `translate(0,${height})`)
+        .call(d3.axisBottom(xScale).tickFormat(x => `${x.getMonth() + 1}/${x.getFullYear()}`)).selectAll("text").attr("transform", "translate(-10,5)rotate(-30)");
     
     const yScale = d3.scaleLinear().domain([0, 200]).range([height,0]);
     svg.append("g").call(d3.axisLeft(yScale));
@@ -436,7 +437,7 @@ function fillGroupedGraph(datas){
 
     let n_subgroups = subgroups.length;
     let color_range = Array(n_subgroups);
-    let custom_interpolate = customInterpolateHSL(50, 50);
+    let custom_interpolate = interpolateFixedIntensity(50, 50);
     for (i = 0; i < n_subgroups; i++){color_range[i] = custom_interpolate(i/n_subgroups)};
     const colorScale = d3.scaleOrdinal().domain(subgroups).range(color_range); 
 
@@ -446,7 +447,7 @@ function fillGroupedGraph(datas){
         .data(processed_data)
         .enter()
         .append("g")
-        .attr("transform", function(d) { return "translate(" + xScale(d.date) + ",0)"; })
+        .attr("transform", function(d) { return `translate(${xScale(d.date)},0)`; })
         .selectAll("rect")
         .data(function(d) { return subgroups.map(function(key) { return {key: key, value: d[key]}; }); })
         .enter().append("rect")
