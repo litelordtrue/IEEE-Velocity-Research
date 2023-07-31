@@ -1,8 +1,8 @@
 // FUNCTIONS TO READ JSON //
 
 
-function readMessages(){
-    var messages_promise = d3.json("/slack_messages.json").then(function(data){
+function readMessages(data_path){
+    var messages_promise = d3.json(data_path).then(function(data){
         
         for (i = 0; i < data.length; i++){
             let msg = data[i];
@@ -17,8 +17,8 @@ function readMessages(){
     return messages_promise;
 }
 
-function readIssues(){
-    var issues_promise = d3.json("/drupal_issues.json").then(function(data){
+function readIssues(data_path){
+    var issues_promise = d3.json(data_path).then(function(data){
         for (i = 0; i < data.length; i++){
             let issue = data[i];
 
@@ -32,8 +32,8 @@ function readIssues(){
     return issues_promise;
 }
 
-function readCommits(){
-    var commits_promise = d3.json("/gitlab_commits.json").then(function(data){
+function readCommits(data_path){
+    var commits_promise = d3.json(data_path).then(function(data){
         refactored_commits = [];
 
         for (i = 0; i < data.length; i++){
@@ -331,6 +331,14 @@ function initStackedSvg(type){
     
 }
 
+// return a color interpolator (returns color for input between 0 and 1) 
+// that has colors fixed to a particular saturation and lightness
+function customInterpolateHSL(saturation, lightness){
+    start = d3.color(`hsl(0, ${saturation}%, ${lightness}%)`);
+    end = d3.color(`hsl(360, ${saturation}%, ${lightness}%)`);
+    return d3.interpolateHslLong(start, end);
+}
+
 // stacked by author 
 function fillStackedGraph(data, type, author_array){
     let extrema = gatherExtrema(data);
@@ -351,7 +359,13 @@ function fillStackedGraph(data, type, author_array){
 
     let n_authors = author_array.length;
     let color_range = Array(n_authors);
-    for (i = 0; i < n_authors; i++){color_range[i] = d3.interpolateTurbo(i/n_authors)};
+    let custom_interpolate = customInterpolateHSL(80, 50);
+    for (i = 0; i < n_authors; i++){
+        // continuous
+        color_range[i] = custom_interpolate(i/n_authors)
+        // discrete
+        //color_range[i] = d3.schemeCategory10[i % 10];
+    };
     const colorScale = d3.scaleOrdinal().domain(author_array).range(color_range);
 
     // Bars
@@ -373,7 +387,7 @@ function fillStackedGraph(data, type, author_array){
     svg.append("text").attr("transform", `translate(${width/2},${height+(margin.bottom)/1.25})`).text("month");
 
     // Filling in appropriate data in table
-    updateExtremaTable(extrema, type);
+    if (!! document.getElementById("extremaTable")){updateExtremaTable(extrema, type)};
 }
 
 function drawStackedGraph(data, type){
@@ -422,7 +436,8 @@ function fillGroupedGraph(datas){
 
     let n_subgroups = subgroups.length;
     let color_range = Array(n_subgroups);
-    for (i = 0; i < n_subgroups; i++){color_range[i] = d3.interpolatePuOr(i/n_subgroups)};
+    let custom_interpolate = customInterpolateHSL(50, 50);
+    for (i = 0; i < n_subgroups; i++){color_range[i] = custom_interpolate(i/n_subgroups)};
     const colorScale = d3.scaleOrdinal().domain(subgroups).range(color_range); 
 
     svg.append("g")
@@ -470,4 +485,10 @@ function fillGroupedGraph(datas){
 
     }
 }
+
+function drawGroupedGraph(datas){
+    initGroupedSvg();
+    fillGroupedGraph(datas);
+}
+
 // END DRAWING FUNCTIONS

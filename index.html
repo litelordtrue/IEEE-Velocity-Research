@@ -8,13 +8,23 @@
 
 <body>
     <script type = "text/javascript">
-        var ex_data;
 
-        let triple_promise = Promise.allSettled([readMessages(), readIssues(), readCommits()]);
+        // javascript Promise to read all data. pass the path to json file as string into each function
+        // it is very difficult to have a generalized read function because each dataset is so different
+        // triple promise reads all 3 before continuing to draw. 
+        let triple_promise = Promise.allSettled([readMessages("/slack_messages.json"), 
+                                                readIssues("/drupal_issues.json"), 
+                                                readCommits("/abce.json")]);
         triple_promise.then(function(data){
+            // set up the table at the top of the page
+            // not necessary to call for later functions to work 
             initExtremaTable();
 
+            // extract data from promise by syntax:
+            // data[integer of which promise is matched to this data].value
             messages_data = data[0].value;
+            // call drawStackedGraph with the data and a string roughly specifying what this graph is.
+            // this function will create and populate a div, and more or less everything is named based on this string
             drawStackedGraph(messages_data, "messages");
 
             issues_data = data[1].value;
@@ -23,10 +33,9 @@
             commits_data = data[2].value;
             drawStackedGraph(commits_data, "commits");
 
-            ex_data = commits_data;
-
-            initGroupedSvg();
-            fillGroupedGraph({messages: messages_data, issues: issues_data, commits: commits_data});
+            // drawing the grouped graph. It's very important that the data is inputed as an object as below. 
+            // {string identifiying data: data, etc etc}
+            drawGroupedGraph({messages: messages_data, issues: issues_data, commits: commits_data});
         });
     </script>
 </body>
