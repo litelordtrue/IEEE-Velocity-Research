@@ -403,7 +403,7 @@ function fillStackedGraph(data, type, author_array){
     // Titles
     // TODO - make title functions
     svg.append("text").attr("transform", `translate(${-margin.left/2},${height/2})rotate(-90)`).text(type);
-    svg.append("text").attr("transform", `translate(${width/2},${height+(margin.bottom)/1.25})`).text("month");
+    svg.append("text").attr("transform", `translate(${width/2},${height+(margin.bottom)/1.1})`).text("Time (month/year)");
 
     // Filling in appropriate data in table
     if (!! document.getElementById("extremaTable")){updateExtremaTable(extrema, type)};
