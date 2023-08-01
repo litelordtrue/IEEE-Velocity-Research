@@ -1,6 +1,6 @@
-# IEEE Velocity Research
+# Improving velocity of code contributions in Open Source
 
-This code is used to generate graphs on a webpage using graphing.js script based on  d3.js v7. (https://d3js.org/d3.v7.min.js)
+This code is used to generate graphs on a webpage using graphing.js script based on  d3.js v7. (https://d3js.org/d3.v7.min.js) for Improving velocity of code contributions in Open Source article for IEEE column. 
 
 See index.html for commented example of how to implement. 
 
