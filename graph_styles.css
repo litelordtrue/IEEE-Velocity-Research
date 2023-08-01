@@ -1,0 +1,14 @@
+.main_svg{
+    background-color: whitesmoke;
+}
+
+.legend rect{
+    fill: whitesmoke;
+    stroke: black;
+}
+
+
+
+.axis_grid line {
+    stroke: rgb(103, 169, 236);
+  }

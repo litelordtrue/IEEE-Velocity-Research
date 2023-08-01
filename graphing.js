@@ -324,7 +324,7 @@ function initStackedSvg(type){
     .append("svg").attr("id", `${type}_stacked_main_svg`)
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
-        .style("background-color", "whitesmoke")
+        .attr("class", "main_svg")
     .append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`)
         .attr("id", `${type}_stacked_main_g`);
@@ -349,14 +349,29 @@ function fillStackedGraph(data, type, author_array){
 
     let stacked_data = d3.stack().keys(author_array)(processed_data);
 
+    // x-axis
     const xScale = d3.scaleBand().domain(processed_data.map(function(d) { return d.date; })).range([0, width]).padding(0.2);
     svg.append("g")
         .attr("transform", `translate(0,${height})`)
         .call(d3.axisBottom(xScale).tickFormat(x => `${x.getMonth() + 1}/${x.getFullYear()}`))
         .selectAll("text").attr("transform", "translate(-10,5)rotate(-30)");
 
+    // y-axis
     const yScale = d3.scaleLinear().domain([0, 1.2*extrema.by_bucket.n]).range([height,0]);
     svg.append("g").call(d3.axisLeft(yScale));
+
+    // grid-lines
+    svg.append("g")
+        .attr("transform", `translate(0,${height})`)
+        .call(d3.axisBottom(xScale)
+        .tickSize(-height)
+        .tickFormat(''))
+        .attr("class", "axis_grid");
+    svg.append("g")
+        .call(d3.axisLeft(yScale)
+        .tickSize(-width)
+        .tickFormat(''))
+        .attr("class", "axis_grid");
 
     let n_authors = author_array.length;
     let color_range = Array(n_authors);
@@ -410,7 +425,7 @@ function initGroupedSvg(){
                                             // giving extra space for the legend
         .attr("width", width + margin.left + legend_width_ratio*margin.right)
         .attr("height", height + margin.top + margin.bottom)
-        .style("background-color", "whitesmoke")
+        .attr("class", "main_svg")
     .append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`)
         .attr("id", "grouped_main_g");
@@ -425,15 +440,32 @@ function fillGroupedGraph(datas){
 
     var subgroups = removeArrayItem(Object.keys(processed_data[0]), "date");
 
+    // x-axis
     const xScale = d3.scaleBand().domain(processed_data.map(function(d) { return d.date; })).range([0, width]).padding(0.2);
     svg.append("g")
         .attr("transform", `translate(0,${height})`)
         .call(d3.axisBottom(xScale).tickFormat(x => `${x.getMonth() + 1}/${x.getFullYear()}`)).selectAll("text").attr("transform", "translate(-10,5)rotate(-30)");
     
+    // x-subaxis: placing within bucket by group
+    const xSubscale = d3.scaleBand().domain(subgroups).range([0, xScale.bandwidth()]).padding(.25*xScale.padding());
+
+    // y-axis
     const yScale = d3.scaleLinear().domain([0, 200]).range([height,0]);
     svg.append("g").call(d3.axisLeft(yScale));
 
-    const xSubscale = d3.scaleBand().domain(subgroups).range([0, xScale.bandwidth()]).padding(.25*xScale.padding());
+    // grid-lines
+    svg.append("g")
+        .attr("transform", `translate(0,${height})`)
+        .call(d3.axisBottom(xScale)
+        .tickSize(-height)
+        .tickFormat(''))
+        .attr("class", "axis_grid");
+    svg.append("g")
+        .call(d3.axisLeft(yScale)
+        .tickSize(-width)
+        .tickFormat(''))
+        .attr("class", "axis_grid");
+
 
     let n_subgroups = subgroups.length;
     let color_range = Array(n_subgroups);
@@ -464,11 +496,11 @@ function fillGroupedGraph(datas){
 
     let legend = svg.append("g")
         .attr("id", "grouped_legend")
+        .attr("class", "legend")
         .attr("transform", `translate(${width},${margin.top})`);
     
     legend.append("rect").attr("width", legend_width_ratio*margin.right)
-        .attr("height", subgroups.length*(l_margin.width + l_margin.space) + l_margin.space)
-        .style("fill", "whitesmoke").style("stroke", "black");
+        .attr("height", subgroups.length*(l_margin.width + l_margin.space) + l_margin.space);
 
 
     for (i = 0; i < subgroups.length; i++){
