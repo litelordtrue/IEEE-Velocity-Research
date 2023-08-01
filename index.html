@@ -28,13 +28,13 @@
             messages_data = data[0].value;
             // call drawStackedGraph with the data and a string roughly specifying what this graph is.
             // this function will create and populate a div, and more or less everything is named based on this string
-            drawStackedGraph(messages_data, "messages");
+            drawStackedGraph(messages_data, "Messages");
 
             issues_data = data[1].value;
-            drawStackedGraph(issues_data, "issues");
+            drawStackedGraph(issues_data, "Issues_and_comments");
 
             commits_data = data[2].value;
-            drawStackedGraph(commits_data, "commits");
+            drawStackedGraph(commits_data, "Commits");
 
             // drawing the grouped graph. It's very important that the data is inputed as an object as below. 
             // {string identifiying data: data, etc etc}
