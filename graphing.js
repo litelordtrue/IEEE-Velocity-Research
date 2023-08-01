@@ -352,21 +352,23 @@ function fillStackedGraph(data, type, author_array){
     // x-axis
     const xScale = d3.scaleBand().domain(processed_data.map(function(d) { return d.date; })).range([0, width]).padding(0.2);
     svg.append("g")
+        .attr("class", "axis")
         .attr("transform", `translate(0,${height})`)
         .call(d3.axisBottom(xScale).tickFormat(x => `${x.getMonth() + 1}/${x.getFullYear()}`))
         .selectAll("text").attr("transform", "translate(-10,5)rotate(-30)");
 
     // y-axis
     const yScale = d3.scaleLinear().domain([0, 1.2*extrema.by_bucket.n]).range([height,0]);
-    svg.append("g").call(d3.axisLeft(yScale));
+    svg.append("g").attr("class", "axis").call(d3.axisLeft(yScale));
 
     // grid-lines
-    svg.append("g")
-        .attr("transform", `translate(0,${height})`)
-        .call(d3.axisBottom(xScale)
-        .tickSize(-height)
-        .tickFormat(''))
-        .attr("class", "axis_grid");
+    // horizontal - commented out for now
+    // svg.append("g")
+    //     .attr("transform", `translate(0,${height})`)
+    //     .call(d3.axisBottom(xScale)
+    //     .tickSize(-height)
+    //     .tickFormat(''))
+    //     .attr("class", "axis_grid");
     svg.append("g")
         .call(d3.axisLeft(yScale)
         .tickSize(-width)
@@ -443,23 +445,26 @@ function fillGroupedGraph(datas){
     // x-axis
     const xScale = d3.scaleBand().domain(processed_data.map(function(d) { return d.date; })).range([0, width]).padding(0.2);
     svg.append("g")
+        .attr("class", "axis")
         .attr("transform", `translate(0,${height})`)
-        .call(d3.axisBottom(xScale).tickFormat(x => `${x.getMonth() + 1}/${x.getFullYear()}`)).selectAll("text").attr("transform", "translate(-10,5)rotate(-30)");
+        .call(d3.axisBottom(xScale).tickFormat(x => `${x.getMonth() + 1}/${x.getFullYear()}`))
+        .selectAll("text").attr("transform", "translate(-10,5)rotate(-30)");
     
     // x-subaxis: placing within bucket by group
     const xSubscale = d3.scaleBand().domain(subgroups).range([0, xScale.bandwidth()]).padding(.25*xScale.padding());
 
     // y-axis
     const yScale = d3.scaleLinear().domain([0, 200]).range([height,0]);
-    svg.append("g").call(d3.axisLeft(yScale));
+    svg.append("g").attr("class", "axis").call(d3.axisLeft(yScale));
 
     // grid-lines
-    svg.append("g")
-        .attr("transform", `translate(0,${height})`)
-        .call(d3.axisBottom(xScale)
-        .tickSize(-height)
-        .tickFormat(''))
-        .attr("class", "axis_grid");
+    // horizontal - commented out for now
+    // svg.append("g")
+    //     .attr("transform", `translate(0,${height})`)
+    //     .call(d3.axisBottom(xScale)
+    //     .tickSize(-height)
+    //     .tickFormat(''))
+    //     .attr("class", "axis_grid");
     svg.append("g")
         .call(d3.axisLeft(yScale)
         .tickSize(-width)
