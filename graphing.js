@@ -318,21 +318,22 @@ legend_width_ratio = 3;
 
 // set up a new div with an svg element inside, given an appropriate id from the type. ie for messages pass type messages
 function initStackedSvg(type){
-    let stacked_div = document.createElement("div");
-        stacked_div.setAttribute("id", `${type}_stacked_graph`);
-    document.body.appendChild(stacked_div);
-
-    // set the dimensions and margins of the graph
+    // check if div exists. if not, create new div. 
+    if (!!! document.getElementById(`${type}_stacked_graph`)){
+        let stacked_div = document.createElement("div");
+            stacked_div.setAttribute("id", `${type}_stacked_graph`);
+        document.body.appendChild(stacked_div);
+    }
     
     // append the svg object to the body of the page
     let svg = d3.select(`#${type}_stacked_graph`)
-    .append("svg").attr("id", `${type}_stacked_main_svg`)
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-        .attr("class", "main_svg")
-    .append("g")
-        .attr("transform", `translate(${margin.left},${margin.top})`)
-        .attr("id", `${type}_stacked_main_g`);
+        .append("svg").attr("id", `${type}_stacked_main_svg`)
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .attr("class", "main_svg")
+        .append("g")
+            .attr("transform", `translate(${margin.left},${margin.top})`)
+            .attr("id", `${type}_stacked_main_g`);
     
 }
 
@@ -409,6 +410,7 @@ function fillStackedGraph(data, type, author_array){
     
     // Text labels
     svg.append("g").selectAll("text").data(processed_data).enter().append('text')
+                                    // takes advantage of the fact that 0 is falsey
         .text(function(d){return (d.participants ? d.participants : '')})
         .attr("x", function(d){return xScale(d.date) + .5*xScale.bandwidth()})
         .attr("y", function(d){return yScale(d.total) - height/50})
