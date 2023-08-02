@@ -409,7 +409,7 @@ function fillStackedGraph(data, type, author_array){
     
     // Text labels
     svg.append("g").selectAll("text").data(processed_data).enter().append('text')
-        .text(function(d){return d.participants})
+        .text(function(d){return (d.participants ? d.participants : '')})
         .attr("x", function(d){return xScale(d.date) + .5*xScale.bandwidth()})
         .attr("y", function(d){return yScale(d.total) - height/50})
         .attr("text-anchor", "middle")
