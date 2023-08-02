@@ -8,18 +8,18 @@
 </head>
 
 <body>
-    <script type = "text/javascript">
+    <script type="text/javascript">
         var ex_data;
 
         // javascript Promise to read all data. pass the path to json file as string into each function
         // it is very difficult to have a generalized read function because each dataset is so different
         // triple promise reads all 3 before continuing to draw. 
         let triple_promise = Promise.allSettled([
-            readMessages("/slack_messages.json"), 
-            readIssues("/drupal_issues.json"), 
+            readMessages("/slack_messages.json"),
+            readIssues("/drupal_issues.json"),
             readCommits("/gitlab_commits.json")
         ]);
-        triple_promise.then(function(data){
+        triple_promise.then(function (data) {
             // set up the table at the top of the page
             // not necessary to call for later functions to work 
             initExtremaTable();
@@ -29,10 +29,10 @@
             messages_data = data[0].value;
             // call drawStackedGraph with the data and a string roughly specifying what this graph is.
             // this function will create and populate a div, and more or less everything is named based on this string
-            drawStackedGraph(messages_data, "Messages");
+            drawStackedGraph(messages_data, "messages");
 
             issues_data = data[1].value;
-            drawStackedGraph(issues_data, "Issues_and_comments");
+            drawStackedGraph(issues_data, "issues");
 
             commits_data = data[2].value;
             ex_data = commits_data;
@@ -40,9 +40,19 @@
 
             // drawing the grouped graph. It's very important that the data is inputed as an object as below. 
             // {string identifiying data: data, etc etc}
-            drawGroupedGraph({messages: messages_data, issues: issues_data, commits: commits_data});
+            drawGroupedGraph({ messages: messages_data, issues: issues_data, commits: commits_data });
         });
     </script>
+
+    <div id="messages_stacked_graph" class="graph"> </div>
+    <p>Figure 1. Distribution of comments over two years (color coded by drupal.org user)</p>
+    <div id="issues_stacked_graph" class="graph"> </div>
+    <p>Figure 2. Distribution of commits in all Merge Requests over two years (color coded by GitLab users)</p>
+    <div id="commits_stacked_graph" class="graph"> </div>
+    <p> Figure 3. Distribution of messages in slack conversation over two years (color coded by slack user)</p>
+    <div id="grouped_graph" class="graph"> </div>
+    <p>Figure 4. Comparing activity in three channels (more detailed chart is available online) </p>
+
 </body>
 
 </html>
