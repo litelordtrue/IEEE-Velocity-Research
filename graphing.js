@@ -134,13 +134,16 @@ function countWithinArray(array, count_by){
 function countWithinBucket(bucket, author_array){
     let counted_dict = Object.fromEntries(author_array.map(x => [x, 0]));
     counted_dict['total'] = 0;
+    let participants = new Set();
 
     for (j = 0; j < bucket.length; j++){
         datum = bucket[j];
         counted_dict[datum.author] += 1;
         counted_dict['total'] += 1;
+        participants.add(datum.author);
     }
 
+    counted_dict['participants'] = participants.size;
     return counted_dict;
 }
 
@@ -406,7 +409,7 @@ function fillStackedGraph(data, type, author_array){
     
     // Text labels
     svg.append("g").selectAll("text").data(processed_data).enter().append('text')
-        .text(function(d){return d.total})
+        .text(function(d){return d.participants})
         .attr("x", function(d){return xScale(d.date) + .5*xScale.bandwidth()})
         .attr("y", function(d){return yScale(d.total) - height/50})
         .attr("text-anchor", "middle")
