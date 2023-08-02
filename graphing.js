@@ -119,7 +119,7 @@ function bucketDataByMonth(data){
 
 // this is great and generalized but im not using it because I need the list of EVERY author, not just the authors of the array.
 function countWithinArray(array, count_by){
-    count_by_array = createCountByArray(array, count_by);
+    let count_by_array = createCountByArray(array, count_by);
     let counted_dict = Object.fromEntries(count_by_array.map(x => [x, 0]));
 
     for (j = 0; j < array.length; j++){
@@ -133,10 +133,12 @@ function countWithinArray(array, count_by){
 // count within a single "bucket", this is useful in multiple places so I split it. naming is pretty bad though
 function countWithinBucket(bucket, author_array){
     let counted_dict = Object.fromEntries(author_array.map(x => [x, 0]));
+    counted_dict['total'] = 0;
 
     for (j = 0; j < bucket.length; j++){
         datum = bucket[j];
         counted_dict[datum.author] += 1;
+        counted_dict['total'] += 1;
     }
 
     return counted_dict;
@@ -342,12 +344,14 @@ function interpolateFixedIntensity(saturation, lightness){
 // stacked by author 
 function fillStackedGraph(data, type, author_array){
     let extrema = gatherExtrema(data);
-
-    let processed_data = readyForDrawing(countWithinBuckets(bucketDataByMonth(data), author_array));
+    
+    let bucketed_data = bucketDataByMonth(data);
+    let processed_data = readyForDrawing(countWithinBuckets(bucketed_data, author_array));
+    let stacked_data = d3.stack().keys(author_array)(processed_data);
+    
+    //let counts_data = copyObjectWithMap(bucketed_data, );
     
     const svg = d3.select(`#${type}_stacked_main_g`);
-
-    let stacked_data = d3.stack().keys(author_array)(processed_data);
 
     // x-axis
     const xScale = d3.scaleBand().domain(processed_data.map(function(d) { return d.date; })).range([0, width]).padding(0.2);
@@ -398,7 +402,15 @@ function fillStackedGraph(data, type, author_array){
         .attr("x", function(d) { return xScale(d.data.date); })
         .attr("y", function(d) { return yScale(d[1]); })
         .attr("height", function(d) { return yScale(d[0]) - yScale(d[1]); })
-        .attr("width",xScale.bandwidth())
+        .attr("width",xScale.bandwidth());
+    
+    // Text labels
+    svg.append("g").selectAll("text").data(processed_data).enter().append('text')
+        .text(function(d){return d.total})
+        .attr("x", function(d){return xScale(d.date) + .5*xScale.bandwidth()})
+        .attr("y", function(d){return yScale(d.total) - height/50})
+        .attr("text-anchor", "middle")
+        
 
     // Titles
     // TODO - make title functions
@@ -437,7 +449,6 @@ function initGroupedSvg(){
 
 function fillGroupedGraph(datas){
     let processed_data = readyForDrawing(createGroupedData(datas));
-    console.log(processed_data);
 
     const svg = d3.select('#grouped_main_g');
 

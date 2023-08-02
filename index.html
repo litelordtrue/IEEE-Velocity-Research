@@ -9,6 +9,7 @@
 
 <body>
     <script type = "text/javascript">
+        var ex_data;
 
         // javascript Promise to read all data. pass the path to json file as string into each function
         // it is very difficult to have a generalized read function because each dataset is so different
@@ -34,7 +35,8 @@
             drawStackedGraph(issues_data, "Issues_and_comments");
 
             commits_data = data[2].value;
-            drawStackedGraph(commits_data, "Commits");
+            ex_data = commits_data;
+            drawStackedGraph(commits_data, "commits");
 
             // drawing the grouped graph. It's very important that the data is inputed as an object as below. 
             // {string identifiying data: data, etc etc}
