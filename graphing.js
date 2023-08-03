@@ -334,7 +334,8 @@ function initStackedSvg(type){
         .append("g")
             .attr("transform", `translate(${margin.left},${margin.top})`)
             .attr("id", `${type}_stacked_main_g`);
-    
+
+    return document.getElementById(`${type}_stacked_graph`);
 }
 
 // return a color interpolator (returns color for input between 0 and 1) 
@@ -406,7 +407,20 @@ function fillStackedGraph(data, type, author_array){
         .attr("x", function(d) { return xScale(d.data.date); })
         .attr("y", function(d) { return yScale(d[1]); })
         .attr("height", function(d) { return yScale(d[0]) - yScale(d[1]); })
-        .attr("width",xScale.bandwidth());
+        .attr("width",xScale.bandwidth())
+        .on("mouseover", function(d,i){
+            console.log(d.target);
+            tooltip.classed('hovered', true);
+        })
+        .on("mousemove", function(d,i){
+            tooltip
+            .html(`# of ${type}: ${i[1] - i[0]}`)
+            .style("left", `${d.target.x+70}px`)
+            .style("top", `${d.layerY}px`)
+        })
+        .on("mouseleave", function(d,i){
+            tooltip.classed('hovered', false);
+        });
     
     // Text labels
     svg.append("g").selectAll("text").data(processed_data).enter().append('text')
@@ -414,8 +428,12 @@ function fillStackedGraph(data, type, author_array){
         .text(function(d){return (d.participants ? d.participants : '')})
         .attr("x", function(d){return xScale(d.date) + .5*xScale.bandwidth()})
         .attr("y", function(d){return yScale(d.total) - height/50})
-        .attr("text-anchor", "middle")
-        
+        .attr("text-anchor", "middle");
+    
+    // Tooltip
+
+    let tooltip = d3.select(`#${type}_stacked_graph`).append("g").attr("class", "tooltip");
+
 
     // Titles
     // TODO - make title functions
@@ -428,7 +446,7 @@ function fillStackedGraph(data, type, author_array){
 
 function drawStackedGraph(data, type){
     let author_array = createAuthorArray(data);
-    initStackedSvg(type);
+    let main_div = initStackedSvg(type);
     fillStackedGraph(data, type, author_array);
 };
 
@@ -547,3 +565,8 @@ function drawGroupedGraph(datas){
 }
 
 // END DRAWING FUNCTIONS
+
+
+// FUNCTIONS FOR INTERACTING WITH THE GRAPHS
+
+// END INTERACTIVE FUNCTIONS
