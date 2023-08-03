@@ -396,7 +396,7 @@ function fillStackedGraph(data, type, author_array){
     const colorScale = d3.scaleOrdinal().domain(author_array).range(color_range);
 
     // Bars
-    svg.append("g")
+    let bars = svg.append("g")
     .selectAll("g")
     .data(stacked_data)
     .enter().append("g")
@@ -408,19 +408,6 @@ function fillStackedGraph(data, type, author_array){
         .attr("y", function(d) { return yScale(d[1]); })
         .attr("height", function(d) { return yScale(d[0]) - yScale(d[1]); })
         .attr("width",xScale.bandwidth())
-        .on("mouseover", function(d,i){
-            console.log(d.target);
-            tooltip.classed('hovered', true);
-        })
-        .on("mousemove", function(d,i){
-            tooltip
-            .html(`# of ${type}: ${i[1] - i[0]}`)
-            .style("left", `${d.target.x+70}px`)
-            .style("top", `${d.layerY}px`)
-        })
-        .on("mouseleave", function(d,i){
-            tooltip.classed('hovered', false);
-        });
     
     // Text labels
     svg.append("g").selectAll("text").data(processed_data).enter().append('text')
@@ -432,7 +419,19 @@ function fillStackedGraph(data, type, author_array){
     
     // Tooltip
 
-    let tooltip = d3.select(`#${type}_stacked_graph`).append("g").attr("class", "tooltip");
+    let tooltip = d3.select(`#${type}_stacked_main_g`).append("g").attr("class", "tooltip");
+    let tooltip_text = tooltip.append("text");
+
+    bars.on("mouseover", function(d,i){
+        tooltip.classed('hovered', true)
+            .attr("transform", `translate(
+                ${d.target.x.baseVal.value + 1.2*d.target.width.baseVal.value},
+                ${d.target.y.baseVal.value + d.target.height.baseVal.value/2})`)
+        tooltip_text.text(`# of ${type}: ${i[1] - i[0]}`);
+        })
+        .on("mouseleave", function(d,i){
+            tooltip.classed('hovered', false);
+        });
 
 
     // Titles
