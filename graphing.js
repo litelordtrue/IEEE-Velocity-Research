@@ -423,13 +423,17 @@ function fillStackedGraph(data, type, author_array){
     let tooltip_text = tooltip.append("text");
 
     bars.on("mouseover", function(d,i){
-        tooltip.classed('hovered', true)
-            .attr("transform", `translate(
-                ${d.target.x.baseVal.value + 1.2*d.target.width.baseVal.value},
-                ${d.target.y.baseVal.value + d.target.height.baseVal.value/2})`)
         tooltip_text.text(`# of ${type}: ${i[1] - i[0]}`);
+        tooltip.classed('hovered', true);
         })
-        .on("mouseleave", function(d,i){
+        .on("mousemove", function(d,i){
+            let [x,y] = d3.pointer(d);
+            tooltip.attr("transform", `translate(${x + xScale.bandwidth()},${y})`)
+            // tooltip.attr("transform", `translate(
+            //     ${d.target.x.baseVal.value + 1.2*d.target.width.baseVal.value},
+            //     ${d.target.y.baseVal.value + d.target.height.baseVal.value/2})`)
+        })
+        .on("mouseout", function(d,i){
             tooltip.classed('hovered', false);
         });
 
