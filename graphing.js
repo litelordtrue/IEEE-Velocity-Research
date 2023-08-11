@@ -400,6 +400,7 @@ function fillStackedGraph(data, type, author_array){
     .selectAll("g")
     .data(stacked_data)
     .enter().append("g")
+        .attr("class", "stacked")
         .attr("fill", function(d) { return colorScale(d.key); })
         .selectAll("rect")
         .data(function(d) { return d; })
@@ -419,15 +420,18 @@ function fillStackedGraph(data, type, author_array){
     
     // Tooltip
 
-    let tooltip = d3.select(`#${type}_stacked_main_g`).append("g").attr("class", "tooltip");
+    let tooltip = d3.select(`#${type}_stacked_main_g`).append("g").attr("class", "tooltip").attr("id", `${type}_tooltip`);
     let tooltip_text = tooltip.append("text");
+    let tooltip_dom = document.getElementById(`${type}_tooltip`);
 
     bars.on("mouseover", function(d,i){
         tooltip_text.text(`# of ${type}: ${i[1] - i[0]}`);
         tooltip.classed('hovered', true);
+        d3.select(d.target).classed('hovered', true);
         })
         .on("mousemove", function(d,i){
             let [x,y] = d3.pointer(d);
+            x = (x > width/2 ? x : x);
             tooltip.attr("transform", `translate(${x + xScale.bandwidth()},${y})`)
             // tooltip.attr("transform", `translate(
             //     ${d.target.x.baseVal.value + 1.2*d.target.width.baseVal.value},
@@ -435,6 +439,7 @@ function fillStackedGraph(data, type, author_array){
         })
         .on("mouseout", function(d,i){
             tooltip.classed('hovered', false);
+            d3.select(d.target).classed('hovered', false);
         });
 
 

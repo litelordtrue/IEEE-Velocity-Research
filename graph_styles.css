@@ -27,3 +27,8 @@
 .tooltip.hovered{
     opacity: 1;
 }
+
+.stacked rect.hovered{
+    stroke-width: 3px;
+    stroke: black;
+}
