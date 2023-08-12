@@ -419,27 +419,26 @@ function fillStackedGraph(data, type, author_array){
         .attr("text-anchor", "middle");
     
     // Tooltip
-
     let tooltip = d3.select(`#${type}_stacked_main_g`).append("g").attr("class", "tooltip").attr("id", `${type}_tooltip`);
     let tooltip_text = tooltip.append("text");
-    let tooltip_dom = document.getElementById(`${type}_tooltip`);
 
     bars.on("mouseover", function(d,i){
-        tooltip_text.text(`# of ${type}: ${i[1] - i[0]}`);
-        tooltip.classed('hovered', true);
-        d3.select(d.target).classed('hovered', true);
-        })
-        .on("mousemove", function(d,i){
-            let [x,y] = d3.pointer(d);
-            x = (x > width/2 ? x : x);
-            tooltip.attr("transform", `translate(${x + xScale.bandwidth()},${y})`)
-            // tooltip.attr("transform", `translate(
-            //     ${d.target.x.baseVal.value + 1.2*d.target.width.baseVal.value},
-            //     ${d.target.y.baseVal.value + d.target.height.baseVal.value/2})`)
+        let value = i[1] - i[0];
+        tooltip_text.text(`# of ${type}: ${value}`);
+        let [rect_x,rect_y,height] = [d.target.x.baseVal.value, d.target.y.baseVal.value, d.target.height.baseVal.value];
+        x = (rect_x > width/2 ? 
+            rect_x - 1.2*tooltip_text.node().getBBox().width:
+            rect_x + 1.2*xScale.bandwidth()
+        );
+        y = rect_y;
+        tooltip.attr("transform", `translate(
+            ${x},
+            ${y + height/2})`)
+            .classed('hovered', true);
         })
         .on("mouseout", function(d,i){
+            tooltip.attr("transform", "translate(-100,-100)")
             tooltip.classed('hovered', false);
-            d3.select(d.target).classed('hovered', false);
         });
 
 
