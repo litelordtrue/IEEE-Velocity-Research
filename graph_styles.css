@@ -13,14 +13,13 @@
 
 .tooltip {
     opacity: 0;
-    fill: white;
-    border: solid;
-    border-width: 2px;
-    border-radius: 5px;
-    padding: 5px;
 }
 
 .tooltip text{
+    /* stroke: black;
+    stroke-width: 1px;
+    paint-order: stroke;
+    stroke-linejoin: round; */
     fill: black;
 }
 
@@ -28,7 +27,7 @@
     opacity: 1;
 }
 
-.stacked rect.hovered{
+.stacked rect:hover{
     stroke-width: 3px;
     stroke: black;
 }
