@@ -11,6 +11,12 @@
     <script type="text/javascript">
         var ex_data, ex_scale;
 
+        // bounds for svg. arbitrarily set for now 
+        const margin = {top: 10, right: 30, bottom: 50, left: 60},
+        width = 1000 - margin.left - margin.right,
+        height = 500 - margin.top - margin.bottom;
+        legend_width_ratio = 3;
+
         // javascript Promise to read all data. pass the path to json file as string into each function
         // it is very difficult to have a generalized read function because each dataset is so different
         // triple promise reads all 3 before continuing to draw. 
@@ -30,17 +36,24 @@
             // call drawStackedGraph with the data and a string roughly specifying what this graph is.
             // this function will create and populate a div, and more or less everything is named based on this string
             drawStackedGraph(messages_data, "messages");
+            addSideTitle("messages_stacked_main_g", "Slack Messages");
+            addBottomTitle("messages_stacked_main_g", "Time (month/year)");
 
             issues_data = data[1].value;
             drawStackedGraph(issues_data, "issues");
+            addSideTitle("issues_stacked_main_g", "Issue comments");
+            addBottomTitle("issues_stacked_main_g", "Time (month/year)");
 
             commits_data = data[2].value;
             ex_data = commits_data;
             drawStackedGraph(commits_data, "commits");
+            addSideTitle("commits_stacked_main_g", "Commits");
+            addBottomTitle("commits_stacked_main_g", "Time (month/year)");
 
             // drawing the grouped graph. It's very important that the data is inputed as an object as below. 
             // {string identifiying data: data, etc etc}
             drawGroupedGraph({ messages: messages_data, issues: issues_data, commits: commits_data });
+            addBottomTitle("grouped_main_g", "month");
         });
     </script>
 

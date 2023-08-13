@@ -310,12 +310,6 @@ function updateExtremaTable(extrema, type){
 
 // FUNCTIONS FOR DRAWING USING D3 //
 
-// bounds for svg. arbitrarily set for now 
-const margin = {top: 10, right: 30, bottom: 50, left: 60},
-width = 1000 - margin.left - margin.right,
-height = 500 - margin.top - margin.bottom;
-legend_width_ratio = 3;
-
 // set up a new div with an svg element inside, given an appropriate id from the type. ie for messages pass type messages
 function initStackedSvg(type){
     // check if div exists. if not, create new div. 
@@ -336,6 +330,14 @@ function initStackedSvg(type){
             .attr("id", `${type}_stacked_main_g`);
 
     return document.getElementById(`${type}_stacked_graph`);
+}
+
+function addSideTitle(id, text){
+    d3.select(`#${id}`).append("text").attr("transform", `translate(${-margin.left/2},${height/2})rotate(-90)`).text(text);
+}
+
+function addBottomTitle(id, text){
+    d3.select(`#${id}`).append("text").attr("transform", `translate(${width/2},${height+(margin.bottom)/1.1})`).text(text);
 }
 
 // return a color interpolator (returns color for input between 0 and 1) 
@@ -441,12 +443,6 @@ function fillStackedGraph(data, type, author_array){
             tooltip.classed('hovered', false);
         });
 
-
-    // Titles
-    // TODO - make title functions
-    svg.append("text").attr("transform", `translate(${-margin.left/2},${height/2})rotate(-90)`).text(type);
-    svg.append("text").attr("transform", `translate(${width/2},${height+(margin.bottom)/1.1})`).text("Time (month/year)");
-
     // Filling in appropriate data in table
     if (!! document.getElementById("extremaTable")){updateExtremaTable(extrema, type)};
 }
@@ -536,8 +532,7 @@ function fillGroupedGraph(datas){
         .attr("height", function(d) { return height - yScale(d.value); })
         .attr("fill", function(d) { return colorScale(d.key); });
     
-    // Legend and Title
-    svg.append("text").attr("transform", `translate(${width/2},${height+(margin.bottom)/1.25})`).text("month");
+    // Legend
 
     let l_margin = {width: 10, space: 5}
 
