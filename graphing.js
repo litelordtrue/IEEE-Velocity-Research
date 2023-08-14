@@ -343,7 +343,7 @@ function addBottomTitle(id, text){
 // return a color interpolator (returns color for input between 0 and 1) 
 // that has colors fixed to a particular saturation and lightness
 function interpolateFixedIntensity(saturation, lightness){
-    start = d3.color(`hsl(180, ${saturation}%, ${lightness}%)`);
+    start = d3.color(`hsl(60, ${saturation}%, ${lightness}%)`);
     end = d3.color(`hsl(360, ${saturation}%, ${lightness}%)`);
     return d3.interpolateHslLong(start, end);
 }
